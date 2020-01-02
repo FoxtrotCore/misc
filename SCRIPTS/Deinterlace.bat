@@ -1,0 +1,2 @@
+FFMPEG -i "C:\Users\Christian\Desktop\CL-Upscaleing\Import\Code Lyoko - s02e01.mkv" -vf yadif -c:v libx264 -preset slow -crf 19 -c:a aac -b:a 96k "C:\Users\Christian\Desktop\CL-Upscaleing\Export\Deinterlaced.mkv"
+pause

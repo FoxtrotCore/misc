@@ -1,0 +1,33 @@
+96
+ODD: Yahoo!
+
+
+DEFAULT: Get ready!
+Miguzi’s sending you back to school with all new episodes of Code Lyoko.
+
+
+ULRICH: Good idea.
+
+
+DEFAULT: New students, new adventures.
+
+
+ODD: We’re fighting in a virtual universe--
+--against a demonic artificial intelligence.
+
+
+DEFAULT: Same old saving the world--
+--from that evil supercomputer.
+
+
+AELITA: Tower Deactivated.
+
+
+DEFAULT: Catch an all new episode of Code Lyoko,
+Coming up next.
+
+
+JEREMIE: Get ready, it’s starting again!
+
+
+DEFAULT: On Miguzi! 

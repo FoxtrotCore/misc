@@ -1,0 +1,226 @@
+HERB: This new stuff will get rid of my unsightly zits for sure!
+THEO: You should’ve seen them.
+DEFAULT: You know, they’re back together again.
+ULRICH: Hey, Julian, you mind telling me what you’re studying?
+JULIAN: The eye chart. I’m near-sighted, but I don’t wanna have to wear glasses.\NThat’d be too lame.
+ULRICH: Oh, you’re right, being blind as a bat sure is a lot more cool.
+Holding up the wall, huh, Odd?
+ODD: No, push-ups. Why? Can’t you tell?
+ULRICH: No.
+ODD: I’m sick of hearing Yolanda tell me I’m scrawny.
+ULRICH: But you are scrawny.
+ODD: I am not scrawny. I’m… svelte.
+SISSI: Ulrich, wanna look over my health record with me?
+ULRICH: Uh…
+SISSI: Look at my weight curve, just right. And my growth curve? Just right.
+Perfection is really wonderful, isn’t it?
+JEREMIE: You don’t understand, Aelita. You don’t have a health record. You’ve never\Neven been vaccinated! What if the nurse finds out that you’re not really human?
+AELITA: You mean you don’t find me very human?
+JEREMIE: Yeah, sure I do, but… that’s not what I meant.
+AELITA: Jeremy, relax, don’t get so carried away.
+YOLANDA: Alright. Jeremie Belpois, Odd Della Robbia, and Julian Ksou.
+ULRICH: Go on, Rambo, blow ‘em away!
+DEFAULT: (LAUGHTER)
+YOLANDA: You’ve got the heart of an athlete, Odd, but you look a little skinny\Nto me. Are you sure you’re eating enough?
+JEREMIE: By “enough”, do you mean more than an elephant?
+ODD: I eat a lot.
+YOLANDA: Ah, in that case, it must be your metabolism that keeps you so scrawny.
+Okay, your turn, Julian.
+ODD: I am not scrawny! I’m svelte!
+YOLANDA: Alright, read the top line please.
+JULIAN: Uh, A, Q, T, Z!
+YOLANDA: Jeremie, what do you see on line one, please?
+JEREMIE: H, B, P, Z, and L.
+YOLANDA: Really, Julien. Not only are you nearsighted, you’ve got a bad memory,\Ntoo.
+DEFAULT: (LAUGHTER)
+YOLANDA: Jeremie, your turn.
+JEREMIE: Ma’am, is it bad if we forgot to bring our health records, and if we haven’t\Nhad all our vaccinations?
+YOLANDA: Well, yes, it is. But don’t worry, you’re completely up-to-date.
+Elizabeth Delmas and Aelita Stones, please.\N 
+ODD: Not to worry, Einstein. She thought you were human, didn’t she?
+JEREMIE: Hilarious.
+DEFAULT: Huh?
+JEREMIE: An activated tower!
+ULRICH: In the middle of a medical checkup? XANA has no respect for anything.
+JEREMIE: Ulrich, stay here and wait for Aelita. Bring her to the factory as soon as\Nshe gets out. Odd and I will head over there now.
+JIM: Hey, quit dawdling! This is a 100-meter sprint, not a chorus line!
+YUMI: Okay, Jeremie. I’ll be there as soon as I can.
+JIM: Next!
+Go!
+JIM: Yeah, there you go! Someone, at least, is putting their back into it.\NWow, Yumi, you just broke the school record.
+But… hey! Yumi!
+SISSI: What? Your scale must be broken! That’s five pounds over!
+YOLANDA: The scale is perfectly accurate, Elizabeth.
+SISSI: It’s Sissi! This is outrageous! I’m going to tell my father!
+YOLANDA: I’d run up to his office, if I were you. It might help you lose a few pounds!
+Your turn, Aelita.
+AELITA: I’m really sorry, ma’am, but I forgot to bring my health record.
+YOLANDA: Oh, it’s no big deal. I’ll just put your results on a separate piece of\Npaper that you can staple into your file later on.
+SISSI: I should’ve left my health record at home too.
+DEFAULT: (ELECTRICITY CRACKLING)
+AELITA: But why?
+SISSI: Well, can’t you guess? My ultra perfect weight curve has just been wrecked\Nby these five extra pounds!
+AELITA: Well, you can’t tell by looking at you.
+SISSI: (SCREAMS)
+There! There! The nurse, sh-sh-she… she… she… Aelita!
+ULRICH: Okay, I get the picture.
+Yolanda has been possessed by XANA!
+JEREMIE: She’ll probably try to get Aelita to the factory so she can transfer Aelita\Nto Lyoko, and then deliver her to the Scyphozoa.
+ULRICH: {/i1}I’ll try and stop her!
+JEREMIE: Without Aelita, we can’t deactivate the tower!
+ODD: How about we block the elevator? That might buy us a little time.
+JEREMIE: Okay.
+But it’s only gonna give us five or six minutes, no more.
+YUMI: So, what do you suggest?
+JEREMIE: Well, we could do battle with Yolanda on equal terms.
+YUMI: Say what?
+JEREMIE: I’ve been studying XANA’s Spectres for a while now. I think I can manage\Nto pixelize you.
+YUMI: You mean you’re gonna turn us into people like the ones possessed by XANA?
+ODD: Instead of being XANA-ified, we’re gonna be Jerem-ified. Do you get it, guys?
+YUMI: Couldn’t that be a bit risky?
+JEREMIE: I could say no, but I’d be lying.
+ULRICH: Jeremie, Yolanda is heading for the corridor!
+JEREMIE: Hold her off as long as you can!
+ULRICH: How much time you need?
+JEREMIE: Ideally, about three months, but I’ll see what I can do to speed things up.
+ODD: So how do you plan on pixelizing us, Frankenstein?
+JEREMIE: First step, activate a tower.
+YUMI: You know how to do that?
+JEREMIE: Well, uh… theoretically, uh, yes.
+It doesn’t work!
+YUMI: Yes, it does! Look!
+JEREMIE: I, uh… I activated a tower! Now, thanks to this activated tower,\NI’m gonna send a digital impulse which will travel at hyperspeed
+through all the networks and gather huge amounts of energy.\NI’ll guide it by remote control towards the exit I choose, like the cables
+on my screen, and the impulse will come out as a Spectre.
+ODD: Uh, English translation, please?
+JEREMIE: Well, I’m gonna send a Spectre, and you’ll become invincible.
+ODD: I’ll do it!
+YUMI: Are you sure?
+ODD: I’ve got a little score to settle with Yolanda Perraudin.
+ULRICH: Excuse me, ma’am, but you forgot to give me my check-up.
+And I remembered to bring my health record and everything!
+DEFAULT: (ELECTRICITY CRACKLES)
+ULRICH: Okay, guess my reflexes are pretty good.
+How about testing my eyesight now?
+AELITA: {/i1}Jeremie!
+JEREMIE: Aelita, are you okay?
+AELITA: {/i1}Yes, but I can’t get through the corridor!
+JEREMIE: We’re coming! Get ready, Odd. This gonna be big time.
+ODD: If this ends badly, Jeremie, you promise to look after Kiwi?
+JEREMIE: If this ends badly, there will be nobody left to look after Kiwi.
+ULRICH: (SCREAMING)
+YUMI: Odd? How do you feel?
+ODD: Fully charged.
+AELITA: Please hurry up, Jeremie, I… she’s here!
+ODD: Ha! So, Miss Nurse, do you think I look scrawny now?
+This way, nasty nurse! Catch me if you can!
+JEREMIE: Aelita, you read me? Aelita?
+AELITA: Loud and clear.
+JEREMIE: Aelita, are you okay?
+AELITA: I’m alright.
+YUMI: What about Ulrich?
+ULRICH: Here I am.
+Am I dreaming, or has Odd turned into a superhero?
+YUMI: Jeremie’s managed to Jerem-ify him.
+ULRICH: Oh yeah? That’s weird.
+JEREMIE: Yeah, but I don’t know how long he’ll last against Yolanda,\Nso we have to deactivate the tower that’s controlling her.
+ODD: Better and better.
+JEREMIE: Scanner, Ulrich!\NScanner, Aelita!
+Scanner, Yumi!\NVirtualization!
+The Overbike and Overwing are on the way.
+{/i1}The activated tower is above the forest in front of you.
+YUMI: Let’s move!
+ULRICH: Any news from Odd and his private nurse? Last time I checked,\Nthe atmosphere was electric.
+JEREMIE: {/i1}He should be hanging in there. For now, that is.{/i0}\NBut you guys better be careful. XANA’s sent out some monsters
+to stop you from reaching the tower!
+ULRICH: Wow, isn’t that a surprise.
+ODD: Uh-oh.
+{/i1}Jeremie, I’m losing power, is that supposed to happen?
+JEREMIE: Uh…
+ODD: {/i1}That’s what I thought.{/i0}\NYou’re using your I-hate-to-say-it-but-you-bombed-the-exam voice.
+JEREMIE: Odd? Odd, can you hear me? Odd!\N{/i1}Odd! Odd, can you hear me?
+Yumi, can you hear me?
+YUMI: Yes, Jeremie?
+JEREMIE: {/i1}It’s about Odd. We’ve got a big problem.
+YUMI: Yeah, well, it’s not too easy at this end, either.
+JEREMIE: Listen, XANA is taking control of the tower I activated for Odd and\Nthere’s nothing I can do to stop him.
+ULRICH: Whenever you and Odd start messing around, that means trouble for us.
+YUMI: But how is that gonna affect Odd? Will XANA take control of him too?
+JEREMIE: Well, it looks as if he’d rather just pump all of his energy.
+YUMI: {/i1}You mean… until he…
+JEREMIE: Yeah.
+YUMI: Where’s the other tower?
+JEREMIE: {/i1}In the mountain sector. There’s a waytower to the west.
+YUMI: Got it. I’ll go with Aelita. Saving Odd is top priority now.
+ULRICH: I’ll stay here and clean up.
+JEREMIE: Yumi, Aelita, hurry up! Odd doesn’t have much time left!
+Okay, ladies, the tower’s dead ahead of you, can you see it?
+YUMI: {/i1}Uh, no. To tell you the truth, we can’t see anything.
+AELITA: XANA had already pulled this one on us.
+YUMI: Hey, watch out!
+JEREMIE: You’re right at the edge of the cliff. You have to hang on real tight.
+{/i1}Now!
+Listen to me, okay? I’ll guide you. {/i1}The path leading to the tower\Nis dead ahead of you, Yumi. Keep walking straight ahead until{/i0}
+{/i1}I say stop.
+{/i1}Stop!
+YUMI: Next time, Jeremie, give me a little more warning, okay?
+JEREMIE: {/i1}Sorry! I can’t judge distances very well on my screen. Now, turn right.
+YUMI: {/i1}What’s XANA got in store for us next?
+JEREMIE: You’re gonna have to go around a rock. The best solution, as I see it,\Nis to go around to the left.
+YUMI: Jeremie? Are we there yet?
+JEREMIE: After the rock, it’s straight ahead to the tower. You’re almost there!\NOh no!
+YUMI: {/i1}What?
+JEREMIE: You’ve got company. Hornets.
+YUMI: Where?
+JEREMIE: Duck!
+{/i1}Watch it!
+{/i1}Okay, run straight ahead to the tower!
+ODD: (WHIMPERING)
+YUMI: Where are they, Jeremie?
+JEREMIE: {/i1}I don’t see them... aha, I do now! They’re diving down straight at you!
+{/i1}Aelita, run to the tower!
+Hurry up!
+{/i1}You’re in front of the tower!
+YUMI: Spotted.
+Jeremie, any news from Odd?
+JEREMIE: No.
+YUMI: {/i1}Aelita’s coming out of the tower, we’re going back to Ulrich right away!
+JEREMIE: Okay, I’ll program the Overboard for you.\NUlrich, do you read me? Aelita and Yumi are on their way to you.
+ULRICH: Good, the three of us could use a few ladies around here.
+The girls are coming, we’d better clean up!
+Fusion!
+It’s about time. I was getting a little lonely out here by myself.
+YUMI: What about the monsters?
+ULRICH: What monsters?
+ODD: It was pretty rude of you to have left me there in the middle of our conversation,\NNurse Yolanda.
+JEREMIE: Oh, Odd, am I glad to see you!
+ODD: Yeah, I’m glad to see me too.
+ULRICH: It’s getting pretty hairy over at the factory. 
+AELITA: Tower deactivated.
+ODD: I really think XANA needs to work on his bedside manner, don’t you?
+JEREMIE: [LAUGHTER]
+SISSI: Yolanda turned into this weird, super scary demon and jumped out of the window!\NThat’s what happened!
+JIM: Reminds me of when I worked at a psychiatric hospital.
+MR. DELMAS: You worked at a psychiatric hospital?
+JIM: I’d rather not talk about it.
+SISSI: But it’s the truth, I tell you!
+MR. DELMAS: Listen, Sissi dear, stop this nonsense and tell me what really happened!
+DEFAULT: [DOOR OPENING]
+ULRICH: Why don’t you ask Yolanda?
+MR. DELMAS: Oh.
+SISSI: Hmph.
+AELITA: Mrs. Perraudin wasn’t feeling very well, so she went out for some air.
+MR. DELMAS: Out the window?
+AELITA: Uh… yes, of course. Why not?
+MR. DELMAS: Is that really what happened, Yolanda?
+YOLANDA: Well, uh, yes, uh… I-I mean, I don’t really remember. It’s as though I\Nblacked out. But I don’t see why Aelita would want to lie.
+JEREMIE: Nice one, Aelita. You were perfect.
+ODD: You know, anybody that lies that well could only be human. Right, Jeremie?
+ULRICH: (LAUGHTER)
+SISSI: Hold it!
+I am not crazy! There are some super weirdo things that happened\Nin that infirmary!
+JEREMIE: Relax, Sissi. We understand how it’d make you crazy to be five\Npounds overweight.
+SISSI: Ugh! I am not five pounds overweight!
+ODD: No, no, come on, don’t worry! You know, nobody’s perfect!
+SISSI: Speak for yourself, scrawny!
+ODD: I am svelte!

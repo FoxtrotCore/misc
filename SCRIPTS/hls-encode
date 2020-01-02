@@ -1,0 +1,107 @@
+#!/bin/bash
+#Linux Script to create HLS stream of a single episode for Error Mole Purposes
+
+#CONSTANTS
+INPUT="/run/media/chris/Nexus-Emerald/Final-Remux-Result/Master-November/Season 01/Code Lyoko - s01e11.mkv"
+EP=
+OUTPUTDIR="/home/chris/nginx/hls"
+ERRORMODE=0
+FORCE_DELETE=0
+TESTMODE=0
+REALMODE=0
+
+##EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="English",DEFAULT=YES,FORCED=NO,URI="ep011-errormole_vtt.m3u8",LANGUAGE="en"
+
+createMoleStream ()
+{
+    ffmpeg -y -threads 6 -hide_banner -i "$INPUT" -map 0:v:0 -map 0:a:0 -map 0:s:0 -sc_threshold 0 -g 50 -keyint_min 50 -c:a aac -b:a 128k -profile:a aac_low -c:v libx264 -pix_fmt yuv420p -profile:v high -level:v 5.2 -b:v 1000k -crf 24 -s 480x360 -preset veryslow -movflags +faststart -c:s webvtt -f hls -var_stream_map "v:0,a:0,s:0" -hls_init_time 2 -hls_time 2 -hls_list_size 0 -hls_allow_cache 1 -hls_playlist_type vod -hls_segment_filename "$OUTPUTDIR/$EP/stream-mole_%05d.ts" -master_pl_name master-mole.m3u8 "$OUTPUTDIR/$EP/stream-mole.m3u8"
+    echo "FFMPEG Command Terminated"
+    sed -i "/#EXT-X-VERSION:3/a #EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID=\"subs\",NAME=\"English\",DEFAULT=YES,FORCED=NO,URI=\"stream-mole_vtt.m3u8\",LANGUAGE=\"en\"" $OUTPUTDIR/$EP/master-mole.m3u8
+    echo "Master Playlist Subtitle Addition Edit Complete"
+}
+
+testcode () {
+    
+}
+
+uploadGCS ()
+{
+    gsutil -m cp -r "$OUTPUTDIR/$EP" gs://ftf-public/s/errormole
+}
+
+#Argument parsing
+while [[ "$#" > 0 ]]; do
+	case $1 in
+		-r)
+			REALMODE=1
+			;;
+		-e | --error | --mole)
+			ERRORMODE=1
+			;;
+		-t)
+			TESTMODE=1
+			;;
+		-f)
+			FORCE_DELETE=1
+			;;
+                *)
+			EP=$1
+			;;
+	esac
+	shift
+done
+
+#Input Verification
+SIZE=${#EP}
+#Check if Episode Number is valid
+if [ $SIZE -eq 3 ]; then
+	echo "Selected Episode $EP"
+else
+	echo "Episode Number provided invalid: $EP"
+	exit 1
+fi
+#Create Output Directorys as necessary
+if [ ! -d $OUTPUTDIR/$EP ]; then
+	echo "Creating Output Directories"
+	mkdir -p -v $OUTPUTDIR/$EP
+fi
+#Wipe Existing Files if necessary
+if [ ! -z "$(ls -A $OUTPUTDIR/$EP)" ]; then
+	if [ $FORCE_DELETE -eq 1 ]; then
+		echo "Wiping Directory"
+		rm -r $OUTPUTDIR/$EP
+		mkdir $OUTPUTDIR/$EP
+	else
+		echo "Files found in Directory, would you like to continue or abort? (Y/n)"
+		read IGNORECASE;
+		case $IGNORECASE in
+			Y)
+				echo "Continuing..."
+				;;
+			n)
+				echo "Aborting..."
+				exit 1
+				;;
+			*)
+				echo "Bad Input, Aborting Anyway"
+				exit 2
+				;;
+		esac
+	fi
+fi
+
+if [ $ERRORMODE -eq 1 ]
+then
+	echo "Creating Errormole Stream at 360p English "
+	createMoleStream
+elif [ $TESTMODE -eq 1 ]
+then
+	echo "Running Test Code"
+	testcode
+elif [ $REALMODE -eq 1 ]
+then
+	echo "Creating Production Stream of Episode $EP"
+	#No Code Yet, whoops
+fi
+
+exit 5

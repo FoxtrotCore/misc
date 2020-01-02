@@ -1,0 +1,33 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>phpoPoJYr</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start=170><P Class=ENUSCC>Yahoo!
+<SYNC Start=1910><P Class=ENUSCC>Get ready!<br>Miguzi’s sending you back to school with all new episodes of Code Lyoko
+<SYNC Start=6850><P Class=ENUSCC>Good idea.
+<SYNC Start=8000><P Class=ENUSCC>New students, new adventures.
+<SYNC Start=9870><P Class=ENUSCC>We’re fighting in a virtual universe--<br>--against a demonic artificial intelligence.
+<SYNC Start=13680><P Class=ENUSCC>Same old saving the world--<br>--from that evil supercomputer.
+<SYNC Start=17470><P Class=ENUSCC>Tower Deactivated.
+<SYNC Start=19300><P Class=ENUSCC>&nbsp;
+<SYNC Start=20920><P Class=ENUSCC>Catch an all new episode of Code Lyoko,<br>Coming up next.
+<SYNC Start=24490><P Class=ENUSCC>&nbsp;
+<SYNC Start=25080><P Class=ENUSCC>Get ready, it’s starting again!
+<SYNC Start=27090><P Class=ENUSCC>&nbsp;
+<SYNC Start=28040><P Class=ENUSCC>On Miguzi!
+<SYNC Start=29510><P Class=ENUSCC>&nbsp;
+</BODY>
+</SAMI>

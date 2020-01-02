@@ -1,0 +1,602 @@
+57
+AELITA: {\i1}But where are we?
+
+FRANZ: {\i1}In my laboratory.
+Come on.
+
+AELITA: {\i1}Where?
+
+FRANZ: {\i1}To a world where you and I will be safe.
+
+{\i1}Forever.
+
+{\i1}See you in a minute honey.
+
+AELITA: {\i1}Alright then.
+
+{\i1}Daddy?
+
+{\i1}Daddy where are you?
+
+FRANZ: {\i1}Here I am Aelita.
+
+AELITA: {\i1}Daddy!
+
+FRANZ: {\i1}I can’t materialize myself into human form yet as you can Aelita..
+
+{\i1}I still have more work to do on Lyoko.
+This world needs to develop more.
+
+AELITA: {\i1}Daddy there’s some strange looking creatures over there.
+
+FRANZ: {\i1}Run Aelita! Run!
+
+AELITA: {\i1}Daddy!
+
+DEFAULT: Aelita!
+
+AELITA: Huh?
+
+DEFAULT: You know young lady,
+most of us go to sleep at night.
+
+AELITA: I’m sorry Mr. Fumet.
+
+DEFAULT:  Scandinavian mythology, a natural disaster brings
+about the end of the Norse god’s world.
+
+Scorching the earth, before a new peaceful world can arise from the ashes, called Ragnarok.
+
+ODD: And roll.
+
+DEFAULT: What was that?
+
+ODD: Ragnarok and roll. It was just a joke sir.
+
+DEFAULT: Very funny Della Robbia.
+
+Now would you kindly leave this room?
+
+ODD: Is that a joke?
+
+DEFAULT: No, it’s an order.
+
+ODD: Oh.
+
+I guess as jokes go, is wasn’t really funny.
+
+YUMI: So how was history class?
+
+ULRICH: Who cares it’s history now.
+
+SISSI: Well Ms. Einstein, better get a good night sleep.
+
+A superbrain like yours needs a little shut eye,
+and most of us as you know go to sleep at night.
+
+ODD: Of course you don’t have that problem Sissi,
+cause your brains are in your feet.
+
+SISSI: Isn’t Odd a riot?
+Look who’s got the nerve to talk about my feet.
+
+Especially after what Heidi Kleiner told me about yours.
+
+DEFAULT: (LAUGHTER)
+
+ODD: What did she mean with that?
+What’s wrong with with my feet?
+
+Huh?
+
+ULRICH: Well, to put it tactfully when you take your shoes off
+it’s a little bit like uhh…
+
+JEREMIE: Like a pile of very fresh manure
+that we just can’t seem to get away from.
+
+ULRICH: That’s it!
+
+ODD: Oh come on, you’re nuts!
+
+Well, what do you know, there’s Heidi.
+Now we’ll find out.
+
+Hey Heidi, is it true my feet smell a little?
+
+DEFAULT: A little? Just make sure you and your sneakers
+don’t come within’ 50 feet of me.
+
+(LAUGHTER)
+
+ODD: This is a disaster.
+
+My reputation as a superstar is at stake.
+No girl is gonna go out with a…
+
+JEREMIE: A walking pool of toxic waste?
+
+ULRICH: (LAUGHTER)
+
+ODD: Some friend you are Ulrich.
+
+You could’ve said something, you know.
+Given me a little hint at least.
+
+ULRICH: It’s hard to talk when you’re holding your nose good buddy.
+
+ODD: I thought you were trying to be funny.
+
+YUMI: Don’t worry Odd, modern medicine must have found some kind of cure for it.
+
+JEREMIE: Well there’s amputation for example.
+
+DEFAULT: (LAUGHTER)
+
+ODD: Start without me, be right there!
+
+Emily, could I ask you something?
+When we went out together did you notice that uh…
+
+DEFAULT: That your feet smell, better believe it.
+Why do you think I kept dousing myself in perfume?
+
+ODD: Yolanda, I’ve got a real problem.
+It’s awful, I…
+
+MS. YOLANDA: Yes, yes yes, yes I know.
+You suffer from severe plantar perspiration.
+
+ODD: Say what?
+
+MS. YOLANDA: Your feet smell badly Odd.
+
+ODD: Do you mean to say that everyone in school knows?
+
+MS. YOLANDA: No, there’s uh…
+
+Well yes, everyone does know. But don’t worry!
+I’ve seen cases that were a lot worse than yours Odd.
+
+What’s more, I know just what to do.
+
+FRANZ: {\i1}Aelita.
+
+AELITA: {\i1}Daddy.
+
+FRANZ: {\i1}Aelita I have to make contact with Xana.
+To persuade we can live in peace with him.
+
+AELITA: {\i1}Who’s Xana?
+
+FRANZ: {\i1}A multiagent computer program I created.
+
+
+It has achieved self-awareness and autonomy. 
+And it’s trying to eliminate us now.
+
+AELITA: {\i1}But why daddy?
+
+{\i1}Daddy?
+
+FRANZ: {\i1}Whatever you do, don’t leave this tower.
+
+AELITA: {\i1}Daddy?
+
+{\i1}Daddy!
+
+{\i1}DADDY!
+
+JEREMIE: Aelita?
+
+Hey, what’s the matter?
+Is anything wrong?
+
+AELITA: No, I… I was daydreaming I guess.
+
+ODD: Hey guys, no more feet-nightmare.
+Call me ”Odorless-Odd”.
+
+ULRICH: How did you manage that?
+
+ODD: You’ll find out tonight. It’s a surprise.
+
+YUMI: Well I’ll let you kick your foot problem around a little,
+I’ve got a math test.
+
+AELITA: Jeremie, do you…
+
+Do you think my father is still alive?
+
+JEREMIE: Huh?
+
+AELITA: My father, Franz Hopper.
+You think it’s possible to rematerialize him?
+
+JEREMIE: No. What I mean is...
+Well, there’s no way to.
+
+AELITA: But he managed to survive when Xana captured him the first time.
+
+Why not a second time?
+
+JEREMIE: Your father sacrificed himself for you Aelita.
+
+And he had to have used what every little strength he had left in him,
+to bring you back to life.
+
+AELITA: I know, but…
+
+But I thought there might be a hope,
+that maybe you could find a way.
+
+JEREMIE: Impossible, I checked every inch of Lyoko
+and there isn’t the slightest sign of him.
+
+Aelita, I’ve been working really hard in a way getting into the world wide web.
+So we can fight Xana, and you should think the way I think.
+
+I mean, think about the future.
+
+AELITA: And just forget my past, huh? You think it’s easy?
+You didn’t spend Ten years in your life as some sort of computer software.
+
+I wish I never recovered my memory.
+
+AELITA: {\i1}Daddy.
+
+{\i1}Daddy! I’m coming daddy!
+
+{\i1}Daddy!
+
+FRANZ: {\i1}No Aelita! Get back to safety, in the tower!
+
+{\i1}You possess the keys to Lyoko Aelita,
+Xana must never get his hands on them. Do you understand?
+
+{\i1}It’s over Aelita, Xana is too powerful.
+He’s become a threat to all mankind. I’ve got to shut down the supercomputer.
+
+AELITA: {\i1}But does that mean we’ll die?
+
+FRANZ: {\i1}No, but you mustn’t forget me.
+Ever. Never forget Aelita.
+
+AELITA: {\i1}Daddy.
+
+ODD: I knew I’d find you here.
+
+You know, our good buddy Einstein may be good a computer-wiz
+but diplomatically he’s… He’s a…
+
+AELITA: A total lameo.
+
+ODD: But he really likes you, you know that.
+
+AELITA: And I really like him too, I just wish he would understand it.
+My father is all that I have left in my past life.
+
+Odd, I have to go to Lyoko, to… To Sector Five.
+I want to try find some trace of my father.
+
+ODD: But that may not be too easy,
+you heard what Jeremie said. He’s not very anxious to help.
+
+AELITA: So we don’t need Jeremie, do we?
+
+ODD: We?
+
+AELITA: Just us. Just you and me, okay Odd?
+
+ODD: Uhh…
+
+JEREMIE: Hey Ulrich, do you think I was a bit too hard on Aelita?
+
+ULRICH: What do you think? It wasn’t easy for her to learn that she was human.
+Better talk to her.
+
+JIM: No! You shouldn’t talk to anybody.
+
+There’s no talking permitted in a library.
+
+Anybody I find talking from now on,
+is gonna have a little conversation with me.
+
+And if you hadn’t had enough after our little chat,
+you can just walk down the hall and have a talk with the principal.
+
+No talking!
+
+JEREMIE: This is awful. Aelita must really hate me, huh?
+
+ULRICH: No she doesn’t. Yeah, but she’s running around
+looking for you to make up right now.
+
+YUMI: Hey William, did you study hard?
+
+WILLIAM: Yup, just ask me anything you want
+about American history!
+
+YUMI: That’s great, but uh…
+The test is in math.
+
+
+WILLIAM: Uh oh.
+
+AELITA: Okay, I’ll launch the procedure, which’ll automatically
+virtualize us in the Desert Sector.
+
+As soon as we materialize, we have one minute to get in sync with the transporter.
+
+ODD: Wow, you know how to do all that?
+
+AELITA: Sure.
+
+Peace of cake.
+
+JEREMIE: Oh no, an activated tower.
+In the Mountain Sector.
+
+Okay, we’re out of here.
+We can beat Xana if we act fast.
+
+ULRICH: Talk plan?
+
+I’m telling you the recipe calls for eggs, vinegar, 
+whipped cream, a little herb and peanut.
+
+JEREMIE: And I say you gotta to use hazelnuts.
+
+ULRICH: You don’t!
+
+JEREMIE: You do!
+
+ULRICH: Oh, we’re not by any chance speaking too loud, are we Jim?
+
+JIM: I want you two out of here immediately.
+Now go on, out of my sight, you hear?
+
+ULRICH: That was easy.
+
+JEREMIE: Hey Ulrich, what was that recipe for anyway?
+It sounds totally gross.
+
+ULRICH: It’s one of Odd’s concoctions.
+
+YUMI: Hello?
+
+DEFAULT: Are you finished already?
+
+Yumi?
+
+ULRICH: She’s on her way.
+
+JEREMIE: I can’t seem to reach Aelita.
+
+You think she’s still mad at me?
+
+ODD: I hope we didn’t miss our bus.
+
+AELITA: There.
+
+JEREMIE: Hey, do you smell that?
+It’s weird, it smells as if Odd has been here.
+
+ULRICH: Forget it Jeremie, Odd hasn’t been here since yesterday.
+His feet smell but not 24 hours later.
+
+JEREMIE: Still… It’s bizarre.
+
+AELITA: Let’s go.
+
+JEREMIE: Still nothing from Aelita…
+
+...or Odd.
+
+ULRICH: Forget it, looks as if Odd is angry as well.
+
+JEREMIE: Cause of his smelling feet? That’s dumb.
+Odd is losing his sense of humor.
+
+YUMI: I hope this isn’t a false alarm,
+I raced through my exam.
+
+JEREMIE: It’s real alright. I’m sending you and Ulrich in right now.
+The others will join you just as soon as I can get a hold of them.
+
+Transfer, Yumi.
+
+Transfer, Ulrich.
+
+Virtualization.
+
+ULRICH: Nice one Jeremie.
+{\i1}You materialized us in the middle of an airshow.
+
+JEREMIE: Sorry you guys, but more surprises are on the way.
+Xana’s called up his heavy artillery.
+
+I’ll materialize your vehicles.
+
+ULRICH: Better hurry.
+
+YUMI: Look, Tarantulas!
+
+ULRICH: Supersprint!
+
+
+It’s about time.
+
+JEREMIE: Come on Aelita,
+you’ve moped long enough, now pick up.
+
+AELITA: Look, the key.
+It’s up there!
+
+ODD: This is almost too easy.
+
+AELITA: Energy field!
+
+ODD: Lazer arrow!
+
+AELITA: Bizarre.
+
+You think they were surprised to see us.
+
+ODD: Sorry, we’re not disturbing you, are we?
+
+ULRICH: I see the tower!
+
+YUMI: So do I, but I also see a welcoming committee.
+
+ULRICH: {\i1}Did you get a hold of Odd and Aelita?
+
+JEREMIE: Not a word, I’ll try again. Stay in position for now.
+And don’t get devirtualized.
+
+ULRICH: {\i1}We’ll try.
+
+ODD: Aelita! Go!
+
+JEREMIE: Huh?
+
+What is going on around here?
+Holosphere system online?
+
+I don’t believe this, they’re already there, traitors!
+
+{\i1}Aelita, Odd, I know you’re there.
+
+For your information, while you’re out there having a ball,
+Xana happens to be attacking. Ulrich and Yumi are already on the spot.
+
+ODD: What now Aelita?
+
+AELITA: Let’s go.
+
+JEREMIE: As soon as you get to the Dome, I’ll program a vehicle
+and then I’ll open a tunnel. The activated tower is in the Mountain sector.
+
+Now get going!
+
+AELITA: Look Odd!
+
+ODD: They’re not attacking.
+It must be a gate.
+
+AELITA: Jeremie, we just spotted some {\i1}flying Manta’s
+at the South Pole of the Dome.{\i0} They seem to be guarding the entrance.
+
+JEREMIE: Now that is not a good sign.
+Hold on, I’ll check it out.
+
+Uh oh, looks like you were right, Xana’s attacking the core of Lyoko.
+{\i1}The tower in the Mountain sector was just a diversion.
+
+ODD: Okay, we’re on it.
+
+ULRICH: Impact!
+
+Your telekinesis thing is really cool.
+
+JEREMIE: {\i1}Ulrich, Yumi,{\i0} change of plans. Listen up.
+Odd and Aelita are in Sector Five, you gotta get over there they need some help.
+
+ULRICH: {\i1}What? What’s going on?
+
+JEREMIE: I’ll tell you all about it later but for now, get going.
+
+AELITA: Odd, it’s suicide.
+
+ODD: You’re kidding.
+
+This is a snap, Aelita.
+
+YUMI: Xana really outsmarted us.
+
+While he kept us busy in Mountain sector,
+he was free to attack the Core of Lyoko.
+
+JEREMIE: {\i1}Yeah, but he didn’t count on two scanner stoleways
+already{\i0} being in Sector Five. Fortunately.
+
+ULRICH: {\i1}So then you’re not mad at them.
+
+JEREMIE: Not a chance.
+In fact, as soon as they get here they each get a big kiss.
+
+Are you at the extreme edge of the sector?
+
+ULRICH: {\i1}Sir, yes sir.
+
+JEREMIE: Okay, then I’ll enter the code SCIPIO.
+
+ODD: These guys are tough to get a handle on.
+
+AELITA: You know, you might try throwing one of your shoes at them.
+
+ODD: Very funny, I hit them better than that.
+
+Laser arrow!
+
+AELITA: Odd!
+
+JEREMIE: {\i1}Hurry up, Aelita’s all alone!
+
+And the first shield layer of the core of Lyoko has just given away.
+
+{\i1}Aelita, where are you?
+
+AELITA: In trouble!
+
+Energy field!
+
+JEREMIE: Hang on!
+Yumi and Ulrich are on their way.
+
+ULRICH: Supersprint!
+
+Well, did we miss much of the show?
+
+AELITA: No, just the opening act.
+
+
+ULRICH: My saber!
+
+JEREMIE: Nice one everybody.
+Aelita, you know that you still have a tower to deactivate.
+
+{\i1}But if you wanna stop at a terminal first to collect some new data
+on Franz Hopper, I mean… If you want to.
+
+AELITA: Yeah, why not?
+
+ULRICH: Okay then, so what’s this miracle cure Yolanda gave you?
+
+ODD: Hold on, I did tell you it was a surprise.
+Now close your eyes Ulrich.
+
+ULRICH: I’d rather close my nose, I think.
+
+Ugh, what’s that foul odor?
+
+ODD: It’s the cream. Pretty effective, huh?
+Now my feet don’t smell at all.
+
+ULRICH: That’s because the stench of that cream is so horribly strong.
+Help, open a window or I’ll die.
+
+ODD: Some guys are never satisfied.
+
+AELITA: Any luck?
+
+JEREMIE: No, nothing.
+
+Hold on a second, what’s that?
+
+AELITA: What have you found?
+
+JEREMIE: A fragment of a DNA code sequence that belongs to Franz Hopper.
+You were right Aelita.
+
+AELITA: My father might still be alive somewhere on Lyoko.

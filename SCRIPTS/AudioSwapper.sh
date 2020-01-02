@@ -1,0 +1,65 @@
+#!/bin/bash
+
+clear
+clear
+
+# ffmpeg -i $frePath -map 0:v:0 -map 0:a:1 -map 0:a:0 -map 0:s:0 -c copy $episode
+
+engName='_ENG_Code_Lyoko.mkv'                       # English Video Name
+freName='_FRE_Code_Lyoko.mkv'                       # French Video Name
+engPath='E:/Code_Lyoko_Upscaled/FINAL_RENDERS/ENG/' # English Video Path
+frePath='E:/Code_Lyoko_Upscaled/FINAL_RENDERS/FRE/' #French Video Path
+
+lang=$1     # Get Import Language
+episode=$2  # Get Episode Number
+subtitle=$3 # Get Subtitle Existance
+
+if [ $lang ] && [ $episode ] && [ $subtitle ]; then    
+    if [ $lang = 'ENG' -o $lang = 'FRE' ]; then        
+        if [ $lang = 'ENG' ]; then
+            inVideo=$engPath$episode$engName
+            outVideo=$frePath$episode$freName
+        elif [ $lang = 'FRE' ]; then
+            inVideo=$frePath$episode$freName
+            outVideo=$engPath$episode$engName
+        fi
+        
+        if [ ! -f $inVideo ]; then
+            echo "Failed to detect the input file!"
+            echo "Usage: AudioSwapper.sh <LANG> <EP> <SUB>"
+            echo "       LANG: First language channel. Must be exactly 'ENG' or 'FRE' to signify which file will be the source."
+            echo "       EP:   Episode number. Must contain three digits. Ex: 000, 001, 002 etc."
+            echo "       SUBS: Subtitle Boolean. If subtitles in the source exist, then marks as 1, otherwise mark as 0."
+            exit -1
+        fi
+        
+        if [ $subtitle -eq 0 ]; then
+            echo "Will execute FFMPEG now, without Subs!"
+            ffmpeg -y -i $inVideo -map 0:v:0 -map 0:a:1 -map 0:a:0 -metadata:s:a:0 language=eng -metadata:s:a:1 language=fre -c copy $outVideo
+        elif [ $subtitle -eq 1 ]; then
+            echo "Will execute FFMPEG now, with Subs!"
+            ffmpeg -y -i $inVideo -map 0:v:0 -map 0:a:1 -map 0:a:0 -map 0:s:0 -metadata:s:a:0 language=fre -metadata:s:a:1 language=eng -c copy $outVideo
+        else
+            echo "Failed to detect a subtitles setting!"
+            echo "Usage: AudioSwapper.sh <LANG> <EP> <SUB>"
+            echo "       LANG: First language channel. Must be exactly 'ENG' or 'FRE' to signify which file will be the source."
+            echo "       EP:   Episode number. Must contain three digits. Ex: 000, 001, 002 etc."
+            echo "       SUBS: Subtitle Boolean. If subtitles in the source exist, then marks as 1, otherwise mark as 0."
+            exit -1
+        fi
+    else
+        echo "Failed to detect a language setting!"
+        echo "Usage: AudioSwapper.sh <LANG> <EP> <SUB>"
+        echo "       LANG: First language channel. Must be exactly 'ENG' or 'FRE' to signify which file will be the source."
+        echo "       EP:   Episode number. Must contain three digits. Ex: 000, 001, 002 etc."
+        echo "       SUBS: Subtitle Boolean. If subtitles in the source exist, then marks as 1, otherwise mark as 0."
+        exit -1
+    fi 
+else
+    echo "Failed to detect correct inputs!"
+    echo "Usage: AudioSwapper.sh <LANG> <EP> <SUB>"
+    echo "       LANG: First language channel. Must be exactly 'ENG' or 'FRE' to signify which file will be the source."
+    echo "       EP:   Episode number. Must contain three digits. Ex: 000, 001, 002 etc."
+    echo "       SUBS: Subtitle Boolean. If subtitles in the source exist, then marks as 1, otherwise mark as 0."
+    exit -1
+fi

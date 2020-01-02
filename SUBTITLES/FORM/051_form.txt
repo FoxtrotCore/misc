@@ -1,0 +1,201 @@
+YUMI: I’ve got a bad feeling about this.\NAre you almost done Aelita?
+AELITA: Yes, almost.
+JEREMIE: {\i1}Watch out, \Nanother squadron of Mantas is headed your way!
+AELITA: Done, the controls are all yours Jeremie.
+JEREMIE: Great! \NHere come your vehicles.
+Okay guys, the passage is open.
+AELITA: So, anything good?
+JEREMIE: No. I wouldn’t call it good.
+AELITA: Huh?
+JEREMIE: More like amazing!
+With this, I bet I can crack the code of Franz Hopper’s diary!
+ULRICH: Way cool.
+AELITA: The only problem is I’m gonna need a supercomputer--\N--to process such a large amount of data.
+I’ll have to activate a tower or two.
+YUMI: Uh, that didn’t go very well last time, \NXANA hates it when we play with his toys.
+JEREMIE: I know. But we don’t have a choice.
+ODD: Right, can we go eat now?\NIt’s mashed potatoes today!
+JEREMIE: You can have mine. I better stay here to prepare the mission.\NThat way, you can set out right after lunch.
+Um, Jeremie’s not coming,\Nhe said I could have his portion too Rosa.
+ODD: Yeah!
+ROSA: With everything you put away,\NI just don’t understand how you can be so scrawny.
+ODD: I am not scrawny, I’m svelte.
+--Ulrich, stop holding out on us.\NWhat’s your overall average?
+ULRICH: 73 for the term.
+ODD: For me, I got 75.
+I beat ya.
+ULRICH: Only because you made up some points in art class.
+What about Aelita, \Nwhat’s your grade point average?
+AELITA: 95.2
+Um, but it’s only because of math.
+ULRICH: Yes, but still you must have gotten--\N--good grades in all of your classes.
+It’s great, especially since you’re not really…
+ODD: Uh...
+ULRICH: Uh, I mean…
+AELITA: Don’t worry,\NI know very well I’m not really human.
+Still, sometimes I get a strange feeling as if…
+As if I’ve already lived here. Weird, huh?
+ODD: That’s just the magical Odd-effect.
+You know, you see me once and you feel like you’ve known me forever.
+ULRICH: Hey magic Odd-effect you know you got some mashed potatoes right on your face.
+ODD: No way!
+ULRICH: Something wrong?
+ODD: Not really.\NSome girl wants me to meet her in the woods.
+AELITA: You kidding?
+Who?
+ODD: The number’s masked. 
+No doubt about it, it’s just another girl who’s--\N--just too shy to admit she’s crazy about me.
+ULRICH: You know Odd, your love life is like something out of a soap opera.
+ODD: Oh yeah? And yours is real simple?
+JEREMIE: An activated tower, oh boy. That’s all I needed.
+SFX: (PHONE RINGING)
+ULRICH: Yeah, Jeremie? 
+Huh? Okay, we’re on our way.\NActivated tower. You call Yumi, I’ll tell Odd.
+ODD: Are you there? It’s me Odd!
+What do you mean, ”SOS XANA”, no way!\NNot now!
+Who’s there? No,\NNo.
+No!\NNO!
+JEREMIE: Where’s Odd?
+ULRICH: I sent him a text message,\Nbut he was supposed to be meeting some sort of mystery girl.
+JEREMIE: A girl? What girl?
+ULRICH: Mystery girls don’t leave their names.
+JEREMIE: I hope he won’t he won’t be much longer. 
+Not only we have to decode Franz Hopper’s notes,\Nbut now we have to deactivate the tower as well.
+YUMI: Okay, let’s go.
+JEREMIE: Come on, Odd, pick up!
+He’s not answering, forget him for now.
+{\i1}He’ll meet you later.
+{\i1}Transfer, Ulrich.
+{\i1}Transfer, Aelita.
+{\i1}Transfer, Yumi.
+{\i1}Scanner, Ulrich.
+Scanner, Yumi.
+{\i1}Scanner, Aelita.
+Virtualization.
+ODD: Here I am Jeremie.
+JEREMIE: {\i1}Not a minute too soon.{\i0}\NI’ve been trying to call you.
+ODD: I was busy.
+JEREMIE: Huh? Well get ready, I’ll launch the procedure.
+{\i1}Transfer, Odd.
+{\i1}Scanner, Odd.
+Virtualization.
+What?
+What’s going on here?
+{\i1}Odd?
+ODD: Everything’s okay, I’m on Lyoko.
+JEREMIE: There was a bug during the transfer. Oh, no way!
+The tower has just deactivated itself.
+ULRICH: Are you sure?
+JEREMIE: {\i1}Yeah, the superscan shows all clear.\NAs if XANA has called off his attack.
+ULRICH: Well, that’s one less thing for us to worry about, right?
+Right Odd?
+ODD: Right.
+ULRICH: What’s up with him?\NIs he sulking or something?
+AELITA: Maybe his rendezvous didn’t go well.
+JEREMIE: {\i1}Here are your rides, please remember we have a diary to decode.
+I’ve chosen the tower at 72 degrees south, and 55 degrees west.
+YUMI: There it is!
+DEFAULT: (CELESTIAL HUMMING)
+JEREMIE: As soon as I activate the tower,\Nstart the decoding process.
+DEFAULT: (HUMMING CONTINUES)
+AELITA: I’m ready, Jeremie.
+JEREMIE: Ok, I’m activating the tower…\NNow!
+Yeah! It’s working!
+AELITA: The deconing of the data’s underway, Jeremie,\Nbut it might take some time.
+JEREMIE: No problem, whenever Xana leave us in peace, \Neverything’s cool.
+Uh oh, I spoke too soon.
+Watch out, Xana’s creatures heading your way.
+YUMI: Where from? We can’t see anything.
+Huh?
+ULRICH: There!
+Wow, Xana’s pulled out the big guns.
+Hey!\NHuh?
+Jeremie, Xana’s taken over Odd!
+JEREMIE: What?
+ULRICH: Yes, I’m sure of it.
+{\i1}I don’t know how Xana did it.
+JEREMIE: I do, it’s not the real Odd.
+YUMI: What?
+JEREMIE: It’s one of Xana’s creatures,\Na polymorphing spectre.
+YUMI: But where’s the real Odd then?
+ODD: Hey! Is anybody there?
+Yohoo!\N{\i1}Help!
+ULRICH: Talk about a tailgater,\Nworse than Sissi.
+JEREMIE: {\i1}Ulrich, it’s a trap, he’s trying to lead you away from the tower.
+ULRICH: But why?
+AELITA: Jeremie, what’s going on?\N{\i1}Is there a problem?
+JEREMIE: Oh man.
+Xana’s trying to gain control of the tower,\Nabort the mission!
+Stop the decoding,\N{\i1}and come back to Earth.
+AELITA: Ok.
+JEREMIE: Yumi, where are you?
+YUMI: In the woods.\N{\i1}But it’s like trying to find a needle in a haystack.
+JEREMIE: Wait, while I was hacking into the network,\NI managed to locate the emergency telephone closest to Odd’s phone.
+YUMI: {\i1}You can do that?
+JEREMIE: Ofcourse I can.
+If odd still has his cell on him,\N{\i1}then he’s in the north-east corner of the woods.
+YUMI: That’s near the Hermitage, I’m off.
+AELITA: Jeremie, we’ve got a problem,\NI can’t stop the decoding program,
+{\i1}it’s taking up too many resources,\Nit’s out of my control now.
+JEREMIE: Bad news, if Xana manages to take control of the tower now, \Nhe’ll be able to get into the restricted access part of the supercomputer. 
+I could lose all the data in Franz Hopper’s diary.
+AELITA: {\i1}No to mention everything you’ve programed in yourself.
+{\i1}Our combat gear, the vehicles, the transfer codes,\Nand my materialization program.
+JEREMIE: This is a nightmare.\NUlrich!
+{\i1}Xana’s about to take control of the tower, you have to stop it.
+ULRICH: Uh, right, ok, but how?
+JEREMIE: {\i1}You have to isolate the tower, try to cut the cables, hurry!
+ULRICH: You’re wasting your time, Xana, Odd has never beaten me yet.
+Uh well yeah, ok uh, that changes things.
+ODD: Help!
+SFX: (PHONE RINGS)
+YUMI: Odd?\NOdd!
+JEREMIE: Xana’s going to do it,\NAelita. Is there anything new?
+AELITA: There’s no way to stop the process,\Neverything’s buggy.
+ODD: Help!\NHelp!
+ULRICH: Hey, you’re not so bad there, Xana.
+Whoa! Full of surprises, huh?
+Hey, no fair!
+ODD: It figures, \Nat least I don’t have to climb anymore.
+Well I guess you can say I’m really up to my neck in trouble this time.
+JEREMIE: Xana’s about to take over!\NUlrich, what are you doing?
+ULRICH: I just got one last little thing to take care of.
+All done Jeremie.
+JEREMIE: Make it fast, now!
+Ulrich!
+YUMI: Odd?
+Odd!
+ODD: Yumi, I’m here!
+Yumi!\NYumi!
+YUMI: Odd?\NOdd?
+Odd!
+JEREMIE: Xana is about to steal all my data!\NWe’re done for!
+AELITA: Hey!
+JEREMIE: What’s going on?
+Aelita?
+AELITA: {\i1}I don’t get it, it looks like Xana has lost control of the tower.
+JEREMIE: Franz Hopper!
+{\i1}Franz Hopper’s helping us!\NWhat’s going on on your side?
+AELITA: The decoding program is going full speed.
+ODD: No girls have ever kept me waiting that long.
+SFX: (LAUGHTER)
+JEREMIE: Huh?
+AELITA: Amazing.
+JEREMIE: Yumi.
+YUMI: I’ve got Odd, how about you?
+JEREMIE: We’re decoding Franz Hopper’s diary.
+Franz Hopper {\i1}was{\i0} the creator of Xana.
+In his diary, he wrote everything that happened during the creation of Lyoko.
+Everything.
+AELITA: That means you’ll be able to find the antivirus!
+JEREMIE: Yeah, it does, but there’s something more.
+ULRICH: What?\NCome on, spit it out.
+JEREMIE: Well, before Franz Hopper virtualized {\i1}himself{\i0} on Lyoko,\Nand before being taken prisoner by Xana, he lived here on Earth.
+YUMI: We already knew that.
+JEREMIE: Yes, but what you didn’t know was that he had a child, a little girl.
+ODD: Really? Well what became of her?
+JEREMIE: He virtualized her on Lyoko at the same time as himself.
+YUMI: And?\NDid she fall victim to Xana, too?
+JEREMIE: No, she stayed on Lyoko.
+AELITA: But that’s impossible, if Hopper’s daughter--\N--were on Lyoko, I would have definitely known, I--
+I’m-- Not...

@@ -1,0 +1,286 @@
+JEREMIE: What can Yumi be doing?\NWe have to get some{\i1}data out of sector five!
+ULRICH: It’s not like her to be late.
+ODD: Maybe she’s with William.
+I said {\i1}maybe.
+AELITA: {\i1}By the way, Jeremie, have you made any\Nheadway on the antivirus recently?
+JEREMIE: Well…
+Actually, it’s going kind of slow. I’m missing a lot of important codes.
+ODD: But with a little luck, we’ll find them today.
+ULRICH: And then, it’s ciao XANA!\NWe’ll finally be able to shut down the supercomputer.
+JEREMIE: We better forget about Yumi. I’m transferring you.
+Transfer Odd.
+Transfer Aelita.
+Transfer Ulrich.
+{\i1}Scanner Odd.
+{\i1}Scanner Ulrich.
+{\i1}Scanner Aelita.
+Virtualization!
+Now, head for the edge of the sector, okay?
+Oh, there you are!
+YUMI: Hi, Jeremie. Sorry, I--
+JEREMIE: Hurry up. I’ll tell them to wait for you.
+Virtualization!
+ODD: A little longer, and we would’ve started the party without you.
+ULRICH: Where were you?
+YUMI: I had something to do.
+ULRICH: Yeah, right, like being with William.
+YUMI: Huh? Hey, don’t you get tired of being jealous all the time?
+ULRICH: Aha, I knew it! You were with him!
+YUMI: You can believe whatever you want. \NBe a jerk if you want, too.
+ULRICH: {/i1}You must think I’m really dumb.
+JEREMIE: Careful, you have visitors.
+ODD: Hey, settle this later, okay?
+I’m gonna give them a little Odd acupuncture.
+ULRICH: Aelita, take cover.
+ODD: Laser arrow!
+One down! Great way to start off the morning.
+JEREMIE: {/i1}Watch it! More Kankrelats at five o’clock!
+ODD: Pretty interesting welcoming committee.
+JEREMIE: {/i1}What do you expect?\NXANA hates it when we go fishing in Sector Five!
+ULRICH: Two more!
+ODD: Laser arrow!
+JEREMIE: Oh no! The Scyphozoa!
+ODD: Hm?
+ULRICH: Huh?
+ULRICH: Yumi!
+Yumi, are you okay?
+YUMI: I don’t know, I feel kind of funny.
+ODD: Well anyway, it seems to have scared the Kankrelats away.
+JEREMIE: Why would they go after you? We’ll abort the mission!
+{/i1}Materialization Yumi!\NMaterialization Odd!
+{/i1}Materialization Aelita!
+ODD: You must’ve tripped on your fingers, Einstein. Yumi isn’t here.
+JEREMIE: Huh?
+YUMI: J-Jeremie? Is something wrong?
+JEREMIE: Uh… no, I must’ve made a mistake, I’ll reboot the program!
+Materialization Ulrich!\NMaterialization Yumi!
+ODD: Missed again.
+JEREMIE: I can’t believe it.
+{/i1}Yumi, I don’t know what’s going on, I can’t devirtualize you!{/i1}
+YUMI: What?
+JEREMIE: {/i1}Go and hide in a tower while I figure this out!\NDirection is south southeast!
+Don’t worry, I’ll find the bug. You’re safe in the tower.
+YUMI: {/i1}It’s not XANA I’m worried about, Jeremie. It’s the principal.
+JEREMIE: Huh?
+ULRICH: Oh no, I almost forgot! Today’s the class picture!
+JEREMIE: What class picture?
+ODD: Hello, the ninth grade picture? It’s this morning!\NOne day suspension for any unjustified absence. Thanks a lot, Delmas.
+YUMI: {/i1}Can you just picture my parents’ faces if I get suspended?
+JEREMIE: I’ll do all I can, Yumi, I promise.
+ODD: Hey, I have an idea. You know what a great actor I am, right?
+With a wig, a dress, and a little make-up, I could take your place in the photo\Nand bam! Signed, sealed, and delivered.
+YUMI: Signed, sealed, and suspended is more like it.\N{/i1}No way.
+ULRICH: Hang on a second, huh? That’s not a bad idea!
+ODD: There! You see? Ulrich finally admits that I’m a great actor!
+ULRICH: You? You stink.
+ODD: Huh?
+ULRICH: But I know a really great actress.
+Hi, Sissi. Say, can I talk to you for a second?
+SISSI: Uh, well, yeah, of course.
+ULRICH: I have something really important to ask you.
+SISSI: Who, me?
+ULRICH: And in exchange, I’m ready to do whatever you want.
+SISSI: Anything?
+ULRICH: Well, almost anything.
+JEREMIE: In my opinion, when the Scyphozoa attacked you,\Nhe gave you some kind of bug, Yumi.
+YUMI: {/i1}Could it have stolen some of my memory?
+AELITA: That’s strange, it’s my memory that XANA seems to be after!
+JEREMIE: If you ask me, the Scyphozoa took something else from you.\NStand still, I’m launching a digital analysis.
+Oh no! I don’t believe it!
+YUMI: What’s the matter?
+JEREMIE: {/i1}The Scyphozoa stole the sequence code for your human DNA!
+YUMI: What’s that?
+JEREMIE: {/i1}Well, when you’re virtualized, you keep your human DNA sequence code.\NYou can’t do without it. It defines your molecular structure, which is the--
+YUMI: Okay, okay, just get to the point!
+JEREMIE: No DNA, no way to get back to Earth.
+YUMI: Oh no!
+SISSI: I’m listening.
+ULRICH: Well, since Yumi can’t be here this morning,\NI’d like you to stand in for her in the ninth grade class photo.
+SISSI: Okay.
+ULRICH: Huh? You… you’ll do it? And, um… what do you want in exchange?
+SISSI: Oh, what do you think I am? I don’t want anything at all.\NJust call it a personal favor to you and that’s that.
+YUMI: Oh, this can’t be true. What about my parents, and school, and my brother?\NYou have to find a solution, Jeremie. {/i1}My whole life is on Earth!
+JEREMIE: Don’t panic, Yumi. I’ll do everything I can.
+AELITA: What if--
+JEREMIE: You have an idea?
+AELITA: I think so. Send me to Lyoko.
+JEREMIE: What are you gonna do?
+AELITA: Just trust me this time.
+JEREMIE: Alright, I’ll bring you up close to the tower.
+ULRICH: A quarter of an hour to put on a dress and a wig, unbelieveable.
+SISSI: There you go, what do you think?
+ODD: Not bad. The hair looks like Yumi’s.
+ULRICH: Yeah, but she doesn’t dress like that. She always wears black,\Nand her dresses are longer and less…
+SISSI: Less sexy? Well, why don’t you bring me one of her dresses?
+ULRICH: Right, good idea, we’ll try.
+ODD: Sissi’s being strangely helpful.
+ULRICH: Yeah, I suppose. Weird, huh?
+Cool, it’s open, I’m in! Piece of cake! Warn me if you see anyone coming.
+ODD: I read you loud and clear, General!
+JEREMIE: Okay, Aelita, the tower is nearby at ten o’clock.
+MR. ISHIYAMA: I’ll have another Shiro-An.\NYou did a very good job on the white bean paste.
+MRS. ISHIYAMA: You know, Takeo, I’ve been feeling depressed lately.\NYou don’t pay any attention to me. It’s almost as if you don’t listen to me anymore.
+MR. ISHIYAMA: Mmmm, delicious.
+Oh, sorry, what were you saying?
+JEREMIE: {/i1}Watch out for monsters!
+Aelita, now will you tell me what your idea is?
+AELITA: No!
+MRS. ISHIYAMA: It’s always the same thing. My mother warned \Nme not to marry a man from Tokyo.
+ULRICH: Bingo!
+JEREMIE: {/i1}Aelita, please tell me what you’re up to.
+AELITA: There. Process launched.
+YUMI: What process?
+AELITA: The process of transferring my DNA \Nsequence code to your virtual structure.
+JEREMIE: What? Are you crazy?
+AELITA: Jeremie, Yumi’s place is on Earth. If anyone should stay on Lyoko\Nuntil we find a solution, it’s me.
+JEREMIE: {/i1}I don’t agree with that! Aelita, stop it--
+AELITA: I knew he was going to say that.
+YUMI: You know, you’re making a big sacrifice, Aelita.
+AELITA: Call it whatever you want to.
+JEREMIE: Aelita, do you hear me!
+Aelita! I can’t believe this!
+I don’t even know how that kind of transfer works!
+Oh no! This is unbelieveable!
+ULRICH: Okay.
+MRS. ISHIYAMA: I’ll go and wake Hiroki.
+DEFAULT: (PHONE RINGS)
+Yumi?
+MR. ISHIYAMA: Darling? Have you seen Yumi?
+MRS. ISHIYAMA: No, she must’ve left for school already. Oh, she forgot her cell phone!
+ULRICH: Odd!
+Odd, is that how you stand guard?
+ODD: I didn’t see anybody go by\NYou got the dress?
+DEFAULT: (PHONE RINGS)
+ULRICH: Jeremie, Sorry, I didn’t mean to hang up on you, but it was either \N{/i1}that or getting caught by Yumi’s mom.
+JEREMIE: Listen to me, Aelita is on Lyoko, transferring her \NDNA sequence code over to Yumi.
+ULRICH: Uh? So what? you mean that’s not a good idea?
+JEREMIE: {/i1}No, Aelita doesn’t know that when she transfers \Nher code over, her memory will be exposed.
+ODD: What?
+ULRICH: Are you saying that Xana will just \Nbe able to steal it at will?
+JEREMIE: {/i1}That’s right, I’m sure that’s why \Nthe Scyphozoa attacked Yumi.
+It’s another one of Xana’s little evil schemes .
+ULRICH: Then warn Aelita, tell her to stop.
+JEREMIE: I can’t, she’s cut off all communication with \Nthe tower. So you’ve got to get to Lyoko fast.
+SISSI: Ok, I wouldn’t exactly call it glamorous, but it \Nwill do, you can count on me.
+ULRICH: Thanks Sissi.
+I owe you one.
+AELITA: Only ten more minutes before the transfer.\NEverything will be just fine.
+ODD: Girls! You leave em alone for five minutes, \Nand it’s mess after mess after mess.
+ULRICH: Jeremie! Warm up the scanners, we’re on our way.
+JEREMIE: Transfer Ulrich.
+Transfer Odd.
+Scanner Ulrich.
+{/i1}Scanner Odd.
+Virtualization!
+WILLIAM: Hey Yumi!\NI was looking for you in the schoolyard this morning.
+Hey, wait, who are you?
+DEFAULT: That’s the principle’s Daughter, it’s Elizabeth. \NToo weird.
+SISSI: Listen, first of all, the name is Sissi, and \Nsecond of all, just shut up. Ok?
+DEFAULT: Ok, Elizabeth.
+(SMACK)
+(LAUGHTER)
+Ow, that hurt!
+JEREMIE: {/i1}You should be able to spot the tower now.
+ULRICH: There it is!
+{/i1}We’ll be there in a minute!
+AELITA: Just one more minute.
+JEREMIE: Hurry up, hurry up!
+ODD: Aelita! Stop right now!
+ULRICH: If the transfer takes place, Xana will steal all of your memory.
+Aelita! Stop everything right now!
+JEREMIE: Huh?
+Phew
+AELITA: {/i1}Jeremie?
+JEREMIE: Aelita, you’re so stubborn, that was a silly thing to do!
+AELITA: I’m sorry, but I thought I was doing the right thing.
+YUMI: I understand, and I appreciate it too.
+ODD: You’re turning into a real human being.
+You’re beginning to confuse generosity with stupidity.
+ULRICH: Anyway, we still have no idea how to save Yumi.
+JEREMIE: Don’t bet on that, I just happen to have a brilliant idea!
+Xana has stolen Yumi’s DNA code sequence, \Nso it must be in his memory.
+And how do we get access to Xana’s memory?
+DEFAULT: Sector Five!
+WILLIAM: Why are you dressed up to look like Yumi?
+SISSI: It’s none of your business.
+DEFAULT: Anyways, that dumb haircut of \Nyours is really old fashioned.
+SISSI: I never look old fashioned. understand?
+Everything looks fashionable on me.
+ODD: Ugh, it’s a good thing I didn’t eat breakfast this morning.
+CAMERA GUY: Quiet down!
+SISSI: He’s right, shut up, will you?
+MR. DELMAS: What’s all this noise about?
+Yumi, is anything wrong?
+Yumi, I’m speaking to you.
+Sissi?
+SISSI: I can explain everything, daddy, darling.
+DEFAULT: Daddy, darling, daddy, darling, daddy.
+(LAUGHTER)
+MR. DELMAS: That’s enough.
+JEREMIE: {/i1}Uh, by the way Yumi, just a little detail.
+{/i1}Without your Human DNA sequence code, \Nyou’re just as vulnerable as Aelita.
+If you get hit, you’ll disappear forever.
+YUMI: Great.
+Come On, let’s go.
+JEREMIE: The countdown has started! You have \Nthree minutes to {/i1}get out of the core zone!
+YUMI: First, we have to find the key.
+JEREMIE: Check at the end of the corridor\NI spotted the mechanism on the wall at the end of the room.
+AELITA: Yes, I see it over there.
+ODD: Looks like a trap to me, but when \Nyou gotta go, you gotta go.
+ULRICH: Odd!
+AELITA: Watch out!
+YUMI: The whole ceiling is boobytrapped, move it!
+JEREMIE: Faster guys! You’ve got one minute left to turn the key!
+Move it!
+ODD: Timber!
+ULRICH: Odd!
+Huh?
+JEREMIE: Odd, are you ok?
+ODD: Well--
+ULRICH: Ok.
+JEREMIE: {/i1}Good work, Ulrich.
+ULRICH: After you, ladies.
+Here comes our taxi.
+AELITA: We’d better not miss it.
+Now!
+JEREMIE: Aelita, do you know where to find Yumi’s DNA sequence code? 
+AELITA:  Not really, but I’ll manage somehow.
+ULRICH: A Flying Mantas nest is about to hatch, we don’t have much time left.
+Uh, Yumi, I wanted to apologise for this morning. It was none of my business what you've been doing.
+YUMI: That’s true, but I’ll tell you anyway.
+I was buying two tickets for the Subsonics concert.
+And it wasn’t easy! Bad internet connection.
+Lookout, the nest just hatched!
+JEREMIE: {/i1}How’s it going, Aelita?
+AELITA: Nothing yet.
+That’s it, I’ve got it! \NI’m sending it to you now, Jeremie.
+JEREMIE: I’ve got it, Yumi.\NI’ll download it back to you in a second.
+YUMI: I’m gonna be really happy to go home--
+ULRICH: Yumi!
+AELITA: {/i1}Did you have time to reinsert the code?
+JEREMIE: I sure hope so.
+{/i1}You two get outta there.
+{/i1}The north tunnel, it’s open!
+ULRICH: Yumi?
+AELITA: It’s ok, don’t worry, she’s out \Ncold, but she’s here with us.
+JEREMIE: How about you, Odd?\NHow you feeling?
+ODD: Ever been flattened by a steamroller?
+JEREMIE: No.
+ODD: It’s simple, just get yourself devirtualized in sector five.
+ULRICH: Your father caught you?
+YUMI: Aw, am I going to get suspended?
+SISSI: Don’t worry, I saved your day. \NI’ll get punished, but not you.
+Anyway, I know how to talk to my father.
+Here. Here’s your dress back.
+YUMI: That uh-- That was really nice of you, Sissi.
+ULRICH: Yeah, she’s right, thankyou.
+SISSI: I told you you could count on me.
+See ya later.
+YUMI: Sissi, uh, wait.
+How would you like to see the Subsonics with Ulrich?
+SISSI: Are you kidding? \NGreat!
+ODD: Something’s really fishy about the \Nway Sissi’s behaving.
+AELITA: Maybe, deep down she’s a very nice person.
+JEREMIE: Or she’s really crazy about Ulrich.
+ODD: What a mess.
+ADVERT: CLOSED CAPTIONING PROVIDED BY{\i1}REDDIT.COM/R/CODELYOKO

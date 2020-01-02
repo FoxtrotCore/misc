@@ -1,0 +1,505 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>eng_007_Code_Lyoko</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start="60570"><P Class="ENUSCC"><i>30 degrees north.</i></P></SYNC>
+<SYNC Start="62170"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="67380"><P Class="ENUSCC">You should be able<br>to see it by now.</P></SYNC>
+<SYNC Start="69520"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="69940"><P Class="ENUSCC"><i>No kidding.</i></P></SYNC>
+<SYNC Start="70920"><P Class="ENUSCC">Sticks out like a sore thumb.</P></SYNC>
+<SYNC Start="72730"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="75200"><P Class="ENUSCC">There’s nothing happening.</P></SYNC>
+<SYNC Start="76690"><P Class="ENUSCC">It’s awfully calm.</P></SYNC>
+<SYNC Start="77970"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="79520"><P Class="ENUSCC">Well, be careful.<br>You never know.</P></SYNC>
+<SYNC Start="81820"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="103910"><P Class="ENUSCC"><i>Yoo-hoo!</i></P></SYNC>
+<SYNC Start="104980"><P Class="ENUSCC"><i>Hi, Jeremie.</i></P></SYNC>
+<SYNC Start="106380"><P Class="ENUSCC"><i>I don’t see anything<br>out of the ordinary in the tower.</i></P></SYNC>
+<SYNC Start="109160"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="109240"><P Class="ENUSCC"><i>Are you sure<br>it’s the right one?</i></P></SYNC>
+<SYNC Start="110830"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="110940"><P Class="ENUSCC">That was what the scan picked up.</P></SYNC>
+<SYNC Start="112470"><P Class="ENUSCC">At least for a few seconds.</P></SYNC>
+<SYNC Start="114160"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="118830"><P Class="ENUSCC">And you said you felt pulsations<br>a while ago, didn’t you?</P></SYNC>
+<SYNC Start="121600"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="122360"><P Class="ENUSCC">I did.</P></SYNC>
+<SYNC Start="123210"><P Class="ENUSCC">Well, let’s say yes and no.</P></SYNC>
+<SYNC Start="124920"><P Class="ENUSCC">I’m not sure I did anymore.<br>I thought I did.</P></SYNC>
+<SYNC Start="126980"><P Class="ENUSCC">Okay, then.</P></SYNC>
+<SYNC Start="127900"><P Class="ENUSCC">(SCREAMING)</P></SYNC>
+<SYNC Start="130410"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="130780"><P Class="ENUSCC">Sounds like Yumi!</P></SYNC>
+<SYNC Start="132000"><P Class="ENUSCC">What’s going on?</P></SYNC>
+<SYNC Start="133010"><P Class="ENUSCC">Can you hear me, Yumi?</P></SYNC>
+<SYNC Start="134360"><P Class="ENUSCC">Answer me!</P></SYNC>
+<SYNC Start="135460"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="136020"><P Class="ENUSCC">Yumi?</P></SYNC>
+<SYNC Start="137200"><P Class="ENUSCC"><i>Jeremie, Yumi’s disappeared.</i></P></SYNC>
+<SYNC Start="139610"><P Class="ENUSCC">What? Come on, she<br>couldn’t have just vanished.</P></SYNC>
+<SYNC Start="142460"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="148320"><P Class="ENUSCC">Aelita, hold on.<br>I’ll get back to you.</P></SYNC>
+<SYNC Start="150210"><P Class="ENUSCC"><i>Jeremie? Jeremie!</i></P></SYNC>
+<SYNC Start="152150"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="160590"><P Class="ENUSCC">Hey, Yumi!</P></SYNC>
+<SYNC Start="161890"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="163620"><P Class="ENUSCC">Yumi?</P></SYNC>
+<SYNC Start="164720"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="184000"><P Class="ENUSCC">Hey, what’s wrong<br>with the hot chocolate today?</P></SYNC>
+<SYNC Start="186270"><P Class="ENUSCC">It tastes like dirty sweat socks<br>and an old pair of sneakers!</P></SYNC>
+<SYNC Start="189430"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="189700"><P Class="ENUSCC">Odd the gourmet.</P></SYNC>
+<SYNC Start="191010"><P Class="ENUSCC">Yoo-hoo!</P></SYNC>
+<SYNC Start="192080"><P Class="ENUSCC">Hey, Ulrich!</P></SYNC>
+<SYNC Start="193370"><P Class="ENUSCC">Yoo-hoo! Yoo-hoo!</P></SYNC>
+<SYNC Start="195090"><P Class="ENUSCC">Well, what do you know.<br>Your fan club.</P></SYNC>
+<SYNC Start="197580"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="200790"><P Class="ENUSCC">I don’t believe it!</P></SYNC>
+<SYNC Start="202150"><P Class="ENUSCC">Your darling Yumi has<br>deserted you for once?</P></SYNC>
+<SYNC Start="204620"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="204870"><P Class="ENUSCC">Like your brain, huh?</P></SYNC>
+<SYNC Start="206110"><P Class="ENUSCC">It deserted you<br>a long time ago.</P></SYNC>
+<SYNC Start="207740"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="208350"><P Class="ENUSCC">(CELL PHONE RINGS)</P></SYNC>
+<SYNC Start="211220"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="212050"><P Class="ENUSCC">Hello? Oh, it’s you, Jeremie.</P></SYNC>
+<SYNC Start="213600"><P Class="ENUSCC">I recommend the hot chocolate.</P></SYNC>
+<SYNC Start="215150"><P Class="ENUSCC">Take my word for it.</P></SYNC>
+<SYNC Start="216480"><P Class="ENUSCC">Mhmm? What?</P></SYNC>
+<SYNC Start="218110"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="223270"><P Class="ENUSCC">Okay, easy does it. That’s it.</P></SYNC>
+<SYNC Start="225610"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="228660"><P Class="ENUSCC">Well, then.<br>What happened to her?</P></SYNC>
+<SYNC Start="231140"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="232700"><P Class="ENUSCC">Well, she started<br>feeling sick…during recess.</P></SYNC>
+<SYNC Start="235570"><P Class="ENUSCC">It’s because she’s<br>been studying real hard.</P></SYNC>
+<SYNC Start="237450"><P Class="ENUSCC">Our teachers give us<br>way too much homework!</P></SYNC>
+<SYNC Start="239690"><P Class="ENUSCC">Alright. I’ll take care of her.</P></SYNC>
+<SYNC Start="241960"><P Class="ENUSCC">Now, back to class, all of you.</P></SYNC>
+<SYNC Start="244020"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="245890"><P Class="ENUSCC">You heard what I said.<br>Now, go. Go on.</P></SYNC>
+<SYNC Start="249030"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="257980"><P Class="ENUSCC">Well, feeling better, hm?</P></SYNC>
+<SYNC Start="260580"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="261870"><P Class="ENUSCC">Hey!</P></SYNC>
+<SYNC Start="262750"><P Class="ENUSCC">No, no, no. Come on.<br>Lie down now, you hear?</P></SYNC>
+<SYNC Start="264940"><P Class="ENUSCC">Please, you need to rest!</P></SYNC>
+<SYNC Start="266510"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="272530"><P Class="ENUSCC">Are you sure she<br>wasn’t hit by a laser?</P></SYNC>
+<SYNC Start="274800"><P Class="ENUSCC">Maybe there was a megatank<br>hiding somewhere.</P></SYNC>
+<SYNC Start="276860"><P Class="ENUSCC">No, no.<br>I would’ve seen it on the screen.</P></SYNC>
+<SYNC Start="279960"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="280250"><P Class="ENUSCC">She still had all her life points<br>when she was devirtualized.</P></SYNC>
+<SYNC Start="283680"><P Class="ENUSCC">Well, in any case,<br>something abnormal happened.</P></SYNC>
+<SYNC Start="286540"><P Class="ENUSCC">Yeah, that’s for sure.</P></SYNC>
+<SYNC Start="288100"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="288240"><P Class="ENUSCC">The proof is she passed out<br>in the scanner.</P></SYNC>
+<SYNC Start="290700"><P Class="ENUSCC">Normally,<br>the return trip’s pretty easy.</P></SYNC>
+<SYNC Start="292760"><P Class="ENUSCC">Huh, that’s what you think.</P></SYNC>
+<SYNC Start="294080"><P Class="ENUSCC">You ought to try it<br>one of these days.</P></SYNC>
+<SYNC Start="295890"><P Class="ENUSCC">You’ll love it!</P></SYNC>
+<SYNC Start="297500"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="300360"><P Class="ENUSCC">Oh, Yumi!</P></SYNC>
+<SYNC Start="302080"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="303140"><P Class="ENUSCC">Guess you’re feeling better, huh?</P></SYNC>
+<SYNC Start="304820"><P Class="ENUSCC">You had us scared.</P></SYNC>
+<SYNC Start="305990"><P Class="ENUSCC">Tell us what happened.</P></SYNC>
+<SYNC Start="307520"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="310720"><P Class="ENUSCC">You sure you’re okay?</P></SYNC>
+<SYNC Start="312250"><P Class="ENUSCC">Yeah, I’m just tired.</P></SYNC>
+<SYNC Start="313680"><P Class="ENUSCC">Yumi, tell us what<br>happened on Lyoko.</P></SYNC>
+<SYNC Start="316120"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="316370"><P Class="ENUSCC">Nothing, you hear?</P></SYNC>
+<SYNC Start="317720"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="317850"><P Class="ENUSCC">Come on, let’s go<br>over to the factory now.</P></SYNC>
+<SYNC Start="319960"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="320220"><P Class="ENUSCC">In your condition?<br>That’s a pretty crazy idea.</P></SYNC>
+<SYNC Start="322880"><P Class="ENUSCC">Hey, listen, we’ve got<br>more important things to do.</P></SYNC>
+<SYNC Start="325080"><P Class="ENUSCC">Like eating.</P></SYNC>
+<SYNC Start="326220"><P Class="ENUSCC">For example.</P></SYNC>
+<SYNC Start="328130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="331850"><P Class="ENUSCC">Hey…</P></SYNC>
+<SYNC Start="333260"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="336550"><P Class="ENUSCC">What about Aelita?<br>Is she safe?</P></SYNC>
+<SYNC Start="338390"><P Class="ENUSCC">Yeah, I hope so.</P></SYNC>
+<SYNC Start="339620"><P Class="ENUSCC">I told her to stay in the tower.</P></SYNC>
+<SYNC Start="341230"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="354560"><P Class="ENUSCC">I’ve got to go and check it out.</P></SYNC>
+<SYNC Start="356560"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="370380"><P Class="ENUSCC">And you really can’t<br>remember what happened?</P></SYNC>
+<SYNC Start="372630"><P Class="ENUSCC">No, nothing.</P></SYNC>
+<SYNC Start="373780"><P Class="ENUSCC">Do you think it could’ve<br>come from the scanners?</P></SYNC>
+<SYNC Start="375900"><P Class="ENUSCC">A bug or something like that?</P></SYNC>
+<SYNC Start="377810"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="378120"><P Class="ENUSCC">Unless it’s XANA trying out<br>a new way of attacking.</P></SYNC>
+<SYNC Start="381090"><P Class="ENUSCC">I haven’t the slightest idea.</P></SYNC>
+<SYNC Start="382870"><P Class="ENUSCC">I’m wondering<br>if all these transfers</P></SYNC>
+<SYNC Start="384510"><P Class="ENUSCC">aren’t becoming<br>a health problem.</P></SYNC>
+<SYNC Start="386040"><P Class="ENUSCC">Hey, do I smell fish,<br>or just cheap perfume?</P></SYNC>
+<SYNC Start="388720"><P Class="ENUSCC">You’re such a riot.</P></SYNC>
+<SYNC Start="390130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="390730"><P Class="ENUSCC">Ulrich…</P></SYNC>
+<SYNC Start="391860"><P Class="ENUSCC">what do you say we<br>get together after school, huh?</P></SYNC>
+<SYNC Start="394650"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="395300"><P Class="ENUSCC">Get together with you?</P></SYNC>
+<SYNC Start="396490"><P Class="ENUSCC">Very tempting, but, uh, not.</P></SYNC>
+<SYNC Start="398250"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="403010"><P Class="ENUSCC">You’re showing off<br>because Yumi’s here, huh?</P></SYNC>
+<SYNC Start="405490"><P Class="ENUSCC">Mademoiselle likes to keep<br>the competition as far away as she can.</P></SYNC>
+<SYNC Start="408980"><P Class="ENUSCC">That’s not true.</P></SYNC>
+<SYNC Start="410350"><P Class="ENUSCC">Why don’t you go out with her?</P></SYNC>
+<SYNC Start="411980"><P Class="ENUSCC">She’s really pretty.</P></SYNC>
+<SYNC Start="413090"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="414720"><P Class="ENUSCC">Hey, you wouldn’t be trying<br>to make fun of me, would you?</P></SYNC>
+<SYNC Start="418730"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="420280"><P Class="ENUSCC">No? Hah, great!<br>Thanks a lot, Yumi!</P></SYNC>
+<SYNC Start="422500"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="422730"><P Class="ENUSCC">Ulrich…</P></SYNC>
+<SYNC Start="424420"><P Class="ENUSCC">I’ll be waiting for you<br>in the park after school! Ciao!</P></SYNC>
+<SYNC Start="427020"><P Class="ENUSCC">Hey, what are you<br>trying to pull anyway, huh?</P></SYNC>
+<SYNC Start="429600"><P Class="ENUSCC">Nothing. Go on, go out with her.</P></SYNC>
+<SYNC Start="431360"><P Class="ENUSCC">She’s been waiting<br>for this for ages. Go on.</P></SYNC>
+<SYNC Start="433870"><P Class="ENUSCC">Miss Ishiyama.<br>Come to my office right now.</P></SYNC>
+<SYNC Start="436900"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="450990"><P Class="ENUSCC">But that thing wasn’t there before…</P></SYNC>
+<SYNC Start="453010"><P Class="ENUSCC">It looks like a guardian.</P></SYNC>
+<SYNC Start="455250"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="478130"><P Class="ENUSCC">What’s going on with Yumi?</P></SYNC>
+<SYNC Start="479710"><P Class="ENUSCC">Is she mad at me or what?<br>I’ve never seen her like that.</P></SYNC>
+<SYNC Start="482520"><P Class="ENUSCC">She must’ve had<br>a really serious shock.</P></SYNC>
+<SYNC Start="484490"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="484700"><P Class="ENUSCC">Ulrich!</P></SYNC>
+<SYNC Start="486320"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="489220"><P Class="ENUSCC">What’s the big idea of<br>having a date with Sissi, huh!</P></SYNC>
+<SYNC Start="492000"><P Class="ENUSCC">This isn’t the time for that<br>you hear, Herb?</P></SYNC>
+<SYNC Start="493920"><P Class="ENUSCC">If you want an explanation,<br>go and ask Sissi.</P></SYNC>
+<SYNC Start="496580"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="502300"><P Class="ENUSCC">Okay, I’ll leave you to<br>your love stories.</P></SYNC>
+<SYNC Start="504370"><P Class="ENUSCC">I’ve got a super-psychopathic<br>computer to feed.</P></SYNC>
+<SYNC Start="506770"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="507140"><P Class="ENUSCC">Yumi, this is unspeakable.</P></SYNC>
+<SYNC Start="509110"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="509460"><P Class="ENUSCC">Our poor Nurse Dorothy<br>is still very upset.</P></SYNC>
+<SYNC Start="512370"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="512640"><P Class="ENUSCC">How could you have<br>done such a thing?</P></SYNC>
+<SYNC Start="514660"><P Class="ENUSCC">I’m giving you two hours<br>of detention in the library</P></SYNC>
+<SYNC Start="517360"><P Class="ENUSCC">to teach you a lesson.</P></SYNC>
+<SYNC Start="518480"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="518830"><P Class="ENUSCC">Well, go on.</P></SYNC>
+<SYNC Start="520480"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="525360"><P Class="ENUSCC">There’s something<br>troubling you, Yumi.</P></SYNC>
+<SYNC Start="527570"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="534340"><P Class="ENUSCC">Care to tell me about it?</P></SYNC>
+<SYNC Start="536050"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="536640"><P Class="ENUSCC">Yumi, I’m here to help you--<br>that’s part of my job.</P></SYNC>
+<SYNC Start="539540"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="541330"><P Class="ENUSCC">Very well.</P></SYNC>
+<SYNC Start="542270"><P Class="ENUSCC">Keep this up and I’ll have to<br>inform your parents</P></SYNC>
+<SYNC Start="544370"><P Class="ENUSCC">about the way you’re behaving.</P></SYNC>
+<SYNC Start="545980"><P Class="ENUSCC">Not my parents.</P></SYNC>
+<SYNC Start="547890"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="551940"><P Class="ENUSCC">That’s enough now, Miss Ishiyama.</P></SYNC>
+<SYNC Start="554120"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="557960"><P Class="ENUSCC">What! But…</P></SYNC>
+<SYNC Start="558890"><P Class="ENUSCC">Get your hand<br>off the phone right now!</P></SYNC>
+<SYNC Start="560800"><P Class="ENUSCC">Not my parents!</P></SYNC>
+<SYNC Start="562260"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="562670"><P Class="ENUSCC">I won’t warn you again.</P></SYNC>
+<SYNC Start="564050"><P Class="ENUSCC">Yumi, if you keep this up<br>I’ll suspend you!</P></SYNC>
+<SYNC Start="565990"><P Class="ENUSCC">No!</P></SYNC>
+<SYNC Start="566820"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="583200"><P Class="ENUSCC">Hello there, Yumi!</P></SYNC>
+<SYNC Start="584960"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="597270"><P Class="ENUSCC"><i>As soon as I got<br>close to the monsters,</i></P></SYNC>
+<SYNC Start="599050"><P Class="ENUSCC"><i>they started to shoot.</i></P></SYNC>
+<SYNC Start="600460"><P Class="ENUSCC">You shouldn’t have<br>left the tower, Aelita.</P></SYNC>
+<SYNC Start="602750"><P Class="ENUSCC"><i>I know.</i></P></SYNC>
+<SYNC Start="603900"><P Class="ENUSCC"><i>You’re not too<br>mad at me, are you?</i></P></SYNC>
+<SYNC Start="605440"><P Class="ENUSCC">Mad? No.</P></SYNC>
+<SYNC Start="606380"><P Class="ENUSCC">Besides, I think you made<br>an important discovery.</P></SYNC>
+<SYNC Start="608600"><P Class="ENUSCC">This could have something to do<br>with what happened to Yumi.</P></SYNC>
+<SYNC Start="610730"><P Class="ENUSCC"><i>Should I go back there?</i></P></SYNC>
+<SYNC Start="611940"><P Class="ENUSCC">No, hold on.</P></SYNC>
+<SYNC Start="612840"><P Class="ENUSCC">I’ll send Ulrich and Odd as backup.</P></SYNC>
+<SYNC Start="614620"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="614980"><P Class="ENUSCC"><i>Jeremie, what happened to Yumi</i></P></SYNC>
+<SYNC Start="617170"><P Class="ENUSCC"><i>might happen to one of<br>your friends or both of them.</i></P></SYNC>
+<SYNC Start="619400"><P Class="ENUSCC"><i>If they came to Lyoko now,<br>it could be very dangerous for them.</i></P></SYNC>
+<SYNC Start="622530"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="622960"><P Class="ENUSCC">I guess you’re right.</P></SYNC>
+<SYNC Start="623970"><P Class="ENUSCC">Go on, then, but promise me<br>you’ll be careful.</P></SYNC>
+<SYNC Start="626380"><P Class="ENUSCC"><i>You know me.</i></P></SYNC>
+<SYNC Start="627580"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="628850"><P Class="ENUSCC">Oh, it’s you.</P></SYNC>
+<SYNC Start="630420"><P Class="ENUSCC">What did the principal want?</P></SYNC>
+<SYNC Start="631770"><P Class="ENUSCC">We have to go to the factory now.</P></SYNC>
+<SYNC Start="633600"><P Class="ENUSCC">Oh, no. Forget it.</P></SYNC>
+<SYNC Start="635110"><P Class="ENUSCC">First of all, there’s no reason to go.</P></SYNC>
+<SYNC Start="636690"><P Class="ENUSCC">And second, you have to rest.</P></SYNC>
+<SYNC Start="638460"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="639850"><P Class="ENUSCC">I have to go to the scanner room.</P></SYNC>
+<SYNC Start="641490"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="641680"><P Class="ENUSCC">No.</P></SYNC>
+<SYNC Start="642590"><P Class="ENUSCC">Nobody’s going back to Lyoko<br>until I give the order.</P></SYNC>
+<SYNC Start="645410"><P Class="ENUSCC">It’s too dangerous.</P></SYNC>
+<SYNC Start="646800"><P Class="ENUSCC">I’ve got some tests I have to run first.</P></SYNC>
+<SYNC Start="648630"><P Class="ENUSCC">Hey…</P></SYNC>
+<SYNC Start="649680"><P Class="ENUSCC">it’s important, you hear?</P></SYNC>
+<SYNC Start="651570"><P Class="ENUSCC">I have to go back<br>to the scanner room.</P></SYNC>
+<SYNC Start="654160"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="654450"><P Class="ENUSCC">Er…Yumi, what are you trying to…</P></SYNC>
+<SYNC Start="656930"><P Class="ENUSCC">Shh.</P></SYNC>
+<SYNC Start="658410"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="659900"><P Class="ENUSCC">There.</P></SYNC>
+<SYNC Start="661190"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="662350"><P Class="ENUSCC">I, uh…</P></SYNC>
+<SYNC Start="663340"><P Class="ENUSCC">I’m not sure it’s a good idea--</P></SYNC>
+<SYNC Start="665040"><P Class="ENUSCC">you should go home<br>and get some rest!</P></SYNC>
+<SYNC Start="667210"><P Class="ENUSCC">Come on, take me<br>to the scanner room.</P></SYNC>
+<SYNC Start="669730"><P Class="ENUSCC">Uh b-b-b-b-but</P></SYNC>
+<SYNC Start="671300"><P Class="ENUSCC">you should go home<br>and take a bath!</P></SYNC>
+<SYNC Start="672940"><P Class="ENUSCC">No, a cold shower!<br>Very cold!</P></SYNC>
+<SYNC Start="674660"><P Class="ENUSCC">Very, very, very cold<br>to calm you down!</P></SYNC>
+<SYNC Start="677070"><P Class="ENUSCC">Jeremie, hurry up,<br>we’ve got to get going--</P></SYNC>
+<SYNC Start="679540"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="685080"><P Class="ENUSCC">Ulrich, no wait!<br>It’s not what you think!</P></SYNC>
+<SYNC Start="687730"><P Class="ENUSCC">I swear, Ulrich, wait!</P></SYNC>
+<SYNC Start="689340"><P Class="ENUSCC">Bravo.</P></SYNC>
+<SYNC Start="690630"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="701450"><P Class="ENUSCC">Okay, time to go.</P></SYNC>
+<SYNC Start="703130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="735930"><P Class="ENUSCC">And we can also observe<br>cases of parthenogenesis</P></SYNC>
+<SYNC Start="738770"><P Class="ENUSCC">among certain insects.</P></SYNC>
+<SYNC Start="740100"><P Class="ENUSCC">This phenomenon<br>is relatively common</P></SYNC>
+<SYNC Start="742160"><P Class="ENUSCC">and comparable to<br>a sort of natural cloning.</P></SYNC>
+<SYNC Start="744640"><P Class="ENUSCC">That is to say the animal<br>gives birth to a replica of itself--</P></SYNC>
+<SYNC Start="747650"><P Class="ENUSCC">an exact replica with<br>no differences between them.</P></SYNC>
+<SYNC Start="750430"><P Class="ENUSCC">Scientists have succeeded<br>in employing this process with rabbits.</P></SYNC>
+<SYNC Start="754250"><P Class="ENUSCC">Alright, we’ll continue<br>with this subject tomorrow.</P></SYNC>
+<SYNC Start="756930"><P Class="ENUSCC">(SCHOOL BELL RINGS)</P></SYNC>
+<SYNC Start="759150"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="770590"><P Class="ENUSCC">Ulrich, you have to listen.</P></SYNC>
+<SYNC Start="773400"><P Class="ENUSCC">I don’t want to listen to you.</P></SYNC>
+<SYNC Start="775550"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="777170"><P Class="ENUSCC">Something’s not right with Yumi.</P></SYNC>
+<SYNC Start="778720"><P Class="ENUSCC">She’s not in her normal state.</P></SYNC>
+<SYNC Start="780480"><P Class="ENUSCC">I don’t know what she’s been through,</P></SYNC>
+<SYNC Start="782540"><P Class="ENUSCC">but she’s traumatized.</P></SYNC>
+<SYNC Start="784510"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="787390"><P Class="ENUSCC">Okay. Let’s go.</P></SYNC>
+<SYNC Start="789710"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="806310"><P Class="ENUSCC">Oh, no.</P></SYNC>
+<SYNC Start="807520"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="812720"><P Class="ENUSCC">What do you think<br>this phenomenon is?</P></SYNC>
+<SYNC Start="814580"><P Class="ENUSCC">I wish I could tell you,<br>but I have no idea.</P></SYNC>
+<SYNC Start="816930"><P Class="ENUSCC">Aelita’s checking it out.</P></SYNC>
+<SYNC Start="818380"><P Class="ENUSCC">It could be XANA’s doing.</P></SYNC>
+<SYNC Start="820130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="820450"><P Class="ENUSCC">I forgot to lock the door.</P></SYNC>
+<SYNC Start="822130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="828410"><P Class="ENUSCC">All my equipment!</P></SYNC>
+<SYNC Start="829970"><P Class="ENUSCC">You think Sissi’s behind all this?</P></SYNC>
+<SYNC Start="831910"><P Class="ENUSCC">Why would she want to do it?</P></SYNC>
+<SYNC Start="833650"><P Class="ENUSCC">Hey, maybe it’s Herb.</P></SYNC>
+<SYNC Start="834690"><P Class="ENUSCC">He sure was mad<br>when we saw him today.</P></SYNC>
+<SYNC Start="837010"><P Class="ENUSCC">Wait, who was the last one<br>to leave this room?</P></SYNC>
+<SYNC Start="839620"><P Class="ENUSCC">Oh, no.</P></SYNC>
+<SYNC Start="840740"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="843030"><P Class="ENUSCC">No, that’s impossible. Not Yumi.</P></SYNC>
+<SYNC Start="845330"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="845840"><P Class="ENUSCC">You’ve got to admit<br>she’s been acting weird lately.</P></SYNC>
+<SYNC Start="848610"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="849120"><P Class="ENUSCC">Okay.</P></SYNC>
+<SYNC Start="850020"><P Class="ENUSCC">Yumi hasn’t been<br>herself lately, that’s right,</P></SYNC>
+<SYNC Start="852080"><P Class="ENUSCC">but still, the enemy is XANA.</P></SYNC>
+<SYNC Start="854560"><P Class="ENUSCC">Jeremie’s right.<br>XANA’s launched an attack.</P></SYNC>
+<SYNC Start="857460"><P Class="ENUSCC">and I’m sure all this other stuff<br>is to distract us</P></SYNC>
+<SYNC Start="860260"><P Class="ENUSCC">while he’s calmly and quietly<br>getting rid of Aelita.</P></SYNC>
+<SYNC Start="862720"><P Class="ENUSCC">Aelita!</P></SYNC>
+<SYNC Start="863620"><P Class="ENUSCC">She’s all alone on Lyoko,<br>and we can’t get to her!</P></SYNC>
+<SYNC Start="866450"><P Class="ENUSCC">Are we going to<br>the scanner room?</P></SYNC>
+<SYNC Start="868510"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="876190"><P Class="ENUSCC">Yeah, let’s go.</P></SYNC>
+<SYNC Start="877290"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="897200"><P Class="ENUSCC">Go on, do your stuff, Jeremie.</P></SYNC>
+<SYNC Start="899120"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="900320"><P Class="ENUSCC">Are you ready?<br>Here we go.</P></SYNC>
+<SYNC Start="902130"><P Class="ENUSCC">Transfer Ulrich.</P></SYNC>
+<SYNC Start="903430"><P Class="ENUSCC">Transfer Odd.</P></SYNC>
+<SYNC Start="904530"><P Class="ENUSCC">Transfer Yumi.</P></SYNC>
+<SYNC Start="905810"><P Class="ENUSCC">Scanner Odd.</P></SYNC>
+<SYNC Start="907210"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="907860"><P Class="ENUSCC">Scanner Ulrich.</P></SYNC>
+<SYNC Start="909020"><P Class="ENUSCC">Scanner Yumi.</P></SYNC>
+<SYNC Start="910400"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="916580"><P Class="ENUSCC">Virtualization.</P></SYNC>
+<SYNC Start="918240"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="933090"><P Class="ENUSCC">Where’s Yumi?</P></SYNC>
+<SYNC Start="934240"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="935010"><P Class="ENUSCC">What? She’s not with you?</P></SYNC>
+<SYNC Start="936960"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="937390"><P Class="ENUSCC"><i>No, she wasn’t transferred.</i></P></SYNC>
+<SYNC Start="938980"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="943990"><P Class="ENUSCC">Over there!</P></SYNC>
+<SYNC Start="945080"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="952830"><P Class="ENUSCC">Laser arrow!</P></SYNC>
+<SYNC Start="954240"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="955860"><P Class="ENUSCC">Hurry, we’ve got to go and free Yumi.</P></SYNC>
+<SYNC Start="958170"><P Class="ENUSCC">Yumi? Yumi’s not…</P></SYNC>
+<SYNC Start="960400"><P Class="ENUSCC">The real Yumi.</P></SYNC>
+<SYNC Start="961990"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="962740"><P Class="ENUSCC">The one who’s here on Lyoko.</P></SYNC>
+<SYNC Start="964640"><P Class="ENUSCC">The other one was created by XANA.</P></SYNC>
+<SYNC Start="966880"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="967990"><P Class="ENUSCC"><i>Jeremie, whatever you do,<br>don’t go anywhere near Yumi.</i></P></SYNC>
+<SYNC Start="971680"><P Class="ENUSCC"><i>Do you hear me, Jeremie?</i></P></SYNC>
+<SYNC Start="973050"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="973600"><P Class="ENUSCC"><i>Jeremie!</i></P></SYNC>
+<SYNC Start="974900"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="987030"><P Class="ENUSCC">Yumi!</P></SYNC>
+<SYNC Start="988450"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="988970"><P Class="ENUSCC">What are you doing!</P></SYNC>
+<SYNC Start="991200"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1001700"><P Class="ENUSCC">Now!</P></SYNC>
+<SYNC Start="1002250"><P Class="ENUSCC">Laser arrow!</P></SYNC>
+<SYNC Start="1003440"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1008890"><P Class="ENUSCC">(CACKLES)</P></SYNC>
+<SYNC Start="1011150"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1019650"><P Class="ENUSCC">Y-a-a-a-a-h!</P></SYNC>
+<SYNC Start="1022880"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1026280"><P Class="ENUSCC">It’s a guardian.</P></SYNC>
+<SYNC Start="1027720"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1028360"><P Class="ENUSCC">A sort of digital jail adapted<br>to the body imprisoned in it.</P></SYNC>
+<SYNC Start="1031760"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1036110"><P Class="ENUSCC">I can’t destroy it with my weapons.</P></SYNC>
+<SYNC Start="1037760"><P Class="ENUSCC">I can create a clone--<br>a false image of Yumi.</P></SYNC>
+<SYNC Start="1040060"><P Class="ENUSCC">We can try to convince<br>the guardian that he’s mistaken.</P></SYNC>
+<SYNC Start="1043610"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1047750"><P Class="ENUSCC">Okay, let’s go.</P></SYNC>
+<SYNC Start="1049090"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1049550"><P Class="ENUSCC">(CELESTIAL HUMMING)</P></SYNC>
+<SYNC Start="1056130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1063690"><P Class="ENUSCC">Oh, wow! Piece of cake!</P></SYNC>
+<SYNC Start="1065850"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1072180"><P Class="ENUSCC">Yumi.</P></SYNC>
+<SYNC Start="1073310"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1073680"><P Class="ENUSCC">What? What happened?</P></SYNC>
+<SYNC Start="1075930"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1076480"><P Class="ENUSCC">Sorry, no time to explain.<br>We’ve got to deactivate the tower.</P></SYNC>
+<SYNC Start="1079530"><P Class="ENUSCC">Jeremie’s not responding.<br> I don’t understand.</P></SYNC>
+<SYNC Start="1081840"><P Class="ENUSCC">I have the feeling<br>that something’s wrong.</P></SYNC>
+<SYNC Start="1083750"><P Class="ENUSCC">He’s all alone with the other one.</P></SYNC>
+<SYNC Start="1085350"><P Class="ENUSCC">If she destroys the scanner, it’s all over.</P></SYNC>
+<SYNC Start="1087890"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1088200"><P Class="ENUSCC">The other? The other what?</P></SYNC>
+<SYNC Start="1090170"><P Class="ENUSCC">Who wants to wreck the scanner?</P></SYNC>
+<SYNC Start="1092150"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1092720"><P Class="ENUSCC">The other you.</P></SYNC>
+<SYNC Start="1094760"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1102270"><P Class="ENUSCC">What if something<br>has happened to Jeremie?</P></SYNC>
+<SYNC Start="1104320"><P Class="ENUSCC">And what if we don’t manage<br>to deactivate the tower in time?</P></SYNC>
+<SYNC Start="1107080"><P Class="ENUSCC">This is serious. Listen, one of us has to<br>go back to reality and right away.</P></SYNC>
+<SYNC Start="1110540"><P Class="ENUSCC">We don’t have much time.</P></SYNC>
+<SYNC Start="1111690"><P Class="ENUSCC">Right. I’ll go.</P></SYNC>
+<SYNC Start="1112680"><P Class="ENUSCC">No, it’s better if I go.</P></SYNC>
+<SYNC Start="1114130"><P Class="ENUSCC">I don’t know how many<br>life points I have left, Ulrich,</P></SYNC>
+<SYNC Start="1116430"><P Class="ENUSCC">and if I only have five or ten,<br>I won’t be of much use to you here.</P></SYNC>
+<SYNC Start="1119920"><P Class="ENUSCC">And also, I have a little matter<br>to deal with that only I can settle.</P></SYNC>
+<SYNC Start="1123580"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1123880"><P Class="ENUSCC">It’s between me and myself.</P></SYNC>
+<SYNC Start="1125580"><P Class="ENUSCC">Then you go.</P></SYNC>
+<SYNC Start="1126690"><P Class="ENUSCC">But first you have to<br>devirtualize yourself.</P></SYNC>
+<SYNC Start="1129050"><P Class="ENUSCC">The question is how.</P></SYNC>
+<SYNC Start="1130300"><P Class="ENUSCC">You’re armed, aren’t you?</P></SYNC>
+<SYNC Start="1132110"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1145310"><P Class="ENUSCC">You know what?</P></SYNC>
+<SYNC Start="1146680"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1147200"><P Class="ENUSCC">You look just like me<br>when I’m having a bad day.</P></SYNC>
+<SYNC Start="1149700"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1167230"><P Class="ENUSCC">Uh-oh. We’ve got company.</P></SYNC>
+<SYNC Start="1170270"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1172800"><P Class="ENUSCC">Odd, watch out.</P></SYNC>
+<SYNC Start="1174280"><P Class="ENUSCC">On your right.</P></SYNC>
+<SYNC Start="1175400"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1177950"><P Class="ENUSCC">How many life points do I have left?</P></SYNC>
+<SYNC Start="1179740"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1181030"><P Class="ENUSCC">I don’t know, but it’s<br>got to be less than 10 by now.</P></SYNC>
+<SYNC Start="1184040"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1196320"><P Class="ENUSCC">Yumi!</P></SYNC>
+<SYNC Start="1197360"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1203330"><P Class="ENUSCC">I’m still here?</P></SYNC>
+<SYNC Start="1204450"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1204730"><P Class="ENUSCC">Well, I guess I messed up<br>on my calculations.</P></SYNC>
+<SYNC Start="1206940"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1207470"><P Class="ENUSCC">You always were<br>a washout in math.</P></SYNC>
+<SYNC Start="1209360"><P Class="ENUSCC">Right, but thanks to you<br>I can count to three.</P></SYNC>
+<SYNC Start="1211540"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1218860"><P Class="ENUSCC">Aaaah!</P></SYNC>
+<SYNC Start="1221690"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1224200"><P Class="ENUSCC">Triplicate!</P></SYNC>
+<SYNC Start="1225240"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1234540"><P Class="ENUSCC">Fusion.</P></SYNC>
+<SYNC Start="1235860"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1238870"><P Class="ENUSCC">Aelita, you’re up.</P></SYNC>
+<SYNC Start="1240590"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1255830"><P Class="ENUSCC">Aaah!</P></SYNC>
+<SYNC Start="1257850"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1280430"><P Class="ENUSCC">(CACKLES)</P></SYNC>
+<SYNC Start="1282950"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1283550"><P Class="ENUSCC">Oh, no!</P></SYNC>
+<SYNC Start="1285840"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1293370"><P Class="ENUSCC">Aaaaah!</P></SYNC>
+<SYNC Start="1298270"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1317480"><P Class="ENUSCC"><i>That’s fantastic!</i></P></SYNC>
+<SYNC Start="1318810"><P Class="ENUSCC"><i>The fact that XANA was able to<br>materialize another Yumi</i></P></SYNC>
+<SYNC Start="1321600"><P Class="ENUSCC"><i>proves one thing.</i></P></SYNC>
+<SYNC Start="1322670"><P Class="ENUSCC"><i>It proves that materialization<br>is really possible.</i></P></SYNC>
+<SYNC Start="1325500"><P Class="ENUSCC">That’s crazy!</P></SYNC>
+<SYNC Start="1327140"><P Class="ENUSCC">XANA’s helping us<br>with our materialization research!</P></SYNC>
+<SYNC Start="1330760"><P Class="ENUSCC">Back to work then, Einstein.</P></SYNC>
+<SYNC Start="1332620"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1333010"><P Class="ENUSCC">No sweat.</P></SYNC>
+<SYNC Start="1333790"><P Class="ENUSCC">I’ll start programming again right now.</P></SYNC>
+<SYNC Start="1335790"><P Class="ENUSCC">But why bother?</P></SYNC>
+<SYNC Start="1337120"><P Class="ENUSCC">If I were you, I’d go and see XANA.</P></SYNC>
+<SYNC Start="1339220"><P Class="ENUSCC">He’s got the answer, so ask him!</P></SYNC>
+<SYNC Start="1340750"><P Class="ENUSCC">I wouldn’t trust him.</P></SYNC>
+<SYNC Start="1342110"><P Class="ENUSCC">Look at the Yumi he sent us.</P></SYNC>
+<SYNC Start="1343800"><P Class="ENUSCC">Oh, yeah? She wasn’t<br>that different from the original.</P></SYNC>
+<SYNC Start="1346350"><P Class="ENUSCC">She sure was!</P></SYNC>
+<SYNC Start="1347420"><P Class="ENUSCC">She didn’t fool me.</P></SYNC>
+<SYNC Start="1348970"><P Class="ENUSCC">I saw the difference as soon as<br>she started to flirt with me.</P></SYNC>
+<SYNC Start="1352430"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1352640"><P Class="ENUSCC">Really? Are you sure?</P></SYNC>
+<SYNC Start="1355610"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1356170"><P Class="ENUSCC">Do you have any proof that it’s<br>the real me you’re looking at?</P></SYNC>
+<SYNC Start="1359440"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1361590"><P Class="ENUSCC">What are you doing?</P></SYNC>
+<SYNC Start="1362840"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1365200"><P Class="ENUSCC">Uh, no. Cut it out.</P></SYNC>
+<SYNC Start="1366990"><P Class="ENUSCC">I’ve had enough of that for one day.</P></SYNC>
+<SYNC Start="1369290"><P Class="ENUSCC">You’re not jealous are you, Ulrich?</P></SYNC>
+<SYNC Start="1371130"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1372190"><P Class="ENUSCC">Sure looks like it!</P></SYNC>
+<SYNC Start="1373620"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1374140"><P Class="ENUSCC">(LAUGHING)</P></SYNC>
+<SYNC Start="1379770"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1381000"><P Class="ENUSCC">CLOSED CAPTIONING PROVIDED BY<br>REDDIT.COM/R/CODELYOKO</P></SYNC>
+<SYNC Start="1388990"><P Class="ENUSCC"></P></SYNC>
+</BODY>
+</SAMI>

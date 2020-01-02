@@ -1,0 +1,317 @@
+﻿# Exported by Aegisub 3.2.2
+MRS. MEYER: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+ODD: ♪ Ah-ah-ah-ah! ♪
+ODD: (INDISTINCT)
+: ♪ Ah-mm-ah ah-ah! ♪
+ULRICH: Hey, Odd, if you don’t mind,\NI’m trying to study!
+: ♪ Mm-mm-mm-mm! Mm-mm! ♪
+ODD: Yeah!
+: ♪ Ah-ah-ah-ah-- ♪
+ULRICH: Cut that out! Maybe you forgot,\Nbut we’ve got a test tomorrow!
+ULRICH: So stop!
+ODD: Huh? What did you say?\NI can’t hear a thing!
+ULRICH: I said I want to study, Odd!
+ODD: What’s the sense of you studying?
+ODD: Whatever you do, you’re still\Ngonna a zero in physics,
+ODD: so why not listen to what I\Ndownloaded from the web?
+ODD: Go on, listen to it!\NIt sure beats studying!
+ODD: It’s the cool music!
+: And nobody knows who wrote it, either!
+ODD: It’s an MP3 file, and it’s free!\NIt’s a pop rock revolution!
+ULRICH: You want a revolution?\NOkay, I’ll give you one.
+ULRICH: You don’t think of anyone\Nbut yourself, and I’m fed up!
+ODD: Hey, where you going?
+ULRICH: To Jeremie’s room.
+ULRICH: At least he knows you need\Npeace and quiet when you’re studying.
+ULRICH: He’s not like you, selfish!
+ODD: Don’t worry, Kiwi. He’ll get over it.
+ODD: ♪ Hm-hm hm-hm-hm ♪
+ODD: ♪ I’m so glad when you’re bad! ♪
+DEFAULT: (KNOCKING)
+JEREMIE: Ulrich? Uh, what’s the matter?
+ULRICH: Odd and his music are driving me nuts.
+JEREMIE: You’re not into heavy metal, pop, funk?
+ULRICH: Not when I have to study for an exam.
+ULRICH: Is it okay if I study in your room?
+JEREMIE: Sure.
+: I can even give you\Nsome help if you want.
+ULRICH: I could sure use some.
+ODD: ♪ So, so glad when you’re\Nreally ba-ah-ah-ad! ♪
+ODD: ♪ Oh, oh, oh! Ah-ah-ah! ♪
+ODD: ♪ Mm-mm-mm-mm\Nmm-mm-mm! ♪
+KIWI: (BARKS)
+JEREMIE: Time to get up, Ulrich!
+ULRICH: Too tired…
+JEREMIE: Do I have to remind you\Nyou have a test this morning?
+ULRICH: I didn’t get a lot of sleep.
+JEREMIE: How come?
+ULRICH: Well, I’ll tell you how come.
+ULRICH: Oh, Aelita!
+: Oh, Aelita,\Nyou’re in my dreams!
+: I can’t wait until--
+JEREMIE: Shh! She’ll hear you!
+ULRICH: Between you and Odd,\NI can’t study or sleep.
+JEREMIE: Hey, you’re not gonna tell anybody, huh?
+ULRICH: Promise, Romeo.
+JEREMIE: Let’s get some breakfast.
+ULRICH: Okay, but not with Odd.
+ULRICH: He made me so mad last night.
+JEREMIE: Whatever you say.
+MILLY: Have you finished the layout?
+TAMIYA: Yeah, sure.
+JEREMIE: How come Odd’s still not here?
+ULRICH: I couldn’t care less.
+NICHOLAS: What’s the song’s name?
+SISSI: The title is “Glad When You’re Bad.”
+SISSI: I honestly can’t believe\Nhow unhip you guys are!
+SISSI: You’re a couple of real losers.\NYou oughta go out once in a while!
+NICHOLAS: Well then fill us in, Sissi.\NWhat kind of music is it? Is it R&B?
+SISSI: R&B? Why not waltz music\Nwhile you’re at it…
+JEREMIE: Odd ought to be here.\NMaybe he didn’t wake up.
+ULRICH: Forget about it. It’s his problem.
+JEREMIE: Hey, chill out, you’re\Nmaking such a big deal
+JER: over a little bit\Nof loud music, Ulrich.
+JEREMIE: We can’t let him miss his exam.
+ULRICH: Yes, we can.
+DEFAULT: (SCHOOL BELL RINGS)
+YUMI: Hi.
+YUMI: Odd isn’t here?
+JEREMIE: No, and I’m beginning to worry.
+YUMI: Did you check in his room?
+JEREMIE: Not yet. We’re gonna do that right now.
+: Right, Ulrich?
+ULRICH: No, we’ll be late for the exam.
+JEREMIE: Not if we hurry.
+YUMI: Keep me posted, okay?
+ULRICH: He sang that same\Ndumb song over and over.
+ULRICH: And look. Now he’s fast asleep.
+JEREMIE: Let’s wake him up.
+JEREMIE: Hey Odd, get up, will you?
+JEREMIE: Hey!
+ULRICH: If this is a joke, it’s a bad one.\NAnd we’re gonna be late!
+JEREMIE: Something’s wrong!
+JEREMIE: Odd? Odd!
+JEREMIE: This isn’t a joke!
+YOLANDA: Odd? Odd? Can you hear me?
+YOLANDA: Call the hospital!
+YOLANDA: And tell them it’s very, very urgent.
+MR. DELMAS: Hello? This is the\Njunior high school here.
+MR. DELMAS: We need an ambulance immediately.
+YOLANDA: His blood pressure\Nand his heartbeat are slow.
+YOLANDA: I don’t understand.
+MRS. HERTZ: If we add up the resistances\Nin a continuous circuit,
+MRS. HERTZ: the intensity of the current diminishes.\NIn a derivative circuit, however,
+MRS. HERTZ: the current produced by the generator\Nis equal to the sum of the intensities
+MRS. HERTZ: in the derivative circuit branches.
+YUMI: Odd?
+YUMI: Sorry, Miss Hertz, it’s…\Nit’s Odd, he--
+MRS. HERTZ: Yumi!
+MRS. HERTZ: All right, settle down.
+YUMI: What’s the matter with him?\NIs it serious? Well, is it?
+JEREMIE: His heart’s beating very slowly.
+YUMI: XANA!
+JEREMIE: XANA’s not capable of\Nattacking human beings directly.
+ULRICH: If only I’d stayed with him last night,\Nthis wouldn’t have happened.
+ULRICH: We had a big fight,\Nand I slept in Jeremie’s room.
+YUMI: How could you have known that?
+ULRICH: I’m staying with him!
+MR. DELMAS: I’m sorry, Ulrich, but I can’t\Npermit you to leave the school grounds.
+ULRICH: I’m staying with Odd.
+MR. DELMAS: Ulrich, get away from that ambulance!
+MR. DELMAS: That is not the right way to help him!
+ULRICH: I don’t care.
+ULRICH: I can’t let him be taken away like this.
+MR. DELMAS: Alright, you can go.
+JEREMIE: I want to go with him too!
+YUMI: Are you crazy?
+YUMI: What if XANA launches an attack?
+JEREMIE: We’ll stay in contact.\NCall me if there’s the slightest problem.
+DOCTOR: We can’t handle many more emergencies.
+JEREMIE: Ulrich, stop. You’re not to blame.
+ULRICH: No, it’s all my fault.
+JEREMIE: No, it’s not.
+JEREMIE: Even if you had been there,\Nyou couldn’t have changed anything.
+JEREMIE: I’ll go get us a soda.\NIt’ll do us both good.
+ULRICH: I’m gonna go see Odd.\NI’ll see you in his room.
+NURSE: Doctor, two new cases have just arrived.
+NURSE: 40 heartbeats a minute.\NCan you take them?
+DOCTOR: Send them to the Johnson’s hospital.
+PA: Doctor Miller is wanted in cardiology.
+PA: Doctor Miller is wanted in cardiology.
+JEREMIE: Aelita?
+JEREMIE: Aelita?
+AELITA: Jeremie, how’s everything going?
+JEREMIE: Not good.
+JEREMIE: Odd’s in a coma, it’s really weird.
+JEREMIE: His heart has almost stopped beating.
+AELITA: Oh, no!
+JEREMIE: No one knows what to do,\Nand the weirdest thing of all
+JEREMIE: is that Odd may not be\Nthe only one hit by the illness.
+AELITA: Bizarre.
+AELITA: Do you think XANA’s capable\Nof creating a disease?
+JEREMIE: I can’t believe he was actually able\Nto attack humans directly.
+AELITA: Looks like he might’ve found a way.
+JEREMIE: Anyway, I’d better warn Ulrich and Yumi.
+JEREMIE: Meanwhile, see if you feel any pulsations.
+AELITA: Okay.
+YUMI: Sissi? Are you okay?
+YUMI: Sissi!
+YUMI: Hey, Sissi!
+YUMI: Oh, no!
+JEREMIE: Ulrich, I just spoke to Aelita.
+JEREMIE: She’s gonna try and see if XANA\Nis the cause of our problem.
+JEREMIE: If he did this, I can’t figure out how.
+JEREMIE: What I do know is that going to Lyoko\Nis the only way to save him, so let’s go.
+ULRICH: We’ll get you out of this.
+ULRICH: I swear we will.
+AELITA: Oh, no. XANA’s activated a tower.
+YUMI: Hey, Jeremie, how’s Odd?
+JEREMIE: His heart’s getting weaker and weaker!
+YUMI: Sissi’s got the same symptoms.\NIt’s spreading!
+JEREMIE: And it could be an epidemic\Nstarted by XANA!
+YUMI: Did you reach Aelita?
+JEREMIE: Yeah, I did. Get over to the factory, fast!
+DEFAULT: (CLASSICAL MUSIC)
+DEFAULT: (KNOCKING)
+YOLANDA: Oh, no! Sissi!
+YOLANDA: This way.
+YOLANDA: There. Set her down. Gently.
+DEFAULT: (“GLAD WHEN YOU’RE BAD” PLAYS)
+YUMI: Oh no, my head! That horrible song!
+YUMI: Dorothy!
+YUMI: The music! It’s definitely the music!
+DEFAULT: Connecting. Connecting.
+JEREMIE: Aelita, we’re in the lab.
+AELITA: Better hurry.\NThe pulsations are getting stronger.
+AELITA: The activated tower can’t be too far away.
+JEREMIE: Any monsters around?
+AELITA: Not yet, no.
+JEREMIE: Ulrich’s coming soon.\NStay where you are.
+AELITA: Okay, I’ll wait here.
+JEREMIE: Yumi!
+YUMI: Jeremie, it’s the song that’s causing it!
+JEREMIE: What do you mean, the song?\NI don’t understand.
+YUMI: It is! It’s the song “Glad When You’re Bad!”
+ULRICH: Oh, no!
+ULRICH: I think that’s the song Odd\Ndownloaded from the web yesterday!
+JEREMIE: XANA’s using the media\Nfor maximum coverage.
+YUMI: He’s formatted the song, and now,\Nhe’s spreading it all over!
+JEREMIE: A deadly melody.
+ULRICH: Considering what it’s done to Odd,\Nwe better deactivate the tower.
+ULRICH: Send Yumi as soon as she gets here.
+JEREMIE: I’ll send you north to the mountains.
+JEREMIE: Transfer Ulrich.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Virtualization.
+AELITA: Ulrich!
+ULRICH: We’ve got to get\Nto the activated tower fast.
+AELITA: Look, it’s there. You see?
+DEFAULT: Attention, please.
+DEFAULT: All available cardiologists\Nare urgently requested
+DEFAULT: to report to the flemming wing.
+ULRICH: Okay.
+AELITA: We’re at the tower.
+AELITA: There it is.
+NEWS PERSON LOL: This morning, we’ve been\Nswamped with calls
+NEWS PERSON LOL: warning us of a mysterious epidemic.
+NEWS PERSON LOL: For an update, let’s got to our reporter\NBill Amster who is on the scene.
+NEWS PERSON LOL: -Bill?\N-Thank you, Olivia.
+BILL: As soon as news of the\Nfirst cases were announced,
+BILL: I went to the neighborhood, and\Nthings here are dramatic to say the least.
+BILL: For now, it seems that the authorities\Ncan’t quote a figure on the number of people
+BILL: who have actually been\Nstricken by the illness.
+BILL: The victims seem to be\Nunder the spell of the disease
+BILL: whose origins are unknown,\Nand whose outcome could be fatal.
+JEREMIE: That’s what you think.
+BILL: Public health officials\Nare presently on the scene.
+YUMI: Hiyah!
+ULRICH: No monsters anywhere.\NThat’s suspicious.
+ULRICH: Ah, there you are.
+ULRICH: Aelita, take cover somewhere.
+ULRICH: Hiyah!
+AELITA: Ulrich!
+JEREMIE: Ulrich, you’re out of bounds\Nfor three minutes.
+YUMI: Everything okay on Lyoko?
+JEREMIE: Not really.
+JEREMIE: Ulrich’s frozen solid and Aelita’s alone.
+YUMI: I’m ready to go.
+JEREMIE: To the mountains.
+JEREMIE: Transfer Yumi.
+JEREMIE: Here we go.
+JEREMIE: Scanner Yumi.
+JEREMIE: Virtualization!
+JEREMIE: Ulrich, 30 seconds to go.
+YUMI: Stay behind me, Aelita.\NI’ll handle them.
+YUMI: How much longer, Jeremie?
+JEREMIE: He’s coming.
+ULRICH: Go!
+YUMI: Glad to see ya.
+JEREMIE: Better stay alert!\NTwo Bloks are on their way.
+ULRICH: That one’s yours, Yumi.
+JEREMIE: Well done.
+BILL: According to the public health department,\Nthe very first cases were discovered
+BILL: at Kadic Junior High School.
+JEREMIE: Huh?
+DEFAULT: [“Glad When You’re Bad” plays]
+JEREMIE: No!
+ULRICH: Jeremie, do you read me?
+ULRICH: Jeremie!
+ULRICH: Yumi, you and Aelita run to the tower.
+YUMI: You’re crazy!\NYou’ll never make it all alone!
+ULRICH: Who said I would be alone?
+ULRICH: Triangulate!
+ULRICH: Position! Go!
+ULRICH: Oh, no!
+ULRICH: What!
+YUMI: Aelita!
+YUMI: Hiyah!
+JEREMIE: Got to enter the coordinates\Nfor the return trip.
+JEREMIE: Launching!
+JEREMIE: I did it.
+JEREMIE: I did it!
+AELITA: Oh, no! Yumi!
+YUMI: No, Aelita!
+YUMI: Don’t worry about me, go on!
+AELITA: Ah!
+ODD: ♪ Mhmm! ♪
+ODD: ♪ Da-dat-dat-dat-eh-ah! ♪
+ODD: ♪ Mm-mm-mm-mm-mm-mm ♪
+ODD: Yeah!
+ODD: ♪ Ah-ha-ha-ha-ha-ha! ♪
+ULRICH: Hey, Odd, come on.\NI’m trying to study.
+ODD: What’s the sense in studying?
+ODD: You’re gonna get a zero!
+ULRICH: I’ve heard that twice already.\NThat’s enough.
+ODD: Hey, listen to what I\Ndownloaded from the web!
+ODD: It’s out of sight!
+ODD: “Under my Cover” by R.U. Fleggmatic!
+ODD: It’s incredible!
+ULRICH: Later, okay?
+ULRICH: For the time being, I’d like to study.
+ULRICH: And as for you, I wouldn’t say no\Nto your helping me a little.
+ULRICH: You’re so good in physics.
+ODD: That’s right! And if you want help,
+ODD: the reincarnation of Einstein\Nis willing to give a lesson
+ODD: to a sawdust-filled head!
+ULRICH: And I’ll listen to your song afterwards.
+ODD: Mmm…you don’t really have to.
+ODD: Actually, it’s pretty mainstream.
+ODD: It’s something that…\Nwhat I mean is…
+ULRICH: It’s the kind of song\Na machine might have written?
+ODD: Yeah, that’s right.
+ODD: See? You know a lot about music!
+ODD: ♪ Mm-m-m-m-mm ♪
+ULRICH: So, you gonna help me or what?
+ODD: Just a second!
+ULRICH: Yeah, yeah.
+ULRICH: We’ll see about that.

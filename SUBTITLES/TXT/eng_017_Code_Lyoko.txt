@@ -1,0 +1,356 @@
+﻿# Exported by Aegisub 3.2.2
+MRS. MEYER: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+DEFAULT: (PULSING)
+DEFAULT: (SINISTER MUSIC)
+MRS. HERTZ: Here we have the nanosphere
+MRS. HERTZ: that he nanotech services company\Nwas kind enough to lend us.
+MRS. HERTZ: Who can tell us\Nwhat nanotechnology is?
+MRS. HERTZ: Jeremie, go on.
+JEREMIE: It’s microscopic-sized technology.
+JEREMIE: There are nano motors,\Nnano circuit boards, and nano gears.
+MRS. HERTZ: Exactly.
+MRS. HERTZ: In the medical field, for example,\Nscientists are developing nano doctors,
+MRS. HERTZ: tiny machines which will be able\Nto travel through our bodies to combat disease.
+MRS. HERTZ: Scientific research, however,\Nstill has a long way to go.
+SISSI: Are these robots capable of fighting\Npimples, cellulite, and things like that?
+MRS. HERTZ: Yes, they can, but the priority\Nis for more serious illnesses.
+DEFAULT: (LAUGHTER)
+ODD: And nanotechnology\Ncan’t do a thing about stupidity!
+ODD: Poor Sissi! What a shame!
+MRS. HERTZ: All right, now. Quiet down.
+MRS. HERTZ: So, this nanosphere is used\Nto make microscopic devices.
+MRS. HERTZ: Strange…\Nit hasn’t been cleaned properly.
+MRS. HERTZ: There’s gelatin inside.
+ULRICH: Looks like the greasy stuff\NOdd puts on his hair every day.
+MRS. HERTZ: Well, since you think\Nyou’re so clever, Ulrich,
+MRS. HERTZ: why don’t you take a sample\N for us to examine?
+MRS. HERTZ: The gelatin is used as a culture\Nwhere nanodevices can develop.
+ULRICH: It looks an awful lot like jam.
+ODD: Sorry, but I just couldn’t resist!
+ULRICH: I’ll get you for that, Odd!
+MRS. HERTZ: This is a science class,\Nchildren, not a comedy club!
+JEREMIE: Wow, this nanotechnology is incredible.
+JEREMIE: Now there’s a field\NI’d like to work on in the future.
+YUMI: I have enough trouble\Nwith normal-sized technology,
+YUMI: much less microscopic.
+ODD: Hey, that looks good!\NCan I have some?
+ULRICH: Here.
+ULRICH: I warned you!
+ODD: Yeah…
+: but taking advantage\Nof my sweet tooth wasn’t fair!
+ULRICH: I said I’d--
+YUMI: Ulrich! What is it?
+ULRICH: It’s my head, I--
+JIM: What’s going on around here?
+YUMI: Ulrich passed out.
+JIM: I’ll take him to the infirmary.
+JEREMIE: He was just fine this morning.
+ODD: I know, it’s really weird.
+SISSI: Hmm…
+: All right.
+YOLANDA: Get some rest now, Ulrich.
+YOLANDA: What are you doing here?
+SISSI: I wanted to find out how Ulrich was.
+YOLANDA: Much better. He’s asleep.
+SISSI: Just a second, can I see him?
+YOLANDA: I don’t know, I, uh…
+SISSI: You see, I’m his best friend!
+YOLANDA: Oh, all right, but not for too long.
+SISSI: You’re so handsome when you sleep.
+ULRICH: Where am I, anyway?
+SISSI: In the infirmary. You passed out.
+ULRICH: The infirmary?\NWhat infirmary?
+ULRICH: Who am I! What’s my name?
+SISSI: Uh, Ulrich!
+ULRICH: Ulrich?
+SISSI: You must’ve hit your head\Nwhen you fell down.
+ULRICH: And who are you?
+SISSI: Me? I’m Sissi.
+SISSI: Sissi!
+SISSI: Your sweetheart!
+SISSI: Watch it!
+SISSI: Well, Ulrich,
+: when are you gonna admit\Nyou’re mad about me, huh?
+ULRICH: You’re kidding…
+ULRICH: I’m allergic to anyone who’s conceited!
+ULRICH: You’re your own favorite fan club!
+DEFAULT: (LAUGHTER)
+ULRICH: My sweetheart?
+YOLANDA: Well, our patient is awake, I see.
+YOLANDA: Ulrich, how are you?
+ULRICH: Uh…
+SISSI: Oh, much, much better!\NI’ll take him to his room!
+YOLANDA: Are you sure you’re all right?
+JIM: What is this, an epidemic?
+SISSI: Come on, hurry!
+MILLY: Well, what do you know?
+SISSI: See those three kids over there?
+SISSI: They’re your worst enemies!
+ULRICH: But why?
+ODD: Hey, it’s Ulrich!
+YUMI: What’s going on?\NWhy is he with Sissi?
+ODD: You feeling better, good buddy?
+ULRICH: Who are you, huh?\NLeave me alone, creep!
+ODD: Come one, Ulrich, it’s me! Odd!
+SISSI: That’s enough. Can’t you see?
+SISSI: He doesn’t want to know you,\Nso stay away from us, understand?
+ODD: What’s the matter with him?
+SISSI: Ulrich, these are your good friends,\NNicholas and Herb.
+HERB: Huh?
+SISSI: He forgets things!\NYou’d better remind him!
+ULRICH: I’m, um, very thirsty.
+SISSI: You know what\Nwould be good for you?
+SISSI: A walk in the park!
+ULRICH: Here, thanks!
+JEREMIE: He didn’t recognize us, it’s crazy!
+JEREMIE: Could be amnesia…
+YUMI: Let’s go see what the nurse says.
+JEREMIE: Good idea.
+ODD: I’ve gotta bring him back to his senses.
+ODD: Sissi and Ulrich?\NCan you believe that?
+SISSI: Here, you need the energy.
+SISSI: Ulrich, what do you feel knowing\Nyou’re with the prettiest girl in school?
+ULRICH: Well, to be honest, uh, nothing.
+SISSI: What did you say?
+ULRICH: What I mean is…\Nyou’re really not my type.
+SISSI: Hmph.
+ODD: Well, at least he’s not\Ncompletely out of his head yet.
+ULRICH: Hm?
+ULRICH: Hey, what are you doing? Spying on me!
+ODD: Uh, no! I-I was just--
+ULRICH: You’re a liar!
+ODD: Ulrich, cut that out!
+ODD: We’re buddies, remember?
+ULRICH: That’s not what she says,\N so get out of here, and make it fast!
+ODD: Okay, okay, don’t get all worked up!
+SISSI: Ulrich? Are you alright? Come on!
+ODD: Ulrich and Sissi. Just the two of you!
+ODD: This could be\Nthe beginning of a big romance!
+ULRICH: Ah, forget it!
+ULRICH: She’s gonna be a\Npain in the neck the whole time!
+SISSI: Come sit down, you need to rest.
+ULRICH: I’m sorry, but…
+ULRICH: What I need is to be alone.
+YOLANDA: The answer is no!
+YOLANDA: Can’t you see I have no time!
+YOLANDA: I don’t know what’s happening,\Nbut it’s an epidemic!
+YUMI: We can stay and help you if you want.
+YOLANDA: The best way to help\Nis to stay out of my way!
+YUMII: Maybe Odd had more luck.
+ODD: No doubt about it,\NUlrich’s got amnesia.
+ODD: I thought he was\Ngonna slug me just now!
+YUMI: It’s a real epidemic\Naccording to the nurse.
+JEREMIE: But you don’t just catch amnesia.\NIt’s not contagious.
+JEREMIE: Something’s really weird.
+YUMI: We’d better ask a doctor about it.
+ODD: Too bad that nano doctors don’t exist yet.
+JEREMIE: Nano doctor…
+JEREMIE: now I understand!
+ODD: Huh?
+YUMI: Misses Hertz?
+MRS. HERTZ: Oh, where am I?
+YUMI: You’ll be alright.
+JEREMIE: Look at this.
+ODD: It’s the gelatin from this morning!
+ODD: What are those ugly creatures?
+JEREMIE: What I was afraid of.
+JEREMIE: They’re nano viruses.
+JEREMIE: And XANA must have created them\Nto attack memory cells.
+YUMI: That means that it is contagious.
+JEREMIE: Like all viruses, you can catch it\Nfrom food, contact, sneezing…
+JEREMIE: Soon, the whole school\Nwill be infected, including us.
+ODD: A world without memory…
+YUMI: Under XANA’s control.
+JEREMIE: Let’s go to the factory fast.
+JEREMIE: Aelita must be in danger on Lyoko.
+ODD: And Ulrich! We’re gonna need him!
+YUMI: No, Odd, it’s Ulrich who needs our help.
+YUMI: He’ll only get well if we\Ncan deactivate the tower.
+JEREMIE: Yumi’s right.
+JEREMIE: Besides, if he can’t remember anything,\Nhe won’t be much good to us.
+ULRICH: E-Excuse me,\Ni-is my room around here?
+STUDENT: Has everyone gone crazy around here?
+STUDENT: Third door on the right.
+ULRICH: Uh…
+ULRICH: I don’t know who you are,\Nbut it seems we’re friends.
+ULRICH: Hm…
+DEFAULT: (LAUGHING)
+YUMI: Not a minute to lose!
+ULRICH: Huh? What’s going on around here?
+MR. DELMAS: (GROANING)
+ULRICH: Aah!
+YUMI: Ulrich, I’m so glad you came.
+YUMI: You really know how to\Ncheer someone up.
+ODD: Yeah!
+JEREMIE: Aelita!
+AELITA: I haven’t seen anything to worry about
+AELITA: either in the forest or in the desert area.
+JEREMIE: Okay, beam yourself\Nover to the mountains.
+JEREMIE: I’ll send Yumi and Odd to the glacier.
+JEREMIE: The activated tower’s gotta be somewhere.
+JEREMIE: Okay, ready for the north pole?
+JEREMIE: We’re on our way, Aelita.
+AELITA: Okay.
+JEREMIE: We’re in the tunnel in the park.
+JEREMIE: 10 seconds to transfer time.
+JEREMIE: Transfer Odd.
+JEREMIE: Transfer Yumi.
+JEREMIE: Scanner Odd.
+JEREMIE: Scanner Yumi.
+JEREMIE: Virtualization.
+JEREMIE: Okay, take the access on your right!
+ODD: Right, boss!
+JEREMIE: Aelita, anything new?
+AELITA: No.
+AELITA: I haven’t been all over yet,\Nbut still no vibrations.
+JEREMIE: Be careful.
+JEREMIE: Yumi and Odd are pretty far away.
+ULRICH: Ah…aaah!
+ODD: Watch out!
+JEREMIE: Yumi, you just lost 20 life points!
+ODD: Jeremie, we’ve got a welcoming committee.
+JEREMIE: Don’t panic, there’s just one Krab.
+JEREMIE: But it means the\Nactivated tower can’t be far.
+JEREMIE: I’ll warn Aelita.
+JEREMIE: He’s coming towards you, Yumi!
+YUMI: Don’t worry, he just wants to\Nplay hide-and-seek.
+YUMI: Playful little beast.
+ULRICH: Wow!
+JEREMIE: Ulrich!
+ULRICH: What am I doing here?\NWhat kind of place is this?
+JEREMIE: I can’t tell you now,\Nwe’ve got an emergency.
+ULRICH: Look, I can’t remember anything,
+ULRICH: but I know I have\Nsomething important to do here.
+ULRICH: Tell me what it is.
+JEREMIE: Well, uh…sure, why not?
+JEREMIE: Once you’re on Lyoko, you’ll have to\Ndo something, amnesia or not.
+ULRICH: What’s Lyoko?
+JEREMIE: It’s, uh…
+JEREMIE: Look…see that pillar behind you?
+JEREMIE: You’ve gotta slide up one level.
+JEREMIE: You’ll see a few scanners.\NGet into one of them and just wait.
+JEREMIE: You’ll get all the answers you want.
+YUMI: Yoo-hoo!
+YUMI: Over here!
+YUMI: Hey, crabby!
+: Hiyah!
+JEREMIE: Target hit!
+ODD: Nice going, Yumi!
+JEREMIE: Two things, guys.
+JEREMIE: One, Aelita’s waiting\Non the other side of the glacier.
+ODD: And two?
+JEREMIE: Two, Ulrich’s on the way.
+ODD: Ulrich?
+ODD: I’ll wait for him here.
+YUMI: Better hurry!
+JEREMIE: Transfer Ulrich.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Virtualization!
+ULRICH: Ouch!
+ODD: Welcome to the virtual world, Ulrich!
+ULRICH: What is this place?\NWhat are we here for?
+ODD: To fight, of course.
+ULRICH: To fight?
+ULRICH: I don’t know how to fight!
+ODD: But of course you do!
+ODD: You just forgot, but I will refresh your memory.
+ODD: Okay, come on!
+YUMI: Hello, Aelita!
+AELITA: I found the activated tower.\NWe’re almost there!
+YUMI: Lead the way!
+ULRICH: You’re just dodging my blows!\NDon’t you have a weapon?
+ODD: I have a few arrows,\Nbut I’d rather save them for now.
+ODD: And I don’t want to\Nhurt you with them, either.
+ULRICH: Oh, yeah? No kidding.
+AELITA: We’re almost there.
+YUMI: Yeah, it seems almost too easy.\NI have a funny feeling about this.
+YUMI: I’m sick of always being right.
+YUMI: That way!
+YUMI: Four against one.\NWell, it’s better than five or six.
+JEREMIE: Hang in there, girls,\NI’ll try to send you reinforcements.
+AELITA: First, let’s get rid of two of them.
+DEFAULT: (CELESTIAL HUMMING)
+AELITA: Hurry! It’s not gonna hold for long!
+ODD: Hey, you ought to save your strength.
+ODD: You’re gonna need it.
+ULRICH: Why, are there other levels?
+ULRICH: I like it here! It’s a video game, but for real!
+JEREMIE: Yeah, but now it’s time to stop.\NAelita and Yumi need you.
+ULRICH: Huh? Who said that?
+ODD: Jeremie. Come on!
+ULRICH: Hey, wait! We haven’t finished the game!
+JEREMIE: Again?
+JEREMIE: Yumi, be careful.
+JEREMIE: You’ve only got a few life points left.
+JEREMIE: Nice going, Yumi.
+YUMI: One to go!
+AELITA: Hurry, Yumi! The wall’s not gonna last!
+ULRICH: There! I win the game!
+ODD: Yeah, but you beat an ally!
+ULRICH: What?
+ODD: Now that you know who your friends are,\Nit’s time to meet your enemies.
+ULRICH: Huh? Enemies? What enemies?
+ODD: They’re Krabs. Monsters created by XANA.
+ODD: Listen, I can’t explain now.\NYumi and Aelita need our help.
+: And right now.
+ODD: To get rid of them,
+ODD: you have to hit the thing\Non their shell that looks like an eye!
+ULRICH: Sounds easy enough!
+ODD: Laser arrow!
+YUMI: Ulrich! Aah!
+ULRICH: What happened to her?
+ODD: Nothing serious.\NWe’ve gotta protect Aelita!
+ULRICH: I’ll take care of it.
+YUMI: It’s good to see Ulrich\N with his memory back again.
+JEREMIE: You’re wrong, he’s still got amnesia!
+YUMI: Hm?
+ULRICH: Yaaah!
+AELITA: Thanks for clearing the passage!
+ULRICH: Huh? She’s leaving?
+JEREMIE: Uh, not exactly total recall.
+ULRICH: Jeremie, I’m coming!
+ODD: No, I’m Odd!
+ODD: Here we go!
+DEFAULT: -Laser arrow!\N-Impact!
+JEREMIE: Great, guys! You’re one heck of a team!
+ULRICH: Is that it? No other players?
+ODD: No, we can go home. The game’s over.
+ULRICH: Huh? But how?
+ODD: Magic. Watch.
+JEREMIE: Return to the past now.
+MRS. HERTZ: Exactly.
+MRS. HERTZ: In the medical field, for example,\Nscientists are developing nano doctors,
+MRS. HERTZ: tiny machines which will be able\Nto travel through our bodies
+MRS. HERTZ: to combat disease.
+MRS. HERTZ: Scientific research, however,\Nstill has a long way to go.
+SISSI: Are these robots capable of fighting\Npimples, cellulite, and things like that?
+MRS. HERTZ: Yes, they can, but the priority\Nis for more serious illnesses.
+ODD: And nanotechnology\Ncan’t do a thing about stupidity!
+ODD: Poor Sissi. What a shame!
+MRS. HERTZ: All right, now. Quiet down.
+MRS. HERTZ: This nanosphere is used\Nto make microscopic devices.
+MRS. HERTZ: Strange…it hasn’t been cleaned properly.
+MRS. HERTZ: There’s gelatin inside.
+ULRICH: Looks like the greasy stuff\NOdd puts on his hair every day.
+MRS. HERTZ: Since you think you’re clever, Ulrich,
+MRS. HERTZ: why don’t you take a sample\Nfor us to examine?
+MRS. HERTZ: It’s used as a culture\Nwhere nanodevices can develop.
+ULRICH: Anyway, it looks an awful lot like jam.
+ULRICH: Let’s try to cook it! You never can tell!
+MRS. HERTZ: Ulrich! What are you doing?
+MRS. HERTZ: How dare you destroy school equipment!
+MRS. HERTZ: I’ll have to punish you severely for that,
+MRS. HERTZ: and it’s going to be\Na punishment you won’t forget!
+ULRICH: I hope not, Misses Hertz!\NI sure hope not!
+DEFAULT: (LAUGHTER)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

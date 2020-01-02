@@ -1,0 +1,329 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+DEFAULT: (GROWLING)
+AELITA: (SCREAMS)
+SISSI: Who is that screaming!
+: (YELLS)
+AELITA: Oh. W-Well, you are.
+: (GRUMBLES)
+SISSI: Do you know what time it is!
+AELITA: Uh…5 o’clock in the morning?
+SISSI: Y-Yes, that’s right!
+SISSI: And this is the third night in a row\Nyou’ve woken me up!
+SISSI: I have had it!
+AELITA: (SCREAMS)
+SISSI: Out of our way!
+AELITA: Don’t go in there!
+AELITA: There’s a huge wolf inside!
+SISSI: Oh, really?
+SISSI: Agh!
+AELITA: Huh?
+SISSI: A four-eyed wolf!
+DEFAULT: (LAUGHTER)
+: (MELANCHOLIC MUSIC)
+ODD: It’s a shame you didn’t\Ndream about me, Aelita.
+ODD: Because, you know me,\NI’m a real dream come true.
+ULRICH: More like a nightmare\Nto tell the truth, Odd.
+YUMI: These visions of yours\Nare becoming a real problem.
+JEREMIE: It all started at the Hermitage.\NI think you should go back there.
+ODD: What? Back to that old house?
+ODD: I’m not sure if you remember, but last time
+ODD: we were attacked by a cupboard,\Na lamp, and a gang of forks!
+AELITA: I don’t like that place. It scares me.
+YUMI: We don’t have any choice, Aelita.
+YUMI: If we don’t do something,\Nyour hallucinations could get worse.
+JEREMIE: Don’t worry. This time\Nwe’ll be with you.
+AELITA: My legs are shaking.
+AELITA: What’s happening to me?
+ODD: You’re scared. It’s nothing to worry about.
+ODD: It happens to Jeremie all the time.
+JEREMIE: Come on. We’ll see who’s scared!
+ODD: There! There!
+ODD: Stay down, boy!
+JEREMIE: See? Everything is just fine.
+DEFAULT: (HOWLS)
+AELITA: (SCREAMS)
+YUMI: Aelita! Are you okay?
+AELIA: Yes. I mean, I think so.
+JEREMIE: Did you have another vision?
+AELITA: Yes, but it was different this time.
+AELITA: It’s as if something, or someone,
+: was leading me to…
+AELITA: There was something\Nin a tree! Like that one!
+AELITA: Huh?
+AELITA: Mister Pϋck!
+JEREMIE: So, to make a long story short,
+JEREMIE: Aelita’s never seen this toy gnome,
+JEREMIE: but she’s been dreaming about it for days
+JEREMIE: and she knows it’s called Mister Pϋck.
+ULRICH: It’s not a gnome. It’s an elf.
+ODD: Well, whatever it is,
+: this whole story is\Ndefinitely paranormal.
+SISSI: Well, Aelita! Still playing with dolls?
+JEREMIE: Sissi, give that back right now!
+SISSI: Go fetch!
+NICHOLAS: (CACKLES)
+ULRICH: Hey!
+ULRICH: A bit of advice -- give me\Nthat toy right now.
+NICHOLAS: What toy? Heh!
+ODD: Herb!
+ODD: I dare you to take your\Nglasses off! Come on!
+SISSI: I got it!
+ULRICH: Uh-uh!
+MRS. MEYER: What is all this noise about?
+SISSI: Okay, you can have it.
+SISSI: But only because it’s you.
+MRS. MEYER: Right.
+MRS. MEYER: Look at this triangle marked A, B, C.
+MRS. MEYER: The point I is in the middle\Nof the segment AB…
+JEREMIE: What’s this key doing here?
+AELITA: What do you think it opens?
+JEREMIE: I sure wish I knew, but\NI have no idea at all.
+JEREMIE: Hey!
+JEREMIE: A locker! It’s the key to\Na train station locker!
+MRS. MEYER: Jeremie?
+MRS. MEYER: I’m listening.
+JEREMIE: Um…a complex number\Nis called transcendent
+JEREMIE: only if the rational coefficient's\Npolynomial root is a polynomial zero.
+MRS. MEYER: Yes, indeed. That is the\NSierpinski-Mazurkiewicz Paradox.
+MRS. MEYER: But it is not the answer\Nto our problem, so zero.
+DEFAULT: (LAUGHTER)
+DEFALUT: Train 6537 leaving\Non track 5. All aboard!
+JEREMIE: This is it.
+JEREMIE: Would you like to do the honors?
+ULRICH: "F. H." What does that stand for?
+ODD: Fuzzy hands? Fifty-cent hot dogs?
+ODD: Fried hegg?
+ULRICH: Egg doesn’t start with an H.
+ODD: Just testing to see if\Nyou were on your toes!
+ODD: Oh, wow! Music!
+JEREMIE: Certainly not.
+JEREMIE: Let’s see what we\Ncan come up with.
+JEREMIE: Franz Hopper’s diary!
+YUMI: Great!
+YUMI: Maybe we'll be able\Nto find out more
+YUMI: about the Hermitage’s\Nmysterious owner.
+JEREMIE: For sure.
+JEREMIE: But not right away --\Neverything is encrypted.
+JEREMIE: I’ll have to decode it first.
+ULRICH: How much time do you need?\NOne? Maybe two hours?
+JEREMIE: More like one or two years.
+: (RADIO PLAYS)
+ULRICH: Come on. Time to get up.
+ODD: Mhhn. Just a little bit longer!
+ULRICH: I’m gonna take a shower.
+DEFAULT: (UNNERVING MUSIC)
+KIWI: (BARKS)
+ODD: GAAAAH!
+ODD: Ulrich, you here?
+ULRICH: Ahhg!
+ULRICH: (COUGHS)
+ULRICH: Jeremie! Jeremie!
+JEREMIE: Huh? What?
+ODD: XANA's ghosts attacked us!\NMe and Ulrich.
+JEREMIE: What?
+ULRICH: Don’t worry. No harm done.\NThey ran away.
+JEREMIE: The superscan didn’t detect\Nany activated towers.
+JEREMIE: XANA’s attack failed.
+JEREMIE: That’s weird. XANA can posses\Nhumans, but not you two.
+ODD: It must have something\Nto do with sex appeal.
+JEREMIE: Yeah, right. I’m sure of that.
+ODD: See you later!
+JEREMIE: Wha--gaaah!
+JIM: Running is the noblest event in athletics.
+JIM: Except maybe for the long jump.
+JIM: Or the shot put, javelin,\Nhigh jump…pole vault.
+JIM: Some of you may associate\Nrunning with cowardice.
+JIM: As in running away.
+JIM: Nothing could be\Nfurther from the truth
+JIM: since he who runs well goes far!
+JIM: (CHORTLES)
+JIM: Jeremie!
+JIM: Uh, let’s see how\Npowerful your strides are.
+JIM: Hmph. For those of you\Nwith short memories,
+JIM: Let remind you that, uh…
+JIM: What was I gonna say?\NUh, right.
+JIM: Uh, may I remind you\Nthat we start when I say go.
+JIM: Not on "get set"\Nand not on "ready."
+JIM: I mean, well, after "ready."\NGet set is when I say "go."
+JIM: Right.
+JIM: Okay.
+JIM: On your marks.
+JIM: Get set.
+JIM: Go!
+JEREMIE: Uhg! Ouch!
+JIM: What now?
+JEREMIE: I twisted my ankle!
+JIM: Yeah, of course you did!
+JIM: You don’t get strong muscles\Nsittin' in front of a computer!
+JIM: Herb, take him to the infirmary.
+JEREMIE: Jim…
+JEREMIE: Would you mind if Aelita\Ncame with me instead?
+JIM: Okay, whatever.
+JIM: Go on, then.
+JIM: Take him far away from me!
+AELITA: Jeremie? You’re not limping anymore.
+AELITA: Has your ankle stopped hurting?
+AELITA: Aah!
+JEREMIE: Gah!
+DEFAULT: (CELL PHONE VIBRATES)
+ULRICH: Yumi.
+YUMI: Ulrich, I think Jeremie’s been\Npossessed by XANA!
+ULRICH: Are you sure?\NThis morning, Odd and I
+ULRICH: were almost possessed\Nby a couple of ghosts,
+ULRICH: but they didn’t succeed.
+ULRICH: Why would it work on Jeremie?
+YUMI: No idea, but I saw him\Nheading for the park lands.
+YUMI: Aelita’s in his arms.\NShe was unconscious.
+ULRICH: Oh, no.
+YUMI: I’ll check the superscan.
+YUMI: Let’s meet at the factory.
+ULRICH: Okay.
+JIM: Pitiful!
+JIM: A slug coulda made it around faster!
+JIM: Ulrich, I’m counting\Non you to raise the level!
+ULRICH: Uh, okay!
+ULRICH: But I’ve gotta go to\Nthe restroom first.
+ODD: Oh, and I gotta go too, Jim!
+JIM: (SIGHS)
+JIM: Okay, okay!
+JIM: Make it snappy!
+JIM: Right, which one of you wimps is next?
+YUMI: Sector One. The ice territory.
+YUMI: South-southeast.
+YUMI: Huh?
+ULRICH: Yeah.
+YUMI: XANA's attacked!
+YUMI: We have to stop Jeremie, and fast, too.
+ULRICH: Okay. We’re on it!
+AELITA: Jeremie!
+AELITA: Jeremie, no! Listen to me, please!
+ODD: So, you going down, too?
+ODD: Boy, it’s totally weird to be\Nfighting against Jeremie.
+ODD: I mean I don’t want\Nto hurt him, but…
+ODD: (WHIMPERS)
+ULRICH: Heah!
+ULRICH: Yeagh!
+ULRICH: Agh!
+AELITA: (SCREAMS)
+YUMI: Hiyah!
+YUMI: Quick. We’ve gotta get to Lyoko.
+YUMI: Here.
+YUMI: These are the coordinates\Nof the activated tower.
+ODD: You guys go ahead.\NI’ll take care of him!
+ODD: (GROWLS)
+ODD: Okay! Over here, twinkle fingers!
+ODD: I have a good feeling\Nwe’re really gonna hit it off!
+YUMI: How are you doing, Aelita?
+YUMI: Think you can handle it?
+AELITA: I’m not as good as Jeremie at it.
+AELITA: The virtualization countdown\Nhas been launched.
+AELITA: Look! There!
+AELITA: He who runs well goes far!
+YUMI: Is Odd the one who\Nteaches you nonsense like that?
+AELITA: No. As a matter of fact, it’s Jim!
+ODD: Whoa!
+ODD: I’m sure glad that post was\Nthere and not my face.
+ODD: Got any other tricks up your sleeve?
+DEFAULT: (THUNK)
+ODD: Uh-oh! That wasn’t\Nvery smart, was it?
+ODD: Especially since you’re\Nthe one who’s gotta fix it.
+ULRICH: Keep your eyes open, huh.
+ULRICH: We don’t have Jeremie to\Nwarn us about monsters this time.
+DEFAULT: (RUMBLING)
+ULRICH: Uh-oh. I don’t like the sound of that.
+ODD: How can you have\Na decent discussion
+ODD: with someone who has\Nno sense of humor!
+ODD: Oh, easy does it!
+ODD: Hah ha! Not so clever now, huh?
+YUMI: Bloks!
+ODD: Take this!
+ODD: Aaaah! G-g-g-g-gaaah! Whoa!
+ULRICH: Aah!
+ULRICH: Yumi, protect Aelita!
+ULRICH: I’ll take care of the bloks!
+YUMI: Right!
+ULRICH: Triplicate!
+ULRICH: Fusion!
+ODD: Hey, sparky!
+ODD: Scared of heights, huh?
+ODD: O-Okay, so you’re not\Nscared of heights.
+YUMI: Nice one, Aelita!
+ULRICH: I’m gonna knock your block off,\Nyou dumb blockhead!
+YUMI: Sounds like you miss Odd!
+YUMI: Your jokes are worse than his!
+YUMI: That’s what I call a job--
+JEREMIE: Materialization Yumi.
+AELITA: Yumi.
+AELITA: Ulrich!
+ULRICH: Hang on!
+ULRICH: I’m coming!
+ULRICH: Trangulate!
+AELITA: The scyphozoa!
+ULRICH: Aelita!
+ODD: Uh-uh!
+ODD: It’s not nice to devirtualize\Nyour best friends!
+ULRICH: Super sprint!
+AELITA: Thanks, Ulrich.
+ULRICH: No sweat.
+ULRICH: Head for the tower.\NI’ll take care of this overgrown bug.
+ODD: Oh, never trust a guy with glasses.
+AELITA: Tower deactivated.
+YUMI: Well?
+YUMI: How are you feeling?
+JEREMIE: Ugh.
+JEREMIE: Strange.
+JEREMIE: I remember talking to Odd and Ulrich,
+JEREMIE: and then after that, nothing.\NJust a black hole.
+AELITA: XANA took control of you.
+ULRICH: He destroyed all of Franz Hopper’s CD’s.
+ULRICH: Apparently he had a problem with his notes.
+JEREMIE: Whew.
+ODD: What do you mean, “whew?” It’s a disaster!
+JEREMIE: No, it isn’t.
+JEREMIE: Last night, when I got back\Nfrom the train station,
+JEREMIE: I stopped in here and I copied the CD’s
+JEREMIE: onto a highly restricted access\Npart of the supercomputer.
+JEREMIE: I'm the only one who can access them.
+AELITA: You’re a genius, Jeremie!
+ULRICH: Still, there’s something I don’t get.
+ULRICH: Why couldn't XANA’s ghosts\Ntake control of Odd and me
+ULRICH: and have no trouble controlling Jeremie?
+JERMIE: No idea.
+YUMI: I might have an explanation.
+YUMI: Apart from you, we’re all\Nused to fighting on Lyoko.
+YUMI: Maybe that gives us\Nmore resistance to XANA.
+JEREMIE: Maybe.
+JEREMIE: But then how can we protect me?
+ODD: Hmn.
+ODD: I just might have the answer.
+DEFAULT: (SCANNER REVVING)
+JEREMIE: Ugh.
+ODD: Well?
+JEREMIE: That’s the last time\NI ever set foot on Lyoko!
+ULRICH: Why?
+ULRICH: Just because of a couple of megatanks?
+JEREMIE: It’s really just not my thing!
+JEREMIE: I’ll never be able to hack it!
+JEREMIE: You know, I think I’d rather\Nbe possessed by XANA
+JEREMIE: than go back there.
+JEREMIE: I’ll keep on the lookout for ghosts, that's all.
+AELITA: Well?
+AELITA: What did he look like on Lyoko?
+ODD: He looked…how--\Nhow can I say this tactfully?
+ULRICH: Ridiculous.
+ODD: That’s the word.
+DEFAULT: (LAUGHTER)
+YOUNG AELITA: Come on, Mister Pϋck.
+YOUNG AELITA: Let’s go for a walk in the garden.
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

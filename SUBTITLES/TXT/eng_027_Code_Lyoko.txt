@@ -1,0 +1,438 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+DEFAULT: (ENGINE WHIRRING)
+ODD: Woohoo!
+ODD: You’re really doing\Na great job, Jeremie!
+ODD: XANA better be\Nbehaving himself
+ODD: now that we’ve\Ngot these things!
+ODD: Whoa!
+ODD: Hah ha!
+JEREMIE: Be careful all the same!
+ODD: Don’t worry, Einstein.\NI know how to ride!
+ODD: No way I’m gonna\Nlet Ulrich beat me!
+ODD: Wahoo!
+ULRICH: Oh, no you don’t.
+DEFAULT: (ENGINE REVVING)
+ODD: Hah ha!
+JEREMIE: Odd, I didn’t have time
+JEREMIE: to perfect the program\Nthat calculates trajectory!
+ODD: Yeah!
+ODD: Huh?
+ODD: (YELLS)
+ULRICH: (CHUCKLES)
+YUMI: Odd!\N
+AELITA: Are you okay?\N
+ODD: Oh, yeah.
+ODD: There’s still some work to do\Non the Overboard, Jeremie.
+JEREMIE: Maybe it’s the rider\Nwho needs the work!
+ULRICH: What happened, Odd?\N You miss a step?
+ULRICH: (CACKLES)
+ODD: Very funny.
+ODD: I’d like to see you\Non an Overboard!
+ULRICH: I guess surfing’s\Nnot my thing.
+JEREMIE: Uh, sorry to interrupt your\Nfascinating conversation,
+JEREMIE: but it looks like XANA\Nhas spotted you.
+JEREMIE: There’s something\Ncoming your way!
+DEFAIULT: (BEEPING)
+JEREMIE: But that’s really weird.\N
+JEREMIE: I…I can’t tell what it is.
+YUMI: Hey.\N
+YUMI: what’s that?\N
+ULRICH: I don’t know, but it\Nlooks like trouble.
+ULRICH: Big time.
+AELITA: I’ve never seen a monster\Nlike that one before.
+AELITA: XANA must’ve just created it.
+JEREMIE: In any case, it says here
+JEREMIE: that it’s got more life points\Nthan the others.
+DEFAULT: (GASPS)
+DEFAULT: (SCREECHING)
+YUMI: Jeremie, how about\Nreprogramming our vehicles?
+JEREMIE: I’m on it already.\NBut it’s gonna take time.
+ULRICH: On my signal.\N
+YUMI: I’ll go first\N
+ODD: And I’m gonna keep it busy.
+ULRICH: Now!
+JEREMIE: Aelita, there’s a deactivated\Ntower not far away.
+JEREMIE: Direction -- north by northwest.
+JEREMIE: Get out of there and\Ncome and meet me,
+JEREMIE: but hurry up!
+ODD: Hey, you overgrown spider!
+ODD: Looking for me?
+DEFAULT: (SCREECHES)
+JEREMIE: Odd, you just lost 20 life points.
+JEREMIE: It’s got a powerful laser!
+ODD: What does it take\Nto destroy this thing?
+JEREMIE: Vehicles ready.
+ODD: Well, it’s about time!
+JEREMIE: Come on! I’m doing my best!
+ODD: Let me go first.
+YUMI: Go on.\N We’ll be watching you.
+ODD: Laser arrows!
+ODD: This thing is really unbeatable!
+YUMI: Need a hand?
+ODD: Laser arrows!
+DEFAULT: (SCREECHES)
+JEREMIE: If XANA’s gonna start\Nprogramming new monsters,
+JEREMIE: it means our troubles, guys,\Nhave only just begun.
+ODD: Anyway, Einstein,\None thing is sure --
+ODD: you’re gonna have to\Nprogram our vehicles faster.
+ODD: Otherwise, we don’t stand a chance\Nagainst those tarantulas!
+YUMI: Your aunt what?
+ODD: Tarantulas! The new monsters.
+ODD: I like to give my enemies a name.
+JEREMIE: What worries me is\Nthat our friend, XANA,
+JEREMIE: has obviously found a way\Nto increase his power.
+ULRICH: You think he’s still evolving?
+JEREMIE: Maybe so.
+JEREMIE: In any case, from now on,
+JEREMIE: we have to be ready for\Nanything and everything.
+AELITA: Maybe I’d better\Nget back to Lyoko.
+AELITA: If XANA activates a tower,\NI’d better be there.
+JEREMIE: Uh, should we tell her?
+AELITA: Hm?
+YUMI: Well, of course\Nwe should tell her!
+YUMI: Why keep good news\Nlike that a secret?
+AELITA: Keep what a secret?
+AELITA: Would someone please\Ntell me what’s going on?
+JEREMIE: Over the past few weeks,\NI’ve spent all of my time
+JEREMIE: developing the vehicles and\Nan antivirus to free you from XANA,
+JEREMIE: and I also perfected\Na whole new program
+JEREMIE: for detecting activated towers.
+ODD: A super scanner!
+ODD: Much more accurate\Nthan the old one.
+JEREMIE: With instant detection.
+JEREMIE: Meaning -- you don’t have to\Nstay on Lyoko all the time!
+AELITA: So I’m gonna live…
+ULRICH: Here. With us.
+ULRICH: We’ve already enrolled you\Nas a boarder at the school.
+YUMI: Everything’s all set up.
+YUMI: We wanted to surprise you.
+AELITA: I…
+AELITA: This is so wonderful!
+AELITA: I can’t believe it!
+JIM: And this is your room.
+JIM: It’s not very big, but\Nyou’ll like it here, Miss, u
+AELITA: Stones.
+AELITA: Aelita Stones.
+AELITA: Like the rock group.
+AELITA: I’m Odd’s cousin from Canada.
+JIM: Oh.
+JIM: So, Aelita, breakfast\Nstarts at 7 AM,
+JIM: and dinner’s at 7 PM.
+JIM: It’s against the rules\Nto be in your room
+JIM: between 8 AM and 4:30 PM
+JIM: You can ask your friends,
+JIM: Della Robbia,\NStern, and Belpois,
+JIM: to fill you in on\Nthe rest of the rules.
+JIM: That is, if they can\Nremember them.
+JIM: Hmph.
+MRS. HERTZ: I don’t want to\Nhear another word
+MRS. HERTZ: about the school newspaper.
+MRS. HERTZ: This excursion is for eighth-\Nand ninth-graders only.
+MRS. HERTZ: Is that clear?
+TAMIYA: (SIGHS)
+MILLY: Oh, rats.
+KIWI: (GROWLS)
+ODD: Kiwi!\N
+ODD: Stop wiggling around!\N
+ODD: Five more minutes, and you can\Nrun around all you want to.\N
+JEREMIE: Hey. Is everything okay, Aelita?\N
+JEREMIE: Are you all settled in?\N
+AELITA: Yes, I am.\N
+AELITA: And I love my room.\N
+AELITA: Hey, what’s this field trip\Neverybody’s talking about?\N
+JEREMIE: We’re gonna make\Na biodiversity scrapbook.\N
+JEREMIE: Misses Hertz wants\Nus to take pictures\N
+JEREMIE: and to draw plants and flowers.\N
+JEREMIE: That kind of thing.\N
+JEREMIE: You and I have been\Npaired up to work together.\N
+AELITA: Great!\N
+ODD: Anyone seen Ulrich?\N
+AELITA: He’s under the arches.\N
+AELITA: I think he’s waiting for Yumi.\N
+ULRICH: Okay. Yumi, there’s\Nsomething I have to tell you.\N
+ULRICH: No, that doesn’t sound right.\N
+ULRICH: Um…Yumi, there’s\Nsomething serious\N
+ULRICH: you and I have\Nto talk about.\N
+ULRICH: No, she’ll freak out if I say that.\N
+ULRICH: Right.\N
+ULRICH: Yumi! You and I have to--
+ULRICH: Yumi!
+ULRICH: I-I have something to tell you.\N
+WILLIAM: Yo, Yumi!\N
+WILLIAM: Uh, Misses Hertz said okay.\N
+WILLIAM: We can work together\Non the field trip!\N
+YUMI: Hey.\N
+YUMI: William, do you know Ulrich?\N
+WILLIAM: Huh.\N
+WILLIAM: Oh, you’re Ulrich Stern.\N
+WILLIAM: Yumi mentioned you.\N
+WILLIAM: Ready to go?\N
+YUMI: Coming.\N
+YUMI: Didn’t you have\Nsomething to tell me?\N
+ULRICH: I’ll tell you later.\N
+YUMI: See ya later!\N
+ODD: Hey! What are you doing?\N
+ODD: Everyone’s leaving!\N
+ODD: We have to be back by six.\N
+ULRICH: Who is that guy.\N
+ODD: Oh, who? Him?\N
+ODD: That’s William.\N
+ODD: He’s the new guy.\N
+ODD: He got kicked out\Nof his last school.\N
+ODD: He’s totally cool.\N
+JEREMIE: Did you know that trees\Ngrow new branches\N
+JEREMIE: from one year to the next\N
+JEREMIE: according to an\Nexponential ratio of 1.6?\N
+AELITA: 1.618 to be exact.\N
+AELITA: It’s the golden ratio.\N
+AELITA: Say, do you think nature obeys\Nnonlinear equation systems?\N
+SISSI: Can you believe those two?\N
+SISSI: Who do they think\Nthey are, anyway?\N
+SISSI: Mr. and Mrs. Einstein?\N
+NICHOLAS: Uh...who?\N
+HERB: Hey, Sissi, where are you going?\N
+HERB: The woods are this way.\N
+SISSI: Yes, but the stores are that way.\N
+HERB: But we’re supposed to draw plants.\N
+HERB: There’s a florist\Nin the shopping center.\N
+NICHOLAS: Erm…\N
+HERB: Oh.\N
+JEREMIE: There aren’t any\Nmonsters in these woods!\N
+JEREMIE: That only happens in fairy tales\N
+JEREMIE: or in silly horror pictures.\N
+JEREMIE: (CHUCKLES) The kind that Odd likes!
+AELITA: You don’t like horror films?\N
+JEREMIE: I find them inaccurate\Nscientifically speaking.\N
+JEREMIE: Anyway, I don’t have time\Nto go to the movies.\N
+JEREMIE: I’ve got my work\Ncut out for me with XANA.\N
+JEREMIE: Huh?\N
+JEREMIE: Oh, no. I don’t believe it!\N
+JEREMIE: I left my laptop in my room.\N
+JEREMIE: What if XANA attacks?\N
+AELITA: Well, run back and get it!\N
+AELITA: I’ll just keep working by myself.\N
+AELITA: Anyway, with the drawings\Nwe’ve already done,\N
+AELITA: I’m sure we’ll get\Nthe highest grade.\N
+JEREMIE: Yeah. Be right back!\N
+AELITA: Bye.\N
+ODD: Oh, stop freaking out!\N
+ODD: You know Yumi’s\Ncrazy about you!\N
+ULRICH: That’s what you think.\N
+ULRICH: Actually, I have no idea.\N
+ODD: I can’t figure you guys out.\N
+ODD: Are you going out together or not?\N
+ULRICH: Um…not really.\N
+ULRICH: It’s complicated.\N
+ULRICH: Right now, I’ll bet he’s\Ncompletely snowing her.\N
+WILLIAM: I wouldn’t really\Ncall myself a rebel.\N
+WILLIAM: I’m just a little…rebellious.\N
+YUMI: Well, you did manage to get yourself
+YUMI: kicked out of your last school
+YUMI: putting posters all over the place.\N
+WILLIAM: I object, your honor!\NExtenuating circumstances!\N
+WILLIAM: They were love letters.\N
+YUMI: You mean love makes you crazy?\N
+WILLIAM: Makes me totally insane.\N
+WILLIAM: (CHUCKLES LIGHTLY)
+DEFAULT: (LEAVES RUSTLING)
+AELITA: Monsters only exist in fairy tales.\N
+AELITA: Monsters only exist in fairy tales!\N
+DEFAULT: (HOWLING)
+DEFAULT: (BEEPING)
+JEREMIE: Just what I was afraid of.\N
+JEREMIE: XANA’s attacking!\N
+ODD: I don’t think I have\Nto remind you\N
+ODD: that we haven’t done a single\Ndrawing since we got here.\N
+ODD: I don’t even want to think about\Nthe grade we’re gonna get.\N
+ULRICH: Go ahead. You draw.\N
+ULRICH: You’re better at it than I am.\N
+DEFAULT: (CELL PHONE RINGS)
+ULRICH: Jeremie?\N
+JEREMIE: I’m at school.\N
+JEREMIE: XANA’s attacking.\N
+JEREMIE: I’ll head for the factory,\N
+JEREMIE: but you guys have to go\Npick up Aelita on the way.\N
+ULRICH: No problem. We’ll go and get her.\N
+JEREMIE: I left her on the red trail.\N
+JEREMIE: Is Yumi with you?\N
+ULRICH: No.\N
+ULRICH: I’d rather you call her yourself.\N
+ULRICH: See you in a minute.\N
+WILLIAM: Actually, I don’t do anything halfway.\N
+WILLIAM: No way -- it’s all\Nor nothing with me.\N
+WILLIAM: I just can’t bring\Nmyself to be sensible.\N
+WILLIAM: But, hey,\N
+WILLIAM: being sensible\Nis just not sensible.\N
+YUMI: You stole that line\Nfrom the Subsonics.\N
+WILLIAM: You listen to them?\N
+YUMI: Yeah, they’re awesome.\N
+DEFAULT: (CELL PHONE RINGS)
+YUMI: Yes?\N
+WILLIAM: Well, It’s about time we\Ngot back to work, huh?\N
+WILLIAM: Yumi?\N
+WILLIAM: Yumi!\N
+AELITA: (PANTING)
+AELITA: “The Hermitage.”\N
+AELITA: Is…is anybody home?\N
+ODD: Are you sure this is the place?
+ULRICH: That’s what Jeremie told me.\N
+ULRICH: Look!\N
+ODD: Let’s follow him!\N
+ULRICH: Are you sure?\N
+ODD: He may be a little dumb,\N
+ODD: but he does have a good nose.\N
+DEFAULT: (CRACKLING)
+ULRICH: Huh?\N
+ULRICH: Hiyah!\N
+YUMI: Hey!\N
+YUMI: Nervous, aren’t we.\N
+YUMI: What a warm welcome. Nice.\N
+ODD: Yumi, we can’t find Aelita!\N
+DEFAULT: ♪ (PLAYING TWINKLE, TWINKLE, LITTLE STAR)
+DEFAULT: (ATONAL)
+JEREMIE: Don’t tell me you\Nhaven’t found her yet!\N
+JEREMIE: What have you guys been doing?\N She may be in big danger!\N
+ODD: Chill, Jeremie, okay?\N
+ODD: We’re doing everything we can!
+ODD: Who knows. Maybe Aelita\Njust went back to school.\N
+ODD: Kiwi led us to an\Nold house in the woods.\N
+ODD: We’re gonna take a look inside.\N
+ODD: We’ll call you back\Nif we have any news.\N
+ULRICH: Aelita?\N
+ODD: It’s locked!\N
+ULRICH: No signal.\N
+YUMI: Look out!\N
+ULRICH: That way.\N
+ULRICH: Are you thinking\Nwhat I’m thinking?\N
+YUMI: XANA.\N
+ODD: Yeah, and that means Aelita\Nmust be here somewhere.\N
+ULRICH: Hey, Odd! Watch out!\N
+YUMI: Looks like XANA’s trying\Nto lead us somewhere.\N
+DEFAULT: -Aelita!\N-Aelita!\N-Aelita!
+ULRICH: Don’t worry, princess. We’re here.\N
+AELITA: Ulrich.\N
+AELITA: It’s a trap.\N
+AELITA: XANA. He’s going to--\N
+ODD: Get Aelita out!\N
+ODD: You’ll be cooked alive if we\Ndon’t get you out of there!\N
+ULRICH: Odd!\N
+ULRICH: Run to the factory with Aelita.\N
+ULRICH: Deactivate the tower.\N
+ULRICH: It’s our only hope.\N
+ODD: Come on.\N
+ODD: I knew it.\N
+ODD: Now we’ll have to\Ngo above ground.\N
+ODD: Wait!\N
+ODD: Kiwi!\N
+AELITA: Odd.\N
+AELITA: There’s a passage over there.\N
+AELITA: I...I think it leads to the sewers.\N
+ODD: This is no time for jokes, Aelita.\N
+AELITA: I’m not joking, Odd.\N
+AELITA: I’m sure.\N
+ODD: Wow, incredible!\N
+ODD: How did you know about this?\N
+ULRICH: Yumi, I um…\N
+ULRICH: Forget it, Ulrich.\N
+YUMI: I should’ve told you\Nabout William sooner.\N
+ULRICH: Yeah, that would’ve been better.\N
+JEREMIE: Aelita!\N
+JEREMIE: I was really worried.\N
+ODD: No time to lose, Einstein.\N
+ODD: Otherwise, Ulrich and Yumi\Nwill end up like dim sum!\N
+JEREMIE: Okay. Head for the scanners.\N
+JEREMIE: I’ll start the process.\N
+JEREMIE: Transfer Aelita.\N
+JEREMIE: Transfer Odd.\N
+JEREMIE: Scanner Aelita.\N
+JEREMIE: Scanner Odd.\N
+JEREMIE: Virtualization.\N
+JEREMIE: Aelita, the overwing is for you.\N
+ODD: Our taxis are waiting for us.\N
+ODD: Let’s go.\N
+ODD: Tower dead ahead.\N
+JEREMIE: Be careful.\N
+JEREMIE: You’ve got two\Ntarantulas guarding it.\N
+ODD: I’ll never be able\Nto fight my way\N
+ODD: through two of\Nthose horrors!\N
+AELITA: Maybe I can lure\Naway one of them.\N
+ODD: Oh~\N
+JEREMIE: Aelita, what are you\Nplanning on doing?\N
+ODD: She’s gonna\Nsteal the show.\N
+ULRICH: Go ahead.\N
+ULRICH: I won’t look.\N
+DEFAULT: (SCREECHING)
+AELITA: Well, my little monster friends,\N
+AELITA: did you miss me?\N
+ODD: Yoo-hoo!\N
+ODD: Surprise!\N
+ODD: They’re not all that invincible.\N
+ODD: Uh-oh.\N
+ODD: Jeremie, I’m all out of ammo.\N
+JEREMIE: Okay, I’ll reload you. Be patient.
+ODD: We’re gonna have to\Nkeep the monsters busy.\N
+ODD: Wait for my signal to run.\N
+AELITA: Gotcha.\N
+ULRICH: Yu…Yumi…\N
+ULRICH: I…um…\N
+ULRICH: What’s, um,\Nreally going on\N
+ULRICH: between you\Nand…William?\N
+YUMI: Nothing at all.\N
+YUMI: He’s just…just a friend.
+JEREMIE: Done!\N
+JEREMIE: You’re fully loaded!\N
+ODD: Great, Jeremie!\NI’m breaking off.\N
+ODD: Aelita!\N
+ODD: Now!\N
+AELITA: (PANTING)
+ODD: Yes!\N
+ODD: Yeah!\N
+DEFAULT: (SHATTERS)
+AELITA: Tower deactivated.\N
+JEREMIE: Return to the past now.\N
+MRS. HERTZ: Congratulations, Miss Delmas.\N
+MRS. HERTZ: You found an Amazonian Yuka\N here in our woods?\N
+SISSI: Uh…yeah!\N
+SISSI: And it wasn’t easy, either!
+MRS. HERTZ: Is that so?
+MRS. HERTZ: Well, I think it’s going to be\Nmuch easier grading you work.
+MRS. HERTZ: Zero.
+SISSI: Huh!?
+JEREMIE: So, did you manage to get\Nany drawing done this time?
+ODD: Yeah.
+ODD: But I had to drag Ulrich \Nfar away from Yumi and William.
+ODD: Going back in time\Ndidn’t change anything there.
+JEREMIE: I went to check out that\Nhouse, The Hermitage.
+JEREMIE: Nothing to report.
+JEREMIE: It’s gone back to being\Na normal house.
+JEREMIE: Abandoned, but normal.
+AELITA: It’s so weird.\NAll those visions I had there.
+ODD: Not to mention the\Nunderground passage
+ODD: that you knew about.
+AELITA: It’s as if I had already\Nseen that house.
+AELITA: In a dream.
+YUMI: A new mystery\Nto solve for us.
+JEREMIE: By the way, uh, Aelita,
+JEREMIE: This is for you.
+JEREMIE: It’s to keep us one\Nstep ahead of XANA.
+AELITA: For me?
+JEREMIE: This way, we can\Nalways stay in touch.
+JEREMIE: Uh, I thought that\Npink would suit you.
+ODD: Wow! Looks cool!
+ODD: It matches your hair!
+AELITA: (LAUGHS)\NThank you, Jeremie!
+ODD: There you go!
+ODD: You’re like a regular\Nschool kid now!
+DEFAULT: (LAUGHTER)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

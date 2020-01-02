@@ -1,0 +1,348 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+MR. DELMAS: Dear students,\Nthis magnificent stadium
+MR. DELMAS: is being built in close cooperation\Nwith the board of education.
+MR. DELMAS: Soon, you will be enjoying\Nthe latest in sports equipment,
+MR. DELMAS: and I personally am delighted\Nsince my duty is to provide you
+MR. DELMAS: with the finest working conditions\Npossible, and in all areas.
+MR. DELMAS: Both intellectual and athletic.
+MR. DELMAS: Since, as Juvenal said,\N“A sound mind in a sound body.”
+ODD: Wow, can he talk.
+: Do we really have to\Nlisten to all this?
+ULRICH: Not really.
+ULRICH: You could’ve stayed\Nwith Jeremie if you wanted to.
+YUMI: What’s Einstein up to, anyway?
+ODD: The usual.
+ODD: He’s glued to\Nhis computer screen
+ODD: in a big cyber-conversation\Nwith his darling Aelita.
+JEREMIE: Just a couple of\Ncalculations to go,
+JEREMIE: and my devirtualization program\Nwill be completed.
+AELITA: And…do you really think\Nit’s going to work, Jeremie?
+AELITA: Do I have a chance of finally\Nbecoming materialized in your world,
+AELITA: and becoming somebody…\Nsomebody like you?
+JEREMIE: I sure hope so.
+JEREMIE: Anyway, there’s one thing\Nthat I’m sure of.
+JEREMIE: I’ve never been as close\Nto the answer as I am now.
+AELITA: Honestly, it’s so hard to imagine.
+AELITA: We can be face to face\Nin the same room.
+AELITA: We can touch each other.\NEven kiss.
+JEREMIE: Uh, yeah.\NThat’d be uh…interesting.
+JEREMIE: I mean, well uh, I guess.
+JEREMIE: Now, get ready.
+JEREMIE: I’m starting the test program.
+JEREMIE: I don’t get it.
+AELITA: It’s not the end of the world.
+AELITA: I’m sure, Jeremie,\Nthat one day you’ll succeed.
+JEREMIE: Aelita, I…
+JEREMIE: I’m beginning to wonder\Nif I’m up to the job.
+JEREMIE: If I’m good enough for\Nsuch a complicated program.
+JEREMIE: I’m sorry. I’m just\Ntired and jumpy, that’s all.
+JEREMIE: I’d better go and stretch my legs.
+JEREMIE: See you later.
+ODD: Huh? Jeremie?
+ODD: Hey, what’s this?
+ODD: Another one of Jeremie’s\Nmaterialization programs.
+ODD: Oh, wow! Candy!
+JEREMIE: Odd!
+JEREMIE: How many times\Nhave I told you
+JEREMIE: not to touch my computer\Nwhen I’m not here?
+JEREMIE: There are months of work in there!
+ODD: Relax, Max!
+ODD: I didn’t hurt your little toy.
+JEREMIE: Oh, no.\NYou’re such a cosmic creep.
+JEREMIE: Now look what you’ve done.
+JEREMIE: Those keys are incredibly sensitive.
+ODD: Okay, okay.
+ODD: A little piece of candy’s\Nnot gonna wreck your keyboard!
+JEREMIE: Huh?
+JEREMIE: That’s crazy!
+JEREMIE: This is really mega insane!
+JEREMIE: Yes, it works!
+JEREMIE: Odd, you’re a genius,\Nyou know that!
+ODD: Hey, make up your mind!
+ODD: Am I a genius or a creep?
+JEREMIE: You’re a creepy genius.
+JEREMIE: You didn’t do it on purpose,
+JEREMIE: but by dropping the candies\Non the keyboard,
+JEREMIE: you modified and\Nrelaunched my program!
+JEREMIE: I don’t know exactly\Nwhat happened, but it works!
+JEREMIE: Thanks, Odd!
+ODD: Who’s an Einstein now?
+ODD: Are you gonna materialize Aelita?
+JEREMIE: Well, yeah.
+JEREMIE: The problem is I only get\None try and that’s it.
+JEREMIE: That’s because I didn’t see
+JEREMIE: what kind of programming\Nthe candy typed in.
+ODD: Yeah, so?
+ODD: There’s only one Aelita.
+JEREMIE: Go and tell the others.
+JEREMIE: I’ll announce\Nthe good news to Aelita.
+JEREMIE: Yumi, it’s now or never.
+JEREMIE: We may not get a second chance.
+JEREMIE: What if there’s some kind of bug?
+JEREMIE: I’ll never be able to\Nset up the program again!
+YUMI: Listen, you can’t just\Nmaterialize Aelita like that
+YUMI: without making a lot of preparations.
+JEREMIE: I’ve boosted the scans.\NI’ve got the program going.
+JEREMIE: Everything’s ready.
+ULRICH: Yeah, in your head.
+ULRICH: Hey, come back to earth, Jeremie.
+ULRICH: Try to be practical for once.
+ULRICH: Aelita has no parents,
+ULRICH: and she hasn’t got\Na birth certificate.
+ULRICH: What’s more, she’s not\Nenrolled in any school.
+ULRICH: Okay, that’s no biggie,
+ULRICH: but all that together means\Nshe doesn’t exist in our world.
+ODD: Imagine,\N“Hello, I’m Aelita,
+ODD: “I just got here\Nfrom a virtual reality!”
+ODD: That’s a one-way ticket\Nto the nuthouse.
+AELITA: You know, Jeremie,\Nit doesn’t have to be today.
+AELITA: I can wait.
+JEREMIE: Well, what do we do now?
+YUMI: I can put her up at my house.\NMy folks wouldn’t mind.
+ULRICH: And you could plug into\Nthe city hall computers,
+ULRICH: and create a phony\Nidentity for her.
+ULRICH: Find her a new name.\NAll the stuff she needs.
+ODD: Then you just have to\Nenroll her at our school.
+ODD: And try to put her in our class!\NThat’d be really cool, huh?
+JEREMIE: Okay.
+JEREMIE: We’ll get started\Nfirst thing tomorrow.
+JEREMIE: Aelita, are you asleep?
+AELITA: Am I asleep?
+AELITA: Come on, Jeremie, you know that\Nvirtual beings never sleep.
+JEREMIE: I can’t sleep a wink.
+JEREMIE: I can’t stop thinking\Nabout your materialization,
+JEREMIE: and it's keeping me up.
+JEREMIE: You can’t imagine all the things\Nyou’re gonna discover in our world.
+AELITA: You mean like sleeping?
+JEREMIE: That’s right.
+JEREMIE: That and all kinds of fun things.
+AELITA: Tell me more.
+JIM: (SNORING)
+MUSIC: (SINISTER MUSIC)
+JEREMIE: When you touch an object\Nwith your fingers,
+JEREMIE: you have a sort of sensation.
+JEREMIE: It could be a feeling\Nof softness or of heat.
+JEREMIE: It could be cold.
+AELITA: Oh, I see.
+AELITA: I thought you only sensed\Nwith your brain.
+JEREMIE: That’s right.
+JEREMIE: But it’s a little more complicated.
+JEREMIE: Here on earth,\Neveryone has five senses.
+JEREMIE: You, Aelita,\Nyou only have two of them.
+JEREMIE: Hearing and seeing.
+JEREMIE: You can only see and hear.
+AELITA: Speaking of hearing…
+JEREMIE: Soon you’re gonna be\Nable to touch, and to…
+AELITA: Jeremie, I think I just heard XANA.
+AELITA: He’s up to something.
+JEREMIE: What’s all the noise about, I wonder.
+AELITA: Jeremie, XANA’s launched an attack.
+JEREMIE: Okay. Listen, Aelita.
+JEREMIE: Go and hide in a deactivated tower.
+JEREMIE: I’ll contact you from the factory.
+JEREMIE: Odd, wake up!\NXANA’s attacking!
+JEREMIE: Odd, wake up!
+ODD: What was that?
+ODD: W-What did you say\Nabout carpet tacking?
+JEREMIE: Ulrich, get up!
+JEREMIE: It’s a XANA alert!
+ULRICH: What did you say?
+JEREMIE: I said it’s a XANA alert!\NXANA’s attacking!
+ODD: Hey, do you always sleep\Nwith those things in your ears?
+ULRICH: Yeah, Odd. Always.
+ULRICH: And one of these days,\NI’ll tell you why.
+ODD: No need to look any further, guys.
+ODD: This time he picked a real winner.
+ODD: He’s attacking us with bulldozers!
+ODD: Nice going, XANA.\NHow subtle can you get?
+ULRICH: Jeremie, rush over\Nto the lab and call Yumi.
+ULRICH: Odd and I are gonna\Ntry and stop these monsters.
+ULRICH: I’ll take the front one.
+ODD: Got you.
+ODD: (CELL PHONE RINGS)
+JEREMIE: Come on, Yumi, get up!\NWe really need you!
+YUMI: Do you realize what time it is?
+YUMI: Bulldozers? What bulldozers?
+YUMI: What!?
+ODD: Hey, XANA’s controlling the thing!
+ODD: I don’t know what to do, Ulrich!
+ULRICH: That makes two of us.
+ULRICH: You go and meet\NYumi and Jeremie at the lab.
+ULRICH: If I can find out what XANA\Nwants to do with these monsters,
+ULRICH: that sure would help.
+ODD: Okay. Just be careful.
+JEREMIE: Keep your eyes open, Aelita.
+JEREMIE: You never know where\NXANA’s monsters are hiding.
+AELITA: Don’t worry, Jeremie.
+AELITA: No enemy in sight for the moment.
+AELITA: But the pulse beats\Nare getting stronger.
+AELITA: The activated tower\Ncan’t be too far away.
+JEREMIE: Aelita, don’t worry.
+JEREMIE: Odd should be there soon.
+JEREMIE: And now let’s hope that\NYumi and Ulrich are on their way.
+ODD: Ulrich?
+ODD: He’s on the bulldozer\Ntrying to find out what XANA’s up to.
+JEREMIE: Ulrich, do you read me?
+ULRICH: Bad news, Jeremie.
+ULRICH: I’m on the river bank.
+ULRICH: And I’m afraid XANA’s\Ntargeted the factory.
+JEREMIE: That’s got to be it.
+JEREMIE: If XANA manages\Nto destroy our factory,
+JEREMIE: we can say goodbye\Nto our equipment.
+JEREMIE: No more computer meaning\Nno more communication with Aelita.
+ODD: Don’t forget about the scans.
+ODD: Without them,\Nno more transfers to Lyoko.
+ODD: And that means\Ntotal victory for XANA.
+JEREMIE: Ulrich, listen.
+JEREMIE: Odd’s just about to go it alone,
+JEREMIE: so if you don’t mind, hurry up.
+ULRICH: I’ll do my best,
+ULRICH: but I can’t promise you\Na graceful entrance.
+JEREMIE: Transfer Odd.
+JEREMIE: Scanner.
+JEREMIE: Virtualization.
+AELITA: Oh, hello, Odd.
+AELITA: You’re looking stressed.
+ODD: No, I’m okay, Aelita.
+ODD: It’s just that I never know\Nwhat I’m gonna find
+ODD: whenever I come here.
+AELITA: Come with me, Odd.
+AELITA: The activated tower is this way.
+ODD: Okay. Let’s go and check it out.
+ULRICH: Oh, no!
+JEREMIE: Ulrich, do you read me?
+YUMI: Jeremie?
+JEREMIE: Yumi, I’ve lost contact with Ulrich.
+YUMI: Where was he\Nwhen you last spoke to him?
+JEREMIE: He was heading\Nfor the factory with the bulldozers.
+YUMI: Right. I’m almost there.
+YUMI: I’ll find him.
+AELITA: That way.
+ODD: Talk about a reception committee.
+AELITA: Usually roachsters\Nmove in groups of five.
+ODD: Wow, and it looks like\Nthe committee's a full strength.
+ODD: Hello, roachsters.
+ODD: Now, which one of you\Nwants to be first?
+JEREMIE: Hey, would you cool it,\Nhuh, Odd?
+JEREMIE: Your mission is to\Nprotect Aelita, remember?
+ODD: You want to trade places, Jeremie?
+YUMI: Ulrich!
+YUMI: Ulrich, get up! Ulrich, hurry up!
+JEREMIE: Odd, you’ve used up\Nfour of your ten arrows.
+ODD: Here comes three more.
+ODD: Laser arrow!
+YUMI: Ulrich, you’ve got to get up!
+YUMI: Ulrich!
+YUMI: Hey, Jeremie,
+YUMI: can you give me a hand?
+JEREMIE: What about the bulldozers?
+YUMI: It’s a mess up there.
+JEREMIE: I wish it were only up there.
+YUMI: How’s Odd doing?
+ODD: Jeremie, I’m starting to get\Na little lonely out here!
+JEREMIE: That answer your question?
+YUMI: Gotcha.
+JEREMIE: Okay, Odd.
+JEREMIE: Yumi’s on her way.
+JEREMIE: As for Ulrich, let’s just say\Nhe’s fast asleep.
+ODD: He is? Well, that must be tough.
+ODD: I mean, without his ear plugs.
+JEREMIE: Transfer Yumi.
+JEREMIE: Scanner.
+JEREMIE: Virtualization.
+JEREMIE: Odd, figure out a way\Nto slow down the roachsters.
+JEREMIE: You’re way ahead of Yumi.
+ODD: Take care of the tower.
+ODD: I’ll take care of the roachsters.
+ODD: Let’s see what the score is.
+ODD: Three roachsters\Nand three laser arrows left.
+ODD: Odd, this is no time\Nto miss your target.
+ODD: Jeremie, how many\Nlife points have I got left?
+JEREMIE: Ten. Hang on.\NYumi’s almost there.
+ODD: (WHISTLES)
+ODD: That’s it for you.
+ODD: Where’s your buddy hiding?
+ODD: Yumi--
+ODD: uh-oh.
+YUMI: No!
+YUMI: Hey, Jeremie,\NI didn’t make it in time.
+YUMI: It’s game over for Odd.
+YUMI: I’ll back up Aelita\Nin case she needs help.
+JEREMIE: I don’t want to\Nstress you out or anything,
+JEREMIE: but if the scans are destroyed,\Nyou’re on a one-way trip, Yumi.
+YUMI: No problem. I’ll hurry.
+YUMI: I wouldn’t mind\Na little nap before class.
+ODD: Jeremie, it isn’t the scanner\Nshe has to worry about.
+ODD: I just had a vision.
+ODD: I saw Yumi falling\Ninto the digital void.
+JEREMIE: Virtualized forever?
+JEREMIE: Hey, Yumi.
+YUMI: I head him.
+ULRICH: I’ll go and help her.
+ODD: What?
+JEREMIE: Come on, Ulrich,\Ntake a look at yourself.
+JEREMIE: The shape you’re in, it’d be crazy.
+ULRICH: Odd, help me.
+AELITA: Jeremie.
+JEREMIE: I saw it.
+JEREMIE: Yumi’s on her way to help you.
+JEREMIE: Give me a visual.
+ODD: There it is!
+ODD: That’s exactly\Nwhere I saw Yumi fall!
+JEREMIE: Transfer Ulrich.
+JEREMIE: Scanner.
+JEREMIE: Virtualization.
+YUMI: Jeremie, I can’t hold on anymore.
+JEREMIE: Aelita’s inside the tower now.
+JEREMIE: Hang on, Yumi.
+YUMI: I can’t…
+ULRICH: Yumi, I coming!
+ULRICH: Yumi!
+ULRICH: No!
+JEREMIE: (INAUDIBLE)
+JEREMIE: I never would’ve\Nthought it was possible
+JEREMIE: for one of us to become…
+ULRICH: It’s all my fault.
+ULRICH: If I had been faster,\Nshe would still be here.
+AELITA: But there is a solution.\NAnd Jeremie knows what it is.
+JEREMIE: The materialization program.
+JEREMIE: It’s operational, but Aelita has to\Ngive up her place to Yumi.
+ULRICH: Can you bring Yumi back here?
+JEREMIE: Yes, but I can only\Nmaterialize one person.
+JEREMIE: One and only one.
+AELITA: Then choose Yumi.
+AELITA: She’s part of your world already.
+AELITA: It’s okay.\NI can wait a little longer.
+JEREMIE: Okay, Aelita.
+JEREMIE: But first of all, I need to\Ntrack down Yumi in the digital void.
+ULRICH: It’s alright, Yumi,\Nyou’re gonna be okay.
+ODD: Welcome home!
+YUMI: But…
+: how did you\Nget me back here?
+JEREMIE: I’m happy,\Nand at the same time, I’m sad.
+AELITA: Why?
+AELITA: At least you know\Nthe program works!
+AELITA: You just have to\Nset it back up again.
+JEREMIE: Yeah, nothing to it.
+AELITA: I have faith in you, Jeremie.
+AELITA: One day, you’ll get me there.\NI’m sure.
+ODD: Hey, Jeremie,\Nwant some candy?
+JEREMIE: Hey, what are you\Ndoing with that? It’s mine!
+ODD: Oh, yeah, I guess it is.
+ODD: Okay, no problemo.\NHere you go.
+YUMI: Come on, have one.
+YUMI: Candy can fix anything.
+YUMI: Even a broken heart.
+JEREMIE: If you say so.
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

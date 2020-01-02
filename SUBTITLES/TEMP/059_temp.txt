@@ -1,0 +1,840 @@
+59
+DEFAULT: (PHONE RINGING)
+
+
+YUMI: Okay Jeremie, I’m on my way.
+
+
+WILLIAM: Hey! Whoa-
+
+
+YUMI: Hey!
+
+
+WILLIAM: Yumi? What are you doing up so late?
+
+
+YUMI: I wouldn’t exactly call this being up, would you…
+
+
+WILLIAM: Sorry but I was speeding to get back to the dorm.
+I climbed the wall to go and see Skybreaker 4, but it was really lame.
+
+
+YUMI: The first three were duds, why the big surprise?
+
+
+WILLIAM: Guess I’m just too much of an optimist.
+Even when things start badly, I always feel they can get better if you give it time.
+
+
+YUMI: Yeah, okay right. Well, now I’ve gotta go.
+
+
+WILLIAM: Really? Where to?
+
+
+YUMI: To save the world. Is that good enough answer for you?
+
+
+Let me go William!
+
+
+WILLIAM: Okay, but before I do you gotta give me a kiss good night.
+
+
+YUMI: Alright, but first close your eyes.
+
+
+WILLIAM: Great! Well I guess my evening was no waste after all.
+
+
+Yumi?
+
+
+Yumi?
+
+
+YUMI?
+
+
+YUMI: Here I am Jeremie, you can send me in.
+
+
+JEREMIE: You got here just in time to welcome
+Aelita, Odd and Ulrich on their return from Lyoko.
+
+
+YUMI: You’ve already deactivated the tower?
+
+
+ULRICH: Hey, what happened to you?
+
+
+AELITA: Didn’t you hear your cell phone ring?
+
+
+ODD: Nothing to worry about, I oversleep at least 3 times a week.
+
+
+Of course with Ulrich who snores like a grizzly it’s a question of survival.
+
+
+YUMI: Actually, it’s not only my sleep that’s beginning to bring me down.
+
+
+JIM: Mathias Burrell?
+
+
+DEFAULT: Present.
+
+
+JIM: Immanuel Mayer?
+
+
+DEFAULT: Present.
+
+
+JIM: Maitena Lecuyer?
+
+
+DEFAULT: Here.
+
+
+WILLIAM: Hey you know, last night you pulled a fast one on me.
+
+
+No-one has ever humiliated me like that before,
+what did you do it for?
+
+
+YUMI: Because I find your dumb two-bit casanova act sickening.
+
+
+WILLIAM: But I…
+
+
+YUMI: In the beginning it was pretty nice, but now I’m really fed up.
+So why don’t you buzz off William and leave me alone?
+
+
+JIM: William Dunbar?
+William Dunbar!
+
+
+WILLIAM: Okay, okay I’m not deaf!
+You can see I’m here, can’t ya?
+
+
+JIM: Dunbar, to the library! Out of my sight!
+No swimming for you today, you got that?
+
+
+WILLIAM: Anyway, I’d like to know what you had to do that was so important last night.
+
+
+And I’m gonna find out what your big secret is. You bet on that.
+
+
+AELITA: Don’t worry Jeremie, we’re gonna make a fabulous report.
+
+
+JEREMIE: Well we better, it counts for the whole semester.
+
+
+ULRICH: So, what’s latest in the world of Kadic Junior High today?
+
+
+ODD: Is Judith Nivers going out with Ronald Limozin?
+
+
+ULRICH: Who are Judith Nivers and Ronald Limozin?
+
+
+ODD: How should I know? Anyway, it seems they are going out.
+
+
+JEREMIE: Oh no, I don’t believe it. A Xana alert.
+
+
+ULRICH: Not again.
+
+
+JEREMIE: Yeah. And the big problem is that Aelita and me can’t
+get out of history class. Not this time.
+
+
+ODD: Hey, don’t sweat it Einstein. Ulrich and I will go and get ready.
+When you get there, you can send us to Lyoko.
+
+
+But finish your report as fast as possible.
+
+
+WILLIAM: Second rate casanova, huh?
+
+
+ULRICH: I can’t reach Yumi, she’s not picking up.
+
+
+ODD: What’s going on with her lately?
+Last night, and then now.
+
+
+JEREMIE: Sir is it okay if we begin now?
+
+
+DEFAULT: Yes you may, but where are Odd and Ulrich?
+
+
+JEREMIE: Well, you see sir, they had something important to do, and…
+
+
+DEFAULT: More important than my class?
+
+
+JEREMIE: Well, actually, I wasn’t supposed to tell you,
+but they’re preparing a surprise for your class Mr. Fumet.
+
+
+DEFAULT: A surprise? What kind of surprise?
+
+
+JEREMIE: It’s a…
+It’s a big historical show in your honor.
+
+
+DEFAULT: Oh. I would never have guessed.
+I’ll excuse their absence this time.
+
+
+AELITA: And now sir, can we begin?
+
+
+DEFAULT: Yes yes of course, go on. Tell us everything you know about World War I.
+
+
+JEREMIE: On June 28th 1914, a Serbian student assassinated Archduke Franz Ferdinand nephew of air to the Austrian-Hungarian emperor, Franz Joseph.
+
+
+This took place in Bosnia-Herzegovina.
+Political alliances were reinforced and within’ a few days all of Europe became involved.
+
+
+Serbia, Russia, France, Great Britain were on one side,
+and Germany and Austria-Hungary the other.
+
+
+Other countries became part of the conflict. Germany invaded Belgium.
+
+
+Italy, Greece, Romania and the US joined the allies
+with Turkey and Bulgaria supporting central Europe.
+
+
+The armistice signed in late October and early November of 1918 put an end to the fighting
+
+
+but peace treaties had to be drawn up for a definitive end to the war
+that most people hoped would be the war to end all wars, clearing the way for a lasting peace.
+
+
+Finally in Paris the victorious countries united in a peace conference--
+--with the two-fold vision of creating a league of nations,
+
+
+and the adoption of peace treaties submitted to the defeated nations.
+
+
+I hope that wasn’t too long.
+
+
+Sir, may I go to the infirmary?
+I’ve got bit of a headache.
+
+
+AELITA: Um, I do too sir.
+
+
+DEFAULT: Yes, yes go on, go on.
+I’m not feeling too well either all of a sudden.
+
+
+ODD: Ulrich, try Yumi’s mobile again.
+She’s bound to answer sooner or later.
+
+
+JIM: Today we’re going to have a little lesson in synchronized swimming.
+
+
+That means no speed competitions no stopwatches just pure grace.
+
+
+But since as someone once said a picture’s worth a thousand words,
+here’s a demonstration admire finesse.
+
+
+YUMI: You know what I think?
+That’s about as graceful as tractor pulling.
+
+
+AELITA: You think we’ll get a good grade?
+We said all we wanted to but it was a little fast.
+
+
+JEREMIE: Fumet said a one page presentation, he didn’t give us any time limits.
+
+
+AELITA: It seems that lately Xana’s getting more and more active. We’re constantly on Lyoko.
+
+
+WILLIAM: Hey sorry to interrupt but,
+you mind telling me who this Xana dude is?
+
+
+ODD: Ah, there you are. We’ve already started things up, your turn Einstein.
+
+
+What’s William doing here?
+
+
+JEREMIE: I guess he must have followed you guys.
+
+
+WILLIAM: Wow, what is this thing huh?
+And What do you guys do in here?
+
+
+ULRICH: Why don’t I clobber him?
+WILLIAM: Yea try it, if you think you’re good enough.
+
+
+JEREMIE: Calm down.
+
+
+Our priority now is the tower.
+Afterwards a simple return to the past and William won’t remember a thing.
+
+
+WILLIAM: I wouldn’t bet on that, huh.
+I remember everything, and I’m great at holding a grudge.
+
+
+AELITA: Where’s Yumi?
+
+
+ULRICH: She’s unreachable.
+
+
+WILLIAM: So that’s her secret. A supercomputer hideout.
+That’s incredible.
+
+
+Now I understand why she didn’t wanna tell me anything.
+
+
+JEREMIE: We’re gonna have to make do without her. But I don’t like this at all.
+
+
+WILLIAM: I can go and get her if you want.
+
+
+ULRICH: I hope he’s not gonna rat on us to the Principal.
+
+
+ODD: That’s not his style. And besides, this is an emergency Ulrich, we need Yumi.
+We don’t know what kind of dirty trick Xana’s preparing.
+
+
+JEREMIE: Transfer, Aelita.
+
+
+Transfer, Odd.
+Transfer, Ulrich.
+
+
+{/i1}Scanner, Aelita.
+Scanner, Odd.
+
+
+Scanner, Ulrich.
+
+
+Virtualization.
+
+
+Here come your vehicles.
+
+
+The activated tower is in the Northern edge of the sector.
+From where you are, you should be able to see it’s halo.
+
+
+ODD: Hey, how come you’re always right? Huh Einstein?
+
+
+ULRICH: Okay Jeremie, we’re on it.
+
+
+JIM: Be like me. Remember my example, my grace.
+
+
+WILLIAM: Emergency Yumi, let’s go! Xana’s launched an attack!
+
+
+JIM: Listen Dunbar, what is this gibberish?
+You making fun of me or something?
+
+
+WILLIAM: No, I mean… Not this time.
+
+
+JIM: I… The principal’s office, on the double.
+
+
+YUMI: You’re right Jim, because of him I nearly drowned.
+Let me take him to the principal’s office, just to make sure he doesn’t run away.
+
+
+JIM: Good idea. Go on and take him Ms. Ishiyama.
+It’s a very responsible attitude on your part.
+
+
+You could learn a lot from her example Dunbar.
+
+
+WILLIAM: Yes, you’re right. I know Yumi’s got a lot she can fill me in on.
+
+
+JEREMIE: Watch it, there are Kankrelats just behind you.
+
+
+AELITA: Okay, I’ll take care of them.
+
+
+Energy field.
+
+
+You know how many of them there are?
+
+
+JEREMIE: A big gang of them.
+
+
+AELITA: Thanks, nothing like precision.
+
+
+ULRICH: Here we go!
+
+
+Sorry guys, but I don’t play favorites.
+Same treatment for everyone!
+
+
+Aelita, climb aboard.
+
+
+ODD: Laser arrow!
+
+
+ULRICH: Go on Aelita, hop off.
+
+
+DEFAULT: (OMINOUS MUSIC)
+
+
+JEREMIE: You’re closing in on it.
+
+
+ODD: Great, tell that to the Kankrelats.
+They’ll be overjoyed.
+
+
+ULRICH: We’ll go separate ways and meet up on the other side.
+
+
+ODD: Got’cha.
+
+
+Hand on tight Aelita.
+Ready for some turbulence?
+
+
+Since when did Kankrelats had turbo-engines?
+
+
+ULRICH: Are you two okay?
+
+
+ODD: Sure, no problem.
+
+
+WILLIAM: I still can’t figure out what you guys do in that old rundown factory.
+
+
+YUMI: And I can’t figure why they agreed to let you lend us a hand.
+
+
+WILLIAM: Maybe it’s just because they trust me, not like-
+
+
+YUMI: Jeremie, it’s me. I’m…
+We’re on the bridge.
+
+
+JEREMIE: Odd and Ulrich are now pretty close to the activated tower.
+
+
+YUMI: Oh no, I came too late for the party again.
+
+
+WILLIAM: Hey who’s that guy?
+Is he one of your big superheroes?
+
+
+YUMI: No, I fact I think he’s more of a big superbad-guy.
+
+
+Jeremie, there’s someone here possessed by Xana,
+so there’s a chance we might be a little late.
+
+
+JEREMIE: Okay Yumi, be careful huh?
+I’ll tell the others that they’ve got to hurry up.
+
+
+WILLIAM: Hey you mean that guy is our superenemy?
+Electric company worker? That’s so lame.
+
+
+I was expecting something more gory.
+
+
+Okay, I take it all back. He’s a super-enemy electrical worker.
+
+
+ULRICH: You go on, I’ll take care of them.
+
+
+That’s pretty sneaky to hit and run.
+
+
+JEREMIE: Yumi, are you still there?
+
+
+YUMI: Yes I am, but maybe not for long. This guy’s a terror.
+
+
+JEREMIE: {/i1}Hang in there, Aelita should be in the tower any minute now.
+
+
+WILLIAM: Let me have him Yumi.
+I’ll take care of him!
+
+
+YUMI: William don’t!
+
+
+JEREMIE: {/i1}Yumi? Yumi, what’s going on?{/i0} Yumi, c’mon answer please.
+Odd, you’ve gotta get the job done now.
+
+
+ODD: No kidding we do, I thought we do it after tea-time.
+
+
+WILLIAM: Look I’ve gotta tell you this okay, I…
+
+
+YUMI: This is a very bad time William.
+
+
+WILLIAM: I can’t swim!
+
+
+AELITA: Tower deactivated.
+
+
+JEREMIE: Bravo Aelita.
+
+
+{/i1}Yumi?
+
+
+YUMI: Jeremie? Nice going, you guys did it just in time.
+
+
+JEREMIE: Everything okay on your side?
+
+
+YUMI: {/i1}We’re good, but it was close call.
+
+
+WILLIAM: Hey, what happened just now?
+
+
+YUMI: Well Jeremie, now that it’s all over,
+you can launch a return in time right?
+
+
+So that you know who doesn’t interfere with us again.
+
+
+WILLIAM: What gives you the idea it’s all over?
+This guy works for ”Explo-bat”.
+
+
+YUMI: Yeah, so?
+
+
+WILLIAM: If I’m not mistaken,
+this guy’s with a company that specializes in building demolition.
+
+
+I bet he came here fully equipped,
+to blow your factory sky high. Ba-boom!
+
+
+YUMI: Did you hear what William just said?
+
+
+JEREMIE: Yea, but relax Yumi. I’ll launch a Return to the past
+and the explosives will disappear along with William’s memory.
+
+
+Oh no, the Scyphozoa!
+
+
+The Scyphozoa’s got Aelita!
+
+
+YUMI: Why not launch a Return to the past anyway Jeremie?
+
+
+JEREMIE: It’s too dangerous. We don’t know what might happen to Aelita
+if {/i1}I do it while she’s in Xana’s clutches.{/i0}
+
+
+So get back here now and I’ll send you to Lyoko.
+Ulrich, Odd, you’ve gotta go find that bomb.
+
+
+ULRICH: Will do.
+
+
+Good luck Yumi.
+
+
+YUMI: You too guys, find that dumb bomb
+so our factory doesn’t go up in smoke.
+
+
+WILLIAM: Think the three of us oughta split up.
+
+
+ULRICH: Okay, let’s go.
+
+
+JEREMIE: {/i1}Transfer, Yumi.
+
+
+Scanner, Yumi.
+
+
+Virtualization.
+
+
+YUMI: It’s okay Jeremie, the Scyphozoa’s just released Aelita.
+
+
+JEREMIE: {/i1}She’s probably gonna head for the--
+--waytower to start destroying the Ice sector.
+
+
+And you’ve gotta stop her from doing that at all costs.
+
+
+YUMI: Okay, consider it done.
+
+
+Well, almost.
+
+
+ODD: Okay, I’ve found it. It’s over here!
+
+
+WILLIAM: No, that’s only one of the charges he set up.
+There’s gotta be a detonator here somewhere. That’s what we’re looking for.
+
+
+ULRICH: How do you know all this stuff?
+
+
+WILLIAM: My uncle used to work in construction and I’d go with him during vacation.
+He used show me how to…
+
+
+ODD: Okay, family stories are all very moving but we’re kinda pressed here…
+
+
+ULRICH: Thanks Odd. So, where do you think we’ll find the detonator?
+
+
+WILLIAM: I don’t know, but the guy who works for ”Explo-Bat”, he oughta know.
+
+
+ULRICH: Yeah sure, but he’s out cold like any normal ex-Xanafied guy.
+
+
+ODD: You guys keep searching, I’ll try to wake him up.
+
+
+JEREMIE: {/i1}Yumi you have to get through of that blockade of Megatanks.
+
+
+Aelita is closing in on the waytower.
+
+
+ODD: Hey come on sleeping beauty, wake up now!
+Look, it’s you prince charming.
+
+
+DEFAULT: What’s going on? Where am I?
+My dynamite!
+
+
+Where are my explosives?
+
+
+ODD: In the factory, with a detonator.
+Can you recall anything?
+
+
+DEFAULT: No-- Oh, my head.
+
+
+JEREMIE: Yumi!
+
+
+Careful Yumi, you don’t have a lot of life points left.
+
+
+ODD: Look carefully at this factory.
+
+
+If you had to blow it up, where would you set up the detonator?
+
+
+DEFAULT: I can’t think too straight, but…
+I guess I would put it somewhere high up so the signal could reach all charges.
+
+
+ODD: {/i1}Ulrich, look for it somewhere over your head. Somewhere high up.
+
+
+YUMI: It’s okay Jeremie, I’ve got Aelita in my sights.
+
+
+ULRICH: I think I found the detonator.
+
+
+WILLIAM: Where?
+
+
+ULRICH: Way up there.
+
+
+YUMI: I’m sorry Aelita, but I don’t have any choice.
+
+
+ULRICH: {/i1}Jeremie, we found the detonator. We have to evacuate the factory now.
+Everything’s gonna blow in a few seconds.
+
+
+JEREMIE: Impossible Ulrich, we {/i1}can’t leave Yumi and Aelita stranded on Lyoko.
+
+
+WILLIAM: Gimme your belt.
+
+
+I’m gonna try and defuse the detonator
+and I need something to use as a sort of shunt.
+
+
+ULRICH: You know how to do that?
+
+
+WILLIAM: My uncle explained it to me… Uhh, once.
+
+
+ULRICH: Once?
+
+
+WILLIAM: Once is enough if you’re not too dumb that is.
+Now get outta here.
+
+
+If it doesn’t work it’d be stupid for both of us to blow up.
+
+
+ULRICH: Uh-uh, no way. If you stay, I stay.
+
+
+ODD: That makes three of us.
+
+
+JEREMIE: Yumi another hit like that and it’s game over for you.
+And then it’s gonna be the end of the Ice sector as well.
+
+
+WILLIAM: Yeah!
+
+
+ULRICH: Jeremie, William defused the detonator. We’re saved.
+
+
+WILLIAM: Oh come on, please? I swear I won’t tell anyone.
+
+
+ODD: He really does deserve to be one of us,
+besides we could use another soldier.
+
+
+AELITA: And he’s already proven how much he can help.
+
+
+JEREMIE: Well then, let’s vote.
+
+
+If everybody votes yes,
+then William can officially become a member of our club.
+
+
+Too bad William, there’s one no.
+
+
+WILLIAM: You’re the big losers, I was kinda expecting this might happen.
+Some guys just can’t handle being jealous.
+
+
+ULRICH: Well then, what do you suppose we should do now?
+
+
+JEREMIE: What do you think? A Return to the past.
+
+
+ODD: It was pretty un-cool Ulrich, why’d you vote no?
+
+
+ULRICH: Hey don’t look at me, I’m not crazy about William,
+but he saved us and the factory.
+
+
+He’s brave and he’d make a great Lyoko-Warrior.
+I didn’t blackball him.
+
+
+ODD: If it wasn’t you and it wasn’t me,
+and it wasn’t Jeremie or Aelita then it was…
+
+
+YUMI: Sorry William, but I don’t think you can be trusted. 

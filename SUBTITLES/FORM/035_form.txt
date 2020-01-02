@@ -1,0 +1,285 @@
+ULRICH: Hey, everybody.
+JEREMIE: Wow, that's a tough break.
+ODD: You've got to be kidding!
+YUMI: Unfortunately, I'm not.
+ULRICH: Hey, uh, what's going on here?
+AELITA: I wish I could do something, Yumi.
+YUMI: That's really nice of you, Aelita.
+ULRICH: But…would somebody tell me what's going on?
+JEREMIE: Look, we'll talk about it after class, okay?
+DEFAULT: (SCHOOL BELL RINGS)
+ULRICH: Don’t mind me!
+Keep making like I don’t exist. Okay?
+Say that again.
+ODD: Yumi's father lost his job.
+They're thinking of going back{\i1}to Japan so he can find work.
+ULRICH: You've got to be kidding!
+JEREMIE: It's not for sure yet, so don't panic.
+ULRICH: What?
+Yumi's leaving, we may{\i1}never see her again,\Nand I shouldn't panic?
+ODD: You know what?
+There {\i1}is{\i0} an easy solution.
+ULRICH: Oh yeah? What?
+ODD: Well uh, you see, if you marry Yumi,{\i1}then she can get a greencard!
+ULRICH: Very funny.
+ODD: I’m just trying to lighten things up.
+ULRICH: Por favor, senor Cadja
+TEACHER: Si Ulrich?
+ULRICH: Can I please go to the infirmary?
+I’m not feeling too well.
+TEACHER: In Moby Dick,
+Melville uses the literary technique\Nof a character in the novel speaking-
+YUMI: Excuse me ma’am?
+TEACHER: Yes, Yumi?
+YUMI: Could I please go to the infirmary?
+ULRICH: Why can’t you stay at the school as a boarder?
+And you could go to Japan during summer vacation.
+YUMI: Are you kidding?
+My parents would never go for that.
+And what’s more, they need me.
+ULRICH: Isn’t it supposed to be the\Nother way around!
+What if-?
+YUMI: Ulrich, it’s nice of you\Nto try find a solution,
+but nothing has been settled.
+There might not be anything\Nto worry about.
+ULRICH: I know!
+Why don’t we write to a\Ncongressmen and ask for help?
+YUMI: Sure, why not the\Npresident while you’re at it!
+ODD: Are you ready for dinner?
+ULRICH: You go on, I’ll see you there.
+Dear Mr. President.
+I’m writing to you about a\Nyoung girl named Yumi.
+Yumi is an amazing person.
+She’s originally from Japan,\Nbut she really likes her country.
+Uhh, what a load of garbage.
+Dear Mr. President...
+Will you be quiet? Can’t you see I’m trying to concentrate?
+RADIO: {\i1}...remember folks this weeks super jackpot\Nis 30 million big ones!
+And now that big bonus number, 14.
+Two times lucky seven, 14.\NAnyway…
+{\i1}...remember folks this weeks super jackpot\Nis 30 million big ones!
+ULRICH: No, I couldn’t do that…\NIt wouldn’t be right.
+MS. ISHIYAMA: Did you go back to\Nsee the temp agencies?
+MR. ISHIYAMA: I haven’t had time.
+MS. ISHIYAMA: Too bad, they might’ve\Nhad something for you.
+I mean, to tide us over\Nuntil we return to Kyoto.
+MR. ISHIYAMA:There is nothing\Nout there for me,
+there are too many people in my field.\NYou know that very well.
+MRS. ISHIYAMA: Anyway, if you don’t look, you certainly won’t find anything.
+MR. ISHIYAMA: Oh, will you stop it now? What about you?\NDid {\i1}you{\i0} go to the temp agencies today? Hmm?
+KIWI: (BARKS)
+ODD: He’s not in our room. I don’t know where he is.
+AELITA: I get the feeling that Ulrich is taking this situation even harder than we are.
+ODD: You can say that again. For Ulrich, losing Yumi is…\NWell, imagine how you’d feel if Jeremie had to leave.
+AELITA: Why do you say that?
+ODD: ‘Cause I love making you blush.
+AELITA: Wait, what just happened? Why did we return to the past?
+YUMI: Could XANA have taken control of the back-in-time function?\NHe’s done it before.
+JEREMIE: No way. I made a special program so he couldn’t.\NThe superscan doesn’t show any active towers. This is really weird.
+I’ll go to the factory after class and check it out.
+ULRICH: Here you go.
+DEFAULT: Uh, you do know that you’re not really old enough to play, young man?
+ULRICH: Oh, it’s for my mom. She asked me to buy it for her.
+DEFAULT: Ah, well in that case...
+JEREMIE: Ulrich, we’re gonna check out things at the factory after class,\Nabout the jump back in time. You coming?
+ULRICH: No, I, uh… I have to, uh, study for chemistry.
+ODD: Hey, mind if I study with you? I don’t get Mendeleev’s Periodic Table at all.
+ULRICH: I’d rather study by myself.
+ODD: Huh?
+ULRICH: Well, I know you’re gonna think this is ridiculous, but I heard you had\Nsome problems with work and everything, and I thought, well…
+I bought you a lotto ticket! You never know, maybe you’ll be lucky.\NThen you could stay here, with Yumi.
+MR. ISHIYAMA: (LAUGHS)\NI’m sorry, son, but you have to admit that it is very funny.
+Do you know the odds of winning the lotto? Heh, at least you made me laugh.\NThat’s something I need right now.
+MRS. ISHIYAMA: Anyway, it was very nice of you, Ulrich, we’re really touched.
+ULRICH: Don’t forget to listen for the numbers! Oh, and please don’t tell Yumi\Nthat I gave it to you! She might take it the wrong way.
+MRS. ISHIYAMA: That Ulrich is such a sweetheart.
+MR. ISHIYAMA: Yes, only he doesn’t realize that we have one chance in fourteen million\Nof ever winning.
+DEFAULT: {\i1}Now, once again, today’s lotto results! The winning numbers of today’s\Njackpot winning are 6, 22, 10, 47, 13, 37, and the bonus number is… 14!
+MR. ISHIYAMA: I can’t believe it…
+YUMI: Hey there, what’s going on?
+MRS. ISHIYAMA: This is the winning ticket… the jackpot!
+HIROKI: What’s a jackpot?
+MR. ISHIYAMA: It’s incredible!
+YUMI: You played the lotto? But I thought you hated gambling.
+MRS. ISHIYAMA: Actually, it was your friend Ulrich who played,\Nand he gave us the ticket.
+MR. ISHIYAMA: He didn’t want you to know.
+JEREMIE: I don’t get it. XANA had nothing to do with it. It’s as if someone had\Nset off the return to the past from here, except that I’m the only one that
+knows how to do it.
+AELITA: Unless… someone read your manual.
+JEREMIE: What makes you say that?
+ULRICH: Hi.
+JEREMIE: Hi, Ulrich. You know, I’m really impressed with your computer skills.
+ULRICH: Who, me? You are?
+JEREMIE: Well, you did enter the code for returning to the past into the computer\Nwithout making a single mistake, well done.
+ULRICH: What are you talking about?
+YUMI: Don’t waste your breath. We know it was you who set off the return to the past.
+ODD: You broke rule number one, Ulrich, I can’t believe it.
+ULRICH: I only did it for Yumi, so you could stay.
+YUMI: I didn’t ask for your help.
+JEREMIE: Do you realize what you’ve done, Ulrich? You know that going back\Nin time makes XANA stronger!
+ODD: Why didn’t you talk to us first, huh? Why did you have to go sneaking around?
+ULRICH: I’m sorry…
+JEREMIE: It’s too late for sorry. You betrayed our trust.
+YUMI: Here. You can take back your dumb ticket.\NMy parents think you should keep the money.
+JEREMIE: As of now, and until you hear otherwise, you’re out of the group, Ulrich.
+AELITA: I hope this will all work out.
+SISSI: Hey, what’s up, Ulrich? You don’t look too good.
+ULRICH: You’re right. And when I see you, it gets even worse.
+SISSI: That’ll teach me to be nice to people.
+ULRICH: Sissi, wait. I apologize. I’m just a little edgy.
+HERB: I really don’t understand what she sees in him.
+NICOLAS: You said it. He sure is no match for my looks or my brains.
+HERB: Hmph. You think you’re handsome, huh?
+NICOLAS: No more than you think you’re smart.
+HERB: I dare you to say that again!
+TEACHER: Africa is the continent that suffers most from problems related to\Na shortage of water, and rural areas of Africa are affected to
+an even greater extent. Less than half of all rural zones\Nhave any access to--
+ODD: Wow, when I think how much we complain all the time…
+JEREMIE: XANA has launched an attack.
+AELITA: What?
+JEREMIE: We have less than a minute left of class. We’ll go to the factory as soon as the bell rings.
+ODD: Without Ulrich?
+JEREMIE: Without Ulrich.
+TEACHER: See you next week, then.
+HERB: Hey, Nicolas!
+TEACHER: And don’t forget your project reports on your own ideas\Nfor helping African communities.
+JEREMIE: {\i1}Transfer Aelita.
+{\i1}Transfer Yumi.
+{\i1}Transfer Odd.
+{\i1}Scanner Odd.
+{\i1}Scanner Aelita.
+{\i1}Scanner Yumi.
+{\i1}Virtualization!
+JEREMIE: Here come your vehicles.
+ODD: Madame, would you do me the honor of climbing aboard my humble… board?
+AELITA: (GIGGLES)
+JEREMIE: {\i1}The activated tower is located two plateaus north.
+YUMI: Okay, let’s go.
+ODD: Yeah!
+JEREMIE: No monsters on the horizon for the time being.
+YUMI: {\i1}It’s not monsters I’m worried about. It’s XANA attack on Earth.\NWe still don’t know what he’s got in store for us this time.
+JEREMIE: Yeah, well, I’d rather we deactivated the tower before we find out.
+SFX: (CLANG)
+JEREMIE: Aah!
+NICOLAS: At your orders, XANA.
+AELITA: Look! Over there, a Krab!
+YUMI: Are my eyes playing tricks on me, or are there at least twenty of them?
+AELITA: Yumi, there are no mirages on Lyoko.
+YUMI: That’s what I was afraid of.
+ODD: By the way, thanks for warning us, Jeremie!
+Jeremie?
+NICOLAS: Now your wounds will become fatal!
+(LAUGHS)
+YUMI: Jeremie, was that you? 
+Answer me, will you?
+ODD: That isn’t Jeremie, I’d recognize that laugh anywhere.\NIt’s Nicolas.
+YUMI: Nicolas? Are you sure?
+ODD: Nobody else has a laugh that dumb. No one in the whole universe!
+AELITA: Watch out, the Krabs!
+ODD: We better get out of here, and fast!
+Yumi!
+Yumi, are you okay?
+YUMI: I don’t understand, why does it hurt so much? Shouldn’t I just lose some life points?
+ODD: Something’s wrong at the factory.
+AELITA: Odd, the Krabs. We’re gonna have to take cover.
+SISSI: You’re even more handsome when you train.
+ULRICH: Sissi, I think I’d rather be alone.
+SISSI: Are you crazy? That’s the last thing you need when you’re feeling down.\NIt’s just the opposite, you need your friends to be there.
+ULRICH: Nuh-uh. I don’t have friends anymore.
+SISSI: Well, what about me? What does that make me, then?
+HERB: Sissi, there you are! I’ve been looking all over for you!
+SISSI: Yeah? Well, pretend I’m not here and keep on looking.\NWhy don’t you go out and play with your friend Nicolas?
+HERB: I would, but I can’t find Nicolas, either. He ran off like a madman after class\Nto follow Jeremie, Odd, and the new girl. He was really spaced out.
+His voice sounded weird and there was something strange about his eyes.
+ULRICH: XANA.
+SISSI: Why are you telling me all this? I don’t care. Can’t you see I’m with Ulrich?
+HERB: Well, not anymore, you’re not.
+SISSI: Huh?
+ODD: I’ll go and check it out.
+We’d better move. Otherwise--
+Wow, that really does hurt.
+AELITA: My turn.
+(CELESTIAL HUMMING)
+It won’t take them long to find a way around.
+ULRICH: Jeremie?
+NICOLAS: Maybe I know what you’re looking for!
+ULRICH: Wow, since when have you become an athlete? I don’t believe it.
+Come on, Spiderman.\NHold on, I’m not out yet.
+DEFAULT: (ELECTRICITY CRACKLING)
+ULRICH: Jeremie, wake up, will you? You gotta get up!
+JEREMIE: Hey… hi, Ulrich, how are you?
+ULRICH: Jeremie, pull yourself together, I need your help.
+JEREMIE: ...because I’m not feeling so great.
+ULRICH: Odd, Yumi, Aelita, can you hear me?\N{\i1}Answer me, will you?{\i0}
+YUMI: Ulrich, is that you?
+ULRICH: {\i1}Oh great, you’re alive.
+ODD: Yeah, but not in great shape.
+AELITA: What about Jeremie?
+ULRICH: He’s also in pretty bad shape. I don’t get it, there’s nothing on the screens.
+YUMI: {\i1}That must be why the fire from XANA’s monsters hurt us for real!
+ODD: What was that noise?
+AELITA: It’s just what I was afraid of. The Krabs have broken through the sand wall!
+ULRICH: I’m really sorry about this, Jeremie, but it’s for a good cause.
+JEREMIE: Ouch! What-- what’s going on?
+ODD: Okay, this is no time to drag your feet.
+JEREMIE: Nicolas has deactivated the scanner. I should be able to fix it pretty fast.
+ULRICH: Jeremie, I, uh, wanted to tell you--
+JEREMIE: Later! Head for the scanner and get ready!
+Come on!
+ODD: Yumi, no!
+JEREMIE: Yes!
+Yeah, we’re invincible again!
+JEREMIE: {\i1}Hold on, I’m sending you Ulrich.
+AELITA: Jeremie!
+JEREMIE: Transfer, Ulrich.
+{\i1}Scanner, Ulrich.
+ODD: Laser arrow!
+JEREMIE: Virtualization!
+ULRICH: Hi, guys. Didn’t miss me too much, did you?
+YUMI: Oh, just a little, yeah.
+ODD: Yeah, but those guys won’t keep missing us if we stick around.
+JEREMIE: Your vehicles are on the way. They could come in handy.
+ODD: Okay, great. Now all we have to do is cross that line of monsters.\NYou and Yumi may as well go over the top.
+YUMI: And what about you?
+ODD: I’ll do what I do best. Chef’s surprise.
+Come on, Aelita. We haven’t much time.
+Woah!
+Woah!
+Woah!
+ULRICH: He’s really lost it this time.
+YUMI: No more than you have. Come on, let’s go.
+ULRICH: Yaaah!
+JEREMIE: They’re never gonna make it!
+ODD: Oh no! Another row of those guys!
+ULRICH: Stop moving around so much! How do you expect me to help you?
+ODD: Cut me some slack, okay? I’m just trying to avoid getting hit.
+ULRICH: Now!
+Jeremie, I think we’ve done it.
+JEREMIE: Ulrich, you’re the greatest!
+ODD: {\i1}Hey, what about me? Don’t I get any credit?
+DEFAULT: (CELESTIAL HUMMING)
+JEREMIE: No!
+AELITA: Tower deactivated.
+JIM: You say this is how he was when you found him?
+JEREMIE: Yeah, in the middle of the campus.
+JIM: Hm.
+YOLANDA: That’s very strange, he must have fainted.
+Nothing serious, in any case.
+YUMI: I know you did it for me, Ulrich.
+ULRICH: But I should’ve asked you first.
+YUMI: Right.
+ULRICH: I’m sorry.
+AELITA: So, are you back in the group?
+ULRICH: Hmm, looks like it.
+ODD: Hey, what are you gonna do with that lotto ticket?
+ULRICH: I thought about it, and I decided to give it to an association that builds wells in Africa.
+YUMI: Really? Oh, that’s a great idea!
+DEFAULT: (PHONE RINGS)
+Yes?
+Yeah, Mom, I’m listening.\NUh-huh. Uh-huh. Alright, see you tonight.
+My father’s found work with Takahashi.
+ULRICH: Takahashi? You mean, in Japan?
+YUMI: No, silly, right here!
+ULRICH: Oh…
+DEFAULT: (CHEERING)
+ADVERT: CLOSED CAPTIONING PROVIDED BY{\i1}THE FOXTROT FANATICS{\i0}!

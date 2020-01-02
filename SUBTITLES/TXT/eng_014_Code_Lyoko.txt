@@ -1,0 +1,311 @@
+﻿# Exported by Aegisub 3.2.2
+MRS. MEYER: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+JEREMIE: Hey, Aelita?
+JEREMIE: Are you connected?
+AELITA: Hello, Jeremie.\NDid you have a good day?
+JEREMIE: Uh, nothing special.
+AELITA: Which classes do you have\Ntomorrow morning?
+JEREMIE: First, we’ve got physics,\Nand chemistry with Miss Hertz,
+JEREMIE: and then a math exam\Nwith Misses Meyer.
+AELITA: What do you do during an exam?
+JEREMIE: You have to show\Nwhat you know in writing.
+AELITA: What a strange idea.
+JEREMIE: Not really,\Nbecause we’re not like you.
+JEREMIE: Your memory and ours\Naren’t the same
+JEREMIE: because yours is, well, infinite.
+JEREMIE: Our brains have a\Nlimited memory capacity.
+JEREMIE: We can’t store as much\Ndata as you can.
+JEREMIE: In other words, Aelita,
+JEREMIE: compared to you, our hard disk\Ncomes up kind of short.
+AELITA: Oh, I get it.
+JIM: Are you sleeping yet!?
+JEREMIE: I’m gonna be in trouble\Nif I stay connected.
+JEREMIE: I’m sorry, Aelita, but…
+: I gotta go.
+JEREMIE: I don’t want to take the chance of\Nhaving to introduce you to Jim.
+JEREMIE: I’ll connect with you\Nat noon tomorrow
+JEREMIE: universal time.
+DEFAULT: (RINGS)
+MUSIC: (MUSIC)
+SFX: (SCHOOL BELL RINGS)
+MRS. MEYER: Something wrong, Jeremie?\NA problem?
+JEREMIE: No, no. I finished, mam.
+MRS. MEYER: Why, yes you have.\NVery good job.
+MRS. MEYER: It’s excellent work, too.
+MRS. MEYER: Alright, the rest of you\Nkeep working.
+JEREMIE: Oh! Her birthday is today!
+MRS. MEYER: You may go, Jeremie.
+ODD: Thanks a million! You could’ve\Nat least stayed and given me a hand!
+JEREMIE: Aelita. I almost forgot that we met\Nexactly a year ago today.
+ODD: Hey, it’s Aelita’s birthday today.
+ULRICH: Yeah, I forgot all about it.
+SISSI: What’s going on?
+ULRICH: Mind your own business.
+ULRICH: Wow, it’s already a year\Nsince we met Aelita.
+JEREMIE: And I still haven’t\Nmanaged to materialize her.
+ULRICH: I know, but we’ve managed\Nto protect her from XANA.
+ODD: What do you say we use our lunch hour\Nto prepare a little surprise?
+ODD: She’d like that a lot, huh,\Ndon’t you think?
+ULRICH: Good idea.
+ULRICH: What do you think, Jeremie?
+JEREMIE: Yeah, come on!\NLet’s go to the factory!
+ULRICH: You go on ahead.
+ULRICH: I promised Yumi\NI’d stop by after class.
+ULRICH: We’ll meet you there.
+SISSI: Oh, I thought they\Nwould never leave.
+SISSI: You friends really\Nstick to you like glue, huh?
+ULRICH: Not half as much as you do, Sissi.
+SISSI: I’d like to talk to you, Ulrich.
+SISSI: Could we have lunch together?\NI mean, just us two?
+ULRICH: Uh, sorry.\NYumi’s waiting for me.
+SISSI: Yumi! Always Yumi!\NIt’s time he dumped her!
+SFX: (PULSING)
+SFX: (SINISTER MUSIC)
+ODD: Yeah!
+ODD: Yeah!
+JEREMIE: I’d love to find\Na nice present for Aelita.
+ODD: No problem!
+ODD: Why don’t you program\Na digital birthday cake!
+JEREMIE: Very funny.
+ODD: What’s wrong, Einstein?
+JEREMIE: Power cut, I guess.
+JEREMIE: Come on, we’ll go check the\Nfuses in the control room.
+ULRICH: What do you think?
+YUMI: It’s a great idea…
+SISSI: I really wonder\Nwhat he sees in her.
+ULRICH: Okay, let’s go.
+ULRICH: Coast is clear.
+ODD: Wow.
+ODD: I forgot what this place looked like!
+ODD: That’s really cool.
+JEREMIE: You’re kidding.\NA hunk of junk if you ask me.
+YUMI: I’m gonna beat you the the elevator!
+ULRICH: We’ll see!
+YUMI: Yee-ha-haw!
+YUMI: I won!
+ULRICH: That’s nice.\NThey sent it back down.
+YUMI: Odd must be\Nin the scanner already.
+SISSI: Well, well.\NNice little hiding place.
+ULRICH: What are you doing here?
+SISSI: I should ask you that!
+SISSI: I want to know…\Nare Jeremie and Odd waiting for you,
+SISSI: or is this your own private love nest?
+YUMI: Sissi, that is none of your business.
+ULRICH: Yumi’s right.
+ULRICH: So why don’t you just leave?
+ULRICH: Huh? What’s going on?
+ULRICH: Something’s wrong.\NIt doesn’t want to open.
+ULRICH: It won’t start up.
+YUMI: But what’s the matter?
+ULRICH: I don’t know. It’s blocked.
+SISSI: Aaaaaah!
+SFX: (CRASHING)
+JEREMIE: What was that?
+ODD: Better check it out.
+ODD: It’s a trap!
+AELITA: XANA.
+YUMI: Ulrich?
+YUMI: Ulrich, are you okay?
+YUMI: Answer me!
+ULRICH: I can’t seem to move my arm.\NAnd you?
+YUMI: I was lucky. I’m okay.
+YUMI: But not her. She’s out cold.
+YUMI: I better call Jeremie.
+DEFAULT: (CELL PHONE RINGS)
+JEREMIE: Yumi, are you alright?
+JEREMIE: In that elevator?
+JEREMIE: So that was the noise we heard.
+JEREMIE: We’re stuck in the machine room.
+ODD: Careful!
+YUMI: It looks as if we’re on our own, Ulrich.
+ULRICH: You’ve gotta go back up.\NYou have to get to the lab.
+YUMI: And what about you?
+ULRICH: With just one arm?\NImpossible.
+ULRICH: Besides, we can’t leave Sissi all alone.
+JEREMIE: Odd!
+ODD: H-a-a-a-a-h!
+AELITA: Jeremie.
+AELITA: Jeremie, please answer me.\NWhere are you?
+YUMI: Whoa.
+ULRICH: What’s the problem?
+YUMI: I, uh…
+YUMI: just remembered I have\Na slight fear of heights
+ULRICH: Just hang on tight,\Nand don’t look down.
+ULRICH: You can do it, Yumi.
+SISSI: What happened? I can’t…
+ULRICH: The elevator broke down.
+ULRICH: We’re stuck down in the shaft.
+SISSI: Oh, I’m so cold.
+ULRICH: Don’t worry, we’ll be\Noutta here real soon.
+: (WINCES)
+SISSI: Ulrich, what is it?
+ULRICH: I think I broke my arm.
+SISSI: Let me have a look at it.
+JEREMIE: We’ve gotta get out of here
+ODD: No kidding, genius!
+JEREMIE: Aah!
+ODD: Jeremie!
+ODD: Aaah!
+ODD: Let me go, you horrible--!
+ODD: Aaah!
+ODD: Up here! Hurry!
+JEREMIE: Follow me!
+ODD: It’s too bad this isn’t Lyoko.
+ODD: At least I have superpowers there.
+JEREMIE: I’m pretty sure Aelita is also in danger.\NAnd she’s gonna need your help.
+ODD: But how do we reach the lab?
+JEREMIE: Via the boiler room.
+SFX: (CELL PHONE RINGS)
+YUMI: Hello, Odd. Are you alright?\NWhere are you?
+ODD: Heading for the lab.\NAnd how are you doing?
+YUMI: Let’s say I’m trying to cope.
+AELITA: Aaah!
+JEREMIE: Oh, look at the boiler.\NXANA’s really after us this time.
+ODD: Yumi’s on her way to the lab.
+ODD: She’s climbing up the shaft.
+SFX: (HISSING)
+JEREMIE: Huh?
+ODD: I don’t trust that thing.
+ODD: Ready for a hundred-yard dash?
+JEREMIE: I’m better at math than gym.
+ODD: Math isn’t gonna help you this time.
+ODD: Ready?
+ODD: Go!
+ODD: Yeah!
+SISSI: Hey! What’s that noise?
+ULRICH: Uh, nothing.
+SISSI: Don’t move, wait.
+SISSI: There. Okay.
+ULRICH: Thank you.
+ULRICH: You know, you’re a real good nurse.
+: Ah.
+SISSI: I’m not just somebody\Nwho sticks to you like glue, huh?
+ULRICH: Hm?
+SFX: (CELESTIAL HUMMING)
+AELITA: ♪ Ah… ♪
+AELITA: Bye-bye!
+YUMI: Odd? Jeremie?
+YUMI: Odd! Jeremie! Please answer!
+DEFAULT: (COUGHING)
+YUMI: You’re here!\NI was so scared!
+: (LAUGHS)
+ODD: We pushed the boiler too hard.\NGuess it just couldn’t take it.
+ULRICH: Oh, I don’t believe it!
+: This is useless!
+DEFAULT: Lyoko connection.\NPlease wait.
+ULRICH: This is absolutely Impossible!
+JEREMIE: Here we go.
+JEREMIE: I’ve launched a scan\Nto find the exact position
+JEREMIE: of the activated tower.
+JEREMIE: Aelita!
+JEREMIE: Aelita? Do you read me, Aelita?
+YUMI: Oh. I understand, Ulrich.
+YUMI: How is Sissi?
+ULRICH: She’s okay.
+YUMI: Hang on. We’re off to Lyoko.
+ULRICH: Okay, good luck.
+YUMI: The water is rising,
+: and Ulrich can’t swim\Nwith a broken arm.
+JEREMIE: And I can’t contact Aelita.
+JEREMIE: Okay, I’ve got the coordinates of the tower.
+JEREMIE: Now, I’ve got to--
+AELITA: Jeremie!
+JEREMIE: Aelita! How are you?
+JEREMIE: Everything okay?
+AELITA: I’ve been trying to\Ncontact you for such a long time.
+JEREMIE: We had a problem.
+JEREMIE: XANA set a trap for us\Nin the factory.
+JEREMIE: Ulrich is in danger.\NYumi and Odd are coming to Lyoko.
+JEREMIE: We’ve gotta hurry.
+AELITA: I’m just in front of the tower.
+SISSI: And to think I dreamed of\Nbeing alone with you
+SISSI: for such a long time,
+SISSI: but this isn’t\Nwhat I had in mind at all!
+ULRICH: I swear, if we get out of here alive,
+: I’ll be nicer to you in the future, Sissi.
+SISSI: Really?
+SISSI: Jeremie and the others\Nare gonna call for help, aren’t they?
+ULRICH: Yeah, I guess you could call it that.
+SISSI: They had better hurry up!
+SISSI: Otherwise, we’ll drown before you\Nhave a chance to be nicer to me!
+JEREMIE: Okay.
+JEREMIE: Yumi and Odd, we’re ready to go.
+JEREMIE: You’re off to the desert.
+JEREMIE: Transfer Yumi.
+JEREMIE: Transfer Odd.
+ULRICH:  Jeremie!
+JEREMIE: Hold on, Ulrich.
+JEREMIE: Odd and Yumi are gonna be transferred.
+JEREMIE: Hang on for just a second.
+ULRICH: Hurry, Jeremie.\NIt’s getting tough.
+ULRICH: We can hardly\Ntouch bottom anymore.
+JEREMIE: Okay, now.\NBack to the virtualization.
+JEREMIE: Scanner Odd.
+JEREMIE: Scanner Yumi.
+JEREMIE: Virtualization!
+ODD: You missed!
+YUMI: Okay, Aelita.\NIt’s time. You ready?
+ODD: Okay, guys! We’ll force our way through!
+: You keep running behind us.
+ODD: We’ve got to make it\Nto the tower, you understand!
+YUMI: Go!
+ODD: Take that!
+ODD: And that!
+JEREMIE: 40 life points\Nin just two shots!
+JEREMIE: Odd, you’re losing life points\Nmuch too quickly!
+ODD: Don’t worry, I’ll make it!
+YUMI: Watch out on your left!
+ODD: Laser arrow!
+ODD: Huh?
+JEREMIE: Your point loss rate\Nis too high, Odd, you hear!
+ODD: Agh!
+AELITA: Whoa--aah!
+JEREMIE: Oh, no! Aelita!
+JEREMIE: Aelita, 80!
+JEREMIE: Yumi, just 10!
+JEREMIE: You’ve gotta clear the passage!
+YUMI: Hiyah!
+: Aah!
+JEREMIE: No!
+JEREMIE: It’s okay, Ulrich.\NAelita’s in the tower!
+JEREMIE: Ulrich?
+JEREMIE: Ulrich, do you hear me?
+JEREMIE: Return to the past now.
+YUMI: Okay, now!
+JEREMIE: Ready, Aelita?
+AELITA: Mhmm!
+JEREMIE: Here we go!
+AELITA: What’s going on?\NI don’t understand.
+ODD: It’s something from our world.
+SISSI: Shh!
+DEFAULT: Happy birthday, Aelita!
+AELITA: Oh!
+AELITA: I don’t get it.
+JEREMIE: We’re celebrating because it’s exactly\None year ago that we met you.
+AELITA: Oh, I see.
+AELITA: And am I supposed\Nto do something?
+ODD: Yeah, save me a piece of cake!
+YUMI: One-track mind.
+JEREMIE: Don’t listen to that glutton!
+ODD: Speak for yourself, four-eyes!
+YUMI: Calm down, you guys!
+HERB: Hah! What a bunch of loonies.
+HERB: They’re celebrating\Ntheir computer’s birthday!
+SISSI: Well, I think it’s a\Nvery trendy thing to do.
+SISSI: Buy a cake for tomorrow.
+SISSI: To celebrate the birthday\Nof my makeup kit.
+YUMI: Odd, you’re eating all the cake! Stop!
+ODD: I’m hungry!
+YUMI: So is everybody else!
+ULRICH: Hand it over.
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

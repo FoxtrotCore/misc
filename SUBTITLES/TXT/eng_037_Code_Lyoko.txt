@@ -1,0 +1,368 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+OPERATOR: HQ transfer calling Car Alpha.
+OFFICER 1: Car Alpha. Go ahead.
+OPERATOR: In three miles, you’ll meet up\Nwith escort two as planned.
+DEFAULT: (SINISTER MUSIC)
+OFFICER 1: Copy that.
+OFFICER 1: You happy to be\Ngoing home, huh, Duncan?
+DUNCAN: I don’t talk to cops,\Nso save your breath.
+OFFICER 1: Typical. That’s what you get\Ntrying to be nice.
+DUNCAN: (YELLS)
+OFFICER 1: Duncan, hey!
+OFFICER 1: What’s going on? What’s up?
+OFFICER 1: Pull over. He’s had\Nsome kind of attack.
+OFFICER 2: Car Alpha to HQ transfer.
+OPERATOR: Go ahead, Car Alpha.
+OFFICER 1: Duncan! Hey, you okay?
+OFFICER 1: What’s going on here?
+OFFICER 1: Huh?
+OFFICER 2: Following procedure three.
+OFFICER 2: Momentary stop to assess the situation.
+OFFICER 1: (YELLS)
+OFFICER 2: Hey!
+OPERATOR: Roger, Car Alpha.\NStanding by for information.
+OPERATOR: Car Alpha? What’s going on?
+OPERATOR: Come in, please, Car Alpha.
+ULRICH: Peter Duncan escaped\Nfrom a police transport van
+ULRICH: without any outside help?
+YUMI: Yeah, that’s what they\Nsaid on the radio.
+ODD: You know, ever since David Copperfield
+ODD: made the statue of liberty disappear,
+ODD: nothing surprises me anymore.
+YUMI: What bothers me is that
+YUMI: the two police officers\Nwho were guarding him
+YUMI: talked about a supernatural force.
+ULRICH: You think XANA is involved?
+JEREMIE: Not a chance.
+JEREMIE: The super scanner doesn’t\Nshow any activated tower.
+JEREMIE: I just checked.
+YUMI: I hope you’re right.
+YUMI: Imagine public enemy number one\Nunder XANA’s control.
+YUMI: Talk about double trouble.
+ODD: A public enemy?
+ODD: What did this Duncan guy do?
+JEREMIE: Oh, nothing much.
+JEREMIE: Fine art theft, safe cracking,\Nkidnapping, bank robberies.
+YUMI: You okay, Aelita?
+AELITA: Yes, uh…
+AELITA: I just didn’t sleep\Nvery well last night.
+JEREMIE: Don’t forget we have a math test.
+JEREMIE: You gonna be alright?
+AELITA: No problem.
+DEFAULT: (SINISTER MUSIC)
+MRS. MEYER: As you all know, the exam\Ncovers the principles of division.
+MRS. MEYER: I hope you’ve studied hard.
+ODD: Hey, Ulrich, what’s the last digit
+ODD: of a number divisible by two, huh?
+MRS. MEYER: Zero.
+ODD: Oh, yeah! That’s the answer.
+ODD: Well done, mam!
+MRS. MEYER: No, that’s the grade\Nyou’re going to get
+MRS. MEYER: if you keep trying to cheat.
+ODD: Oh.
+MRS. MEYER: Well, Jeremie, is there a problem?
+JEREMIE: I finished, mam.
+MRS. MEYER: I see. Good work!
+MRS. MEYER: Excellent, in fact, Jeremie.
+DEFAULT: (STUDENTS GASP)
+DUNCAN: (GRUNTS)
+AELITA: (SHUDDERS)
+JEREMIE: Aelita, are you okay?
+DUNCAN: (YELLS)
+JEREMIE: Aelita!
+DEFAULT: (SIREN WAILS)
+DOCTOR 1: Okay, what have we got?
+DOCTOR 2: Adolescent. 12 years old, unconscious.
+DOCTOR 2: Very weak pulse, irregular heartbeat.
+DOCTOR 1: Put her in bay one.
+DOCTOR 1: She’s gone into fibrillation.
+DOCTOR 3: 10 mils of adrexin.
+DOCTOR 1: Heart’s failing.
+DOCTOR 3: She’s going down.
+DOCTOR 3: Cardiac unit!
+DOCTOR 1: Clear.
+DEFAULT: (FLATLINES)
+DOCTOR 1: Nothing.
+DOCTOR 1: Clear!
+DEFAULT: (PULSING)
+DOCTOR 3: That kid’s got a real\Nguardian angel, that’s for sure.
+JEREMIE: So, how is she?
+DOCTOR 1: She’s fine. Don’t worry.
+DOCTOR 1: She’ll be alright, but it’s\Nan extraordinary case.
+YUMI: Can we see her?
+DOCTOR 1: I don’t see why not,\Nbut not too much noise.
+DOCTOR 1: She needs to rest.
+ODD: Don’t worry, doctor!
+ODD: Everyone knows I’m quiet and calm.
+YUMI: How were your test results?
+AELITA: Completely normal.
+ULRICH: Maybe it’s got something\Nto do with the fact
+ULRICH: that you’re not really human.
+AELITA: It could be the virus that\NXANA implanted in me.
+YUMI: Did you find anything, Jeremie?
+JEREMIE: Dead calm as far XANA’s concerned.
+JEREMIE: No activated towers.
+JEREMIE: Although the superscan\Nseems to have reset itself.
+JEREMIE: It’s not giving the right results.
+ODD: Kind of like me.
+ODD: I guess it didn’t study, either.
+JEREMIE: No class this afternoon.
+JEREMIE: I’m going to pay a visit to\Nthe factory to check it out.
+ULRICH: We’ll go with you.
+YUMI: I’ll stay here.
+YUMI: We can have a\Ngirl-to-girl talk for once.
+DRIVER: Hey!
+DRIVER: What the--
+DRIVER: This guy’s crazy!
+DUNCAN: (LAUGHS)
+DRIVER: (GRUNTS)
+SOLDIER 1: Don’t move!
+SOLDIER 1: Put your hands in the air!
+DEFAULT: (CRASHING)
+DRIVER: Hands up!
+JEREMIE: That’s exactly what I was afraid of.
+ULRICH: What?
+JEREMIE: The superscan bugged up.
+JEREMIE: I’ll find out why in a minute.
+ODD: The real question is --\Ncan you fix it?
+JEREMIE: Well, normally, yeah.
+JEREMIE: But the debugging phase takes time.
+JEREMIE: I don’t know if it’s a minor bug\Nor something more serious--
+ODD: Okay, okay.
+ODD: If XANA’s activated a tower,\Nwe’ll find it much faster
+ODD: by going directly to Lyoko.
+ODD: You coming, Ulrich?
+ULRICH: Mmhmm.
+JEREMIE OFF: Transfer Ulrich.
+JEREMIE: Transfer Odd.
+JEREMIE OFF: Scanner Ulrich.
+JEREMIE OFF: Scanner Odd.
+JEREMIE: Virtualization!
+ULRICH: All clear here.
+ULRICH: We’re gonna have to\Nsearch all the sectors.
+JEREMIE: Don’t panic.
+JEREMIE: I’m calling up your\Nvehicles, guys.
+ODD OFF: Jeremie, how’s it going\Nwith the superscan?
+JEREMIE: Not too great.
+ODD: Well, anyway, you\Nmight as well forget it.
+ODD: No, wait! We found it!
+ULRICH: Activated tower dead ahead.
+JEREMIE: Right I’ve got it.
+JEREMIE OFF: 25 degrees north northeast.
+JEREMIE: Nice job, you guys!
+ULRICH: Now all we got to do is\Nbring Aelita here to deactivate it.
+JEREMIE: Okay, I’m bringing you in.
+JEREMIE: That’s great. Now what’s up.
+JEREMIE: Oh, no!
+JEREMIE: Can you hear me? Hey!
+JEREMIE: Ulrich! Odd!
+ULRICH: Uh, Jeremie, not that\Nwe’re in a rush, but uh…
+ULRICH: Jeremie?
+ULRICH: Taking your time there.
+ULRICH: Jeremie?
+ODD: Must’ve forgotten\Nto pay his phone bill.
+YUMI: The funniest part is --
+YUMI: Hiroki says to my father,
+YUMI: papa, when I grow up,\NI’m gonna look like you,
+YUMI: but with muscles!
+AELITA: (CHUCKLES LIGHTLY)
+YUMI: Aelita?
+DEFAULT: (FLATLINES)
+YUMI: Oh, no.\NI don’t believe it.
+YUMI: Get a doctor! Quickly!
+JEREMIE: What’s wrong with\Nthis darn supercomputer.
+ODD: Uh, Jeremie, are you\Ngonna bring us in or not?
+ULRICH: We’ll have to\Nmanage without him.
+ULRICH: Get ready.
+ODD: One.
+ODD: Two.
+ODD: Three!
+ODD: Ugh!
+ULRICH: Aah!
+ODD: W-We can’t be devirtualized.
+ULRICH: The scanners must be offline.
+ULRICH: What is going on\Naround here, anyway?
+ODD: I have no idea.
+ODD: But we’ve got a real problem.
+ULRICH: That’s the understatement of the year.
+JEREMIE: Oh, this is really bad.
+ULRICH: Huh? What is that!
+ODD: How about…\Na gigantic invisible eraser?
+ULRICH: Let’s get out of here!
+ULRICH: Jeremie, do something fast, huh!
+ULRICH: Before it’s too late!
+JEREMIE: Come on! Start up, will you!
+ODD: Jeremie, can you hear us?
+ODD: We have a big bug here!
+ULRICH: Ah--whoa!
+ODD: Ulrich!
+ULRICH: Aah! Help!
+ULRICH: Aah!
+ULRICH: Thanks.
+ODD: Huh? No!
+DEFAULT: (BOTH SCREAM)
+DEFAULT: (FLATLINES)
+DOCTOR 3: (GRUNTS)
+JEREMIE: Finally!
+DEFAULT: (BOTH SCREAMING)
+ULRICH: Looks like Lyoko has\Nrecharged its batteries.
+DEFAULT: (PULSING)
+DOCTOR 3: In all of my years as a doctor,
+DOCTOR 3: this is the first time\NI’ve ever seen that.
+JEREMIE: Hey, we’re doing okay.
+DEFAULT: (BEEPS)
+JEREMIE: Oh, no. The nuclear\Nbattery’s going dead!
+JEREMIE: The uranium in the nuclear\Nbattery’s almost all used up,
+JEREMIE: so the supercomputer keeps failing,
+JEREMIE: and pretty soon\Nit’ll turn off altogether.
+ODD: Oh, is that all?
+ODD: Then we just have to change the battery.
+JEREMIE: A supercomputer is not the\Nsame as a Game Boy, Odd.
+JEREMIE: You can’t just pick up a bar of\Nuranium at the corner store.
+ULRICH: But isn’t there a kind of\Nemergency backup battery?
+JEREMIE: No. I checked.
+YUMI: XANA is dying.
+JEREMIE: And so is Aelita.
+JEREMIE: And all on account\Nof that miserable virus.
+JEREMIE: I’m gonna get something to drink.
+JEREMIE: Aah!
+ODD: Hey, princess.
+ODD: Is this the best TV set they could find?
+AELITA: Don’t bother trying to cheer me up.
+AELITA: I heard what they said in the hallway.
+YUMI: Jeremie’s disappeared!
+ULRICH: But he can’t have left just like that…
+AELITA: (INHALES SHARPLY)
+YUMI: Aelita!
+DEFAULT: (CELL PHONE RINGS)
+JEREMIE: Ulrich, it’s me.
+ULRICH: Jeremie, where are you?
+ULRICH: Aelita’s just\Nhad another attack.
+JEREMIE: That figures.
+JEREMIE: I just turned off the supercomputer.
+ULRICH: What?!
+JEREMIE: Peter Duncan is under XANA’s control.
+JEREMIE: He kidnapped me to\Nmake me replace the battery.
+ULRICH: That means that\NAelita is safe, too, then.
+ULRICH: Fantastic!
+JEREMIE: Yeah, except that\Nonce the new battery is in…
+JEREMIE: Duncan’s gonna try to kill me.
+DOCTOR 1: It’s room 117. Little Aelita!
+JEREMIE: The only way to get rid of Duncan
+JEREMIE: is for your to go to Lyoko\Nand deactivate the tower.
+JEREMIE: Get Aelita out of the hospital,\Nand get here ASAP.
+ULRICH: Aelita’s heart can’t take\Nan awful lot more of this.
+JEREMIE: I know. So hurry.
+DOCTOR 1: Huh?
+DEFAULT: (DRAMATIC MUSIC)
+JEREMIE: This ought to do the trick.
+JEREMIE: Easy…
+JEREMIE: Please let Aelita still be alive.
+DUNCAN: You won’t get away from me!
+JEREMIE: Yumi, Ulrich, Odd,\Nare you there?
+JEREMIE: Tell me you’re there!
+ODD OFF: You’re there!
+YUMI: We’re in the scanner room.
+JEREMIE OFF: Is Aelita okay?
+AELITA: Couldn’t be better.
+ODD: Launch the procedure\Nfor Yumi, Aelita, and me.
+ODD: We’re gonna deactivate that darn tower.
+JEREMIE: But where’s Ulrich?
+ULRICH: Here I am.
+ULRICH: You didn’t think we’d let\Nyou have all the fun
+ULRICH: with Peter Duncan, did you?
+JEREMIE OFF: Transfer Odd.
+JEREMIE OFF: Transfer Aelita.
+JEREMIE OFF: Transfer Yumi.
+JEREMIE: Virtualization.
+JEREMIE OFF: You should see the tower.
+YUMI: Over there.
+AELITA: Watch out.
+ODD: Kankrelats!
+ODD: We haven’t seen\Nyou guys for a while!
+ODD: I missed you!
+ODD: Laser arrow!
+ODD: One down.
+YUMI: Hiyah!
+YUMI: Jeremie, we’re gonna\Nneed our vehicles.
+JEREMIE: Your rides are on the way.
+YUMI: Aah!
+JEREMIE: Yumi, you’re down to 10 life points.
+JEREMIE: The vehicles are materializing.
+JEREMIE OFF: Hurry up, guys!
+ODD: We’re doing our best!
+ODD: It’s no picnic out here!
+YUMI: There’s no time, Odd! Let’s go!
+ODD: It must be your lucky day,\Nyou little kankre-creeps!
+ODD: Tower dead ahead!
+JEREMIE: Great.
+JEREMIE: Can you handle him?
+ULRICH: I love entertaining guests.
+YUMI: Two monsters in view.
+AELITA: (GIGGLES)
+TARANTULA: -Orruha?\N-Raaaah!
+YUMI: Aelita, jump!
+DEFAULT: (SCREECHES)
+YUMI: Run to the tower!
+DUNCAN: (GRUNTS)
+JEREMIE: Ulrich!
+ULRICH: (GROANS)
+ODD: Uh--whoa!
+ODD: Aah!
+ODD: Whoa!
+ODD: Whoa!
+DUNCAN XAN: Now, it’s your turn.
+ODD: Aah!
+AELITA: Odd!
+DUNCAN XAN: (LAUGHS)
+JEREMIE: Stay away!
+JEREMIE: A-Aah!
+YUMI: Aelita, time to\Npull out all the stops.
+YUMI: Aah!
+DEFAULT: (CELESTIAL HUMMING)
+DEFAULT: (SCREECHES)
+JEREMIE: H-Aah!
+JEREMIE: (CHOKING)
+AELITA: Tower deactivated.
+JEREMIE: Aah!
+ULRICH: Hey, you okay?
+YUMI: “Peter Duncan was found unconscious
+YUMI: “in front of police headquarters.
+YUMI: “The police are investigating,\Nbut for the moment
+YUMI: “don’t have any leads as to\Nhow the escaped prisoner
+YUMI: ended up outside the police station.”
+ULRICH: Even if we did tell them\Nthe truth, they’d never believe us.
+ODD: You’re right.
+ODD: That’s how it is for unsung\Nheroes like ourselves.
+ODD: We gotta act and win\Nand remain in the shadows.
+ODD: I guess that’s what being\Na true hero’s all about.
+ODD: But someday, everybody’s gonna\Nknow just how brave we are.
+ODD: And we’ll reap the real benefits\Nand rewards true heroes deserve.
+JEREMIE: Hey, speaking of rewards,\NI just saw Misses Meyer.
+ODD: Uh-oh.
+JEREMIE: She gave me the results of the math test.
+ODD: Great! What did I get?
+JEREMIE: 8,650 plus 51 minus 10,000 plus 1,299.
+ODD: You mean I got…um…uh…
+ODD: Wow!
+: I got 100?
+JEREMIE: No. Zero.
+ULRICH: Don’t worry, Odd.
+ULRICH: One day, everyone’s gonna know
+ULRICH: how “brave” you are\Nby not studying.
+ULRICH: And you’ll reap the rewards
+ULRICH: that an unsung hero\Nlike you deserves.
+YUMI: But don’t hold your breath.
+DEFAULT: (LAUGHS)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO
