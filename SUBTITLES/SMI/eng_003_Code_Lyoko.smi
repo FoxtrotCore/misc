@@ -1,0 +1,507 @@
+﻿<SAMI>
+<HEAD>
+<TITLE>eng_003_Code_Lyoko</TITLE>
+<SAMIParam>
+  Metrics {time:ms;}
+  Spec {MSFT:1.0;}
+</SAMIParam>
+<STYLE TYPE="text/css">
+<!--
+  P { font-family: Arial; font-weight: normal; color: white; background-color: black; text-align: center; }
+  .ENUSCC { name: English; lang: en-US ; SAMIType: CC ; }
+-->
+</STYLE>
+</HEAD>
+<BODY>
+<-- Open play menu, choose Captions and Subtiles, On if available -->
+<-- Open tools menu, Security, Show local captions when present -->
+<SYNC Start="14270"><P Class="ENUSCC">♪ Here we are going far ♪</P></SYNC>
+<SYNC Start="16110"><P Class="ENUSCC">♪ to save all that we love ♪</P></SYNC>
+<SYNC Start="18090"><P Class="ENUSCC">♪ If we give all we’ve got ♪</P></SYNC>
+<SYNC Start="19870"><P Class="ENUSCC">♪ we will make it through ♪</P></SYNC>
+<SYNC Start="21920"><P Class="ENUSCC">♪ Here we are like a star ♪</P></SYNC>
+<SYNC Start="23740"><P Class="ENUSCC">♪ shining bright<br>on your world today ♪</P></SYNC>
+<SYNC Start="27430"><P Class="ENUSCC">♪ Make evil go away ♪</P></SYNC>
+<SYNC Start="30380"><P Class="ENUSCC">♪ Code Lyoko we’ll<br>withstand it all ♪</P></SYNC>
+<SYNC Start="34350"><P Class="ENUSCC">♪ Code Lyoko be there<br>when you call ♪</P></SYNC>
+<SYNC Start="38170"><P Class="ENUSCC">♪ Code Lyoko we<br>will stand real tall ♪</P></SYNC>
+<SYNC Start="41990"><P Class="ENUSCC">♪ Code Lyoko<br>stronger after all ♪</P></SYNC>
+<SYNC Start="47070"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="63420"><P Class="ENUSCC">(SNORING)</P></SYNC>
+<SYNC Start="65460"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="69380"><P Class="ENUSCC">(BARKS)</P></SYNC>
+<SYNC Start="71990"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="86550"><P Class="ENUSCC">Hey!</P></SYNC>
+<SYNC Start="87420"><P Class="ENUSCC">What are you<br>doing here, huh?</P></SYNC>
+<SYNC Start="88880"><P Class="ENUSCC">(YAPPING)</P></SYNC>
+<SYNC Start="89670"><P Class="ENUSCC">You dumb dog!</P></SYNC>
+<SYNC Start="91020"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="91240"><P Class="ENUSCC">Wait ’til I get<br>my hands on you!</P></SYNC>
+<SYNC Start="93300"><P Class="ENUSCC">I’ll get you this time,<br>you mangy mutt!</P></SYNC>
+<SYNC Start="95840"><P Class="ENUSCC">Yeah! Way to go, Kiwi!</P></SYNC>
+<SYNC Start="97660"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="103180"><P Class="ENUSCC">(BARKING)</P></SYNC>
+<SYNC Start="105830"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="106850"><P Class="ENUSCC">Jeremie!<br>You mind telling me</P></SYNC>
+<SYNC Start="108320"><P Class="ENUSCC">what you’re doing<br>outside at this hour?</P></SYNC>
+<SYNC Start="110370"><P Class="ENUSCC">And that, huh!</P></SYNC>
+<SYNC Start="111640"><P Class="ENUSCC">What's that supposed to be?</P></SYNC>
+<SYNC Start="113640"><P Class="ENUSCC">(TROMBONE)</P></SYNC>
+<SYNC Start="116940"><P Class="ENUSCC">If I’d have had more time,<br>I could’ve done the eyes better.</P></SYNC>
+<SYNC Start="119920"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="127430"><P Class="ENUSCC">I hope this will teach you<br>a lesson, Jeremie.</P></SYNC>
+<SYNC Start="130380"><P Class="ENUSCC">I don’t understand.<br>A model student like you?</P></SYNC>
+<SYNC Start="133160"><P Class="ENUSCC">You should be ashamed.</P></SYNC>
+<SYNC Start="134650"><P Class="ENUSCC">Uh…yes, sir. </P></SYNC>
+<SYNC Start="136730"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="137670"><P Class="ENUSCC">-What did he say?<br>-Well, tell us!</P></SYNC>
+<SYNC Start="139410"><P Class="ENUSCC">He gave me detention<br>for the whole week of vacation.</P></SYNC>
+<SYNC Start="143170"><P Class="ENUSCC">Cool!</P></SYNC>
+<SYNC Start="144250"><P Class="ENUSCC">He really let you have it!</P></SYNC>
+<SYNC Start="146380"><P Class="ENUSCC">As punishments go,<br>you’re a champion!</P></SYNC>
+<SYNC Start="148860"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="149380"><P Class="ENUSCC">I’m sure we couldn’t have<br>done better than that!</P></SYNC>
+<SYNC Start="151800"><P Class="ENUSCC">Anyway, XANA won’t get<br>any vacation this time.</P></SYNC>
+<SYNC Start="154880"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="157010"><P Class="ENUSCC">Am I dreaming,<br>or does Jeremie look happy</P></SYNC>
+<SYNC Start="159160"><P Class="ENUSCC">to be punished<br>for the vacatoin?</P></SYNC>
+<SYNC Start="161320"><P Class="ENUSCC">Yeah, it sure is weird.</P></SYNC>
+<SYNC Start="162820"><P Class="ENUSCC">You’d almost think<br>he did what he did</P></SYNC>
+<SYNC Start="164400"><P Class="ENUSCC">because he <i>wanted</i><br>to be punished.</P></SYNC>
+<SYNC Start="166000"><P Class="ENUSCC">I don’t get it.</P></SYNC>
+<SYNC Start="166890"><P Class="ENUSCC">Me neither.</P></SYNC>
+<SYNC Start="167610"><P Class="ENUSCC">And who’s this XANA<br>he was talking about?</P></SYNC>
+<SYNC Start="169100"><P Class="ENUSCC">Herb is right. It’s even<br>weirder than weird.</P></SYNC>
+<SYNC Start="171210"><P Class="ENUSCC">And I’m gonna find out<br>just what’s going on.</P></SYNC>
+<SYNC Start="173720"><P Class="ENUSCC">Huh? What are you<br>gonna do?</P></SYNC>
+<SYNC Start="175930"><P Class="ENUSCC">Don’t you have to leave<br>with your dad after school?</P></SYNC>
+<SYNC Start="178190"><P Class="ENUSCC">A little change of schedule.</P></SYNC>
+<SYNC Start="179850"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="181980"><P Class="ENUSCC">Daddy, can I talk<br>to you for a minute?</P></SYNC>
+<SYNC Start="184230"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="184480"><P Class="ENUSCC">But, Sissi dear,<br>I am very busy.</P></SYNC>
+<SYNC Start="186640"><P Class="ENUSCC">It won’t take long.</P></SYNC>
+<SYNC Start="187720"><P Class="ENUSCC">Well, you see, there’s this girl I know<br>whose grades aren’t very good,</P></SYNC>
+<SYNC Start="190940"><P Class="ENUSCC">and the best thing for her<br>would be to study over the vacation,</P></SYNC>
+<SYNC Start="193920"><P Class="ENUSCC">but she’s supposed to<br>go to see her grandparents.</P></SYNC>
+<SYNC Start="195530"><P Class="ENUSCC">I see. And who is this--?</P></SYNC>
+<SYNC Start="197070"><P Class="ENUSCC">Shh! I’m coming to that!</P></SYNC>
+<SYNC Start="198850"><P Class="ENUSCC">She knows that when she<br>gets to her grandparents’ house,</P></SYNC>
+<SYNC Start="201420"><P Class="ENUSCC">she won’t feel like studying,<br>so what do you think she should do?</P></SYNC>
+<SYNC Start="204550"><P Class="ENUSCC">She needs your advice as a principal!</P></SYNC>
+<SYNC Start="207040"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="208650"><P Class="ENUSCC">Well, my advice would be<br>to give up her vacation</P></SYNC>
+<SYNC Start="211820"><P Class="ENUSCC">and stay home and study<br>for her own good.</P></SYNC>
+<SYNC Start="214420"><P Class="ENUSCC">What’s this girl’s name?<br>Perhaps I could talk to her…</P></SYNC>
+<SYNC Start="216970"><P Class="ENUSCC">You just did, daddy! It’s me!</P></SYNC>
+<SYNC Start="219230"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="219740"><P Class="ENUSCC">Thank you for the advice!<br>I promise to study hard!</P></SYNC>
+<SYNC Start="222060"><P Class="ENUSCC">Kiss grandma and grandpa for me!</P></SYNC>
+<SYNC Start="224100"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="225360"><P Class="ENUSCC">You get to go and see your parents<br>at the other end of the planet,</P></SYNC>
+<SYNC Start="229080"><P Class="ENUSCC">Yumi’s off for a vacation<br>in the mountains, and what do I get?</P></SYNC>
+<SYNC Start="232580"><P Class="ENUSCC">A whole week of math tutoring.</P></SYNC>
+<SYNC Start="234090"><P Class="ENUSCC">If they think they can make</P></SYNC>
+<SYNC Start="235100"><P Class="ENUSCC">a good student<br>out of you in one week,</P></SYNC>
+<SYNC Start="237020"><P Class="ENUSCC">well, I say good luck to them.</P></SYNC>
+<SYNC Start="238950"><P Class="ENUSCC">It sounds like mission<br>impossible if you ask me.</P></SYNC>
+<SYNC Start="241900"><P Class="ENUSCC">You’re sure you can manage<br>on your own without us?</P></SYNC>
+<SYNC Start="244380"><P Class="ENUSCC">No sweat, and if XANA<br>leaves me alone,</P></SYNC>
+<SYNC Start="246360"><P Class="ENUSCC">I’ll be able to work on<br>Aelita’s materialization.</P></SYNC>
+<SYNC Start="248760"><P Class="ENUSCC">Oh, don’t worry.<br>He’s not gonna be alone.</P></SYNC>
+<SYNC Start="251210"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="251880"><P Class="ENUSCC">I’m staying at school, too,<br>and I’ll look after him.</P></SYNC>
+<SYNC Start="254520"><P Class="ENUSCC">I’ll be his guardian angel.</P></SYNC>
+<SYNC Start="255780"><P Class="ENUSCC">Wow, Jeremie, are you lucky.</P></SYNC>
+<SYNC Start="257890"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="258180"><P Class="ENUSCC">Alright, young man.</P></SYNC>
+<SYNC Start="259600"><P Class="ENUSCC">You think this wall’s<br>gonna clean itself?</P></SYNC>
+<SYNC Start="261700"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="262720"><P Class="ENUSCC">Get to work NOW!</P></SYNC>
+<SYNC Start="264680"><P Class="ENUSCC">(CACKLING)</P></SYNC>
+<SYNC Start="265840"><P Class="ENUSCC">Go on, go on.</P></SYNC>
+<SYNC Start="266750"><P Class="ENUSCC">Laugh while you<br>still can, young lady.</P></SYNC>
+<SYNC Start="268630"><P Class="ENUSCC">Your father told me<br>to monitor your studying,</P></SYNC>
+<SYNC Start="270580"><P Class="ENUSCC">and that's what I intend to do!</P></SYNC>
+<SYNC Start="272620"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="273490"><P Class="ENUSCC">Okay, now.</P></SYNC>
+<SYNC Start="274320"><P Class="ENUSCC">Get to work<br>and clean that up.</P></SYNC>
+<SYNC Start="276220"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="279290"><P Class="ENUSCC">I don’t know why,<br>but all of a sudden,</P></SYNC>
+<SYNC Start="281670"><P Class="ENUSCC">my math tutoring<br>doesn’t seem all that bad.</P></SYNC>
+<SYNC Start="284720"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="291660"><P Class="ENUSCC">Come on, you can do<br>better than that!</P></SYNC>
+<SYNC Start="293540"><P Class="ENUSCC">A little more elbow grease!</P></SYNC>
+<SYNC Start="295220"><P Class="ENUSCC">Keep scrubbing.<br>Go on, you can do it.</P></SYNC>
+<SYNC Start="297470"><P Class="ENUSCC">How’s that math problem?</P></SYNC>
+<SYNC Start="299000"><P Class="ENUSCC">Making any progress solving it?</P></SYNC>
+<SYNC Start="300560"><P Class="ENUSCC">I sure hope so!</P></SYNC>
+<SYNC Start="302030"><P Class="ENUSCC">Well, I’m a little bit stuck here.</P></SYNC>
+<SYNC Start="304430"><P Class="ENUSCC">Maybe if I gave<br>Jeremie some help.</P></SYNC>
+<SYNC Start="306600"><P Class="ENUSCC">My father always says that<br>manual labor is good for the brain!</P></SYNC>
+<SYNC Start="310500"><P Class="ENUSCC">Huh, I guess all kids<br>aren’t lazy, after all.</P></SYNC>
+<SYNC Start="312740"><P Class="ENUSCC">Good idea, Sissi.</P></SYNC>
+<SYNC Start="313690"><P Class="ENUSCC">Stay there.</P></SYNC>
+<SYNC Start="314410"><P Class="ENUSCC">I’ll go and get you a sponge.</P></SYNC>
+<SYNC Start="315960"><P Class="ENUSCC">Oh, what a shame<br>to have to wipe all that off.</P></SYNC>
+<SYNC Start="318660"><P Class="ENUSCC">I guess I’m not the first one<br>to recognize your talent.</P></SYNC>
+<SYNC Start="321640"><P Class="ENUSCC">It’s really well done.<br>A work of art.</P></SYNC>
+<SYNC Start="323600"><P Class="ENUSCC">By the way, did you do it<br>all by yourself?</P></SYNC>
+<SYNC Start="325860"><P Class="ENUSCC">Or did your friend XANA<br>help you a little, huh?</P></SYNC>
+<SYNC Start="329370"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="343140"><P Class="ENUSCC">(SINISTER MUSIC)</P></SYNC>
+<SYNC Start="346090"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="356800"><P Class="ENUSCC">I overheard you talking<br>to the other kids about XANA.</P></SYNC>
+<SYNC Start="359090"><P Class="ENUSCC">Is she your girlfriend?<br>Maybe I know her.</P></SYNC>
+<SYNC Start="361320"><P Class="ENUSCC">Come on, Jeremie, tell me.</P></SYNC>
+<SYNC Start="363340"><P Class="ENUSCC">XANA’s the name<br>of a rock group.</P></SYNC>
+<SYNC Start="365250"><P Class="ENUSCC">But with all the junk<br>that you listen to,</P></SYNC>
+<SYNC Start="366900"><P Class="ENUSCC">there’s no way you could<br>possibly know them.</P></SYNC>
+<SYNC Start="368560"><P Class="ENUSCC">What do you think I am?</P></SYNC>
+<SYNC Start="369550"><P Class="ENUSCC">An idiot or something?</P></SYNC>
+<SYNC Start="370620"><P Class="ENUSCC">Uh, you said it, not me.</P></SYNC>
+<SYNC Start="372180"><P Class="ENUSCC">Here. Since you<br>volunteered to help me.</P></SYNC>
+<SYNC Start="373980"><P Class="ENUSCC">It’s time I took a break.</P></SYNC>
+<SYNC Start="375710"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="375980"><P Class="ENUSCC">A little more elbow grease!</P></SYNC>
+<SYNC Start="377380"><P Class="ENUSCC">Go on, keep scrubbing!</P></SYNC>
+<SYNC Start="378770"><P Class="ENUSCC">You can do it!</P></SYNC>
+<SYNC Start="379520"><P Class="ENUSCC">Go on, you can do better than that!</P></SYNC>
+<SYNC Start="381100"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="382030"><P Class="ENUSCC">(CLEARS THROAT)</P></SYNC>
+<SYNC Start="384120"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="393710"><P Class="ENUSCC">Oh, I ache all over. I swear.</P></SYNC>
+<SYNC Start="395480"><P Class="ENUSCC">I'm telling you, I'd have<br>never thought it was possible</P></SYNC>
+<SYNC Start="397900"><P Class="ENUSCC">to be this sore.<br>It even hurts to blink!</P></SYNC>
+<SYNC Start="399670"><P Class="ENUSCC">Sissi, you should go to sleep.</P></SYNC>
+<SYNC Start="401330"><P Class="ENUSCC">Are you kidding? I can’t.</P></SYNC>
+<SYNC Start="403220"><P Class="ENUSCC">What if Jeremie<br>tries something tonight!</P></SYNC>
+<SYNC Start="405060"><P Class="ENUSCC"><i>Oh, yeah? What?</i></P></SYNC>
+<SYNC Start="406400"><P Class="ENUSCC">I don't know,<br>but he's up to something.</P></SYNC>
+<SYNC Start="407860"><P Class="ENUSCC">I'm sure of that.</P></SYNC>
+<SYNC Start="409020"><P Class="ENUSCC">And I’m almost sure that<br>this XANA is in on it.</P></SYNC>
+<SYNC Start="411610"><P Class="ENUSCC">Tonight’s the night.</P></SYNC>
+<SYNC Start="412820"><P Class="ENUSCC">I’m going to play super spy.</P></SYNC>
+<SYNC Start="414190"><P Class="ENUSCC">At last, I’m gonna find out the secret<br>of Jeremie and his weird friends!</P></SYNC>
+<SYNC Start="417890"><P Class="ENUSCC">I know I’m on the right track,</P></SYNC>
+<SYNC Start="419440"><P Class="ENUSCC">but I need the computer in the lab<br>to check out the figures.</P></SYNC>
+<SYNC Start="422360"><P Class="ENUSCC">I’m gonna head over to the factory.</P></SYNC>
+<SYNC Start="424140"><P Class="ENUSCC"><i>You should go to bed, Jeremie.</i></P></SYNC>
+<SYNC Start="425790"><P Class="ENUSCC"><i>XANA seems to be stable.</i></P></SYNC>
+<SYNC Start="427400"><P Class="ENUSCC"><i>I don’t feel any pulsations.</i></P></SYNC>
+<SYNC Start="429290"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="429460"><P Class="ENUSCC"><i>And you know<br>it’s not the end of the world</i></P></SYNC>
+<SYNC Start="431190"><P Class="ENUSCC"><i>if I stay virtual one more day.</i></P></SYNC>
+<SYNC Start="433190"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="434440"><P Class="ENUSCC">That’s fine for you,<br>but if you don’t come soon,</P></SYNC>
+<SYNC Start="436650"><P Class="ENUSCC">I’m gonna have to spend my vacation<br>with Sissi and Jim.</P></SYNC>
+<SYNC Start="439160"><P Class="ENUSCC">I’ll never survive.</P></SYNC>
+<SYNC Start="440570"><P Class="ENUSCC"><i>Jeremie, thank you.</i></P></SYNC>
+<SYNC Start="442060"><P Class="ENUSCC"><i>Thank you for everything you’re doing for me.</i></P></SYNC>
+<SYNC Start="444480"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="444840"><P Class="ENUSCC">That’s okay.</P></SYNC>
+<SYNC Start="446340"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="461280"><P Class="ENUSCC">(CRASHING)</P></SYNC>
+<SYNC Start="463020"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="471310"><P Class="ENUSCC">(COUGHING)</P></SYNC>
+<SYNC Start="473410"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="482570"><P Class="ENUSCC">Aaaah!</P></SYNC>
+<SYNC Start="483280"><P Class="ENUSCC">Now, don’t try to tell me<br>that you were sleepwalking</P></SYNC>
+<SYNC Start="485760"><P Class="ENUSCC">because I’ve been<br>working here for 20 years,</P></SYNC>
+<SYNC Start="488110"><P Class="ENUSCC">and I’ve heard that story about…</P></SYNC>
+<SYNC Start="489600"><P Class="ENUSCC">Jim, something awful has happened!</P></SYNC>
+<SYNC Start="491630"><P Class="ENUSCC">Have a look! In there!</P></SYNC>
+<SYNC Start="493840"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="495420"><P Class="ENUSCC">Huh?</P></SYNC>
+<SYNC Start="495980"><P Class="ENUSCC">Looks like there was a hurricane in there.<br>This had better not be your doing.</P></SYNC>
+<SYNC Start="499620"><P Class="ENUSCC">But the smoke! It’s disappeared!</P></SYNC>
+<SYNC Start="502220"><P Class="ENUSCC">That’s weird. Not even a trace.</P></SYNC>
+<SYNC Start="504100"><P Class="ENUSCC">It’s XANA.</P></SYNC>
+<SYNC Start="505440"><P Class="ENUSCC">Don’t even think about leaving this room.<br>Tomorrow, I’m calling your parents.</P></SYNC>
+<SYNC Start="509330"><P Class="ENUSCC">You’ve got some explaining to do.</P></SYNC>
+<SYNC Start="511250"><P Class="ENUSCC">I wouldn’t want to be in your shoes.</P></SYNC>
+<SYNC Start="513470"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="517480"><P Class="ENUSCC">Aelita! Come in, please. Hurry.</P></SYNC>
+<SYNC Start="519830"><P Class="ENUSCC">We’ve got a big problem.</P></SYNC>
+<SYNC Start="521060"><P Class="ENUSCC"><i>You’re not the only one. <br>XANA’s woken up.</i></P></SYNC>
+<SYNC Start="523210"><P Class="ENUSCC"><i>But I don’t know which tower he’s activated.</i></P></SYNC>
+<SYNC Start="525210"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="525490"><P Class="ENUSCC">But the pulsation converge in this direction.</P></SYNC>
+<SYNC Start="527440"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="563180"><P Class="ENUSCC">It’s even worse than I thought.</P></SYNC>
+<SYNC Start="564700"><P Class="ENUSCC">The spilled bottles contain<br>an extremely poisonous substance.</P></SYNC>
+<SYNC Start="567920"><P Class="ENUSCC">If the computer is right,<br>the gas can even be deadly</P></SYNC>
+<SYNC Start="571720"><P Class="ENUSCC">in cases of extended inhalation.</P></SYNC>
+<SYNC Start="574300"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="584360"><P Class="ENUSCC">Get up, young man. Time to face the music.</P></SYNC>
+<SYNC Start="586610"><P Class="ENUSCC">Huh?</P></SYNC>
+<SYNC Start="588110"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="589480"><P Class="ENUSCC">Jeremie!</P></SYNC>
+<SYNC Start="590960"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="594440"><P Class="ENUSCC">W-What’s happening? Where am I?</P></SYNC>
+<SYNC Start="597210"><P Class="ENUSCC">Jeremie!</P></SYNC>
+<SYNC Start="598730"><P Class="ENUSCC">I can’t see. I’m totally out of it!</P></SYNC>
+<SYNC Start="601750"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="602780"><P Class="ENUSCC">What’s going on?</P></SYNC>
+<SYNC Start="604080"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="606760"><P Class="ENUSCC">(SCREAMS)</P></SYNC>
+<SYNC Start="609600"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="621440"><P Class="ENUSCC">Jim! Over there! Smoke! With arms!</P></SYNC>
+<SYNC Start="625290"><P Class="ENUSCC">This has got to be contagious.<br>What’s all this about smoke, anyway?</P></SYNC>
+<SYNC Start="628980"><P Class="ENUSCC">Come on, I don’t see any--</P></SYNC>
+<SYNC Start="630620"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="631540"><P Class="ENUSCC">Waaaah!</P></SYNC>
+<SYNC Start="633060"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="639100"><P Class="ENUSCC">Bingo.</P></SYNC>
+<SYNC Start="640020"><P Class="ENUSCC">Aelita, I found it.</P></SYNC>
+<SYNC Start="641930"><P Class="ENUSCC">37 degrees south in the forest area.</P></SYNC>
+<SYNC Start="644430"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="644870"><P Class="ENUSCC"><i>Okay, I’m on my way.</i></P></SYNC>
+<SYNC Start="646200"><P Class="ENUSCC"><i>But I’m nowhere near it,<br>and I’m gonna need some help.</i></P></SYNC>
+<SYNC Start="649640"><P Class="ENUSCC">I know three volunteers who will be happy<br>to cut their vacation short and help.</P></SYNC>
+<SYNC Start="653530"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="653960"><P Class="ENUSCC">You’ll soon learn that mathematics<br>is actually quite easy, young man.</P></SYNC>
+<SYNC Start="657680"><P Class="ENUSCC">All you need is a sense of logic,<br>a little bit of common sense,</P></SYNC>
+<SYNC Start="661590"><P Class="ENUSCC">and, of course, if you have good<br>concentration skills, and if you have…</P></SYNC>
+<SYNC Start="665430"><P Class="ENUSCC">“S.O.S XANA--Jeremie.”</P></SYNC>
+<SYNC Start="667280"><P Class="ENUSCC">…analysis, that will help as well,<br>but I assure you, if you apply yourself,</P></SYNC>
+<SYNC Start="671540"><P Class="ENUSCC">it’s not at all complicated.</P></SYNC>
+<SYNC Start="673400"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="674840"><P Class="ENUSCC">Hey, come and have a look at this, Charlie.</P></SYNC>
+<SYNC Start="677090"><P Class="ENUSCC">What is it?</P></SYNC>
+<SYNC Start="677990"><P Class="ENUSCC">Wow, that’s incredible!</P></SYNC>
+<SYNC Start="679680"><P Class="ENUSCC">What is that, kid?</P></SYNC>
+<SYNC Start="680930"><P Class="ENUSCC">Uh…it’s a…</P></SYNC>
+<SYNC Start="682570"><P Class="ENUSCC">Looks like a skeleton!</P></SYNC>
+<SYNC Start="684230"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="685080"><P Class="ENUSCC">Yeah, that’s right, but, uh,<br>don’t you see anything strange?</P></SYNC>
+<SYNC Start="688490"><P Class="ENUSCC">Your skeleton is moving.</P></SYNC>
+<SYNC Start="690560"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="692820"><P Class="ENUSCC">Oh, that’s Kiwi!</P></SYNC>
+<SYNC Start="694520"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="695450"><P Class="ENUSCC">Kiwi’s my dog.</P></SYNC>
+<SYNC Start="696720"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="697190"><P Class="ENUSCC">You do know that dogs are only<br>allowed in the luggage compartment?</P></SYNC>
+<SYNC Start="700670"><P Class="ENUSCC">Well, yeah sure, uh…</P></SYNC>
+<SYNC Start="702480"><P Class="ENUSCC">I don’t know what happened!</P></SYNC>
+<SYNC Start="703680"><P Class="ENUSCC">He was supposed to stay here…</P></SYNC>
+<SYNC Start="705430"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="706070"><P Class="ENUSCC">with my grandma, but…</P></SYNC>
+<SYNC Start="707720"><P Class="ENUSCC">Mhmm.</P></SYNC>
+<SYNC Start="708870"><P Class="ENUSCC">(CELL PHONE RINGS)</P></SYNC>
+<SYNC Start="711080"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="711280"><P Class="ENUSCC">Oh, it’s gram!</P></SYNC>
+<SYNC Start="712410"><P Class="ENUSCC">We were just talking about you!</P></SYNC>
+<SYNC Start="714190"><P Class="ENUSCC">What are you talking about, Odd?</P></SYNC>
+<SYNC Start="715660"><P Class="ENUSCC">It’s me, Jeremie.</P></SYNC>
+<SYNC Start="716980"><P Class="ENUSCC">Yes, of course I know it’s you, gram!</P></SYNC>
+<SYNC Start="718920"><P Class="ENUSCC">I’m sorry.</P></SYNC>
+<SYNC Start="719860"><P Class="ENUSCC">I know you’ve told me a hundred times<br>that you don’t like me to call you gram!</P></SYNC>
+<SYNC Start="723600"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="724030"><P Class="ENUSCC">Yeah, okay.</P></SYNC>
+<SYNC Start="724960"><P Class="ENUSCC">I’m on my way. Right.</P></SYNC>
+<SYNC Start="726140"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="726680"><P Class="ENUSCC"><i>I’ll bring back the dog.</i></P></SYNC>
+<SYNC Start="728270"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="728690"><P Class="ENUSCC"><i>Bye, gram.</i></P></SYNC>
+<SYNC Start="729850"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="731460"><P Class="ENUSCC">We should have left over two hours ago.</P></SYNC>
+<SYNC Start="733920"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="734170"><P Class="ENUSCC">You know how much she loves that dress.</P></SYNC>
+<SYNC Start="736270"><P Class="ENUSCC">I don’t even know<br>what dress she’s talking about.</P></SYNC>
+<SYNC Start="738660"><P Class="ENUSCC">I’m coming! I’ll be down in two seconds!</P></SYNC>
+<SYNC Start="741320"><P Class="ENUSCC">Yeah, I doubt that.</P></SYNC>
+<SYNC Start="742850"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="743370"><P Class="ENUSCC">You’re going to laugh,<br>darling, when I tell you…</P></SYNC>
+<SYNC Start="745450"><P Class="ENUSCC">No, I don’t really feel like laughing.</P></SYNC>
+<SYNC Start="747560"><P Class="ENUSCC">Have you noticed someone<br>is missing in the back seat?</P></SYNC>
+<SYNC Start="750230"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="766510"><P Class="ENUSCC">Oh, no!</P></SYNC>
+<SYNC Start="768490"><P Class="ENUSCC">(COUGHING)</P></SYNC>
+<SYNC Start="771710"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="773620"><P Class="ENUSCC">Over here. Hurry up!</P></SYNC>
+<SYNC Start="775210"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="836770"><P Class="ENUSCC">Jeremie, I’m coming into the forest area now.</P></SYNC>
+<SYNC Start="840060"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="842500"><P Class="ENUSCC">Yumi, Ulrich, and Odd<br>should be there very soon.</P></SYNC>
+<SYNC Start="845630"><P Class="ENUSCC">Be careful, Aelita.</P></SYNC>
+<SYNC Start="846900"><P Class="ENUSCC">There are bound to be monsters around there.</P></SYNC>
+<SYNC Start="849050"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="849490"><P Class="ENUSCC">I better go back to the school.</P></SYNC>
+<SYNC Start="850980"><P Class="ENUSCC">Jim and Sissi might be in trouble.</P></SYNC>
+<SYNC Start="852820"><P Class="ENUSCC">I’ve got to warn them.</P></SYNC>
+<SYNC Start="854250"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="855010"><P Class="ENUSCC">Help! Help us!</P></SYNC>
+<SYNC Start="856400"><P Class="ENUSCC">Help!</P></SYNC>
+<SYNC Start="858740"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="860130"><P Class="ENUSCC">It’s not use. We’re finished.</P></SYNC>
+<SYNC Start="863010"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="863460"><P Class="ENUSCC">No, no. We’re not finished.</P></SYNC>
+<SYNC Start="865100"><P Class="ENUSCC">Be brave, now.</P></SYNC>
+<SYNC Start="866420"><P Class="ENUSCC">Jeremie can’t be far away.</P></SYNC>
+<SYNC Start="868350"><P Class="ENUSCC">He’ll help us out of this!</P></SYNC>
+<SYNC Start="869740"><P Class="ENUSCC">Jeremie? That’s pretty reassuring.</P></SYNC>
+<SYNC Start="872150"><P Class="ENUSCC">It’s nice to know that the closest thing<br>to Bruce Willis is coming to the rescue.</P></SYNC>
+<SYNC Start="876090"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="881080"><P Class="ENUSCC">Sissi? Jim? Where are you?</P></SYNC>
+<SYNC Start="883460"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="892880"><P Class="ENUSCC">We’ll cut across through<br>the boiler room. It's faster.</P></SYNC>
+<SYNC Start="895830"><P Class="ENUSCC">(COUGHING)</P></SYNC>
+<SYNC Start="897330"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="901320"><P Class="ENUSCC">Through the park.</P></SYNC>
+<SYNC Start="902570"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="904520"><P Class="ENUSCC">Jeremie!</P></SYNC>
+<SYNC Start="906120"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="914000"><P Class="ENUSCC">Jim and Sissi are still inside.<br>We’ve got to find them.</P></SYNC>
+<SYNC Start="919000"><P Class="ENUSCC">I’ll go.</P></SYNC>
+<SYNC Start="920000"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="921250"><P Class="ENUSCC">Ulrich, wait!</P></SYNC>
+<SYNC Start="922760"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="924140"><P Class="ENUSCC">Yumi, the factory.</P></SYNC>
+<SYNC Start="925560"><P Class="ENUSCC">You’ve got to go and help Aelita.</P></SYNC>
+<SYNC Start="929040"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="930250"><P Class="ENUSCC">Hang on, Jeremie.</P></SYNC>
+<SYNC Start="932420"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="936920"><P Class="ENUSCC">Odd, you got here in the nick of time.</P></SYNC>
+<SYNC Start="939030"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="939140"><P Class="ENUSCC">Where’s Ulrich?</P></SYNC>
+<SYNC Start="940160"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="946490"><P Class="ENUSCC">I only stayed at school to try and find out<br>the secret of Jeremie and his friends</P></SYNC>
+<SYNC Start="950370"><P Class="ENUSCC">because the truth is that I’ve been wanting<br>to be part of their group for ages,</P></SYNC>
+<SYNC Start="954320"><P Class="ENUSCC">but it seems so hopeless.</P></SYNC>
+<SYNC Start="955740"><P Class="ENUSCC">Do you understand what I mean?</P></SYNC>
+<SYNC Start="957220"><P Class="ENUSCC">Huh? No.</P></SYNC>
+<SYNC Start="958260"><P Class="ENUSCC">All I understand is that<br>there’s no ventilation in here.</P></SYNC>
+<SYNC Start="961270"><P Class="ENUSCC">We’re gonna run out of oxygen soon.</P></SYNC>
+<SYNC Start="963520"><P Class="ENUSCC">I’d better stop talking then, right?</P></SYNC>
+<SYNC Start="965500"><P Class="ENUSCC">Okay. I can take a hint.</P></SYNC>
+<SYNC Start="967090"><P Class="ENUSCC"><i>A strange and toxic smoke<br>whose origins are unknown.</i></P></SYNC>
+<SYNC Start="970520"><P Class="ENUSCC"><i>The elderly and children<br>are advised to remain indoors.</i></P></SYNC>
+<SYNC Start="973680"><P Class="ENUSCC">Odd.</P></SYNC>
+<SYNC Start="975100"><P Class="ENUSCC">Help me get over to the computer.</P></SYNC>
+<SYNC Start="977610"><P Class="ENUSCC">(COUGHING)</P></SYNC>
+<SYNC Start="979160"><P Class="ENUSCC">And get ready to dive in.<br>Stop looking at me! Come on!</P></SYNC>
+<SYNC Start="982890"><P Class="ENUSCC">There’s no time to lose!</P></SYNC>
+<SYNC Start="984520"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="987420"><P Class="ENUSCC">Transfer Yumi.</P></SYNC>
+<SYNC Start="989140"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="990850"><P Class="ENUSCC">Transfer Odd.</P></SYNC>
+<SYNC Start="992630"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="994600"><P Class="ENUSCC">Scanner Yumi.</P></SYNC>
+<SYNC Start="995720"><P Class="ENUSCC">Scanner Odd.</P></SYNC>
+<SYNC Start="997670"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="999050"><P Class="ENUSCC">Virtualization.</P></SYNC>
+<SYNC Start="1000600"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1027970"><P Class="ENUSCC">Where do we go now?</P></SYNC>
+<SYNC Start="1029490"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1030130"><P Class="ENUSCC">The activated tower is over this way.</P></SYNC>
+<SYNC Start="1032460"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1034300"><P Class="ENUSCC">Hi, Aelita!</P></SYNC>
+<SYNC Start="1035500"><P Class="ENUSCC">Have you seen any monsters?</P></SYNC>
+<SYNC Start="1036830"><P Class="ENUSCC">Not yet.</P></SYNC>
+<SYNC Start="1037880"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1038110"><P Class="ENUSCC">Guess you didn’t look very hard!</P></SYNC>
+<SYNC Start="1040170"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1042880"><P Class="ENUSCC">Ulrich, do you copy?</P></SYNC>
+<SYNC Start="1044920"><P Class="ENUSCC">How’s it going?</P></SYNC>
+<SYNC Start="1046030"><P Class="ENUSCC">Still nothing.</P></SYNC>
+<SYNC Start="1047460"><P Class="ENUSCC">I’ve been through most of the building.</P></SYNC>
+<SYNC Start="1049150"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1049670"><P Class="ENUSCC">Ulrich, get out of there.</P></SYNC>
+<SYNC Start="1051200"><P Class="ENUSCC">You can’t stay in that smoke any longer.<br>It's too dangerous.</P></SYNC>
+<SYNC Start="1053940"><P Class="ENUSCC">And they may be outside already.</P></SYNC>
+<SYNC Start="1055960"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1056270"><P Class="ENUSCC">I-I’ll try one last room. Then I’ll go.</P></SYNC>
+<SYNC Start="1060000"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1060320"><P Class="ENUSCC">(COUGHING)</P></SYNC>
+<SYNC Start="1061820"><P Class="ENUSCC">Jim!</P></SYNC>
+<SYNC Start="1063200"><P Class="ENUSCC">Jim! Sissi! Are you in there?</P></SYNC>
+<SYNC Start="1065320"><P Class="ENUSCC">Ulrich, get out right now!</P></SYNC>
+<SYNC Start="1067240"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1067520"><P Class="ENUSCC">Ulrich! Come on!</P></SYNC>
+<SYNC Start="1069090"><P Class="ENUSCC"><i>What’s going on!</i></P></SYNC>
+<SYNC Start="1070520"><P Class="ENUSCC"><i>Ulrich, answer me!</i></P></SYNC>
+<SYNC Start="1072190"><P Class="ENUSCC">Look, I don’t want<br>to rush you, my friends,</P></SYNC>
+<SYNC Start="1074120"><P Class="ENUSCC">but it’s getting kind of urgent here.</P></SYNC>
+<SYNC Start="1076650"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1076870"><P Class="ENUSCC">What about us?</P></SYNC>
+<SYNC Start="1078120"><P Class="ENUSCC">What do you think we’re doing, huh?</P></SYNC>
+<SYNC Start="1080020"><P Class="ENUSCC">Getting a suntan?</P></SYNC>
+<SYNC Start="1081630"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1088370"><P Class="ENUSCC">Odd, watch out.</P></SYNC>
+<SYNC Start="1089630"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1097110"><P Class="ENUSCC">You okay, Yumi?</P></SYNC>
+<SYNC Start="1098570"><P Class="ENUSCC"><i>No broken bones yet.</i></P></SYNC>
+<SYNC Start="1100330"><P Class="ENUSCC">Take good care of Aelita.</P></SYNC>
+<SYNC Start="1102090"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1108120"><P Class="ENUSCC">There. You see, Sissi?</P></SYNC>
+<SYNC Start="1110050"><P Class="ENUSCC">I told you he’d come and rescue us.</P></SYNC>
+<SYNC Start="1112500"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1113800"><P Class="ENUSCC">What the…Ulrich!</P></SYNC>
+<SYNC Start="1115920"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1117200"><P Class="ENUSCC">He came for me!</P></SYNC>
+<SYNC Start="1119030"><P Class="ENUSCC">Oh, he came to save <i>me!</i><br>It’s just like I always dreamed!</P></SYNC>
+<SYNC Start="1122320"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1125350"><P Class="ENUSCC"><i>The only way to access the tower<br>is via a tree bridge.</i></P></SYNC>
+<SYNC Start="1128860"><P Class="ENUSCC">But it happens to be behind the monsters,</P></SYNC>
+<SYNC Start="1131150"><P Class="ENUSCC"><i>and so you’re gonna have to<br>find a way around them.</i></P></SYNC>
+<SYNC Start="1134560"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1136010"><P Class="ENUSCC">I might have an idea<br>for blocking the monsters.</P></SYNC>
+<SYNC Start="1138420"><P Class="ENUSCC">You take care of Aelita.</P></SYNC>
+<SYNC Start="1139820"><P Class="ENUSCC">Laser flash!</P></SYNC>
+<SYNC Start="1141070"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1176000"><P Class="ENUSCC">Yumi! If she gets hit one more time…</P></SYNC>
+<SYNC Start="1179040"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1179450"><P Class="ENUSCC"><i>Jeremie!</i></P></SYNC>
+<SYNC Start="1180820"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1193100"><P Class="ENUSCC">Welcome to Earth, Yumi.</P></SYNC>
+<SYNC Start="1195500"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1196300"><P Class="ENUSCC">Hey, look. A cell phone!</P></SYNC>
+<SYNC Start="1198110"><P Class="ENUSCC">Now we’ll be able to<br>call for help.</P></SYNC>
+<SYNC Start="1199880"><P Class="ENUSCC">Jim, is that you, huh?</P></SYNC>
+<SYNC Start="1202170"><P Class="ENUSCC">Jeremie!</P></SYNC>
+<SYNC Start="1203290"><P Class="ENUSCC">Where are you? And Ulrich?</P></SYNC>
+<SYNC Start="1205380"><P Class="ENUSCC">Jeremie, we really need help.</P></SYNC>
+<SYNC Start="1207250"><P Class="ENUSCC">We’re starting to run out of oxygen in here.</P></SYNC>
+<SYNC Start="1210340"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1210740"><P Class="ENUSCC">Oh, no!</P></SYNC>
+<SYNC Start="1212200"><P Class="ENUSCC"><i>Jim, what’s happening?</i></P></SYNC>
+<SYNC Start="1214040"><P Class="ENUSCC"><i>Jim!</i></P></SYNC>
+<SYNC Start="1215320"><P Class="ENUSCC">Odd, hurry up!</P></SYNC>
+<SYNC Start="1217540"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1226080"><P Class="ENUSCC">Well, what do we do now?</P></SYNC>
+<SYNC Start="1227650"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1228370"><P Class="ENUSCC">You take care of the monsters.</P></SYNC>
+<SYNC Start="1230880"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1238970"><P Class="ENUSCC">(CELESTIAL HUMMING)</P></SYNC>
+<SYNC Start="1243610"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1268690"><P Class="ENUSCC">Hey, you!</P></SYNC>
+<SYNC Start="1269940"><P Class="ENUSCC">That’s right. <i>You</i>.</P></SYNC>
+<SYNC Start="1272050"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1282050"><P Class="ENUSCC">Laser flash!</P></SYNC>
+<SYNC Start="1284210"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1310120"><P Class="ENUSCC">Let’s hope it’s not too late.</P></SYNC>
+<SYNC Start="1311780"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1314800"><P Class="ENUSCC"><i>Aelita, hurry up!</i></P></SYNC>
+<SYNC Start="1317200"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1332860"><P Class="ENUSCC">Return to the past now.</P></SYNC>
+<SYNC Start="1335710"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1344080"><P Class="ENUSCC">I don’t understand why you insist on</P></SYNC>
+<SYNC Start="1346250"><P Class="ENUSCC">getting punished with<br>detention again, Jeremie.</P></SYNC>
+<SYNC Start="1348940"><P Class="ENUSCC">Come on, XANA’s not<br>gonna reactivate this soon.</P></SYNC>
+<SYNC Start="1351850"><P Class="ENUSCC">You could get yourself a short vacation.</P></SYNC>
+<SYNC Start="1354480"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1355020"><P Class="ENUSCC">Not as long as Aelita stays virtual.</P></SYNC>
+<SYNC Start="1357440"><P Class="ENUSCC">And this time, to tell you the truth,</P></SYNC>
+<SYNC Start="1360330"><P Class="ENUSCC">considering what we’ve painted,<br>Jim can’t be too angry!</P></SYNC>
+<SYNC Start="1364220"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1365660"><P Class="ENUSCC">Come to think of it,<br>I’m gonna stick around.</P></SYNC>
+<SYNC Start="1369120"><P Class="ENUSCC">Anything is better than another one<br>of Mrs. Schmitt’s math lessons.</P></SYNC>
+<SYNC Start="1373390"><P Class="ENUSCC">Even Jim.</P></SYNC>
+<SYNC Start="1375280"><P Class="ENUSCC">(BARKING)</P></SYNC>
+<SYNC Start="1378000"><P Class="ENUSCC">Get back here!</P></SYNC>
+<SYNC Start="1380600"><P Class="ENUSCC"></P></SYNC>
+<SYNC Start="1381000"><P Class="ENUSCC">CLOSED CAPTIONING PROVIDED BY<br>REDDIT.COM/R/CODELYOKO</P></SYNC>
+<SYNC Start="1388990"><P Class="ENUSCC"></P></SYNC>
+</BODY>
+</SAMI>

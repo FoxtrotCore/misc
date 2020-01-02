@@ -1,0 +1,318 @@
+﻿# Exported by Aegisub 3.2.2
+MRS. MEYER: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+JEREMIE: Aelita, do you read me?
+AELITA: Yes, Jeremie. Hi!
+AELITA: All alone?\NWhere are the others?
+JEREMIE: They’re out playing soccer.
+JEREMIE: But I was feeling tired.
+AELITA: Tired? That’s interesting.
+AELITA: Jeremie, how do humans\N know when they feel tired?
+JEREMIE: Well, you feel like\Nyou don’t have any energy.
+JEREMIE: Like having weak batteries,\Nand so we rest a while.
+AELITA: And is resting\Nsomething you like doing?
+JEREMIE: I used to find it really boring,\Nbut ever since I met you, Aelita,
+JEREMIE: it’s such a pleasure\Nhanging out together.
+AELITA: It is for me, too, Jeremie.
+ODD: Hey, Ulrich, pass it over here!
+HERB: You won’t get by me!
+SISSI: Oh!
+SISSI: I don’t believe it, oh!
+SISSI: Oh, no!
+ODD: Another g-o-o-a-l!
+ODD: Seven to one!\NThis is turning into a rout!
+ULRICH: Huh, it sure is!
+YUMI: Okay, guys. It’s getting late.\N I’ve got to head for home.
+ULRICH: Okay. So long, Yumi.\NSee you tomorrow!
+SISSI: You guys are so bad!
+SISSI: What a couple of losers!
+THEO: Do you guys need a little help?
+NICHOLAS: Who are you, huh?
+THEO: Theo. I’m new around here.\NI just moved into town.
+THEO: Wow, and I like this school already!
+SISSI: Hi, my name is Sissi.
+THEO: Mhmm…
+SISSI: And these two friends of mine\Nare Herb and Nicholas,
+SISSI: the worst soccer\Nplayers you ever saw!
+THEO: Nice to meet you.
+THEO: Uh…
+ODD: Odd’s the name.\NAnd he’s Ulrich.
+ULRICH: Hi, Theo. Welcome.
+ODD: Do you play?
+THEO: Sure do! Let’s go!
+THEO: Which team should I play with?
+NICHOLAS: We don’t need you, okay?
+THEO: I thought you were down seven to one.
+THEO: What do you think, Sissi?
+SISSI: Why not? Yeah, okay!
+SISSI: It sure can’t get any worse!
+AELITA: Alright, Jeremie. I’m here.
+JEREMIE: Okay, we’re looking for the tower
+JEREMIE: where part of the\Nscanner programs are stored.
+JEREMIE: It’s at 30 degrees north, Aelita.
+AELITA: I’m on my way.
+JEREMIE: As soon as you’re connected,\NI’ll download the data that you find.
+JEREMIE: It’ll help me understand\Nmaterialization better.
+ULRICH: Okay, guys.
+ULRICH: We’ve gotta stop, it’s time for dinner.
+THEO: Nine-seven! We beat ’em!\NWhat do you think, princess?
+ODD: Theo saved you guys\Nfrom humiliation!
+HERB: Who cares about soccer?\N It’s a dumb game!
+ODD: If you ask me,\NHerb’s got it in for Theo.
+DEFAULT: (SCHOOL BELL RINGS)
+ODD: Great, peas and carrots\Nfor the umpteenth time.
+HERB: Sissi…
+THEO: Ha-ha-hah! Hey!
+ODD: Hey! Why don’t you\Neat with us, champ?
+THEO: Thanks a lot,\Nbut I can’t abandon my team!
+THEO: You mind?
+HERB: Hey, stop trying\Nto worm your way in!
+HERB: You’re not in our group,\Nso go take a hike!
+THEO: Well, yeah. I know, Herb,\N but I’d love to join your group,
+THEO: or should I say Sissi’s group?
+THEO: Is that it?
+THEO: Uh, what do I have to do?
+HERB: Well, you’ve gotta pass our Initiation tests\Nand they’re really dangerous and hard!
+HERB: Much too hard for you!
+THEO: Initiation tests?
+THEO: Tell me a little about them!
+HERB: Test number one! Uh, you have to…\Nclean all the toilets with a toothbrush!
+THEO: That sounds like a pretty dumb test.
+THEO: That’s like the kind they give to\N 10-year-olds at summer camp,
+THEO: so I’ll pass on that one.
+HERB: Okay! Since you refused\N to pass our test, ciao!
+SISSI: Hey!
+SISSI: Since when do you\Ndecide on the tests?
+SISSI: I’ll tell you what you have to do.
+SISSI: You’re gonna mummify the skeleton\N we use in the science room.
+THEO: Okay, now that sounds cool!
+NICHOLAS: (CHUCKLES)
+AELITA: Jeremie, did you manage\Nto gather all the data?
+JEREMIE: I did, but it won’t do any good.
+JEREMIE: Not unless I can pirate the access\Ncodes for the scanner programs.
+AELITA: But that’s almost impossible!
+JEREMIE: No, Aelita, I think It can be done.
+ULRICH: Okay, they’ve left their rooms!
+ODD: We’ll tell you all about\Noperation Theo later!
+ULRICH: Here I go!
+THEO: Still a long way to go…
+HERB: (LAUGHS)
+NICHOLAS: What are you gonna do, Herb?
+HERB: I’m gonna warn our old friend, Jim!
+HERB: They’ll kick Theo out of school,\Nand we’ll be home free!
+DEFAULT: (HOWLING)
+HERB: Huh?
+NICHOLAS: What was that weird sound?
+DEFAULT: (HOWLING)
+KIWI: (HOWLING)
+DEFAULT: Aaaaaaaaaaaah!
+DEFAULT: (LAUGHING)
+ULRICH: Nice work, little ghost!
+THEO: What are you two guys doing here?
+ODD: It’s okay. We were gonna tell you.
+YUMI: Hey, things look serious\N between Sissi and Theo.
+ODD: Yeah, they sure do.
+ULRICH: You finished lunch already?
+JEREMIE: No, but I wanna see Aelita\N for a while before class.
+YUMI: I wouldn’t mind either.\N We’ll go together, okay?
+ODD: Leave your trays!
+ODD: It’s a shame to let\Ngood desserts go to waste.
+JEREMIE: Odd, don’t you ever stop eating, huh?
+ODD: Mmm!
+ULRICH: Odd, you’re gonna explode\Nif you keep this up.
+ODD: Nah.
+ODD: Aah!
+ULRICH: Hey!
+YUMI: Which region are you in now?
+AELITA: I was just in the forest,
+AELITA: and I thought I sensed\Nsome pulsations, but I’m not sure.
+ODD: XANA?
+ULRICH: I’ll call Jeremie.
+DEFAULT: (RINGS)
+ULRICH: Jeremie, weird things are\Nhappening in the lunchroom.
+ULRICH: Could be XANA’s doing.
+JEREMIE: Why?
+JEREMIE: What’s the problem?
+ULRICH: There are short circuits everywhere.
+JEREMIE: Aelita, could you\Ncheck things out on Lyoko?
+AELITA: I will.
+JEREMIE: I’ll launch a scan to see\Nif  XANA has activated a tower.
+ODD: Let’s get out of here.
+ODD: Aaaaah!
+ULRICH: Hey, Odd!
+ULRICH: Odd!
+AELITA: Oh, no.
+AELITA: I wasn’t mistaken.
+JEREMIE: Tower localized.
+AELITA: Jeremie, there are very strong\N pulsations in the forest.
+JEREMIE: Yeah, the scan confirms it.
+JEREMIE: And Odd and Ulrich\Nare trapped in the cafeteria.
+JEREMIE: Yumi, I’ll head for the factory.
+JEREMIE: Warn the principal,\Nand then meet me over there.
+DEFAULT: (KNOCKING)
+MR. DELMAS: Come in.
+YUMI: Uh, can I see you for a minute, sir?
+YUMI: Please, it’s important.
+ULRICH: Did you see that?
+MRS. HERTZ: Jim! Are you okay?
+MRS. HERTZ: Oh, Jim, say something!
+MR. DELMAS: Are you alright?
+MR. DELMAS: We’ve got to cut the current now!
+SISSI: Hello, is that you, dad?
+SISSI: We don’t know what happened!
+ULRICH: Move!
+SISSI: There’s electricity everywhere.
+SISSI: We’re trying to\Nbreak a window to get out.
+MILLY: I’ve got to get out!
+JEREMIE: Ulrich, what’s going on?
+ULRICH: We’re prisoners here \Nn the cafeteria, Jeremie.
+JEREMIE: I’ll send Yumi to Lyoko.
+ULRICH: We’ll do our best over here.
+JEREMIE: Yumi, hurry up.\NWe don’t have a lot of time.
+YUMI: I told the principal.\NI’m at the passage in the park now.
+JIM: What is this?
+JIM: I just cut all the power!
+MRS. HERTZ: With no effect at all!
+MR. DELMAS: The firemen are on the way.
+JEREMIE: I have no idea what XANA\Nwants to do this time.
+AELITA: What about in town?
+AELITA: Have any of the\Nother buildings been hit?
+JEREMIE: No, that’s why I’m worried.
+THEO: We’ll get out of this.\NDon’t worry, Herb.
+HERB: Lemme go, will ya?
+TAMIYA: Everything will be okay.
+SISSI: Help is on the way.
+TAMIYA: There, you see?
+ODD: We could try the roof.
+THEO: It’s probably the same.
+ODD: It’s worth trying.
+ODD: Outta the way!
+THEO: It’s like a prison.
+JEREMIE: But how come XANA’s\Nset his sights on the cafeteria?
+JEREMIE: It makes no sense at all.
+JEREMIE: He can’t gain access to the city\Nthrough the school.
+ULRICH: He probably has other ideas.
+JEREMIE: Wait, I think I understand!
+JEREMIE: It’s the four of us he’s after!
+ULRICH: Us? You sure?
+JEREMIE: Yumi and I left lunch before dessert.\NIf not, we’d have all been there.
+JEREMIE: He wanted to catch us all together!
+ULRICH: XANA hasn’t missed a trick this time.\NWe’re never gonna get out of here.
+JEREMIE: You’ve got to play for time.
+JEREMIE: Yumi’s alone, she’s gonna need every\Nsecond she can to protect Aelita.
+ULRICH: We’ll do the best we can.
+AELITA: Jeremie, the pulsations\Nare really intense here.
+AELITA: The tower can’t be too far.
+JEREMIE: Stay where you are.
+JEREMIE: I programmed the position.
+JEREMIE: Yumi’s on her way.
+JEREMIE: Transfer Yumi.
+JEREMIE: Scanner Yumi.
+JEREMIE: Virtualization.
+AELITA: The pulsations radiate\N in two directions.
+YUMI: Jeremie, any news?
+JEREMIE: Give me a little time\Nto analyze the terrain.
+JEREMIE: I’m getting contradictory signals.
+JEREMIE: Impossible to tell\Nwhich path is the right one!
+YUMI: Well, we have no choice.
+YUMI: Each of us will explore one path.
+YUMI: We’ll stay in contact via Jeremie.
+YUMI: Let’s go!
+TAMIYA: You see?
+TAMIYA: This way, even if the\N walls cave in, we’ll be safe.
+TAMIYA: The roof won’t fall on top of us.
+THEO: Watch out!
+MR. DELMAS: Sissi! What’s going on?
+MR. DELMAS: Answer me, child! Sissi!
+YUMI: Jeremie, how are\Nthings going with Aelita?
+JEREMIE: Nothing to report for now,\N and no monster in sight.
+JEREMIE: That’s really strange, it’s too easy!
+AELITA: Should I go on?
+JEREMIE: I’ll call you back in 30 seconds.
+JEREMIE: A quick analysis of the surroundings…
+HERB: I gotta get out!
+HERB: I gotta get out!
+THEO: Wait! No, don’t, Herb!\NThe electricity! It’s live!
+HERB: Leave me alone!
+SISSI: Take it easy, Herb. Calm down!
+SISSI: You’ve got to.
+SISSI: You understand, hm?
+YUMI: I’m stuck.
+YUMI: This tunnel has got to lead somewhere.
+JEREMIE: It’s got to lead to the path\Nthat Aelita took.
+YUMI: Here I go.
+AELITA: Jeremie…
+JEREMIE: Hold on, Aelita.
+JEREMIE: Aelita!
+JEREMIE: Two monsters are on the way!
+JEREMIE: You’re surrounded by two Krabs!
+JEREMIE: Run!
+AELITA: It’s impossible, Jeremie!
+FIREMAN: I cut off all the wires, chief!
+FIRE CHIEF: I doubt that. Nothing’s changed.
+SISSI: Have the firemen really\Ntried everything, Daddy?
+MR. DELMAS: They’re going to keep trying, dear.
+THEO: We’ll be okay, you’ll see.
+ULRICH: Jeremie, have you got anything new?
+JEREMIE: I’m trying, Ulrich.
+YUMI: Aelita, can you hear me?
+YUMI: Oh, no!
+JEREMIE: Stay out of sight, Aelita!\NYumi’s almost there!
+DEFAULT: (CELESTIAL HUMMING)
+AELITA: Yumi will get here in time.\NI know she will.
+AELITA: I have faith in you, Jeremie.
+JEREMIE: Oh, no!
+AELITA: I have faith in you.
+YUMI: That’s what I call\Ngetting carried away.
+AELITA: (CHUCKLES)
+MR. DELMAS: Sissi, darling,\Nyou mustn't give up hope.
+MR. DELMAS: The firemen are going to\Nmake an opening in the roof.
+YUMI: There’s gotta be a passage\Nleading to the path that goes to the towers!
+AELITA: There.
+ODD: It’s all over now!
+HERB: Thanks for what you did before.
+HERB: I was pretty awful to you.
+ULRICH: Jeremie, this is urgent! Come on!
+JEREMIE: They’re almost there!
+JEREMIE: Watch it, a third Krab is on the way!
+YUMI: There it is!
+YUMI: No, leave him!
+YUMI: Go on, now! Hurry!\NDon’t worry about me.
+YUMI: Hiyah!
+JEREMIE: Good shot, Yumi,\Nbut he’s only damaged.
+JEREMIE: But you took 20 life points from him.
+JEREMIE: One more shot, and he’ll be done for!
+JEREMIE: Aelita’s entering the tower.
+JEREMIE: Phew.
+JEREMIE: Return to the past now!
+ODD: Hey Ulrich, pass it over here!
+HERB: You won’t get by me!
+SISSI: Oh!
+SISSI: I don’t believe it! Oh!
+SISSI: Oh, no!
+ODD: G-o-o-o-a-l! Ha-ha-ha!
+SISSI: Unbelieveable!
+SISSI: You losers!
+YUMI: Okay, guys.
+YUMI: I’ve got to head for home.
+ULRICH: If you want,\NI’ll walk you back home--
+THEO: No, I’ll go!
+THEO: So long, Odd, and thanks!
+THEO: So, uh, which way do we go, huh?
+ODD: What’s wrong?
+ODD: It’s a lot better than having to\Nget up tonight to scare Herb, right?
+ODD: Don’t you think?\NWhat’s wrong! Come on, Ulrich!
+ULRICH: You’re toast, dude.
+ODD: You’re never satisfied.
+ODD: You got a better idea?
+ODD: No? Well, me neither!
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

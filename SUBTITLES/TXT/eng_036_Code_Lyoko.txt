@@ -1,0 +1,423 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+MRS. HERTZ: Ants are social insects\Nlike termites or like bees.
+MRS. HERTZ: A single individual is incapable\Nof any personal initiative.
+MRS. HERTZ: All of the decisions are made by the colony.
+MRS. HERTZ: Ants receive a few simple orders such as
+MRS. HERTZ: search for food, mark the\Npath leading to the food,
+MRS. HERTZ: and follow a marked path.
+MRS. HERTZ: As a result, we might have the impression
+MRS. HERTZ: that each ant is rather clever
+MRS. HERTZ: when in fact, this has more to do\Nwith a collective intelligence.
+ODD: You mean that an army of Sissis\Ncould be intelligent?
+ODD: I don’t believe it!
+SISSI: Very funny. Shut up, bird brain!
+MRS. HERTZ: Settle down, please.
+MRS. HERTZ: As I was saying,
+MRS. HERTZ: thanks to their numbers,\Nthey manage to accomplish
+MRS. HERTZ: some fairly difficult tasks\Nsuch as finding food
+MRS. HERTZ: or defending themselves against an attacker.
+MRS. HERTZ: It would seems that ants\Neven wage full-scale wars
+MRS. HERTZ: between different colonies.
+ULRICH: What about killer ants?
+ULRICH: Do they exist?
+MRS. HERTZ: Well, yes.
+MRS. HERTZ: Maybe in movies, Ulrich.
+DEFAULT: (LAUGHTER)
+MRS. HERTZ: But there are, in fact, army ants
+MRS. HERTZ: that destroy everything in their path.
+MRS. HERTZ: And it’s true that you’d\Nbest stay out of their way.
+SISSI: And, uh, do any of those\Nfilthy bugs live around here?
+MRS. HERTZ: No, fortunately.
+MRS. HERTZ: The live in South America.
+MRS. HERTZ: Down there, the phenomenon\Nis called marabounta.
+SISSI: Phew!
+SISSI: I’m glad I live in a country\Nwhere there’s no danger.
+DEFAULT: (SCHOOL BELL RINGS)
+DEFAULT: (STUDENTS CHATTER)
+ODD: Saturday’s my favorite day.
+ODD: No school in the afternoon.
+ULRICH: I like Sundays better.
+ULRICH: No school at all.
+AELITA: You seem worried, Jeremie.
+AELITA: What’s on your mind?
+JEREMIE: Franz Hopper’s notes, Aelita.
+JEREMIE: Last night, I decoded\Na really interesting part
+JEREMIE: on a multi-agent system.
+JEREMIE: It’s a computer application that\Nfollows the principle of an ant hill.
+JEREMIE: What happens is--
+ODD: Oh, no.
+ODD: Misses Hertz has already bored us\Nto tears with all that ant stuff.
+ODD: Don’t you start now!
+DEFAULT: (LAUGHS)
+JEREMIE: Seriously.
+JEREMIE: This time I might’ve found\Na way to weaken XANA.
+JEREMIE: Let’s meet up at the factory after lunch.
+JEREMIE: I’ll explain everything.
+AELITA: Well, normally I’d love to,
+AELITA: but I have to finish my Italian homework.
+AELITA: See ya.
+ODD: Uh, no--I have to practice\Nfor a skateboard competition.
+JEREMIE: Yumi?
+YUMI: Sorry, I’ve got swimming after school.
+YUMI: Buh-bye.
+JEREMIE: What about you, Ulrich?
+JEREMIE: Are you doing anything later on?
+ULRICH: Yeah. I’ve got to be somewhere.
+JEREMIE: Oh, yeah? Where?
+ULRICH: The swimming pool.
+JEREMIE: Right. Well, since everyone else\Nhas better things to do…
+JEREMIE: I’ll just deal with it myself.
+JEREMIE: Okay. Here we go.
+WILLIAM: What do you know.
+WILLIAM: Isn’t that Ulrich Stern about to dive?
+YUMI: Hm?
+ULRICH: (SQUEALS)
+ULRICH: Aah!
+YUMI: Ulrich!
+SISSI: Out of the way!
+SISSI: Let me through!
+JIM: Huh?
+DEFAULT: Is he okay?
+DEFAULT: Is he breathing?\NIs he hurt?
+DEFAULT: I’ll call somebody!
+DEFAULT: He looks like he’s--
+DEFAULT: He needs mouth to mouth!
+SISSI: Get out of the way!
+DEFAULT: Is he breathing?
+DEFAULT: I don’t know.
+JIM: Let me through!
+JIM: I’ve got a first aid certificate!
+JIM: (CLEARS THROAT)
+JIM: Hm.
+JIM: There you go.
+JIM: Good thing I was here, huh?
+ULRICH: (COUGHS)
+YUMI: Are you okay?
+JEREMIE: Now for the moment of truth.
+JEREMIE: Everything seems to be working.
+JEREMIE: Transfer prototype.
+JEREMIE: Scanner.
+JEREMIE: Virtualization.
+JEREMIE: Come on.
+JEREMIE: Yes!
+JEREMIE: Franz Hopper, you’re a genius!
+JEREMIE: And so am I!
+JEREMIE: XANA and his monsters\Nbetter watch out now!
+ODD: What’s the matter?
+ULRICH: Nothing.
+DEFAULT: (CELL PHONE RINGS)
+ODD: Jeremie?
+JEREMIE: I have something amazing\Nto show you guys!
+JEREMIE: Can you meet me at the factory?
+ODD: Okay. Soon as possible.
+KIWI: (YAPS)
+JEREMIE: Great.
+JEREMIE: And don’t forget to\Ngo and pick up Aelita.
+ODD: Okay.
+ODD: Jeremie’s called a meeting at the factory.
+ODD: You coming?
+ULRICH: I’m not in the mood.
+ULRICH: I’d rather be by myself.
+ODD: Come on!
+ODD: If you don’t come, he’ll get mad.
+ULRICH: Leave me alone.
+ODD: Okay.
+ODD: Suit yourself.
+ODD: Both of you can stay here.
+ULRICH: Both of us?
+ODD: Yeah.
+ODD: You and your bad mood.
+JEREMIE: Ah, there you are.
+JEREMIE: But where’s Ulrich?
+ODD: He’s sulking.
+ODD: I don’t know what his problem is.
+AELITA: What’s this program?
+JEREMIE: It’s marabounta.
+JEREMIE: My own creation.
+ODD: And what does it do, exactly?
+JEREMIE: It’s a multi-agent system
+JEREMIE: that functions according to\Nthe same principle as an ant hill.
+JEREMIE: But instead of ants,\Nwe have these little spheres
+JEREMIE: whose mission is to search\Nand destroy XANA’s monsters.
+ODD: I get it.
+ODD: While the monsters are\Ngetting wiped out by your ants,
+ODD: XANA leaves us alone on Lyoko, is that it?
+JEREMIE: You guessed it!
+ODD: Hey, that’s great!
+AELITA: But what if there’s a real bug in the program?
+JEREMIE: Impossible.
+JEREMIE: Remember, Franz Hopper was a genius.
+ODD: Yeah, that’s right.
+ODD: What do you say we go\Nto Lyoko to check it out?
+ODD: If this thing really works,\Nnothing can happen to us!
+JEREMIE: You read my mind, Odd.
+JEREMIE: Go to the scanner room.
+JEREMIE: I’ll transfer you.
+JEREMIE: If there’s the slightest problem, I’ll pull the plug.
+JEREMIE: Promise.
+JEREMIE: Transfer Aelita.
+JEREMIE: Transfer Odd.
+JEREMIE: Scanner Odd.
+JEREMIE: Scanner Aelita.
+JEREMIE: Virtualization.
+JEREMIE: You guys are south of the marabounta.
+JEREMIE: Take the path to your right.
+JEREMIE: Sorry, but you’ll have to\Ngo without vehicles.
+JEREMIE: I don’t have enough machine\Nresources to bring them up.
+JEREMIE: And watch out for the bad guys.
+JEREMIE: XANA may have his\Nhands full, but you never know.
+ODD: Roger, general.
+JEREMIE: A krab at two o’clock!
+JEREMIE: Follow it.
+JEREMIE: It’s headed in the right direction.
+WILLIAM: Have you been crazy\Nabout Ulrich for a long time?
+SISSI: Have you been crazy\Nabout Yumi for a long time?
+WILLIAM: Forever.
+SISSI: (SCOFFS) You’ve only been\Nhere for a few months.
+WILLIAM: Don’t you believe in\NDestiny with a capital “D?”
+WILLIAM: Two people who have never met,\Nbut who are made for each other?
+SISSI: No. I’m not really into fairy tales
+SISSI: or cheap magazine-style romance stories.
+SISSI: I’ve had a crush on Ulrich\Nsince elementary school.
+SISSI: I want to go out with him.
+SISSI: That’s all there is to it.
+SISSI: If it weren’t for that stuck-up Yumi, I’d…
+WILLIAM: If it wasn’t for that big-shot Ulrich, I’d…
+DEFAULT: (BOTH CHUCKLE)
+YUMI: Shall we go? I’m getting cold.
+JEREMIE: Target dead ahead.
+ODD: Jeremie, I’ve got it!
+ODD: I can see the marabounta.
+JEREMIE: Well, what’s it like?
+ODD: Pretty…scary.
+DEFAULT: (SCREECHING)
+ODD: I never thought I’d ever say it, but…
+ODD: I really feel sorry for XANA.
+AELITA: I’ll uplink you a visual, Jeremie.
+JEREMIE: It’s working even better\Nthan I thought it would.
+ODD: If you want my opinion, Einstein,
+ODD: you’ve invented yourself\Na nasty piece of work.
+JEREMIE: (CHUCKLES LIGHTLY)
+AELITA: Jeremie, I’ve seen enough.
+AELITA: I want to come in.
+JEREMIE: Yeah. Okay, Aelita.
+JEREMIE: I’ll bring you back.
+JEREMIE: Head southwest.
+JEREMIE: There’s a tower nearby.
+ODD: Got it.
+AELITA: Odd! Look!
+JEREMIE: Odd, Aelita,
+JEREMIE: what’s going on?
+JEREMIE: Answer me!
+ODD: Laser arrow!
+JEREMIE: Odd, say something!
+ODD: You marabounta seems\Nto have it in for us!
+JEREMIE: This is no time for jokes.
+JEREMIE: I programmed it to attack\NXANA’s monsters only!
+ODD: Well, could you program\Nsome eyeglasses for it, then!
+JEREMIE: This can’t be right.
+JEREMIE: Did you do something special?
+ODD: No, except for firing a few laser arrows.
+JEREMIE: That wasn’t the smartest thing to do.
+AELITA: Jeremie, Odd didn’t have a choice.
+AELITA: The marabounta was coming after me.
+JEREMIE: How can that be!
+JEREMIE: Unless…
+JEREMIE: Oh, Jeremie, you idiot.
+JEREMIE: It’s my fault.
+JEREMIE: It’s the virus implanted in Aelita.
+JEREMIE: The marabounta thinks\Nshe’s one of XANA’s monsters.
+ODD: Great. Nice work, frankenstein.
+ODD: I thought we had nothing to worry about!
+JEREMIE: I was wrong.
+JEREMIE: Okay, head for the tower.
+JEREMIE: I’ll kill the program.
+JEREMIE: Oh, no.
+JEREMIE: Oh, no.
+JEREMIE: Oh, no!
+ODD: Whenever you’re ready, Jeremie!
+JEREMIE: I can’t deactivate the program!
+JEREMIE: It seems that the marabounta doesn’t want to die.
+JEREMIE: The marabounta’s become autonomous.
+JEREMIE: It’ll submerge everything\Nand everyone in its path.
+JEREMIE: I’ll brief Yumi and Ulrich.
+JEREMIE: Come on, Ulrich. What are you doing?
+JEREMIE: Will you pick up!
+DEFAULT: (CELL PHONE RINGS)
+JEREMIE: Wow, that guy can really pick\Nthe right day to sit and sulk.
+DEFAULT: (CELL PHONE RINGS)
+YUMI: Jeremie?
+YUMI: Huh?
+YUMI: What are you talking about?
+YUMI: What do you mean, the chattanooga?
+JEREMIE: Marabounta.
+JEREMIE: I can’t explain now.
+JEREMIE: Just get here ASAP.
+JEREMIE: Odd and Aelita are in big trouble.
+JEREMIE: Ulrich’s at school, but I can’t reach him.
+JEREMIE: I don’t know what’s going on with him.
+YUMI: I do.
+YUMI: I’ll get him and we’ll be right over.
+ODD: Hey, Jeremie,
+ODD: I think we lost your monster,
+ODD: but now we’re kinda lost ourselves.
+JEREMIE: I, um…
+JEREMIE: Sorry, guys.
+JEREMIE: Take off in the direction due west.
+JEREMIE: The marabounta hasn’t hit that sector yet.
+JEREMIE: In the meantime, I’ll find a way to stop it.
+ODD: Don’t blow it, okay?
+ODD: I don’t want to end up as chewing gum!
+YUMI: (SIGHS)
+YUMI: I was sure I’d find you here.
+ULRICH: What I need is for everybody to leave me alone.
+ULRICH: Especially you.
+YUMI: Hey, if you want to make a\Nfool of yourself in front of everyone,
+YUMI: don’t blame me.
+YUMI: No one asked you to spy on me at the pool.
+ULRICH: Spy on you? You’ve got to be kidding.
+ULRICH: I just happened to be there, okay?
+YUMI: Yeah, right.
+YUMI: What an incredible coincidence.
+YUMI: Anyway, do you mind\Nshelving your ego for a minute?
+YUMI: Odd and Aelita need us on Lyoko.
+ODD: Jeremie, bad news.
+ODD: The marabounta got here first.
+ODD: The tower’s unreachable.
+JEREMIE: This won’t take me long.
+JEREMIE: I’ll find a way to stop it. I promise.
+JEREMIE: And Ulrich and Yumi are on the way.
+JEREMIE: At least…I hope they are.
+DEFAULT: (ERROR TONE)
+JEREMIE: No, it can’t be!
+JEREMIE: Hopper, help me out a little!
+JEREMIE: If this goes on any longer,\Nall of Lyoko will be destroyed.
+JEREMIE: Careful!
+JEREMIE: XANA’s sending a monster!
+ODD: That’s crazy!
+ODD: That krab just sacrificed itself for you!
+ODD: I don't get it.
+JEREMIE: That’s weird.
+JEREMIE: I-I think I understand!
+JEREMIE: XANA knows he can’t let Aelita die.
+JEREMIE: He needs her memory!
+ODD: Hey, what’s the matter with them?
+AELITA: They're…protecting me.
+JEREMIE: Aelita’s right.
+JEREMIE: Use them as allies to defeat the marabounta.
+JEREMIE: At last! But where’s Ulrich?
+YUMI: Alone with his pride.
+YUMI: Want to tell me what’s going on?
+JEREMIE: No time. Go straight there.
+JEREMIE: Odd, Aelita, hang in there.
+JEREMIE: The cavalry’s coming.
+ODD: Laser arrow!
+YUMI: Hiyah!
+AELITA: No, Yumi! Not them.
+AELITA: The marabounta’s the one to go after.
+YUMI: Aah!
+YUMI: What is that horrible thing?
+ODD: One of Jeremie’s bright ideas.
+ODD: Luckily, XANA’s here to give us a hand.
+YUMI: The world has turned upside down!
+DEFAULT: (KNOCKING)
+ULRICH: Yeah?
+WILLIAM: Hi.
+WILLIAM: I came to see how you were.
+ULRICH: Yeah, right.
+ULRICH: When you have a good chance\Nto humiliate the competition,
+ULRICH: you might as well go for it.
+WILLIAM: Uh…did I miss something here?
+WILLIAM: What’s your problem?
+ULRICH: You’re my problem.
+WILLIAM: Uh-uh. No, that’d be too easy, Ulrich.
+WILLIAM: Let me tell you what’s wrong around here.
+WILLIAM: My being around Yumi forces you\Nto ask yourself a question.
+WILLIAM: A tough question that you can’t answer.
+WILLIAM: Here’s a piece of friendly advice.
+WILLIAM: Go and talk to Yumi. From the heart.
+WILLIAM: Or else, one day, I will.
+WILLIAM: And then I really will be your problem.
+AELITA: How are you doing, Jeremie?
+JEREMIE: I’ll never make it.
+JEREMIE: I’m really the biggest loser ever\Nto walk the face of the earth.
+AELITA: You couldn’t have known\Nthat my virus would be a problem.
+JEREMIE: Your virus?
+JEREMIE: Virus!
+JEREMIE: What if…
+JEREMIE: Yeah! Well…
+JEREMIE: That ought to work!
+YUMI: Hiyah!
+ODD: Whatever you do, don’t\Nlet it make any headway.
+ODD: It’ll attack from the rear.
+YUMI: You’re a really good combat general, Odd.
+ODD: It takes strategy, you know?
+ODD: The only thing stupider\Nthan a blok is two bloks!
+YUMI: Jeremie, move it!
+YUMI: Things are getting a bit out of hand.
+JEREMIE: Hey, I’m doing my best, guys.
+JEREMIE: I think I found a way\Nto destroy the marabounta!
+JEREMIE: Odd, I inserted a code for a\Ndeadly virus in one of your arrows
+JEREMIE: If you hit a sphere with it,\Nthe whole colony will be infected.
+JEREMIE: But…
+ODD: No sweat!
+JEREMIE: Wait!
+JEREMIE: It’ll only work if you hit the first sphere.
+JEREMIE: The one I transferred to Lyoko\Nthat created all the others.
+JEREMIE: It’s at the heart of the marabounta.
+ODD: Great.
+ODD: So, how am I supposed to reach\Nthe heart of the marabounta?
+ODD: On a camel’s back?
+DEFAULT: (SNARLS)
+JEREMIE: Odd, it’s the only way.
+ODD: Charge!
+ODD: Jeremie, would you mind telling me
+ODD: how to find the right sphere in all this mess?
+JEREMIE: I’ll guide you.
+ODD: Whoa!
+YUMI: Aelita!
+YUMI: Hiyah!
+AELITA: Yumi!
+AELITA: Jeremie!
+JEREMIE: You’re almost there, Odd.
+JEREMIE: I’ll give you the exact\Nlocation of the first sphere.
+ODD: It’s okay. I think I found it.
+JEREMIE: You’ve only got one shot.
+ODD: Yeah!
+ODD: Ha ha!
+AELITA: Look!
+ULRICH: Don’t buy it, Aelita.
+JEREMIE: Ulrich’s right.
+JEREMIE: The marabounta’s gone,
+JEREMIE: but XANA and his monsters\Nare still our worst enemy.
+JEREMIE: He wants your memory at all costs.
+ODD: Next time you want to play being a mad scientist,
+ODD: clue us in a little more first, okay?
+JEREMIE: Well, I really tried to,
+JEREMIE: but you all had better things to do.
+JEREMIE: But you’re right, Odd,
+JEREMIE: because this time I was\Na big zero from start to finish.
+AELITA: You found a way out of it,\NJeremie. That’s what counts.
+SISSI: Well, if it isn’t the whole crew.
+ODD: Well, if it isn’t the brainless frogface.
+SISSI: Ha, ha, ha. You crack me up.
+SISSI: Buy the way, Ulrich,
+SISSI: Are you feeling better after\Nwhat happened at the pool.
+ULRICH: Cool it, Sissi.
+ODD: So, what happened at the pool, Ulrich?
+ODD: Come on! Out with it!
+YUMI: Nothing!
+ULRICH: Nothing!
+ODD: What?
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

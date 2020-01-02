@@ -1,0 +1,362 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+JEREMIE: Just a few more missions\Nlike that on sector five,
+JEREMIE: and I’ll have all the elements\NI need for Aelita’s antivirus.
+JEREMIE: See you tomorrow, Yumi.
+YUMI: Yeah, I’ll see you tomorrow!
+YUMI: See you tomorrow.
+ULRICH: Yeah, uh, later.
+ULRICH: Well, what?
+ODD: Hello! Anyone home?
+JEREMIE: What are you waiting for, anyway?
+AELITA: You know they’re right, Ulrich.
+AELITA: You really ought to go for it.
+ULRICH: Like now?
+ODD: No, wait ‘til she starts\Ngoing out with another guy
+ODD: because she’s sick of waiting\Nfor you to make a move, right?
+ULRICH: Hmph.
+ULRICH: A-And what if Jim\Nnotices that I’m missing?
+ODD: We’ll cover for you.
+AELITA: Yeah!
+YUMI: William?
+YUMI: What are you doing here?\NAre you crazy?
+WILLIAM: Yes. I told you I was.
+WILLIAM: I go totally crazy when I like a girl.
+YUMI: Ah--no, wait!
+YUMI: Sorry, I-I’m\Na little confused.
+WILLIAM: It’s Ulrich, isn’t it?
+YUMI: Goodnight.
+ODD: So, then I told her I was gonna order\Na T-shirt on the internet.
+ODD: And she asked if it was\Ngonna come out of the printer!
+DEFAULT: (LAUGHS)
+ODD: Here’s our hero.
+ODD: Hey, champ. How’d it go?
+AELITA: Well, then.
+AELITA: I think I’m gonna\Ngo to bed. I’m tired.
+JEREMIE: Yeah, me too.
+ODD: Well, what happened, huh?
+ULRICH: Leave me alone.
+SFX: (SINISTER MUSIC)
+MR. DELMAS: Some of you are\Nalready riding scooters,
+MR. DELMAS: and at this stage I don’t think it would\Nbe a waste of your time
+MR. DELMAS: to go over the rules of the road.
+MR. DELMAS: This training day\Nwill familiarize you
+MR. DELMAS: with the correct way\Nto drive a vehicle.
+MR. DELMAS: Assistant warrant officer\NGaraig, here,
+MR. DELMAS: has agreed to take you\Nunder his responsibility today
+MR. DELMAS: as part of the exchange program
+MR. DELMAS: between the police force\Nand the board of education.
+MR. DELMAS: Our physical education teacher, Jim,\Nwill assist you as well.
+JIM: Corporal Jim Morales!
+JIM: Seventh engineering battalion!
+JIM: Serial number nine-two-twelve-one!
+OFFICER: At ease…you were in the army?
+JIM: Uh, I’d rather not\Ntalk about it, captain.
+OFFICER: I’m only a warrant officer.
+JIM: Oh, excuse me, lieutenant.
+MR. DELMAS: Yes, well, um, I’ll turn\Noperations over to you,
+MR. DELMAS: uh, Jim.
+MR. DELMAS: Can I count on you?
+JIM: Affirmative, Mister Delmas!
+OFFICER: Driving any vehicle\Nis serious business.
+OFFICER: Caution, concentration and safety…
+YUMI: Hey! Hey,\NUlrich, what’s wrong?
+YUMI: Are you sulking or what?
+YUMI: (SCOFFS)
+YUMI: What is it with him?
+YUMI: Last night when we said goodbye,\Nhe was in a great mood.
+ODD: Yeah, but what about after?
+ODD: What happened after he\Nfollowed you back to your place?
+YUMI: He followed me?
+YUMI: (GROANS)
+YUMI: Oh, no.
+OFFICER: Now, I’m gonna\Ncall you one by one
+OFFICER: to take a drive\Naround the circuit.
+OFFICER: The rest of you can\Ngo back to your seats.
+OFFICER: Delmas, Elizabeth.
+SISSI: I prefer Sissi to Elizabeth.
+SISSI: What about you?\NDo you have a nickname?
+DEFAULT: (LAUGHTER)
+ODD: Work it, Sissi!
+OFFICER: Della Robbia, Odd.
+ODD: Yea-a-a-a-a-h!
+OFFICER: Ishiyama, Yumi.
+YUMI: (GRUNTS)
+OFFICER: Pichon, Herb.
+HERB: Wh-whoa!
+OFFICER: Stones, Aelita.
+ULRICH: Let’s go.
+ULRICH: Aah!
+ODD: Hey, you’re not\Nany better than I am.
+ODD: What a morale booster!
+ULRICH: Hey, will you just shut up?
+WILLIAM: Hey, it’s not Odd’s fault\Nif you drive like a dork.
+JIM: Stern and Dunbar!
+JIM: Where do you think you are?
+JIM: Get up!
+JIM: Straight to the principal’s office!
+MR. DELMAS: Your behavior is unspeakable!
+MR. DELMAS: Violence is no way to\Nsort out your differences!
+MR. DELMAS: Next time, I’ll suspend you both!
+MR. DELMAS: Understood?
+MR. DELMAS: Jim, take them to the library.
+JIM: Yes, general!
+JIM: Uh, I mean,\Nright away, Mister Delmas.
+DEFAULT: (SCHOOL BELL RINGS)
+ODD: Don’t worry, Aelita.\NIt’ll work out.
+ODD: They’re not the first guys\Nwho have ever fought over a girl.
+AELITA: How about you?
+AELITA: Would you fight over me, Jeremie?
+JEREMIE: I fight for you every day, Aelita.
+JEREMIE: Against XANA.
+ODD: Oh, that's so beautiful!
+JEREMIE: Huh?
+JEREMIE: Speak of the devil.
+JEREMIE: I’ve got an activated tower here.
+YUMI: Let’s head for the factory.
+YUMI: The sooner we deactivate it, the better.
+AELITA: What about Ulrich?
+JEREMIE: We’ll manage without him.
+MRS. ISHIYAMA: You’re home early, dear.
+MR. ISHIYAMA: The meeting with (INDISTINCT) was moved up.
+MR. ISHIYAMA: How’s you dictionary coming along?
+MRS. ISHIYAMA: Well, my editor called and--
+DEFAULT: (CRASHING)
+DEFAULT: (SINISTER MUSIC)
+MRS. ISHIYAMA: Who could that be?
+MRS. ISHIYAMA: Aah!
+ODD: There! Look out!
+ODD: Well, now we know what\NXANA has in store for us.
+YUMI: Hello, Hiroki?
+HIROKI: Yumi, there’s a big monster outside the house!
+HIROKI: No, I swear!
+HIROKI: And the monster looks like\Nthe one in Ultimate Blaster!
+HIROKI: Daddy’s outside.
+YUMI: I’m coming.
+YUMI: XANA has virtualized another krab.
+YUMI: It’s at my house.
+YUMI: My parents are in danger.
+AELITA: Go help them.
+AELITA: Odd and I will manage on Lyoko.
+ODD: Take care of yourselves.
+YUMI: You too.
+JEREMIE: We’re gonna need some backup.
+ULRICH: Uh, that might be important.
+JIM: Ah! There we go.
+ULRICH: But--
+JIM: What?
+JIM: You think I confiscated your\Ntelephone so I could use it?
+JIM: (LAUGHS)
+JEREMIE: I got his voicemail.
+JEREMIE: What bad luck.
+JEREMIE: We’ll have to do without Ulrich.
+JEREMIE: Right. I’ve got a plan.
+JEREMIE: Okay, this is the gallery,\Nwhich I’m going to call “G.”
+JEREMIE: This is where we are.
+JEREMIE: This is the elevator landing,\Nwhich I’m going to call “E.”
+JEREMIE: We’ve go to get to point E
+JEREMIE: without being spotted\Nby the krab, “K.”
+JEREMIE: You get it?
+ODD: No, but I’ve got another plan.
+JEREMIE: What is it?
+ODD: Bansai!
+JEREMIE: Odd!
+ODD: What are you waiting for?
+ODD: An invitation?
+ODD: Get into the elevator!
+ODD: I’m coming!
+JEREMIE: Hurry up!
+JEREMIE: Get to the scanner room.
+JEREMIE: I’ll start up the virtualization process.
+OFFICER #2: You can’t come through here.
+OFFICER #2: There’s a dangerous animal on the loose.
+YUMI: But I live right there.
+YUMI: I have to get to my parents.
+OFFICER #2: Sorry, Miss. We have our orders.
+JEREMIE: You okay?
+JEREMIE: Are you there, Odd?
+ODD: Uh, yeah, but uh…
+ODD: we've got a little problem here.
+ODD: Our friend Mister Krab\Nhas busted all the scanners.
+AELITA: Not all of them.
+AELITA: This one still works.
+JEREMIE: Okay.
+JEREMIE: I'm gonna virtualize Aelita first.
+JEREMIE: The activated tower is\Nin the mountain sector.
+JEREMIE: 35 degrees north.
+JEREMIE: Scanner Aelita.
+JEREMIE: Transfer Aelita.
+JEREMIE: Virtualization.
+JEREMIE: I've programmed the overboard.
+JEREMIE: Your turn, Odd.
+ODD: Okay.
+ODD: Uh-oh.
+ODD: Jeremie, we’ve got another problem.
+JEREMIE: What kind?
+ODD: Well, it’s a big banquet.
+ODD: XANA has sent us\Nan entire seafood platter!
+DEFAULT: (SCREAMING, LASER FIRE)
+JIM: What’s all that ruckus?
+DEFAULT: (SCREAMING)
+JIM: You two stay put if you\Nknow what’s good for you.
+WILLIAM: Huh?
+WILLIAM: What is that thing?
+ULRICH: Krab.
+WILLIAM: Hm?
+DEFAULT: (CRASHING)
+JEREMIE: What was that?
+ODD: The very last scanner getting\Ndestroyed by a krab.
+JEREMIE: Aelita is on her own now.
+AELITA: Okay, then.
+AELITA: There’s no time to lose.
+YUMI: You’ve got to believe me!
+YUMI: I’m the one that\Nthe creature is after!
+OFFICER #2: I already told you, miss.\NOrders are orders.
+OFFICER #3: Calling all cars.
+OFFICER #3: The animal has just been spotted
+OFFICER #3: in the vicinity of Kadic Academy.
+OFFICER #3: I repeat, the vicinity of Kadic Academy.
+AELITA: Whoa…
+AELITA: Whoa!
+JEREMIE: The activated tower is\N15 degrees more to the west.
+JEREMIE: Be very careful.
+AELITA: Don’t worry, Jeremie.
+AELITA: I learn fast.
+JEREMIE: You’d better.
+ULRICH: Jeremie?
+JEREMIE: Ah, Ulrich!
+JEREMIE: Not a moment too soon.
+ULRICH: What’s going on?
+JEREMIE: XANA has materialized three krabs.
+JEREMIE: One of them is at Yumi’s
+JEREMIE: and Odd’s playing upstairs with the second
+JEREMIE: so that it won’t do\Nany more damage outside.
+ULRICH: A third one is here\Nat the academy.
+ULRICH: I’ll deal with it.
+ULRICH: With William.
+DEFAULT: (SCREAMING)
+JIM: Geronimo!
+JIM: (GROANS)
+ULRICH: Jim!
+WILLIAM: Looking for me?
+WILLIAM: Come on! Over here!
+YUMI: Anybody home?
+YUMI: Daddy?
+YUMI: Mom?
+YUMI: Hiroki?
+MUSIC: (SINISTER MUSIC)
+WILLIAM: Ulrich, I’m at the groundkeeper’s shed.
+WILLIAM: Ulrich!
+ULRICH: Hiya-a-a-h!
+WILLIAM: (GROANS)
+DEFAULT: (CELESTIAL HUMMING)
+ULRICH: You’re lucky. I wasn’t gonna save you.
+WILLIAM: Hey, what are you, crazy?
+WILLIAM: What’s the matter with you?
+ULRICH: Stay away from our group!
+ULRICH: You got that?
+WILLIAM: Listen, man, you’re the\None who doesn’t get it.
+WILLIAM: In the race for Yumi, I’m not in first place.
+WILLIAM: Or didn’t you know?
+MR. ISHIYAMA: Wha-hah!
+YUMI: Aah!
+MR. ISHIYAMA: Wha-oh-ah!
+YUMI: Daddy?
+MR. ISHIYAMA: (CHUCKLES)
+ODD: These krabs are just as bad as on Lyoko.
+JEREMIE: Aelita!
+JEREMIE: Behind you!
+JEREMIE: Squadron of four hornets coming in!
+JEREMIE: They’ll do everything\Nthey can to slow you down.
+AELITA: That’s for sure.
+AELITA: They’ll want to give the krabs time
+AELITA: to take care of Yumi and the others.
+JEREMIE: Ulrich.
+ULRICH: Jeremie, we took out one of the krabs.
+JEREMIE: Finally some good news.
+JEREMIE: Aelita’s doing everything she can
+JEREMIE: to get to the tower and deactivate it,
+JEREMIE: but nothing had better happen\Nto Yumi and Odd in the meantime.
+ULRICH: I’ll take care of it.
+WILLIAM: We’ll take care of it.
+AELITA: (GASPS)
+AELITA: Aah!
+JEREMIE: Well done, Aelita!
+JEREMIE: Odd would be proud of you.
+JEREMIE: They’re catching up with you!
+AELITA: I’ve got an idea.
+JEREMIE: It isn’t dangerous, is it?
+AELITA: Uh, no.
+AELITA: Odd showed it to me!
+JEREMIE: Is that supposed to\Nmake me feel better?
+YUMI: Let’s go.
+YUMI: (SCREAMS)
+MRS. ISHIYAMA: Yumi!
+MR. ISHIYAMA: Yah!
+MR. ISHIYAMA: H-i-i-i-yah!
+MR. ISHIYAMA: Ha!
+MR. ISHIYAMA: Yagh!
+MR. ISHIYAMA: (GROANS)
+JEREMIE: You’re about to arrive\Nat a hollow mountain.
+AELITA: Jeremie, could you\Ndematerialize the overboard
+AELITA: when I give you the signal?
+JEREMIE: Yeah, sure, but why?
+MRS. ISHIYAMA: Oh, no!
+YUMI: Ulrich!
+ULRICH: Make my day, shrimp.
+ULRICH: (GRUNTS)
+HIROKI: Wow! Too cool!
+DEFAULT: (ECHOS)
+AELITA: Now!
+AELITA: Thanks, Jeremie.
+JEREMIE: Nice job.
+JEREMIE: I’m sending you the overwing.
+WILLIAM: What do we do now?
+ODD: Well, I’ve got a slightly crazy idea.
+JEREMIE: The activated tower\Nis not much further.
+JEREMIE: Dead north!
+JEREMIE: Aelita?
+AELITA: Aah!
+ODD: William, go!
+ODD: Now!
+DEFAULT: (CRASHING)
+ODD: Good job, man.
+HIROKI: How many times have I told you
+HIROKI: this is the guy you\Nshould go out with!
+ULRICH: (GRUNTS)
+HIROKI: Ulrich, you’re the greatest!
+MRS. ISHIYAMA: Hiroki!
+ULRICH: Hiroki, no!
+ULRICH: Aah!
+YUMI: Ulrich!
+YUMI: (GASPS)
+JEREMIE: Aelita, get out of there!
+JEREMIE: Aelita!
+JEREMIE: Huh?
+JEREMIE: A decoy!
+TARANTULA: (SCREECHES)
+JEREMIE: I hope it’s not too late.
+YUMI: Oh, they did it!
+ODD: You were great, William.
+ODD: But you won’t remember any of it.
+WILLIAM: Hm?
+WILLIAM: Hey…
+AELITA: Tower deactivated.
+JEREMIE: Return to the past now.
+WILLIAM: Hey, you really do know\Nwhat you’re doing, Ulrich.
+ULRICH: Thanks!
+WILLIAM: You want to come with me to my go-kart club?
+WILLIAM: We’d have a great time together.
+ULRICH: Sure! Why not?
+ULRICH: (CHUCKLES)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

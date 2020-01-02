@@ -1,0 +1,394 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+JEREMIE: Interface transfer activated.
+JEREMIE: Virtual memory activated.
+JEREMIE: Code management configured.
+JEREMIE: Scanners activated and verified.
+JEREMIE: Targeting OK.
+JEREMIE: This time, it’s gonna work!
+JEREMIE: Ready, Aelita?
+AELITA: Ready.
+JEREMIE: Here we go.
+JEREMIE: It’s working!
+YUMI: Ready?
+ODD: Go on, Kiwi! Go on, fetch!
+YUMI: Anyone seen Jeremie\Nthis morning?
+ODD: I think he spent the night\Nin the laboratory.
+ODD: He was working on\Nsomething “really important.”
+ODD: Hmm.
+DEFAULT: Aelita!
+YUMI: Hiyah!
+ULRICH: Hey, I thought it was timeout!
+YUMI: Oh! Guess I forgot!
+JEREMIE: Hey, guys!
+JEREMIE: Guess what I did last night!
+ODD: Let’s see, now…
+ODD: It’s got something to do with\Nmaterializing…Aelita?
+JEREMIE: That’s right.
+JEREMIE: Say, how did you guess, Odd?
+JEREMIE: Well, guys, I finally did it.
+JEREMIE: I decided to tackle the problem\Nin a different way.
+JEREMIE: You wouldn’t believe it, but…
+ULRICH: Well, tell us!\NDid you do it or not?
+JEREMIE: I sure did!
+ULRICH: Hm…
+ULRICH: You materialized a test tube.
+JEREMIE: No, airhead!\NLook inside, will you?
+ODD: A hair?
+ODD: You mean you materialized one hair?
+JEREMIE: Yep. That’s right, Odd.
+JEREMIE: To be exact, it’s a hair of…
+JEREMIE: Aelita’s.
+ULRICH: What? A real hair?
+YUMI: But how did you manage that?
+JEREMIE: Well, I chose a hair because\Nit’s a simple anatomical structure,
+JEREMIE: but which contains aelita’s\Ncomplete genetic computer code
+JEREMIE: according to a well-known fractal
+JEREMIE: whose recurrences are comparable\Nto the genetic code of a human,
+JEREMIE: which enabled me to make\Na physiological number transfer
+JEREMIE: onto one part of the program\Nalready pretargeted and defragmented.
+JEREMIE: And that’s that.
+JEREMIE: Simple enough, right?
+JEREMIE: Do you follow?
+ODD: No.
+JEREMIE: No, it’s not simple enough,\Nor no you don’t follow?
+ODD: Uh…no means that\Nwe take your word for it.
+DEFAULT: -Mhmm.\N-Mhmm.
+JEREMIE: No problem.
+JEREMIE: It’ll become clear when\NAelita’s here in flesh and blood.
+JEREMIE: Better get ready, Aelita.
+AELITA: Okay, Jeremie.
+ULRICH: Huh?
+ULRICH: You’re gonna materialize her now?
+JEREMIE: What do you think?\NI’m not gonna wait until next year.
+JEREMIE: The hair was just a test\Nbefore we do the whole thing.
+YUMI: Listen, making a hair appear is one thing.\NMaterializing Aelita is not the same.
+JEREMIE: Look, you want to spend\Nyour whole life fighting XANA?
+JEREMIE: Once Aelita’s been materialized,\Nwe can unplug XANA once and for all
+JEREMIE: and lead normal lives.
+JEREMIE: So I say it’s worth trying.
+JEREMIE: How can that be?
+JEREMIE: I planned everything so perfectly.
+ULRICH: You’re almost there, Jeremie.
+ULRICH: In a few days, you’ll be all set.\NYou’ll see.
+ODD: Hey, come on, you guys.
+ODD: If we don’t materialize in a\Ncouple of minutes in the classroom,
+ODD: we’re not gonna last a few days!
+SFX: (SCHOOL BELL RINGS)
+JEREMIE: You know, I’d have sworn\Nthat it’ll work this time.
+YUMI: But…
+YUMI: if the computer gene code of the hair\Ngives you enough information
+YUMI: to find the parameters for materialization,\Nwell then what’s the problem?
+JEREMIE: I wish I knew.
+JEREMIE: I’m doing something wrong.
+JEREMIE: The only way to find out\Nis to start over.
+ODD: No, don’t do that!
+ODD: You’re only a hair’s breadth away!
+: (SNICKERS)
+YUMI: Can you ever be serious, Odd?
+ULRICH: By the way, Odd,\Nspeaking of hair,
+ULRICH: your dog sheds\Nan awful lot of them.
+ULRICH: most of them end up\Non my bed, too.
+ODD: What’s the big deal\Nabout two or three hairs?
+ULRICH: Two or three?
+ULRICH: With all the hairs he sheds,\NI could knit you another Kiwi!
+SISSI: Hello.
+SISSI: Did you say dog?
+SISSI: Oh, I really adore dogs.
+SISSI: Hey, can I sit down?
+ULRICH: No.
+SISSI: You know, I’m so crazy about dogs\Nthat I’m ready to keep my mouth shut
+SISSI: about the one Odd’s hiding in his room.
+SISSI: That is, if you promise\Nto be nicer to me, of course.
+YUMI: Listen, Sissi, I’m warning you,\Nif you say anything about Kiwi, I’ll--
+JEREMIE: You okay, Yumi?
+YOLANDA: There we are.
+YOLANDA: It’s nothing serious.\NThe cut isn’t very deep.
+YOLANDA: Here. Put this on it, please.
+YUMI: It’s incredible.\NI barely squeezed the glass.
+YUMI: They’re pretty fragile, I guess.
+ULRICH: Fragile, huh?
+ULRICH: We’re not talking about venetian crystal.
+ULRICH: Lunchroom plastic’s more like it.
+ULRICH: Anyway, I know what I’m in for\Nif I get on your nerves.
+SFX: (CELL PHONE RINGS)
+ULRICH: What?
+ULRICH: On our way.
+JEREMIE: I don’t believe it. It’s a disaster!
+ULRICH: What is?
+JEREMIE: I was trying to figure out\Nwhy the materialization didn’t work,
+JEREMIE: and I realized that\NAelita’s program is all full of bugs.
+JEREMIE: When I materialized the hair, I…\NI hit a button I shouldn’t have,
+JEREMIE: and so I…I damaged\Nthe annex programs.
+YUMI: Annex? That doesn’t sound so bad.
+JEREMIE: That’s what you think.
+JEREMIE: The part of the program linking Aelita\Nto the towers is screwed up.
+JEREMIE: If Aelita enters the Lyoko code,\Nshe’ll be completely reformatted!
+ULRICH: Meaning?
+JEREMIE: She’ll disappear forever.
+AELITA: You know, Jeremie,\Na program can be debugged.
+AELITA: We can do it together.
+JEREMIE: What if XANA attacks\Nbefore we’re done?
+ODD: That means you gotta work fast, Jeremie.
+JEREMIE: Okay. Make up a story\Nto tell to the teachers.
+JEREMIE: I’m not leaving this computer\Nuntil I’ve solved the problem.
+ODD: You think they can do it?
+ULRICH: What do you think?\NWe’ve got two geniuses at work.
+KIWI: (BARKING)
+ULRICH: Hey, Odd, if you don’t get Kiwi\Nto calm down, they’re gonna find him.
+ODD: Hey, quiet, Kiwi!
+KIWI: You heard me, quiet down!
+KIWI: (BARKING)
+ODD: What’s the matter?\NDid you smell something?
+ODD: Kiwi!
+ULRICH: Whoa!
+ODD: Did you do that?
+JIM: Well, maybe it was\Na ball that did it.
+JIM: And you, of course,\Ndidn’t see anything.
+ODD: I couldn’t have seen anything, Jim,\Nbecause…I wasn’t here!
+JIM: Maybe so.
+JIM: But since all the rooms\Nare off-limits during the day,
+JIM: how come you knew\Nabout the window?
+JIM: Ulrich, clean up your bed.\NThere’s hair all over it.
+YUMI: What happened?
+ULRICH: Everything’s cool.\NJim didn’t spot Kiwi.
+ULRICH: But it was close.
+: Kiwi will have to\Nstay with Jeremie for a while.
+AELITA: Why don’t you scan\Nthe STR connection blocks?
+JEREMIE: I already did.
+JEREMIE: That’s not where I went wrong.
+JEREMIE: Stop chewing my slipper!
+JEREMIE: Oh. Sorry, Aelita.
+JEREMIE: I was talking to the dog.
+JEREMIE: When he’s around,\Nit’s hard to concentrate.
+AELITA: What is it?
+JEREMIE: Oh, nothing!
+JEREMIE: Give that back to me! Give it back!
+JEREMIE: That dog.
+JEREMIE: He took my…my handkerchief.
+KIWI: (BARKING)
+JEREMIE: Oh, take him away, please!
+KIWI: (HOWLING)
+SISSI: Oh, that mutt.
+SISSI: I was just passing by, and…
+ODD: I always said Sissi’s head\Nwas full of plaster.
+JEREMIE: I’m heading for the lab.
+JEREMIE: With the dog barking\Nand the school falling apart,
+JEREMIE: I can’t work in my room.
+JEREMIE: See ya.
+YUMI: I hope he finds the right solution\Nbefore XANA attacks again.
+: I’ll see you guys tomorrow.
+ODD: Hello? Anybody home?
+ULRICH: All these things happening\Nare really weird.
+ULRICH: First, Yumi’s glass breaks,\Nthen the window gets shattered,
+ULRICH: and now the ceiling.\NYou think it’s XANA?
+ODD: Maybe it’s just coincidence.
+ULRICH: Maybe.
+JEREMIE: I’m back, Aelita.
+AELITA: Oh, no. I don’t believe it. Not now!
+JEREMIE: Okay, we can get back to work.
+JEREMIE: Aelita?
+JEREMIE: Are you there?
+AELITA: It’s XANA!
+AELITA: He’s launched an attack!
+JEREMIE: Are you…are you sure?
+JEREMIE: Oh, no!
+JEREMIE: It can’t be! Not now!
+MR. DELMAS: I’ve never seen such a thing\Nin my entire career.
+JIM: You think humidity\Ncould’ve caused it, sir?
+MR. DELMAS: I don’t know.
+MR. DELMAS: It doesn’t look very damp.
+JIM: The dog!
+JIM: I’ve been after him\Nfor a long time!
+JIM: What the…
+JIM: Whoa!
+MR. DELMAS: Jim, we have to\Nevacuate the building.
+JIM: Mhmm.
+ULRICH: It’s XANA for sure.
+ODD: Oh, yeah. It’s him.
+ODD: How does he do it?
+ULRICH: Your guess is as good as mine.
+ULRICH: But you heard Sissi.
+ULRICH: Kiwi began barking\Njust before the ceiling fell.
+ODD: That might be a lead.
+ODD: With the window was the same.
+ULRICH: Maybe Kiwi can\Nfeel the attacks coming.
+ODD: Or maybe he can feel them\Nlike a kind of ultrasound.
+ULRICH: Jeremie.
+JEREMIE: XANA alert.
+ULRICH: That’s what we thought.
+JEREMIE: Warn Yumi.
+ULRICH: Be right there.
+ULRICH: It’s real this time.
+ULRICH: XANA has woken up.
+MR. DELMAS: Your attention, please.
+MR. DELMAS: Due to a danger\Nof structural accident,
+MR. DELMAS: please evacuate the building calmly,\Nand leave the immediate area.
+MR. DELMAS: No one will be permitted\Nto enter the building
+MR. DELMAS: until further notice.
+ODD: Kiwi! He’s in Jeremie’s room.
+ODD: I’ll go and get him.
+ULRICH: See you at the lab.
+SFX: (CELL PHONE RINGS)
+YUMI: Hello?
+YUMI: Hi, Ulrich.
+YUMI: What?
+YUMI: Uh, I’m not really ready yet.
+YUMI: Okay, I’ll hurry.
+ODD: Kiwi? Where are you? Come on!
+ODD: Diggity dog!
+MILLY: Huh?
+MILLY: Didn’t anyone ever\Nteach you to knock, huh?
+ODD: Didn’t you hear the principal?
+ODD: You gotta get out!
+ODD: The whole building may collapse!
+MILLY: Come on, cut it out!
+ODD: No, I swear! I’m not joking!
+TAMIYA: Hey, what's wrong with your dog?
+SFX: (RUMBLING)
+ODD: About face.
+JEREMIE: Ulrich!
+JEREMIE: How are things going over there?
+ULRICH: There are cracks\Nin the school building.
+ULRICH: It may cave in.
+ULRICH: XANA’s using some kind of\Nultrasound system.
+JEREMIE: Ultrasound, huh? That’s possible.
+JEREMIE: He could be using\Nthe electrical sockets.
+ULRICH: Listen, he might attack the factory.
+ULRICH: Odd’s on his way,\Nand I’ve warned Yumi.
+JEREMIE: Let’s hope XANA gives me\Nenough time to repair my program.
+ULRICH: Yes, Odd.
+ULRICH: Huh?
+ODD: I’m stuck, right.
+ODD: With Milly and Tamiya\Nif you must know.
+ODD: The firefighters will be here any minute,\Nso I can’t meet you right now.
+ODD: No, don’t wait. Go to Lyoko.
+KIWI: (BARKING)
+ODD: No!
+ULRICH: Odd! Odd!
+ULRICH: No time to lose, Jeremie.
+JEREMIE: But I’m not finished\Nfixing the program!
+ULRICH: Odd is in danger.\NTransfer me right now.
+SFX: (BARKING)
+YUMI: What’s going on?
+JEREMIE: Transfer Ulrich.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Virtualization.
+AELITA: Ulrich…
+ULRICH: Aelita.
+AELITA: Shh. They’re here.
+JEREMIE: There’s nothing on my\Nholomap for now.
+ULRICH: Things seem pretty calm.
+AELITA: That’s not what the pulsations say.
+ULRICH: If we follow them, they’re bound to\Nlead us to the tower XANA’s activated.
+AELITA: Mhmm.
+YUMI: What happened here?
+SISSI: Odd…
+SISSI: He’s stuck inside.
+SISSI: With Milly and Tamiya.
+MILLY: Oh, why aren’t they here yet!
+ODD: Look, we can’t stay here.
+ODD: We’ve got to cross over\Nto the other side!
+TAMIYA: Are you out of your mind, Odd?\NIt’s at least a 10-meter drop!
+ODD: Trust me, okay?
+ODD: I can’t tell you how yet,\Nbut we’re gonna make it.
+ODD: In the meantime, we’ve got to\Nget across where we’ll be safe.
+TAMIYA: No!
+ODD: No problem!
+ODD: Your turn now!
+ULRICH: We’re coming to the parallel pass.
+ULRICH: Aah!
+ULRICH: Jeremie, how many\Nlife points do I have?
+JEREMIE: Hold on! 70! Uh, no. 60!
+ULRICH: Make up your mind, Jeremie!\NI gotta know! Take cover, Aelita!
+JEREMIE: I can’t do a million things at once!
+JEREMIE: Dodge the lasers,\Nand you won’t have to keep count!
+JEREMIE: Yumi, immediate departure.
+JEREMIE: Ulrich and Aelita need your help!
+JEREMIE: Okay, here we go.
+JEREMIE: Transfer Yumi.
+JEREMIE: Scanner Yumi.
+JEREMIE: Virtualization.
+ULRICH: The pulsations are separating\Nin two directions now!
+JEREMIE: Then head east.
+JEREMIE: The monsters you managed\Nto dodge before aren’t very far away.
+AELITA: Okay, Jeremie.\NWe’ll try to find another path.
+ULRICH: Too late.
+ULRICH: Yumi!
+YUMI: Need a hand around here?
+: Hiyah!
+ULRICH: Impact!
+YUMI: Here we go!
+ULRICH: There!
+ODD: There you go.\NOkay, your turn, Milly!
+MILLY: No, I’ll never make it!
+ODD: Sure you will! Come on!
+MILLY: A-a-a-a-h!
+ODD: Good going, girls.\NOkay, let’s get out of here.
+ODD: I don’t believe it!
+YUMI: Watch out!
+ULRICH: Yah! Impact!
+ULRICH: Y-a-a-a-h!
+ULRICH: XANA’s pulled out all the stops.\NWe’re not gonna last long, Jeremie.
+ULRICH: Jeremie, do you read me?
+ULRICH: Jeremie!
+JEREMIE: A little patience, guys!\NI’m almost done!
+JEREMIE: Okay, Aelita can\Nenter the program now.
+JEREMIE: It’s safe!
+JEREMIE: We’re all set.
+JEREMIE: Hang on, Aelita.
+JEREMIE: I’m starting up the repair program.
+YUMI: Just in time, too.\NIt’s getting kinda hot around here.
+JEREMIE: Here we go!
+JEREMIE: No! This can’t be!
+AELITA: Jeremie, I’ve got to deactivate the tower.
+JEREMIE: No! Give me a little more time!
+JEREMIE: I’ll start over again!
+AELITA: Jeremie…
+AELITA: You know there’s no choice.
+JEREMIE: You’ll be reformatted\Nand disappear, Aelita!
+JEREMIE: I can’t let you do that!
+AELITA: Are you ready for one last run?
+JEREMIE: No, Aelita!
+JEREMIE: Don’t do it!
+ULRICH: I’ll be in front.
+ULRICH: Impact!
+YUMI: Hiyah!
+JEREMIE: No! Don’t do it, Aelita!
+AELITA: Goodbye, Jeremie.
+JEREMIE: No!
+JEREMIE: Aelita!
+JEREMIE: Return to the past…now.
+ULRICH: Jeremie, it wasn’t your fault.
+JEREMIE: It was. And all that…
+JEREMIE: for a strand of hair.
+YUMI: Hey, the hair!
+YUMI: Jeremie, didn’t you say that the hair\Ncontained Aelita’s entire genetic code?
+JEREMIE: Her computer code, yes, but…
+YUMI: Is it possible to reverse things,
+YUMI: and recreate Aelita’s code\Nfrom the strand of her hair?
+JEREMIE: Here we go.
+JEREMIE: It works! The codes are getting restored!
+JEREMIE: Let’s hope that…
+AELITA: Jeremie!
+AELITA: I’m ready for my materialization now!
+ULRICH: Aelita!
+YUMI: Aelita! It worked!
+ODD: Yeah!
+AELITA: Jeremie, did I miss something?
+AELITA: Why is there water on your face?
+JEREMIE: I’ll tell you later, Aelita.
+JEREMIE: This time, we only missed…
+JEREMIE: by a hair!
+DEFAULT: (LAUGHTER)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

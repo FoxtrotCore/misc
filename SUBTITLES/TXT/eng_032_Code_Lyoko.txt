@@ -1,0 +1,400 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+DEFAULT: (KNOCKING)
+AELITA: But what could…
+JIM: Hey, you!
+JIM: What are you doing here?
+JIM: No one’s allowed in the dormitory\Nwithout my authorization!
+JIM: How’d you get in here?
+JIM: Uh…well, I…
+JIM: Hey!
+YUMI: Plain, but not bad.
+AELITA: But I wonder who gave it to me.
+AELITA: And why.
+YUMI: Why?
+YUMI: I might have an idea.
+YUMI: You know what day it is today?
+AELITA: Uh…Tuesday!
+YUMI: Yes, but not just any Tuesday!
+YUMI: It’s Saint Valentine’s Day!
+YUMI: The day all lovers celebrate!
+AELITA: Lovers?
+YUMI: Yes. And I can guess\Nexactly which boy
+YUMI: might want to give you\Na present, can’t you?
+ODD: Hey, there’s Aelita!
+AELITA: Thanks, Jeremie!
+ULRICH: You know, the first time\NI see someone in the morning,
+ULRICH: I tend to say, “good morning,”
+ULRICH: but then again, maybe I’m\Na little old-fashioned.
+AELITA: For the necklace. Thank you.
+JEREMIE: The um…necklace?
+AELITA: Your Valentine’s Day present!
+AELITA: It’s lovely.
+JEREMIE: Uh…yeah, um…
+JEREMIE: Well, you’re welcome!
+JEREMIE: It’s only natural! (CHUCKLES)
+AELITA: Well, see you in history class!
+JEREMIE: See you, Aelita!
+ULRICH: You didn’t give it to her, did you.
+JEREMIE: Was it that obvious?
+ULRICH: Yeah. But lucky for you,\Nlove has made Aelita blind.
+JEREMIE: Oh, come on, Ulrich.
+MR. FUMET: Most historians believe\Nthat Valentine’s Day
+MR. FUMET: is associated with\Nthe Roman Lupercalia…
+JEREMIE: Hey, Ulrich, it wouldn’t be you
+JEREMIE: who gave her that necklace\Nby any chance?
+ULRICH: You out of your mind or something?
+ULRICH: I didn’t even know it was Valentine’s Day.
+MR. FUMET: …marked the first day\Nof the Roman spring.
+: An important day in ancient Rome.
+ULRICH: Jeremie, what rhymes with, uh, tulip?
+JEREMIE: I don’t know. Microchip?
+JEREMIE: Paperclip? Hypocrite?
+ULRICH: Okay, nevermind.
+JEREMIE: What are you writing?
+ULRICH: Nothing!
+JEREMIE: A poem?
+ULRICH: No.
+JEREMIE: Is it for Yumi?
+ULRICH: No!
+ULRICH: It’s…biology homework.
+JEREMIE: Biology homework that rhymes, huh?
+JEREMIE: That’s interesting.
+JEREMIE: Odd, the necklace. It wasn’t you, was it?
+ODD: Do I have to remind you that Aelita\Nis supposed to be my cousin?
+JEREMIE: Yes, except that we both\Nknow she isn’t your cousin.
+ODD: Yeah? What is it was me?
+ODD: Aelita isn’t your property as far as I know.
+JEREMIE: Aha! You see! You admit it!
+ODD: I didn’t admit anything.
+JEREMIE: You just said it was you!
+ODD: Hey, have you gone bananas?
+ODD: Your eyesight’s not great,\Nbut your hearing’s worse!
+JEREMIE: I--
+MR. FUMET: (CLEARS THROAT)
+MR. FUMET: If you have more important subjects\Nto discuss than today’s lesson,
+MR. FUMET: I suggest you do so\Nin the principal’s office!
+MR. DELMAS: In your case, Odd,\Nthis comes as no surprise.
+MR. DELMAS: But you, Jeremie, a\Nmodel student in all areas,
+MR. DELMAS: I simply don’t understand.
+JEREMIE: Well, I…
+MR. DELMAS: Two hours of detention should help you
+MR. DELMAS: to find some more convincing arguments.
+MR. DELMAS: And you’re lucky it’s Valentine’s Day\Nor I’d have given you at least four.
+JEREMIE: I’m still waiting for an answer.
+ODD: Hey, why don’t we call a truce, okay?
+JEREMIE: Was it you who gave her the necklace?
+JEREMIE: Yes or no?
+ODD: Okay, then. No truce.
+ULRICH: Come on, Einstein. It’s stupid to\Nfight over such a little thing.
+YUMI: He’s right.
+YUMI: What’s more, Odd has every right\Nto give Aelita a present if he wants to.
+SISSI: Uh, Ulrich?
+SISSI: Could I talk to you for a second?
+ULRICH: (SIGHS) Well, only if\Nit’s really important.
+ULRICH: For me?
+ULRICH: Is this for Valentine’s Day?
+SISSI: (LAUGHS) No, it’s for Christmas!
+SISSI: Of course it’s for Valentine’s Day!
+SISSI: What do you think, hm?
+SISSI: Come on! Open it, stupid!
+ULRICH: Wow!
+ULRICH: A ticket to the Subsonics concert!
+SISSI: Isn’t that your favorite group?
+ULRICH: Well, yeah.
+ULRICH: I must be dreaming.
+WILLIAM: Yumi, I’ve got something for you.
+YUMI: Oh! Thank you, William!
+ULRICH: I must be dreaming.
+ULRICH: Sissi, I wrote you a little poem.
+ULRICH: “To tell you how much I flip
+ULRICH: “If not with a tulip
+ULRICH: “How I’m a victim of your charms
+ULRICH: “And long to hold you in my arms
+ULRICH: “With you, I never feel gloomy,
+ULRICH: My little, uh…Sissi.”
+SISSI: Oh, Ulrich! It rhymes!
+SISSI: It’s so beautiful!
+YUMI: William!
+YUMI: Your bouquet is beautiful!
+YUMI: How did you know\Nthat I liked roses!
+WILLIAM: I didn’t.
+WILLIAM: But I figured you were\Nlike all the other girls.
+ULRICH: How romantic, William! (LAUGHS)
+YUMI: Just a bit awkward!
+YUMI: Thank you, William.
+YUMI: You couldn’t have made me happier.
+MUSIC: (UNNERVING MUSIC)
+JEREMIE: Look, it’s ridiculous to fight\Nover such a puny little thing.
+JEREMIE: William had every right to give Yumi a present
+JEREMIE: and so did Sissi with Ulrich, right?
+ULRICH: Hey, I don’t think you’re the\None to talk right now, okay?
+JEREMIE: By the way, does anyone\Nknow where Aelita is?
+MUSIC: (DRAMATIC MUSIC)
+MRS. HERTZ: Settle down and take your seats.
+: (STUDENTS CHATTER)
+MRS. HERTZ: Please open your textbooks to page 27.
+MRS. HERTZ: The anatomical structure of muscles.
+JEREMIE: Where were you?
+JEREMIE: I looked for you everywhere.
+AELITA: I was…um, uh…
+DEFAULT: (PULSING)
+AELITA: Do you think that we could\Ngo to sector five after class?
+AELITA: I know where to find the data\Nfor making the antivirus!
+JEREMIE: The one that'll free you from XANA?
+JEREMIE: You mean to say it…
+JEREMIE: it just came to you just like that?
+AELITA: Let’s just say that your necklace inspired me.
+JEREMIE: The problem is that given\Neverybody’s bad mood today,
+JEREMIE: I doubt that Odd or Ulrich or Yumi\Nare gonna want to go with you.
+AELITA: I can go by myself!
+JEREMIE: No, it’s too dangerous.
+JEREMIE: Don’t forget, XANA’s\Nready to go to any extreme
+JEREMIE: to steal your memory, Aelita.
+AELITA: Please, Jeremie.
+AELITA: I'm positive I'm on the right track.
+AELITA: And with an Overboard, I’m sure\NI can get away from the monsters.
+AELITA: Even the latest ones\Nlike the scyphozoa.
+AELITA: Please?
+JEREMIE: Gah! Ha--Ho! (YELLS)
+MRS. HERTZ: Oh! Why, Jeremie!
+DEFAULT: (LAUGHTER)
+MR. DELMAS: That’s two more hours.
+MR. DELMAS: That’s four hours of detention.
+MR. DELMAS: I’m going to have to suspend you\Nif you do anything else!
+MR. DELMAS: Jim sees Spider Man stuck to the ceiling,
+MR. DELMAS: my best pupil is acting like a clown…
+MR. DELMAS: Valentine’s Day is making everyone crazy!
+AELITA: Yumi says she’ll go with me to Lyoko!
+JEREMIE: After everything that’s happened today,
+JEREMIE: it’ll be nice to get something accomplished.
+DEFAULT: (UNNERVING MUSIC)
+JEREMIE: Ready, ladies?
+JEREMIE: I am starting up the process.
+JEREMIE: Transfer Yumi.
+JEREMIE: Transfer Aelita.
+JEREMIE: Scanner Yumi.
+JEREMIE: Scanner Aelita.
+JEREMIE: Virtualization.
+JEREMIE: Hey. That’s weird.
+DEFAULT: (PULSING)
+JEREMIE: Vehicles for the ladies\Ncoming right up.
+JEREMIE: Materialization.
+JEREMIE: You need to go due east\Nto get to the edge of the sector.
+AELITA: No way. I’m heading north.
+JEREMIE: But…I don’t understand.
+JEREMIE: You’re supposed to go to sector five!
+AELITA: Sorry, Yumi.
+JEREMIE: Yumi?
+JEREMIE: Aelita, what’s going on!
+JEREMIE: Yumi, can you hear me?\NAre you okay?
+YUMI: I’d be lying if I said I was.
+YUMI: What’s gotten into her?
+JEREMIE: I don’t know! She’s lost it!
+JEREMIE: You’ve absolutely got to stop her.
+JEREMIE: She’s headed due north.
+YUMI: Okay. I’ll try.
+YUMI: But I’m gonna need some backup.
+JEREMIE: I’m on it.
+ODD: Jeremie, we’re supposed to be\Ndoing two hours of detention now!
+ODD: Speak slower! I can’t understand a word!
+ODD: An attack by XANA.
+ODD: Is that all you can think of\Nas an excuse for us to make up?
+JEREMIE: Odd, listen to me. It’s an emergency.
+JEREMIE: Just get over here now!
+JIM: No cell phones in detention!
+JIM: Where is Jeremie Belpois?
+JEREMIE: Odd! Odd? Can you hear me?
+SISSI: Relax, Ulrich.
+SISSI: Surprise!
+SISSI: The latest Subsonics CD! Look!
+SISSI: Not bad for getting in the mood\Nbefore going to the concert!
+ULRICH: Uh, Sissi…uh, l-listen.
+SISSI: You’re right.
+SISSI: Let’s not talk!
+SISSI: (WHISPERS) Let’s listen.
+DEFAULT: (CELL PHONE RINGS)
+ULRICH: Hello? Yeah. Yeah. Jeremie.
+ULRICH: Okay. I’ll be right there.
+SISSI: Hm?
+ULRICH: Right. I’ll take care of it.
+SISSI: Hey! Where are you going!
+ULRICH: Jeremie just reminded me
+ULRICH: of a really important\Nthing I have to do.
+SISSI: What?
+ULRICH: Uh, well, leave.
+YUMI: Okay, Jeremie. I see her.
+JEREMIE: Yumi, do you know how\NAelita got that necklace?
+YUMI: I think she found it on her doorstep.
+YUMI: Do you think XANA could’ve put it there?
+JEREMIE: I’m launching a superscan.\NWe’ll know in a minute.
+JEREMIE: In my opinion, it’s that dumb necklace\Nthat gives XANA control over Aelita.
+JEREMIE: He wants to lead her\Nstraight to the scyphozoa.
+JEREMIE: Oh, no. That’s exactly\Nwhat I was afraid of.
+JEREMIE: Looks like XANA’s activated a tower.
+YUMI: Don’t panic, Jeremie.
+YUMI: I’ve just about caught up to her.
+YUMI: And I was about to say this was too easy.
+YUMI: Jeremie, I don’t want to sound pessimistic,
+YUMI: but if Ulrich and Odd could hurry up a bit!
+ULRICH: You see, Jim, Aelita’s got 104 fever,
+ULRICH: so naturally she wants to see her cousin.
+ULRICH: He’s her only family here!
+JIM: A minute ago, it was 103!
+ULRICH: Right! Her temperature\Nkeeps going up by the minute!
+: (CHUCKLES)
+JIM: What do you take me for?\NSome kind of idiot?
+ULRICH: Well, um…no! No, Jim.
+DEFAULT: (CELL PHONE RINGS)
+ULRICH: Excuse me.
+ULRICH: Yeah. Well, no. Jim doesn’t believe me.
+ULRICH: About Aelita’s fever.
+JEREMIE: Okay. Put him on, Ulrich.
+ULRICH: Here you are, Jim.\NIt’s…it's for you.
+JIM: Yes?!
+JIM: Yes? Uh, of course!
+JIM: I-I understand, Mister Delmas!
+ULRICH: Huh?
+JEREMIE: Do you hear me, Jim?
+JEREMIE: Let Della Robbia see
+MR. DELMAS: his cousin!
+JIM: Very well! Whatever you say, sir!
+JIM: Say, uh, when you have time,
+JIM: could I speak to you\Nabout a personal matter?
+JIM: It’s about Suzanne Hertz.
+JEREMIE: I…well, uh…it’s a tunnel!
+JEREMIE: We’re about to get cut off!
+ULRICH: How did you manage that with the principal?
+JEREMIE: I wrote a new program.
+JEREMIE: Stern, Della Robbia,
+MR. DELMAS: Hurry up! Things\Nare getting hot here!
+YUMI: Jeremie, tell me you’ve\Nreprogrammed a new vehicle!
+JEREMIE: Don’t worry!
+JEREMIE: Give me 10 seconds.
+JEREMIE: Yeah! Nice going, Yumi!
+YUMI: Do you still have a visual on Aelita?
+JEREMIE: She took off for sector one. The ice sector.
+JEREMIE: Use the way tower!
+YUMI: On the Overboard?
+: Are you absolutely sure about that?
+JEREMIE: Uh, well, yes.
+JEREMIE: There’s no reason you couldn’t.
+YUMI: If you’re wrong, I swear I’ll…
+YUMI: (YELLS)
+JEREMIE: You swear you’ll what?
+YUMI: Um, nothing.
+ODD: Can’t do without me, huh?
+ODD: You won’t get mad\Nif I save Aelita, will you?
+ULRICH: Odd.
+JEREMIE: No, let him, Ulrich. He’s right.
+JEREMIE: I was being stupid.
+ODD: I don’t blame you, Jeremie. I understand.
+ODD: I’m a pretty charming guy.
+ODD: It’s only natural you’d be jealous of me.
+JEREMIE: (CHUCKLES)
+DEFAULT: (DRAMATIC MUSIC)
+JEREMIE: Transfer Ulrich.
+JEREMIE: Transfer Odd.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Scanner Odd.
+JEREMIE: Virtualization.
+YUMI: Aelita, you must stop obeying XANA!
+AELITA: Leave me alone!
+YUMI: No!
+YUMI: Jeremie, could you just\Nremind me what’ll happen
+YUMI: if I fall into the digital sea?
+JEREMIE: If I were you, I’d avoid it.
+YUMI: Well then if you could help me\Nout of here, I’d appreciate it!
+JEREMIE: I’m bringing you back.
+JEREMIE: But it’s gonna take a couple minutes!
+YUMI: I was afraid you were gonna say that.
+YUMI: (YELLS)
+ULRICH: Happy to see me?
+YUMI: I sure am.
+ULRICH: Move it, Jeremie.\NI can’t hold her for long.
+JEREMIE: I’m doing all I can!
+ULRICH: Say, Yumi, what did you\Nthink of my poem for Sissi?
+YUMI: Ulrich, this is really not the time.
+ULRICH: Because, in fact,\NI actually wrote it for you.
+YUMI: I can’t hold on!
+ULRICH: Yumi!
+YUMI: (YELLS)
+JEREMIE: Remind me to boost that program.
+JEREMIE: Ulrich, Odd’s about to need your help.
+ODD: Aelita!
+ODD: It’s me! Odd!
+ODD: Aelita!
+ODD: No!
+DEFAULT: (SCREECHING)
+ODD: Aelita!
+YUMI: Ulrich, hurry up.
+ULRICH: I’m almost there.
+ULRICH: You okay, Odd?
+ODD: Brillian. As usual.
+ULRICH: That bad, huh?
+ODD: Laser arrow!
+ODD: Aelita! Stop!
+ODD: Hey, that’s cheating!
+ULRICH: Jeremie, we’re never gonna make it.
+YUMI: You’ve got to think of something.
+JEREMIE: I do have one idea, but it’s awfully risky.
+JEREMIE: Odd, aim for Aelita.
+ODD: Huh? Are you crazy!
+ULRICH: Hey, don’t forget that if\NAelita loses all her life points,
+ULRICH: she’ll disappear forever!
+JEREMIE: XANA wants her memory.
+JEREMIE: He won’t risk losing that.
+JEREMIE: Deep down, he wants her alive\Nas much as we do.
+YUMI: Are you sure?
+JEREMIE: No. But I can’t think of anything else.
+ODD: Okay. Here I go.
+DEFAULT: (BEEPS)
+JEREMIE: Only 30 life points left!
+ODD: Well, you want me to stop?
+JEREMIE: No!
+JEREMIE: I just hope I’m right.
+AELITA: (GROANS)
+ULRICH: XANA’s givin’ up!
+ODD: Yes!
+ODD: Uh-oh. The scyphozoa’s at it again.
+ODD: It was too good to be true.
+JEREMIE: Only 10 life points left!
+ODD: It’s okay!
+AELITA: What’s going on?
+AELITA: Why are you aiming at me?
+AELITA: Tower deactivated.
+JEREMIE: I’m gonna study this.
+JEREMIE: You never know.\NI might be able to get
+JEREMIE: some interesting\Ninformation about XANA.
+ULRICH: Anyway, Aelita, from now on,
+ULRICH: you don’t take any presents from anyone.
+AELITA: Promise.
+AELITA: You know, Jeremie saved my life,
+AELITA: And that’s the nicest Valentine’s\Npresent anyone can hope for.
+ODD: Yeah, but that sure won’t save him\Nfrom being suspended
+ODD: for missing four hours of detention.
+ODD: The principal’s not gonna be\Ntoo happy about that!
+ODD: But I’m sure there’s a solution!
+ULRICH: Hey, what are you looking at me for?
+ULRICH: I’m really happy to be going\Nto the concert with you,
+ULRICH: but you won’t forget to talk to\Nyour father beforehand, huh?
+SISSI: Don’t worry. I’ll get Jeremie out of this.
+ODD: Now that’s a real friend.
+ODD: Ready to sacrifice himself for his pal.
+JEREMIE: Are you sure he’s sacrificing himself\Nas much as all that?
+JEREMIE: He doesn’t seem to be bothered by it.
+YUMI: Maybe not.
+YUMI: But it was for me that he wrote the poem.
+YUMI: Poor Sissi!
+DEFAULT: (LAUGHTER)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

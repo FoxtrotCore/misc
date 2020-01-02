@@ -1,0 +1,326 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+DEFAULT: (SINISTER MUSIC)
+ULRICH: Hello? Is anyone there?
+ULRICH: What?
+DEFAULT: Misses Hertz caught us red-handed.
+DEFAULT: She made us give up our cell phones.
+SFX: (BUZZING)
+JEREMIE: (YAWNS)
+YUMI: Hey, you really look wiped out.
+YUMI: What did you do last night?
+JEREMIE: I worked on a little program.
+JEREMIE: An advanced research engine of sorts.
+JEREMIE: It’s a browser which I’m\Ntrying to make to help Aelita
+JEREMIE: look for more info on\Nmaterialization in the Lyoko towers.
+ODD: Just imagine all the things\Nshe’s gonna learn when she gets here.
+ODD: She’s gonna be amazed.
+JEREMIE: I think about it all the time.
+JEREMIE: I can’t wait for that day to come.
+JEREMIE: Yeah. It’s gonna…it’s gonna be great.
+YUMI: Hi, Ulrich.
+ULRICH: Hello.
+DEFAULT: (SCHOOL BELL RINGS)
+ODD: Okay, guys. It’s time for us\Nto work up a sweat.
+ODD: So long, Yumi.
+ULRICH: Yumi, w-wait, I…
+YUMI: Yes?
+ULRICH: I, um…
+ULRICH: Are you okay?
+YUMI: Well, yeah? Why are you asking?
+ULRICH: I just, uh, just…asked.
+ULRICH: See you later.
+YUMI: Okay.
+ODD: Ulrich, move it, huh!
+ULRICH: “Ulrich, I don’t know\Nhow to tell you this, so I’m writing it.
+ULRICH: “I’ve always admired you.
+ULRICH: “I’ve been wanting to tell you for ages,\Nbut I didn’t have the nerve.
+ULRICH: “Also, I wasn’t 100 percent sure,\Nbut now I am. I love you.
+ULRICH: Signed, Yumi.”
+YUMI: (LAUGHS)
+ODD: Ulrich, watch out!
+JEREMIE: Ulrich, are you okay?
+ULRICH: How could that have happened?
+JEREMIE: Uh, hey, Ulrich, don’t take this badly,\Nbut your playing was kinda weird.
+ODD: You can say that again!
+ODD: Why, even Jeremie was\Nbetter than you today!
+ULRICH: My mind wasn’t on the game.
+ULRICH: Lay off, huh?
+ODD: No way!
+ODD: He’ll lay off as soon as you\Ntell us what’s wrong.
+ULRICH: It’s just that…
+ULRICH: Well, I got this letter from a girl.
+ULRICH: The kind of letter\Na girl sends when she’s…
+ODD: He’s in love!
+ODD: (LAUGHS)
+ODD: Ulrich’s in love!
+ULRICH: That’s the problem. I’m not in love.\NI’m…I’m not sure I am.
+ULRICH: I can’t even manage to talk to her.
+ODD: And can you tell us\Nwho the lucky lady is?
+ULRICH: You’ve gotta be kidding.\NI’m not telling anyone.
+ULRICH: One more thing--\Nnot a word to Yumi.
+ULRICH: I don’t want this to get around.
+JEREMIE: Uh…
+JEREMIE: Hey, Odd, did I really play\Nbetter than him?
+ODD: Milly or Tamiya?
+JEREMIE: No, they’re too young.
+ODD: Claire.
+ODD: Sandra?
+JEREMIE: No, no, much too young.
+JEREMIE: And they’re so, you know, they’re…
+JEREMIE: they’re too uptight.
+ODD: Emily! Yeah!\NYeah, yeah, it’s her!
+ODD: Look, I’m an expert with girls.
+ODD: She’s pretty,\Nshe’s the outdoors type,
+ODD: she’s the one who flipped for him.
+YUMI: Oh, yeah? Who is Emily flipped over?
+ODD: It’s Jim! Emily’s crazy about Jim.
+YUMI: Jim? You’re kidding.\NWell, they say that love is blind.
+YUMI: Oh! I’m, uh, I’m s-sorry.
+KIWI: (BARKS)
+KIWI: (WHIMPERS)
+ULRICH: Kiwi?
+ULRICH: Who did that to you?
+SFX: (BUZZING)
+ULRICH: Come on, run!
+ULRICH: Kiwi!
+ODD: He doesn’t look well at all.\NYou think it’s serious?
+JEREMIE: Don’t worry, Odd.
+JEREMIE: He’ll be back on his feet in no time.\NI mean, back on his paws.
+SFX: (KNOCKING)
+YUMI: I brought some pills\Nand antivenom compresses.
+JEREMIE: Thanks, Yumi. Come in.
+ODD: This’ll make you feel better.
+ULRICH: Uh, Yumi? Come over here, please.
+ULRICH: I wanted to tell you something.
+YUMI: I did, too.
+YUMI: They say Emily’s in love with Jim!
+ULRICH: With Jim?
+YUMI: Odd told me all about it. Weird, huh?
+YUMI: I’ve got class now. See ya!
+ULRICH: Hey, what’s that all about, huh?
+ODD: I don’t know!
+ULRICH: And then I heard this buzzing\Ncoming from the trees.
+ULRICH: There must be dangerous insects up there.
+MR. DELMAS: Thanks for the information, Ulrich.\NI’ll take care of it.
+MR. ROUILER: (MAN SCREAMING)
+MR. ROUILER: Help! Help! Get them off!
+ULRICH: We’ll try to attract them to us!
+ULRICH: Let’s go!
+JEREMIE: We’ve got to get him to the infirmary.
+ODD: What about Ulrich?
+JEREMIE: He’ll take care of them.
+YUMI: Head that way! Hurry!
+ULRICH: Hey, you’re…you’re hurt, Yumi.
+YUMI: Oh, it’s nothing serious, Ulrich.
+YUMI: Just a scratch.
+YUMI: Uh, I think we can go now.
+ULRICH: Well?
+JEREMIE: Mister Bennett was lucky.\NOne more bite, and…
+ODD: Yeah, that’s right,\Nbut he’s still not in great shape.
+JEREMIE: The principal sent for help.\NThey’re gonna get rid of the nest.
+JEREMIE: I don’t know what you guys think, but I…
+ODD: But you think it’s XANA.\NCome on, cut it out.
+ODD: Hornet’s nests have always been around,\Nand accidents happen all the time!
+ULRICH: You’re right, but these hornets,\Nthey were after us and nobody else.
+YUMI: Well, I say we check it out.
+JEREMIE: I’ll try to contact Aelita.
+YUMI: I’m going back to class,\Nbut keep me posted.
+ODD: Do you realize the damage\Nthese bugs can cause?
+ODD: There are thousands of them!
+ODD: If XANA is in on this attack,
+ODD: we could have a very\Nserious problem, huh?
+ODD: Don’t you think so?
+ODD: Hello!
+ULRICH: Uh, what?
+ULRICH: Uh, yeah! Right!\NI mean, I don't know.
+ODD: Ulrich, you wouldn’t\Nhappen to have a crush
+ODD: on this secret admirer\Nof yours, would you?
+ODD: Hm, Ulrich?
+ODD: Hm?
+ULRICH: Yeah, you could be right.
+EMILY: (CLEARS THROAT)
+EMILY: What’s all this about me\Nbeing in love with Jim?
+ODD: Uh…
+EMILY: Start that rumor again,
+EMILY: and even your dog\Nwon’t recognize you!
+JEREMIE: Aelita, do you read me?
+AELITA: Loud and clear.\NHow are things in the real world?
+JEREMIE: We’ve got a problem.\NAnd we think it might be XANA.
+JEREMIE: Have you noticed anything?
+AELITA: No. At least here in\Nthe desert, things are calm.
+AELITA: But if you want I can\Ncheck out the other regions.
+JEREMIE: Good idea.
+JEREMIE: And in the meantime,
+JEREMIE: I’ll run a scan to see if\Nthere’s an activated tower.
+JEREMIE: There it is.
+JEREMIE: Aelita, the scanner spotted
+JEREMIE: an activated tower in the forest
+AELITA: Okay. I’m in the forest now.\NI’ll try to find it.
+JEREMIE: I’ll tell the others.
+: (RINGING)
+JEREMIE: Alert!
+JEREMIE: XANA has activated a tower,\Nand Aelita’s trying to find it, guys.
+YUMI: It looks as if something’s up.
+YUMI: Jeremie wants us to\Ngo to the factory right now.
+ULRICH: No--no, wait, Yumi.
+ULRICH: I wanted to, uh,\Nto tell you something.
+ULRICH: It’s about your…\Nabout your letter.
+YUMI: Huh? But--
+ULRICH: No, let me finish.
+ULRICH: You said in the letter that…
+ULRICH: that you had certain\Nfeelings for me, and…
+YUMI: Huh?
+ULRICH: I wanted you to know that…\Nthat I feel the same thing for you.
+ULRICH: There. I’ve said it.
+YUMI: But I never sent you any letter, Ulrich.
+DEFAULT: (LAUGHTER)
+HERB: Oh, that has got to hurt!
+SISSI: Kind of embarrassing if you ask me!
+SISSI: (CACKLES)
+YUMI: Forget them. Don’t worry.
+ULRICH: I don’t care. Leave me alone!
+YUMI: But…
+JEREMIE: Oh, no!
+JEREMIE: Oh, wow. Nice going, XANA.
+ODD: Jeremie, any suggestions\Nwould be very welcome.
+JEREMIE: Uh, get away from here\Nas fast as we can?
+JEREMIE: We’re trapped!
+ODD: Hey, you got any other ideas?
+JEREMIE: Jump!
+ODD: (COUGHING)
+JEREMIE: Come on.
+ODD: This is your idea?
+JEREMIE: Insects are very sensitive to smells.
+ODD: They’re not the only ones, huh?
+ODD: Eugh.
+ODD: Hey, I think it worked!
+JEREMIE: Looks like it.
+ODD: What do you know?
+YUMI: What’s that smell?
+ODD: Ask Jeremie.
+JEREMIE: We left you a message.\NDidn’t you get it?
+ULRICH: What do you think?
+ULRICH: I didn’t feel like checking my messages.
+YUMI: Look, I think we should talk.
+ULRICH: I know what you’re gonna tell me,\Nand I don’t wanna hear it.
+YUMI: Ulrich, this is all\Non account of Sissi!
+ULRICH: Don’t you think I know that?
+ULRICH: But because of her, I’m confused.
+ULRICH: Every time I see you,\NI don’t know what to think.
+ULRICH: So just leave me alone, okay?
+JEREMIE: He’s losing it.
+JEREMIE: Aelita?
+JEREMIE: Are you okay?
+AELITA: Yes, I found the activated tower.
+AELITA: But it’s guarded. I can’t access it.
+JEREMIE: Don’t worry. Help is on the way.
+ODD: Hey, guys, hold on a minute!
+ODD: The bugs have blocked\Nthe factory entrance,
+ODD: and I would rather\Nstay out of that sewer.
+JEREMIE: Don’t worry, Odd.
+JEREMIE: I’m way ahead of you on this one.
+ODD: Well, what’s the deal?
+DEFAULT: (BEEPING)
+ODD: Bingo!
+JEREMIE: Pretty clever, huh?
+JEREMIE: This thing generates ultrasounds\Nof about thirty thousand hertz.
+JEREMIE: Like all insects, hornets\Nare capable of receiving the--
+YUMI: Fascinating, but we\Ndon’t have time, so let’s move!
+DEFAULT: (STUDENTS SCREAM)
+FIREFIGHTER: Get inside!
+FIREFIGHTER: Come on, hurry up!
+FIREFIGHTER: Headquarters, we’ve got a problem.
+FIREFIGHTER: We’re at the junior high school, right.
+ULRICH: Your thing stopped! How come?
+JEREMIE: Battery’s dead.
+ULRICH: What!?
+DEFAULT: Hurry up!
+JEREMIE: Okay, here we go.
+JEREMIE: Aelita, do you read me?
+JEREMIE: We’re on our way. Hang in there!
+JEREMIE: No time to lose. To the forest!
+JEREMIE: Transfer Ulrich.
+JEREMIE: Transfer Yumi.
+JEREMIE: Transfer Odd.
+JEREMIE: Hurry! Hurry!
+JEREMIE: Scanner Odd.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Scanner Yumi.
+JEREMIE: Virtualization!
+JEREMIE: Come in, Aelita.
+JEREMIE: Aelita, answer me!
+JEREMIE: Oh, no. This cannot be happening!
+JEREMIE: Do you see her?
+YUMI: No, not yet.
+SISSI: Oh, and talk about\Nembarrassing situations,
+SISSI: I’m sure that Ulrich’s not about\Nto forget this for a long time.
+SISSI: What a genius I am!
+SISSI: You could say something.
+SISSI: A-a-a-aah!
+HERB: Wait up!
+JEREMIE: Careful. Three swarms of\NHornets converging.
+JEREMIE: Get ready.
+ODD: Laser arrow!
+JEREMIE: Less than 20 life points left, Yumi.
+JEREMIE: Be careful, Odd!
+JEREMIE: Odd, 80 life points left.
+JEREMIE: Ulrich, what are you doing?
+JEREMIE: Odd, two enemies at three o’clock!
+ODD: Laser arrow!
+YUMI: Aelita!
+YUMI: Aelita!
+JEREMIE: No, Yumi! Aelita!
+JEREMIE: Aelita, are you okay?
+AELITA: Yes. I’m fine, Jeremie.
+JEREMIE: Yumi, in front of you!
+JEREMIE: Yeah!
+JEREMIE: Watch it! They’re coming back.
+JEREMIE: Yumi, you’ve only got\N20 life points left.
+ODD: Ulrich, wake up!
+DEFAULT: Odd!
+JEREMIE: Odd, you have hardly\Nany life points left.
+ODD: Now!
+ODD: (PANTING)
+YUMI: Ulrich, are you with us or not?
+YUMI: I know you’re unhappy,\Nbut there’s no reason to be.
+YUMI: Our friendship’s\Nstronger than that, right?
+YUMI: You can’t let Sissi’s dirty tricks\Nbreak us up, can you?
+YUMI: So forget all about that,\Nplease. We need your help!
+ULRICH: You two head for the tower.
+ULRICH: I’ll take care of them.
+JEREMIE: Well, it’s about time.
+ULRICH: Triangulate!
+ULRICH: Impact!
+AELITA: Yumi!
+JEREMIE: Oh, no!
+ODD: Go on, Aelita!
+ULRICH: Hiyah! Impact!
+JEREMIE: Ulrich, you’re the greatest.
+DEFAULT: (SCREAMING)
+SISSI: Aaah! Go away!
+SISSI: No, no! Help!
+JEREMIE: Return to the past now.
+SISSI: Uh…uh, hi!
+SISSI: Uh, I was just passing by, and I…
+ULRICH: What do ya know?
+ULRICH: Let’s see now.
+SISSI: It’s, uh…
+YUMI: Well, that’s a pretty\Nembarrassing situation,
+YUMI: don’t you think?
+SISSI: I, uh, this wasn’t the right door!
+YUMI: It sure isn’t!
+YUMI: Why not give it to Nicholas or Herb?
+YUMI: They’d be delighted!
+YUMI: (LAUGHS)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

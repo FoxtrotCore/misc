@@ -1,0 +1,262 @@
+ YUMI: What took you so long? I almost didn’t wait.
+ODD: Just having a word with Lucy Ann.
+YUMI: Lucy Anne?
+ODD: Yeah, you know, Lucy Anne. I love giving nicknames to the monsters\NI blow to smithereens.
+Laser arrow!
+ULRICH: Guess she wasn’t too crazy about her name.
+ODD: You oughta take better care of your stuff, Ulrich.
+JEREMIE: Aelita, I’m trying to collect more data on Franz Hopper,\Nbut I can’t access the subsystems.
+Be careful! {/i1}Flying mantas coming your way at ten o’clock!{i0}
+YUMI: Jeremie? How’s everything going,\Nbecause around here, things are kind of-- ah!
+...heating up.
+JEREMIE: Not great. For now, I don’t have any data that tells me how to locate\NFranz Hopper, I’m afraid. You’ll have to hold out a little longer.
+ULRICH: Easier for you to say!
+AELITA: I’m almost there. I’m about ready to access the subsystems.
+ODD: How many life points do we have left?
+JEREMIE: Not many. If you get hit by one more flying manta,\Nit’ll be game over, Odd. Same goes for you, Ulrich.
+ODD: Buckle up, Shirley!
+Ethel, Yvette! Get back here right now!
+ULRICH: Odd, cut it out with your dumb names, huh?
+What’s going on here? Why aren’t we devirtualized?
+ODD: Laser arrow!
+AELITA: Huh? What’s that?
+ULRICH: Beats me. They shot at us, and this is what happened.
+JEREMIE: You guys okay? All in one piece, I hope.
+ULRICH: Yeah, think so.
+ODD: {/i1}Two great legs, a svelte torso, two little arms, and a good looking head.{i0}\NNo, nothing missing!
+AELITA: Jeremie, what happened out there?
+JEREMIE: I wish I knew. I have to look back over the quantum sequence to track any\Nabnormalities in the access data.
+YUMI: Mind translating that, Einstein?
+AELITA: He has to carry out a full check.
+ODD: Oh, no way, there’s no time! We’ve got rehearsal in exactly five minutes!
+JEREMIE: Rehearsal? Oh no, I completely forgot about it!\NChardin’s gonna kill us!
+NICOLAS: Boo! We want our money back, we want our money back,\Nwe want our money back, we want our money back, we want our money back!
+JIM: Poliakoff, do you mind using your head for once? How can you get your\Nmoney back from a show that’s totally free?
+NICOLAS: Well, you, uh…
+JIM: We would have to give you back nothing,\Nwhich, if you ask me, is too much.
+Besides, try showing some respect! Theater, don’t forget, is sacred!
+Believe me. I know from experience. Years ago, I even wrote a one-act…\Nwell, actually, it was more of a one-scene play.
+HERB: Oh really? What was it about, Jim?
+JIM: Hmmm, I’d rather not talk about it.
+MR. CHARDIN: Phew, there you are. Please everyone, hurry up.
+MR. DELMAS: Well, Mr. Chardin, what made you choose Cyrano de Bergerac\Nfor this years performance? The elegance of the text, I imagine?
+Or the tragedy of unrequited love, or perhaps it appeals to\Nyour true, but hidden romantic nature?
+MR. CHARDIN: Lack of money.
+Since we had no choice, we had to use last year’s Romeo and Juliet set\Nand the costumes. I had to find another play that had a balcony.
+So, Cyrano.
+MR. DELMAS: Hmm.
+I see.
+ULRICH: Roxanne!
+YUMI: Who calls me?
+ULRICH: It is I, Christian!
+YUMI: Today, your words are hesitant.
+ODD: Night has come. In the dusk, they grope their way to find your ear.
+YUMI: But my words find no such impediment!
+ODD: They find their way at once? Oh, small wonder that,\Nfor it is within my heart they find their home.
+Methink how large my heart, how small your ear.
+And from their fair heights descending, words fall fast, but mine\Nmust mount, madame. They need more laser arrows!
+DEFAULT: (GASPS)
+YUMI: Me thinks that your last words have learned to climb!
+ODD: With practice, such gymnastics grow as hard! In truth, I seem to speak\Nfrom distant heights!
+ULRICH: Two Kankrelats, dead ahead!
+ODD: True, far above at such a height, toward death if--\NOh, okay, I’ll get them!
+MR. DELMAS: Stern, Della Robbia, what are you babbling about!?
+MR. CHARDIN: Please sir, keep it down. Don’t you know cutting-edge theater\Nwhen you see it? It’s a modern approach. 
+Somewhere between the Bald Soprano\Nand a deadly karate match.
+ODD: Take that, you old--\NUlrich, help me, I’m hit!
+MR. CHARDIN: Bravo!
+ULRICH: Super sprint!
+YUMI: Cut it out! Your gag is not funny, it’s lame!
+ULRICH: Yumi, what are you doing, you made me miss the Megatank!
+AELITA: Odd, what’s gotten into you?
+ODD: Out of the way, Aelita, I can’t see the Krab!
+MR. DELMAS: This time, you’ve gone too far! One more word out of you,\Nand it’s a disciplinary committee, you hear?
+JEREMIE: Wait, please, Mr. Delmas!\NThere’s something wrong, Odd isn’t himself!
+ODD: Jeremie?
+Does Xana have a broken hard disk or what? The Krab sounds\Na lot like Delmas!
+ULRICH: Odd, watch out! A Blok at four o’clock!
+JIM: A Blok? You’re the blockhead, Stern.
+Quick, someone call an ambulance! Stern and Della Robbia\Nhave totally lost it!
+ULRICH: Get your-- aaagh!
+DEFAULT: (GASPS)
+ODD: Jeremie, reload me! Two Tarantulas are getting the better of us!
+ULRICH: We’re stuck in another of Xana’s traps!
+ODD: Jeremie, do something!
+MR. DELMAS:
+Mhmm. So this is what happens when you spend hours--\N--playing video games and watching cartoons on TV.
+Rehearsal is over.
+AELITA: Ulrich’s right, they are stuck in another of Xana’s traps.
+JEREMIE: Go follow them to the hospital.\NI’ll see if I can figure out what’s happening in the meantime.
+DEFAULT: Did you give them something to calm them down?\NMhmm.
+Now, tell me, are you having some problems at the moment?
+Are you sleeping well?
+Nightmares?
+Restless nights?
+Troubles at school? With your parents?
+ODD: Take that, you rotten old Blok!
+SFX: (ARROWS FIRING)
+DEFAULT: Rotten… old… Blok. Interesting.
+ULRICH: Let me at it!
+DEFAULT: Hm?
+ULRICH: Ow!
+DEFAULT: Sorry, young man, but I’m a tenth dan in aikido.
+JEREMIE: Huh?
+YUMI: Yes, Jeremie?
+JEREMIE: {/i1}Yumi, Xana is definitely behind Odd and Ulrich’s madness.{i0}
+There’s only one way to make them normal,\Nand that’s to get them to a waytower somewhere on Lyoko.
+{/i1}Then I can launch a program to get their heads straight.
+YUMI: You mean we have to spring them from the hospital?
+JEREMIE: {/i1}You got it.
+YUMI: Hello, we’re here to see Ulrich Stern and Odd Della Robbia.
+DEFAULT: I’m sorry, but they’re both under observation. No visitors allowed.
+YUMI: Thanks a lot. Sorry we interrupted you.
+AELITA: What do we do now?
+YUMI: Quiet, listen.
+DEFAULT: The two young men in room 237 are fighting--\N--imaginary enemies they call Bloks, Megatanks, and Xana.
+(LAUGHS)
+Where do they get such crazy names from?\NWhat do you think, Professor Hornet?
+Typical of today’s youth.
+YUMI: Now we know what room they’re in.
+Leave him to me.
+DEFAULT: Huh?
+YUMI: Ooh, excuse me, man.
+DEFAULT: Do you need any help?
+YUMI: I’m… I-I’m looking for my room. Room, uh, 216.
+DEFAULT: Come with me.
+ODD: Aelita, watch out for the Krabs!
+AELITA: What Krabs?
+ULRICH: The ones blocking us!
+AELITA: Energy field!
+SFX: (ELECTRICITY CRACKLES)
+DEFAULT: (YELLING)\NAELITA: That’s one down.
+ODD: Nice job! That Krab just wouldn’t let go of me!\NI think it was love at first bite.
+DEFAULT: Here you are. Room 216.
+YUMI: Thank you for showing me the way.
+DEFAULT: Game of tiddlywinks?
+AELITA: I’ve located the activated tower. Follow me.
+ULRICH: Go, we’ll cover you.
+DEFAULT: Whoever wins gets to take the other person’s medicine!\NWell, what do you say?
+YUMI: Huh? Uh, no thanks, maybe another time.
+DEFAULT: What is going on around here? If you didn’t come for a game of tiddlywinks,\Nthe what are you doing in my room, young lady?
+YUMI: Well, um…
+DEFAULT: You little rascal, you! Get out, or I’ll call the nurse!
+AELITA: Yumi, now that you’re here, we can go to the activated tower.
+YUMI: Oh right, yeah, sure, well, let’s get going then!
+JEREMIE: Okay, I sure hope that this is gonna work.
+DEFAULT: Huh?
+Where do you think you’re going?
+ODD: The Bloks caught up with us!
+AELITA: No time!
+DEFAULT: Out of my way!
+Hello, is this police headquarters?
+JEREMIE: Oh no, that’s all we needed. The Core is being attacked!\NCome on, will you pick up?
+YUMI: Yes, Jeremie?
+Okay, we’re on our way!\NXana is attacking the Core of Lyoko!
+JEREMIE: I hope they get here in time.
+SFX: (POLICE SIRENS WAIL)\NAELITA: Just a little further, the tower’s not far now.
+YUMI: That way!
+ULRICH: Go ahead, I’ll take care of the Megatank.
+YUMI: Ulrich, no!
+DEFAULT: Huh? What is this crazy kid trying to do?
+Well, tell us what it feels like to be part of the evening news!
+ULRICH: That should take care of them.
+JEREMIE: Where could they be?
+Huh, there you are, it’s about time. Only one more shield left\Nprotecting the Core of Lyoko.
+ODD: Jeremie, would you mind sending me the Overboard, ‘cause I’m getting tired\Nof running around!
+AELITA: Any idea how we can get them into the scanners?
+JEREMIE: Leave it to me, Aelita.
+Okay guys, you made it there. Now head for that waytower!
+ULRICH: Right.
+Huh?
+AELITA: Nice one, Jeremie.
+JEREMIE: Transfer, Odd.\NTransfer, Ulrich.
+Transfer, Yumi.\NScanner, Odd.
+Scanner, Ulrich.
+Scanner, Yumi.
+Virtualization.
+ULRICH: Huh?
+ODD: Woah, it’s empty out here. Not a kid in sight.
+ULRICH: Guess they’re all in the lunchroom.
+YUMI: Uh, yeah.
+JEREMIE: {/i1}Your turn, Aelita.
+Transfer, Aelita.
+{/i1}Scanner, Aelita.
+Virtualization.
+YUMI: This is getting worse and worse.\NNow they think they’re at the academy.
+Listen, Aelita, you lead them to the waytower,\NI’ll head for the Core of Lyoko.
+AELITA: Got it.
+Let’s go to the, um… lunchroom!
+ODD: I’m starving!
+JEREMIE: Welcoming committee, straight ahead.\NBe careful, Aelita.
+AELITA: No…
+I don’t believe it.
+ODD: Hey, Sissi! In a bad mood?\NYou break the scale this morning?
+AELITA: No…
+(CELESTIAL HUMMING)
+ULRICH: What’s this?
+ODD: They put Sissi and her pals in a display case or what?
+YUMI: {/i1}Jeremie, I’m here, at the edge of the sector! Can you send me a taxi?
+JEREMIE: You bet! A big, white stretch limo is on the way!
+ULRICH: Who’s the dork that pushed me into Sissi’s arms?
+AELITA: Energy field!
+JEREMIE: Holosphere system connected.
+YUMI: {/i1}Jeremie, I’m in the core zone.
+JEREMIE: Okay Yumi, great. The countdown started.\NYou’ve got less than one minute to activate the key.
+YUMI: Okay.
+AELITA: Energy field.
+ODD: Energy field? You think we’re on Lyoko or something?
+ULRICH: Ow! Something just stung me.
+JEREMIE: Better hurry up, Yumi.\NYou’ve only got ten seconds left.
+Nine, eight, seven, six, five, four, {/i1}three, two, one, zero!{i0}
+Nice job, Yumi. Now head for the Celestial Dome.
+YUMI: I’m on my way!
+JEREMIE: {/i1}I’m programming your Overwing.
+AELITA: (CELESTIAL HUMMING)
+That way, hurry up!
+ODD: No, the lunchroom is that way!
+AELITA: Listen to me, both of you. \NYou’re going to do exactly as I say, and no questions. You got that?
+ULRICH: Okay.
+ODD: Okay.
+YUMI: Jeremie, I’m in the Dome.
+AELITA: Now get in there. That’s an order!
+DEFAULT: Ma’am, yes ma’am!
+JEREMIE: Let’s hope this works.
+Let’s see if this program is operational.
+AELITA: How do you guys feel?
+ULRICH: Fine, but what are we doing inside a waytower?
+ODD: I don’t get it. Shouldn’t we be in the lunchroom?
+AELITA: I’ll explain later.
+Jeremie, it worked.
+JEREMIE: Yeah, but the Core is still in danger.
+YUMI: Jeremie, looks like I’m gonna need some help!
+JEREMIE: It’s on the way.\NBy now, Ulrich and Odd should be close to Sector Five, Yumi.
+Hurry up, Yumi needs your help!
+Yumi, the last protective shield is about ready to go!
+YUMI: I’m doing all I can!
+ODD: Yahoo!
+JEREMIE: Be careful, all of the Core’s shields are gone. If it takes one hit, just one,\N{/i1}Lyoko is gone for good, and you guys along with it.{i0}
+ULRICH: Oh, great.
+AELITA: No!
+ODD: Yeah!
+JEREMIE: {/i1}Nice work, guys! Time to bring it back in.
+YUMI: Well?
+ODD: Well what? Laser arrow!
+Nah, just kidding, ladies.
+DEFAULT: Very funny.
+JEREMIE: {/i1}Right. Well, it’s a good things that while some--\N--people are clowning around, others keep working.
+Okay, return to the past now.
+YUMI: Me thinks that your last words have learned to climb.
+ODD: With practice, such gymnastics grow as hard!
+YUMI: In truth, I seem to speak from distant heights!
+ODD: True, far above at such a height,\Ntoward death if a hard work from you fell upon my heart.
+MR. CHARDIN: Stop, stop stop.
+It’s not bad, but you’re not there, not just yet.\NWhat you’re missing is a bit more, um…
+ULRICH: More passion?
+MR. CHARDIN: No no, some…
+JIM: Some popcorn?
+MR. CHARDIN: No.
+MR. DELMAS: Some more funding?
+MR. CHARDIN: That would be good, but, uh…
+ODD: A touch of insanity?
+MR. CHARDIN: Exactly, yes! That’s it!
+DEFAULT: (LAUGHING)

@@ -1,0 +1,346 @@
+﻿# Exported by Aegisub 3.2.2
+MRS. MEYER: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+MRS. HERTZ: Now, then, if you provoke\Na collision between two neutrons,
+MRS. HERTZ: what do you obtain?
+MRS. HERTZ: Who would like to answer?
+MRS. HERTZ: Anybody?
+MRS. HERTZ: Nobody?
+HERB: Me, mam.
+MRS. HERTZ: (CELL PHONES RING)
+DEFAULT: -Hello?\N-Hello?
+DEFAULT: -Hello?\N-Hello?
+DEFAULT: -Hello?\N-Hello?
+DEFAULT: -Hello?\N-Hello?
+DEFAULT: -Hello?\N-Hello?
+DEFAULT: Hello?
+DEFAULT: Hello?
+DEFAULT: -Hello?\N-Hello?
+: Who is this?
+MRS. HERTZ: Sissi, you, the principal’s daughter,
+MRS. HERTZ: should know the rule\Ndealing with cell phones.
+MRS. HERTZ: Now, why don’t you\Nremind us all what that rule is?
+SISSI: All mobile phones have got to be\Nturned off before entering the classroom
+SISSI: under penalty of having them confiscated.
+MRS. HERTZ: Hand it over!
+MRS. HERTZ: And that goes for everyone!
+STUDENTS: (STUDENTS CLAMORING)
+MRS. HERTZ: Quiet down!
+MRS. HERTZ: Put all your cell phones\Non my desk right now!
+ODD: XANA’s sure gonna be happy about this.
+DEFAULT: (SCHOOL BELL RINGS)
+YUMI: We had this weird problem.
+YUMI: This morning, like everyone’s\Ncell phone started ringing and--
+ODD: The teacher confiscated them. Us, too.
+JEREMIE: Crazy, huh?
+JEREMIE: All those calls\Nand no one at the other end.
+JEREMIE: I think I’ll contact Aelita.\NThis could be XANA’s doing.
+ULRICH: We’ve got to do something.
+ULRICH: If Jeremie’s right and we can’t\Nstay in contact, we’re in a real jam.
+SISSI: Hey, you three!
+SISSI: I’m organizing a meeting.
+SISSI: They’ve got to\Ngive us our mobiles back.
+SISSI: Well, are you with us?
+YUMI: You bet we are.
+SISSI: Huh, no kidding?
+SISSI: If you really mean it,
+SISSI: we’ll see you in the\Nauditorium right after lunch.
+ULRICH: You were right.\NWe’ve got to see what’s up.
+JEREMIE: Connection.
+JEREMIE: Aelita, do you read me?
+JEREMIE: Aelita?
+AELITA: Oh, hello, Jeremie.
+JEREMIE: Hi.
+JEREMIE: Tell me, have you noticed\Nanything strange on Lyoko?
+AELITA: No, should I have?
+JEREMIE: I don’t know, but I’d better\Nlaunch a scan to check.
+AELITA: Okay, and I’ll see if I can\Npick up any of XANA’s pulsations.
+JEREMIE: Good, but be careful.
+AELITA: See you later.
+YUMI: You’re gonna take back your cell phone?\NThat’s called stealing, you know that?
+ODD: No it’s not! Taking back what\Nbelongs to you in the first place
+ODD: is not what I would call stealing.
+MR. DELMAS: The students were warned.
+MR. DELMAS: I’m not going to return\Ntheir phones that quickly.
+MR. DELMAS: We need to deactivate\Nthe school’s antenna.
+MR. DELMAS: That way, even with new phones\Nthey won’t be able to use them.
+MR. DELMAS: Can you handle that, Jim?
+JIM: Huh?
+ULRICH: We have no choice, Yumi.
+MR. DELMAS: Thank you, Charles.
+ODD: Okay, Ulrich. Let’s go.
+ULRICH: The coast is clear.
+ODD: Here we go.
+ODD: Now, let’s see.
+ULRICH: Oh, hello, Mister Lebrun!
+MR. LEBRUN: Oh, hello, Ulrich.
+ODD: Ha-ha! Mission accomplished!
+YUMI: Let’s hope that nobody finds out.
+ODD: I’d rather hope that\Nwe’re worried over nothing.
+JEREMIE: For now, the scan\Nhasn’t found an activated tower.
+AELITA: I haven’t seen anything either.\NFalse alarm.
+JEREMIE: XANA!
+ULRICH: Why would XANA be interested\Nin mobile phones, huh?
+JEREMIE: That’s what I’m hoping to find out\Nby checking out the school’s antenna.
+YUMI: I’m off to the meeting I promised Sissi.
+JIM: Huh?
+JIM: Hey, who let you guys up here?
+JIM: Trying to stop me from\Ndisconnecting the antenna?
+ULRICH: Us? No, uh, we were just passing by.
+JEREMIE: Careful!
+ULRICH: We’ll take him to the infirmary.
+JEREMIE: Okay.
+JEREMIE: I’ll try to find out what\NXANA’s done to the antenna.
+ULRICH: Hey, Jim, can you hear me?
+ODD: It smells like roast chicken, huh?
+ULRICH: Jim? Hey, Jim!
+ULRICH: Yoo-hoo!
+MS. PERRAUDIN: Odd? Ulrich?
+MS. PERRAUDIN: What are you doing here?
+MS. PERRAUDIN: Jim!
+: What happened to him?
+ODD: Oh, you know how Jim is.\NHe’s a regular live wire, so--
+ODD: Oh, I mean…
+JEREMIE: The main television antenna?
+MILLY: There.
+SISSI: Oh, Miss Yumi is gracing us\Nwith her presence.
+SISSI: Where were you when we wrote the petition?
+MR. DELMAS: Just what is going on in here?
+SISSI: Oh, dad--uh, I mean…
+SISSI: Sir! What is going on here is this!
+SISSI: You see, we all signed a petition,
+SISSI: so you have to give us\Nback our cell phones.
+MR. DELMAS: Oh, really?
+MR. DELMAS: First, let me remind you\Nthat in this establishment,
+MR. DELMAS: the students do not make the rules.
+MR. DELMAS: Secondly, Misses Hertz has just learned\Nthat someone forced her locker open
+MR. DELMAS: to get back his cell phone.
+SISSI: It’s only normal, sir!
+SISSI: How can anyone live\Nwithout their cell phone?
+MR. DELMAS: I’m sorry, but this theft is another\Nreason for not returning them to you.
+MR. DELMAS: And we’re going to investigate to determine
+MR. DELMAS: who had the nerve to steal back his own.
+SISSI: And I say we don’t set foot\Nin the classroom without our mobiles!
+STUDENTS: (CHEERING)
+JEREMIE: You see these waves?
+JEREMIE: XANA’s using the school antenna unit\Nto try to plug into the main television dish.
+YUMI: That’s why all the phones rang?
+JEREMIE: Right. It jams their frequencies.
+JEREMIE: If XANA manages to take control of the dish,
+JEREMIE: he’ll have direct access to the satellites\Nthat are now orbiting the earth.
+YUMI: And?
+JEREMIE: And he’ll be able\Nto guide a military satellite.
+YUMI: Okay, but for what reason?
+JEREMIE: I wish I knew. In peacetime,\Nthese satellites are used for spying,
+JEREMIE: but if XANA reprograms one, who knows.
+ULRICH: Anything can happen.
+ULRICH: Jeremie’s right, this is serious.
+JEREMIE: You’d better believe it, Ulrich.
+JEREMIE: The scan has detected a tower!
+AELITA: Jeremie, XANA has activated\Na tower in the polar region!
+JEREMIE: We’re on our way.
+AELITA: Better hurry.
+JEREMIE: Let’s go through the tunnel in the park.
+ODD: Kiwi, you stay here.
+SISSI: No more phones, no more school! Perfect!
+YUMI: I’ll stay here in case XANA’s\Ngot plans to attack the school.
+SISSI: Hey, are you with us or not?\NEver heard of solidarity?
+YUMI: Don’t worry, Sissi,\NI’m with you 100 percent.
+YUMI: No more phones, no more school!\NNo more phones--
+SISSI: Okay, let’s go!
+ODD: Kiwi, what are you doing here?
+JEREMIE: Incredible. For a dog,\N he’s stubborn as a mule.
+ODD: Well, now that you’re here, come on.
+ODD: Yeah!
+JEREMIE: Aelita’s on her way to the polar region.
+JEREMIE: Aelita?
+AELITA: Jeremie, I made it to the ice flow,\Nbut I don’t see any activated tower.
+JEREMIE: Okay, wait there for Ulrich and Odd,\Nand watch out for XANA’s monsters.
+JEREMIE: Well, are you ready?
+JEREMIE: Here we go.
+JEREMIE: Transfer Ulrich.
+JEREMIE: Transfer Odd.
+JEREMIE: Scanner Odd.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Virtualization.
+AELITA: Odd! Ulrich!
+ULRICH: There she is.
+JEREMIE: Good news.
+JEREMIE: XANA’s still not in control of the TV dish.
+JEREMIE: That gives us a little time.
+JEREMIE: I’ll try to find out which satellite\NXANA might want to get his hands on,
+JEREMIE: but it won’t be easy.
+STUDENTS: No more phones,\Nno more school!
+DEFAULT: No more phones,\Nno more school!
+DEFAULT: No more phones,\Nno more school!
+DEFAULT: No more phones,\Nno more school!
+JEREMIE: Okay, now let’s try the access code.
+JEREMIE: Access code accepted.
+JEREMIE: Yes!
+JEREMIE: Bingo!
+JEREMIE: Let’s see…U466.
+JEREMIE: Military satellite armed with…
+JEREMIE: a highly-destructive laser beam!
+ODD: Where can that tower be?
+JEREMIE: One thing at a time, Odd.
+JEREMIE: First of all, I figured it out.
+JEREMIE: I know what XANA’s after.
+JEREMIE: He wants to gain control\Nof a highly-accurate
+JEREMIE: and destructive satellite.
+JEREMIE: If he does, he can destroy\Nwhatever he wants.
+ODD: The factory’s safe.\NXANA wouldn’t fire at himself.
+JEREMIE: Right.
+JEREMIE: That’ll give us time to\Ntake care of things on Lyoko.
+ULRICH: Sounds good.
+ULRICH: But if XANA decides\Nto destroy the school…
+JEREMIE: Remember, YumI’s there,\Nso that’s for sure what he’s gonna do.
+JEREMIE: We have to warn her.
+JEREMIE: But without a mobile…
+STUDENTS: No more phones,\Nno more school!
+STUDENTS: No more phones,\Nno more school!
+STUDENTS: No more phones, no more--
+MR. DELMAS: I demand that you stop\Nthis absurd strike now!
+YUMI: Kiwi?
+MR. DELMAS: Yumi, what is going on?
+YUMI: Well, I--
+MR. DELMAS: This is inadmissible!
+MR. DELMAS: To my office! Immediately!
+SISSI: Did you see that?
+SISSI: We have to save her\Nfrom the dictator!
+SISSI: Free Yumi!
+SISSI: Liberty for Yumi!
+SISSI: Free Yumi! Free Yumi!
+SISSI: Free Yumi! Free Yumi!
+JEREMIE: According to the holomap,\Nthe tower is just across the bridge.
+JEREMIE: But be careful.
+JEREMIE: It’s probably guarded by those…
+ULRICH: By the waspsters.\NThanks, we’ve noticed.
+JEREMIE: Remember, the poison they’re carrying
+JEREMIE: will kill your life points, so watch out.
+ODD: What are they waiting for?
+JEREMIE: They must just want to hold you there
+JEREMIE: until XANA’s able to control the satellite.
+JEREMIE: You’ve got to get past them.
+ODD: Laser arrow!
+ULRICH: No, Aelita! Watch out!
+JEREMIE: Aelita, don’t take any chances.\NLeave that to Odd and Ulrich.
+MR. DELMAS: Yumi, I don’t understand! What’s going on?
+MR. DELMAS: A strike, a dog…
+MR. DELMAS: You’re usually so sensible, too.
+MR. DELMAS: Yumi, will you listen to me?
+YUMI: I’m sorry, sir, but I\Nhave to leave right away.
+YUMI: You too, as a matter of fact!
+YUMI: Everyone around here has to leave!
+JEREMIE: We have no choice.
+JEREMIE: One of you has to make the sacrifice.
+ODD: Listen, I’ll attract their attention\Nso you can get through.
+ODD: Here I go.
+ULRICH: Odd, wait!
+ODD: Take that!
+ULRICH: He’s nuts.
+ULRICH: Okay, let’s go.
+ODD: Yeah, take that!
+ODD: Ow!
+ODD: Ow!
+JEREMIE: Odd, between the poison and the arrows
+JEREMIE: you’ve already lost seven life points!
+ODD: You said no choice!
+ODD: There, you horrible beast!
+JEREMIE: You’ve only got 20 life points left, Odd!
+JEREMIE: I’m sorry.
+JEREMIE: Oh, no. XANA’s taken over the satellite!
+JEREMIE: Hurry!
+SISSI: He let you go, Yumi?
+YUMI: I escaped when he wasn’t looking.
+SISSI: What?
+YUMI: Because our…
+YUMI: our demands are more important\Nthan anything for me!
+YUMI: In fact, we should increase\Nthe strength of our movement
+YUMI: and protest in town!
+YUMI: Everyone, into town!
+YUMI: We’ve got to get\Nall the schools on our side!
+SISSI: Okay!
+SISSI: Let’s go! Freedom for\Nall our schools! Come on!
+STUDENTS: No more phones,\Nno more school!
+STUDENTS: No more phones,\Nno more school!
+JEREMIE: Wow, what an incredible\Ntechnological masterpiece.
+DEFAULT: Parameters locked in place. Target localized.
+JEREMIE: Already?
+JEREMIE: We were right.
+JEREMIE: The school’s in the satellite’s line of fire.
+JEREMIE: But…
+STUDENTS: High school students,\Nmiddle school students,
+STUDENTS: all for one and one for all!
+YUMI: Come on, come on, faster!
+MR. DELMAS: You will not leave the grounds.
+SISSI: You have no right!
+ULRICH: What’s going on?
+ULRICH: I thought the tower\Nwas supposed to be here.
+JEREMIE: 10 life points left.
+ODD: Ulrich, it’s game over for me.
+JEREMIE: Oh, no.
+JEREMIE: Ulrich, Aelita,\Nthe waspsters are after you!
+JEREMIE: The holomap doesn’t lie.\NIt’s got to be here somewhere.
+ULRICH: Triplicate!
+ULRICH: Go on, don’t worry about me.
+JEREMIE: I wonder how accurate\Nthis satellite really is.
+JEREMIE: I don’t believe it.
+JEREMIE: Yumi’s in danger!
+JEREMIE: The laser’s aimed right at her!
+YUMI: You’re making a terrible mistake!
+YUMI: I beg of you, sir, we’ve all\Ngot to get out of here!
+MR. DELMAS: I have had enough, Yumi.
+MR. DELMAS: I’m suspending you for a month.
+MR. DELMAS: You and your dog\Nare to leave this campus now.
+MR. DELMAS: As for the rest of you,\Nback to your classrooms.
+MR. DELMAS: This strike is over!
+YUMI: Sir, it’s a question of life and death!
+YUMI: Let us all leave, please!
+SISSI: Hey, aren’t you being\Na little dramatic, Yumi?
+ODD: Yumi!
+ODD: To the factory! Hurry!\NIt’s you the satellite’s after!
+COMPUTER VOICE: Laser flight path locked.
+COMPUTER VOICE: Satellite ready to fire.
+JEREMIE: It’s all over. XANA’s gonna fire!
+ODD: Come on, we have to reach the factory.
+ODD: It’s the only place that’s safe.
+MR. DELMAS: What in the world is happening?
+MR. DELMAS: Let’s get out of here now!
+ULRICH: Aelita, have you found it yet?
+ULRICH: Time’s running out!
+AELITA: I’m doing my best,\Nbut nothing yet.
+AELITA: It’s pretty well hidden.
+JEREMIE: Ulrich, Aelita, answer me!
+AELITA: I’m here, Jeremie, but Ulrich’s out cold.
+AELITA: I still haven’t found the tower.
+AELITA: Ulrich, can you hear me?
+ULRICH: Yes, Aelita.
+ULRICH: Have you found the tower yet?
+AELITA: I think I have.
+ULRICH: Okay, go.
+AELITA: Jeremie, I found it!
+ODD: To the boiler room. Ready?
+YUMI: It’s now or never. Let’s go.
+ODD: Yumi!
+ODD: No!
+JEREMIE: Return to the past now.
+SISSI: Invitations to a party?
+ODD: Not really.
+SISSI: What is this thing?
+SISSI: “Official school policy\Nreminder to all students.
+SISSI: “All mobile phones not turned off\Nbefore entering the classroom
+SISSI: “will be immediately confiscated?”
+SISSI: That’s incredible.\NTalk about teacher’s pets!
+SISSI: Anyway, I’d like to see someone\Ntry to confiscate my mobile.
+HERB: You’re so brazen!
+DEFAULT: (LAUGHTER)
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

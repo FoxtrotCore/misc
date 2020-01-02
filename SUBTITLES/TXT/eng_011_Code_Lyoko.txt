@@ -1,0 +1,290 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+DEFAULT: (SCREECHING)
+JEREMIE: But I can’t speak any louder--\NI’m in a library now.
+AELITA: What’s a library, Jeremie?
+JEREMIE: A data bank where\Neverything’s printed on paper.
+JEREMIE: And where you can’t make any noise!
+AELITA: Oh, I guess because you need silence\Nto concentrate on what you’re studying.
+JEREMIE: Yes, and so as not to miss the match point!
+JIM: Hey, quiet!
+ODD: Ye-a-a-a-a-ah!
+YUMI: Game set and match!
+ULRICH: Yeah!
+JIM: Ulrich!
+JIM: Is that what you call studying?
+JIM: In case no one told you,\Nthis is not the school yard!
+JIM: You are here to work, okay!
+JIM: And work means silence!
+JIM: And no more games from now on!
+JIM: Ah! Okay, well, if that’s the\Nway you want to play,
+JIM: I can play just as hard\Nas you can, my little friends!
+JIM: Y-o-o-o-o-u!
+JIM: Two hours detention!\NI'm--!
+JIM: Sorry about that, sir, I uh…
+MR. DELMAS: Hello there, Jeremie.
+MR. DELMAS: Would you come to my office now?\NI want to talk to you. It’s very important.
+ODD: Jeremie?
+YUMI: What’s going on?
+JEREMIE: Well, you know the principal.\NHe went on and on.
+JEREMIE: He says the school psychologist\Nhas been observing me for a long time,
+JEREMIE: and he thinks that I’m an…\Noverly-gifted student.
+ODD: Is that all? But that’s nothing!
+ODD: We were scared that the principal\Nhad found out about the lab! Big deal!
+JEREMIE: It’s worse than you think, Odd.
+JEREMIE: The shrinks decided that I have to\Ntake all kinds of tests tonight
+JEREMIE: to determine what my IQ is.
+ULRICH: Yeah, so?
+JEREMIE: If the tests show that\NI have a really high IQ,
+JEREMIE: the guy is gonna see to it\Nthat I get sent to another school.
+ODD: Oh, no!
+ODD: Are you saying that he’s gonna send you\Nto a school for like future Einsteins?
+JEREMIE: Yeah.
+YUMI: That is serious.
+YUMI: If you’re not here,\Nwe can never go to Lyoko again,
+YUMI: and XANA will be able\Nto do what he wants.
+JEREMIE: It’s not just that, guys.
+JEREMIE: I don’t want to leave here\Nbecause of you all.
+JEREMIE: You’re my friends.
+ODD: Hold on, cool it.
+ODD: Don’t panic, okay?
+ODD: I mean, they can’t\Nforce you to change schools.
+JEREMIE: It’s not all that easy.
+JEREMIE: The psychologist creep\Ncouldn’t wait to talk to my parents.
+JEREMIE: He told them that at that kind of school,\NI’d be entitled to a big scholarship.
+JEREMIE: My folks aren’t gonna pass up\Na great chance like that.
+JEREMIE: (RINGING)
+ODD: What’s the big problem?
+ODD: You mess up on the test,\Nand they’ll think you’re a total moron.
+ODD: Nobody will ever know,\Nand you’re home free.
+JEREMIE: Sure, I thought of that.
+JEREMIE: Only there’s a problem\Nbecause tests like that
+JEREMIE: are full of all kinds of\Ntrick questions,
+JEREMIE: and if you really want to\Nmess up and make mistakes,
+JEREMIE: you’ve got to be very clever.
+YUMI: But that’s great since\Nyou’re the cleverest kid around!
+JEREMIE: Well, okay.
+JEREMIE: I’ll do my best to flunk.
+JEREMIE: But I can’t promise anything.
+YUMI: Uh, I’ll see you guys later.
+YUMI: Keep me posted, okay?
+MR. KLOTZ: Ah, hello there, Jeremie.
+MR. KLOTZ: Do you recognize me?
+MR. KLOTZ: I’m Mister Simone,\Nthe school psychologist.
+JEREMIE: Of course I do!
+JEREMIE: Is it really true that you’re\Nplanning to get me transferred
+JEREMIE: to a school for gifted children?
+JEREMIE: That’s great! My parents\Nare gonna be so glad!
+MR. KLOTZ: Well, that’s what we’re\Nhere tonight to find out.
+MR. KLOTZ: Now, to start off, I’m going to\Ngive you a multiple choice test.
+MR. KLOTZ: It’s a test in which you…
+MR. KLOTZ: oh, I’m sorry, I’m sure\Nyou already know.
+JEREMIE: Me? No.
+MR. KLOTZ: Oh.
+ULRICH: So, what’s for dinner?
+ODD: Oh, I don’t know. Some kind of hash.\NThey all taste the same.
+SISSI: (SCREAMS)
+SISSI: Oh, no, it can’t be!
+SISSI: My brand-new Guuki dress!
+SISSI: I don’t believe it!
+SISSI: Ah! So you’re the savage that did this!
+SISSI: (SQUEALS)
+SISSI: Here, take that!
+DEFAULT: (PULSING)
+AELITA: Jeremie!
+AELITA: Jeremie, listen!
+AELITA: XANA’s woken up.\NHe must be preparing an attack.
+AELITA: Jeremie?
+JEREMIE: Sir, don’t you think we ought to stop?
+MR. KLOTZ: But that would be silly, huh?
+MR. KLOTZ: The tests are almost finished.
+MR. KLOTZ: Besides, the lights are\Nbound to come on again.
+MR. KLOTZ: Ah.
+SISSI: Oh, what kind of a\Ntwo-bit school is this?
+RATS: (SQUEAKING)
+SISSI: Huh?
+RATS: (SCREECHING)
+SISSI: Help!
+JIM: That’s enough!
+JIM: Get back to your seats\Nright now and quiet down!
+JIM: Go on, now! The lights will\Ncome on again soon.
+JIM: Now stop all your\Nclowning around, understand?
+JIM: Come on, now!
+ULRICH: Shh!
+ULRICH: Quiet down! Listen!
+RATS: (SQUEAKING)
+JIM: What?
+JIM: Gaaah!
+ULRICH: We’d better get out of here.
+JIM: Uh…don’t panic!
+ROSA: Take that! And that!
+STUDENT: Move, move! Go!
+JIM: Don’t panic, I said!\NJust get out of my way!
+ULRICH: Oh, no.
+ODD: Uh-oh.
+ULRICH: We’re trapped.
+ODD: Nice going, XANA.
+ODD: The rats all waited for night time.
+ODD: And they attacked us as soon as\Nwe were all in the cafeteria.
+ODD: (RINGING)
+YUMI: Is that you, Ulrich?
+YUMI: Huh? What?
+DEFAULT: (RINGING)
+JEREMIE: Oh, but…
+MR. KLOTZ: After the test, you can make\Nall the calls you want.
+ULRICH: Oh, what’s the matter!\NWhy doesn’t he answer?
+ODD: The extinguishers, Jim! Hurry up!
+JIM: Don’t panic!
+JIM: J-Just don’t p-p-panic, okay!
+ODD: Pass them down!
+ODD: Okay, outside, everyone!
+ODD: There are way too many of them!
+ODD: We’ll never be able\Nto hold them back all night!
+SISSI: Help! Help!
+SISSI: Over here!
+ULRICH: Sissi?
+ULRICH: What’s she doing here, anyway?
+ODD: We have to help her,\Nor she’s gonna be eaten alive!
+MR. KLOTZ: That noise is unbearable.
+MR. KLOTZ: Listen, this racket has got to--
+MR. KLOTZ: Daaah!
+MR. KLOTZ: Aaah!
+MR. KLOTZ: They’re--they’re rats!\NLike a whole army of them!
+JEREMIE: XANA.
+JEREMIE: They’re trying to eat through the door.\NWe’ve got to barricade it.
+ULRICH: Ah, here she comes!
+YUMI: Your carriage, cinderella.
+ODD: Welcome to the rat pack!
+JEREMIE: Okay, keep going alone, sir.
+JEREMIE: Let’s hope this will\Nhold them back long enough.
+JEREMIE: Aelita?
+AELITA: XANA has activated a tower, Jeremie.
+AELITA: I’ve spotted where it is.\NI’m on my way there now.
+AELITA: I’ll try and get a closer look, okay?
+AELITA: (CELL PHONE RINGS)
+YUMI: Hello, Jeremie.
+YUMI: Yes, the rats have attacked.
+YUMI: Okay, right. We’ll meet at the lab.
+YUMI: We have to find a safe place.
+ULRICH: Where, huh? The rats are all over.
+JIM: I know one! The only place with no access\Nto the sewers is the science building.
+JIM: Let’s go!
+YUMI: Better hurry.
+JEREMIE: Oh, this time we’re the rats in a trap,\Nand I don’t like it at all.
+ODD: Hey, get a move on, huh?\NThe extinguishers are nearly empty!
+YUMI: Come on. Easy does it.
+DEFAULT: Faster!
+DEFAULT: Hurry up! Move!
+ULRICH: Oh, what do I do now?
+YUMI: Okay, let’s go up to the roof.
+YUMI: If the rats get in,\Nwe’ll be safe up there.
+YUMI: We have to get to the factory.\NJeremie will meet us there.
+YUMI: As soon as he can, that is.
+ULRICH: Sounds great,\Nbut how do we get there, huh?
+ODD: Here I go.
+ODD: Yeah!
+JIM: Hey, wait! Come back!\NWhat are you doing!
+JIM: No, come back!\NHey, come back here! Hey!
+ULRICH: Too late!
+YUMI: No choice.
+YUMI: We have to go over the wall.
+MR. KLOTZ: Not rats. Anything but rats.
+MR. KLOTZ: W-When I was a boy,\Na rat came up to my…my room.
+JEREMIE: Bingo.
+JEREMIE: You stay here, sir.\NI got to get to the photo lab.
+JEREMIE: Be right back!
+ULRICH: XANA’s thought of everything.
+ODD: Come on.
+ODD: Care for a little cruise?
+ODD: (SCREECHING)
+YUMI: Faster!
+YUMI: Hurry up! Faster! Hurry!
+JEREMIE: It worked! Great!
+JEREMIE: If they come, use this.\NIt’ll chase them away.
+MR. KLOTZ: Stay! P-Please don’t go!
+MR. KLOTZ: I’m afraid of rats!
+MR. KLOTZ: Oh, no.
+YUMI: Hey, Jeremie. I’m in the lab.
+YUMI: I have to contact Aelita\Nand virtualize Odd and Ulrich.
+YUMI: Explain to me how to do it.
+JEREMIE: Listen up, now.
+YUMI: Okay, that’s done.
+YUMI: I found the activated tower,\Nand I’ve located Aelita.
+YUMI: She’s got a problem.
+YUMI: What?
+YUMI: Speak louder!\NI can hardly hear you!
+YUMI: I have to type in the coordinates?
+YUMI: Say that again.
+YUMI: 19 degrees west?
+YUMI: That’s it, isn’t it?\N19 degrees west?
+JEREMIE: Wait, no. I said 79 degrees west!
+JEREMIE: 79 degrees west!
+JEREMIE: Listen, Yumi, the rats have\Ninvaded the city, do you hear?
+YUMI: Okay, then. I’m ready.
+JEREMIE: Yumi, can you hear me?
+YUMI: Transfer Odd.
+YUMI: Transfer Ulrich.
+YUMI: Scanner Odd.
+YUMI: Scanner Ulrich.
+YUMI: Virtualization.
+ODD: It’s okay. You did it, Yumi.
+YUMI: Do you see Aelita?
+ULRICH: No. She should be\Naround here somewhere.
+YUMI: Oh, no. I didn’t enter\Nthe right coordinates!
+YUMI: I virtualized you too far\Naway from Aelita!
+ODD: That’s okay. We could use\Na little exercise to get warmed up.
+JEREMIE: Smile!
+YUMI: Do you see her now?
+ODD: Yeah, I see her.
+ODD: She’s here.
+ODD: The only problem is she’s not alone.
+YUMI: Be careful.
+ULRICH: Hello, princess.
+AELITA: That was close.
+AELITA: I just managed to get away.
+ULRICH: Your two knights in armor\Nhave come to protect you.
+ODD: Hey, you know, this is kinda weird.
+YUMI: Odd, Ulrich, what is happening?
+ULRICH: That’s a good question.
+YUMI: I don’t understand…
+YUMI: It could’ve been my mistake, although…
+AELITA: It’s XANA.
+AELITA: He’s changing the slope of the plateau.\NBetter hang on tight!
+DEFAULT: (YELLING)
+ODD: Wow! Well done, Aelita!
+YUMI: Two krabs, a battery of lasers,\N10 life points lost per impact.
+ODD: Ulrich, cover Aelita.
+ODD: She’s lost too many life points.\NI’ll try to attract their attention.
+ODD: Laser arrow!
+ULRICH: No, Odd!
+ULRICH: Get out of there now!
+ULRICH: Odd! No!
+JEREMIE: Need any help?
+YUMI: Oh, Jeremie. You’re finally here.
+YUMI: Listen, Odd has just been devirtualized,\Nand Ulrich has hardly any life points left.
+JEREMIE: Well, you know what\Nyou gotta do now, Yumi.
+AELITA: No!
+JEREMIE: Go on, Aelita.
+JEREMIE: You’re there now. Go on.
+MR. KLOTZ: Say…say cheese.
+JEREMIE: Return to the past now.
+YUMI: Jeremie, hey, did you figure out\Na way to flunk the test, hm?
+JEREMIE: Well, now that I know\Nall the questions,
+JEREMIE: I shouldn’t have any trouble\Ngiving all the wrong answers.
+ULRICH: Are you sure it’s gonna work?
+JEREMIE: Anyway, I’ve got a\Nfoolproof way of flunking.
+JEREMIE: I’m gonna get all of\Nmy answers from Odd.
+ODD: Yeah, yeah.\NGo on, laugh your heads off.
+: But who knows?\NYou might be in for a big surprise!
+JIM: Quiet!
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

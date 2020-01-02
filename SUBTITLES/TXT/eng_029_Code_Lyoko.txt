@@ -1,0 +1,419 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+JEREMIE: Aelita, hurry!
+JEREMIE: Yumi’s only got 10 life points left!
+JEREMIE: Get ready, girls.
+JEREMIE: I’m starting up the devirtualization process.
+ULRICH: Activated towers, Lyoko battles, danger.
+ULRICH: Aren’t you guys startin'\Nto get sick of all this?
+ODD: No.
+JEREMIE: No.
+ULRICH: Well, sometimes I really wish\Nwe were done with XANA.
+ODD: Uh, you missed an episode, Ulrich.
+ODD: Remember, Aelita's\Ncarrying a miserable virus
+ODD: that links her to her old friend XANA.
+ODD: Bye-bye XANA means bye-bye Aelita.
+JEREMIE: And I don’t know how to\Ncreate an anti-virus.
+JEREMIE: I mean, not just yet.
+AELITA: Hey, I have an idea!
+AELITA: Why don't we explore the new\Nmysterious sector we discovered?
+JEREMIE: Sector five?
+JEREMIE: But we don’t know what’s in it!
+ODD: Sure we do!
+ODD: There are monsters,\Nultra-dangerous traps,
+ODD: and a scyphozoa, as you call it,\Nthat wants to steal Aelita’s memory.
+AELITA: You’re right, but what if\Nthere's something else there?
+AELITA: Like information about XANA?
+AELITA: We have to go back.
+ULRICH: Good idea.
+ULRICH: All three of us will go.
+AELITA: You mean all four of us.
+AELITA: I want to be part of this expedition.
+JEREMIE: With that scyphozoa slinking around?
+JEREMIE: No way.
+AELITA: What if there’s a tower to deactivate?
+AELITA: Think about it!
+AELITA: I have to be there.
+ODD: Come on, Einstein!
+ODD: With bodyguards like us,\Nshe has nothing to worry about!
+ODD: And I promise to be careful!
+JEREMIE: Okay.
+JEREMIE: Tomorrow night, exploration.
+YUMI: (GASPS)\NOh my gosh! It’s so late!
+YUMI: My parents must be\Ngoing bananas!
+YUMI: Bye! See you tomorrow!
+ODD: And as for us, we missed dinner again.
+ODD: And when I think it was\Nspaghetti and meatballs!
+MR. ISHIYAMA: Yumi, we need to talk.
+MR. ISHIYAMA: You come home late\Nevery single night.
+MR. ISHIYAMA: Tonight is the last straw.
+MR. ISHIYAMA: It’s past 10 o’clock
+MR. ISHIYAMA: and you didn't even bother\Nto telephone us.
+MRS. ISHIYAMA: And you haven’t eaten anything, either.
+MRS. ISHIYAMA: What’s going on, dear?
+MRS. ISHIYAMA: If you have a problem,\Nyou know you can tell us.
+YUMI: No, really. Everything’s fine.
+YUMI: I was studying math at Maïtena’s house.
+YUMI: I told you already.
+MR. ISHIYAMA: Maïtena Lecuyer?
+YUMI: Uh-huh.
+MR. ISHIYAMA: Hmm. That’s strange.
+MR. ISHIYAMA: When I called her, she was studying.
+MR. ISHIYAMA: By herself.
+MRS. ISHIYAMA: You’re lying to us, Yumi.\NThat’s not like you.
+MRS. ISHIYAMA: What’s the matter with you?
+MRS. ISHIYAMA: I worry about you, sweetheart.
+MRS. ISHIYAMA: Tell me what’s bothering you.
+YUMI: I promise you that\Neverything's just fine.
+YUMI: You saw my last report card.
+YUMI: It was great, so why worry about me?
+DEFAULT: (SIGHS)
+MRS. ISHIYAMA: I’m concerned, Takeo.
+MR. ISHIYAMA: We’re going to have to\Nget a lot more strict.
+YUMI: It’s nice of you to come with me,
+YUMI: but I’m big enough to go\Nto school alone. Really, I am.
+MR. ISHIYAMA: You are, huh?
+MR. ISHIYAMA: If you were, then you’d stop lying to us
+MR. ISHIYAMA: and tell us why you come\Nhome so late all the time.
+YUMI: Are you gonna watch me\N24 hours a day? Is that it?\N
+YUMI: Am I in prison or something?
+MRS. ISHIYAMA: We’re trying to understand you\Nand to protect you, too.
+YUMI: Oh, wow!\NThe entire Ishiyama family!
+YUMI: I bet that you’ll be\Npicking me up as well, huh?
+MR. ISHIYAMA: I'll be waiting for you\Nhere at 5 o'clock.
+MR. ISHIYAMA: I advise you not to be late.
+SISSI: Oh, isn’t that adorable!
+SISSI: (CACKLES)
+YUMI: They’re not gonna ease up on me.
+YUMI: Oh, what a mess.
+YUMI: The worst thing is\NI hate lying to them.
+ODD: Just explain to them that\Nwe’re fighting in a virtual universe
+ODD: against a demonic\Nartificial intelligence.
+ODD: That ought to reassure them.
+YUMI: Dork.
+JEREMIE: You’ve got to win back\Ntheir trust in you.
+JEREMIE: I think maybe you should\Nstay away from Lyoko for a little while.
+YUMI: Huh?
+YUMI: What about exploring sector five!
+YUMI: It’s for tonight, isn’t it?
+ULRICH: Don’t worry. Jeremie will\Ngive you a play-by-play update.
+JEREMIE: Promise.
+: (SCHOOL BELL RINGS)
+ODD: Come on, guys.
+ODD: I know you’re all dying to go\Nto Mrs. Hertz's class. Off we go.
+JEREMIE: Did you study for the\Nmarine biology test?
+ODD: Of course I did! Listen.
+ODD: Fish are remarkably\Nwell adapted to water.
+ODD: What’s more, they can swim.
+JEREMIE: You are so lame.
+DEFAULT: (LAUGHTER)
+JEREMIE: Off to the forest sector!
+JEREMIE: Transfer Ulrich.
+JEREMIE: Transfer Odd.
+JEREMIE: Transfer Aelita.
+JEREMIE: Scanner Ulrich.
+JEREMIE: Scanner Aelita.
+JEREMIE: Scanner Odd.
+JEREMIE: Virtualization!
+JEREMIE: Everything okay?
+ODD: We’re good.\NThe monsters must be sleeping.
+ODD: They need all the sleep\Nthey can get to recover from
+ODD: all the grief we’ve been giving them.
+JEREMIE: You have to get to the\Nother end of the sector
+JEREMIE: to take the transporter.
+JEREMIE: I’m going to materialize your rides.
+ODD: Yahoo!
+ODD: Yeah!
+ULRICH: Odd, you promised to be careful!
+ODD: No problem!
+JEREMIE: Go straight ahead and hurry up\Nbefore the monsters get there!
+AELITA: We made it, Jeremie!
+JEREMIE: Okay. I’m entering the code.
+: Scipio.
+ODD: There’s the transporter.
+ULRICH: Whoa.
+YUMI: Are you there, Jeremie?
+JEREMIE: Yumi?
+YUMI: Everything okay?
+JEREMIE: Yumi!
+YUMI: Everything okay?
+JEREMIE: Yeah, they’re in the transporter.\NAll is well.
+YUMI: Tell them I’m thinking about them.
+JEREMIE: Happy campers?
+ULRICH: Yep. I’m beginning to get\Nused to these little trips.
+ODD: Ugh, not me!
+ODD: I shouldn’t have had\Nthat fifth dessert at lunch.
+AELITA: Jeremie, the wall's about to open.
+JEREMIE: Right. Meaning the\Ncountdown's gonna start.
+JEREMIE: You’ve got to find a\Nway to deactivate it.
+JEREMIE: That must be the answer\Nto exploring further.
+JEREMIE: Watch it, guys!
+ULRICH: Everything will be fine.
+ULRICH: Odd promised to be careful.
+JEREMIE: It started!
+JEREMIE: You know what'll happen if Aelita\Nloses her life points, don't you!
+ULRICH: Don’t worry.
+ULRICH: We have no intention of losing her.
+AELITA: The last time, there was a big room\Nat the end of this hallway.
+JEREMIE: I've got a feeling the\Narchitecture of the core zone
+JEREMIE: changes each time you go there.
+ODD: That’s a great help\Nfor finding our way around.
+ULRICH: If we knew everything,\Nwe wouldn’t be exploring.
+ULRICH: Come on. Let’s go!
+JEREMIE: Look out! You've got\Ntwo creepers on your tail!
+ODD: Laser arrow!
+JEREMIE: You’ve only got three minutes\Nleft to stop the countdown! Get going!
+ULRICH: That way.
+ULRICH: Come on!
+ULRICH: Haven’t we already\Nbeen through here?
+ODD: How should I know?
+ODD: Everything looks\Nthe same in this place!
+AELITA: This way!
+JEREMIE: Wow, 40 life points in one go!
+JEREMIE: Those creepers sure are powerful!
+ODD: They’re powerful!
+ODD: And really ugly, too!
+ULRICH: Jeremie, any ideas?
+JEREMIE: No, but I got news for you.
+JEREMIE: You’re in a labyrinth.
+JEREMIE: Make a left at each fork,\Nand leave a mark there.
+JEREMIE: If the way is already marked,\Nthen make a right.
+ODD: This is incredible!
+ODD: We’ll never get out of this thing!
+JEREMIE: You’d better!
+JEREMIE: Just two minutes left to find\Na way to stop the countdown!
+AELITA: We’re out, Jeremie! We made it!
+ODD: Nothing like having\Na little luck on your side.
+ODD: Hey, Einstein, why\Ncomplicate things, huh?
+ULRICH: Ah, great. Now what do we do?
+ODD: Jeremie, can you see\Nanything from your end?
+JEREMIE: So, you need me again, huh?
+JEREMIE: Go back to where you were.
+JEREMIE: I spotted a mechanism on the wall.
+JEREMIE: Hurry! Time's running out!
+AELITA: There!
+ODD: Let me at it!
+JEREMIE: Fourteen! Thirteen! Twelve!
+JEREMIE: Eleven! Ten! Nine!
+JEREMIE: Eight! Seven! Six!
+JEREMIE: Five! Four!
+ODD: Agh!
+ULRICH: No!
+ULRICH: Agh!
+AELITA: Ulrich!
+JEREMIE: Aelita, the countdown is over.
+JEREMIE: The room is bound to change now.
+JEREMIE: You okay?
+AELITA: Well, no more creepers. That’s a start.
+JEREMIE: Don’t worry.
+JEREMIE: I’ll rematerialize Odd and Ulrich,\Nand I’ll get you out of there.
+JEREMIE: Come on, come on!
+DEFAULT: (BEEPS)
+JEREMIE: Oh, no!
+JEREMIE: Aelita, Odd and Ulrich\Ndidn’t come back!
+AELITA: What?
+AELITA: But that’s impossible. Are they lost?
+JEREMIE: For the moment, they are.
+AELITA: So there’s no rematerialization\Nfrom sector five?
+JEREMIE: Sure there is.
+JEREMIE: Once we find the right program.
+AELITA: And do you think you can find it?
+JEREMIE: It’s probably as easy as\Nfinding your antivirus.
+JEREMIE: But don’t worry.\NI'm gonna do the impossible.
+YUMI: Hiroki, could you make\Nsome more noise, please?
+HIROKI: Sorry, Yumi. The volume's\Nas high as it goes.
+MR. IHSIYAMA: Hiroki.
+MRS. ISHIYAMA: Go into the other room, Hiroki.\NGo on now.
+MR. ISHIYAMA: I pass.
+YUMI: Me, too. I pass.
+MR. ISHIYAMA: Then the game is over!\N(LAUGHS)
+MR. ISHIYAMA: I have five points more than you!
+YUMI: On the Goban, yes.
+YUMI: Don’t forget that I played the whites.
+YUMI: With Komi, I win by half a point.
+MR. ISHIYAMA: Oh.
+YUMI: (YAWNS)
+YUMI: Well, it’s bed time.
+YUMI: Goodnight.
+MRS. ISHIYAMA: Goodnight, my dear.
+YUMI: Jeremie, how’s it going?
+JEREMIE: Badly. Head for the factory.
+AELITA: Jeremie?
+AELITA: Can you hear that?
+JEREMIE: It’s the scyphozoa!
+JEREMIE: It’s heading towards you!
+JEREMIE: Stay calm. Yumi’s coming.
+DEFAULT: (SCREECHING)
+MRS. ISHIYAMA: Yumi, can I come in?
+MRS. ISHIYAMA: I want to talk to you for a minute.
+MRS. ISHIYAMA: Huh?
+MRS. ISHIYAMA: Yumi?
+YUMI: Jeremie, I’m in the elevator.
+JEREMIE: You have to get Aelita in sector five!
+JEREMIE: The Scyphozoa is there!
+YUMI: What about Odd and Ulrich?
+JEREMIE: You want the best case scenario?
+YUMI: I’d rather.
+JEREMIE: I’ve got about a one in a million\Nchance of finding the right code
+JEREMIE: to bring them back.
+JIM: (YAWNS)
+MR. ISHIYAMA: So sorry to bother you at such\Na late hour, Headmaster Delmas,
+MRS. ISHIYAMA: but we’re very worried.
+MR. DELMAS: Yes, yes. I understand.\NBut it’s quite possible
+MR. DELMAS: that Yumi is somewhere on the campus.
+JIM: Why, sure!
+JIM: She’s probably hanging out\Nwith her little gang of friends.
+JIM: Come on.
+JEREMIE: You’re on the edge of the territory, Yumi.
+JEREMIE: Better be careful.
+JEREMIE: XANA’s going to do all that he can\Nto keep you from taking the transporter.
+YUMI: Jeremie! Enter…the code!
+JEREMIE: Yumi?
+JIM: Huh. No one’s here.
+MR. DELMAS: No one’s in Stern’s room either.
+SISSI: Looking for someone?
+MR. DELMAS: Uh, Sissi. Would you\Nknow where your friends
+MR. DELMAS: Stern, Belpois, and\NDella Robbia might be?
+SISSI: Probably up to no good. As usual.
+SISSI: But I don’t know where.
+SISSI: Although, their little mascot\Ncan find them for you.
+MR. DELMAS: Mascot? What mascot?
+SISSI: Tada!
+JIM: A flea-bitten mangy mutt!
+JIM: Huh. Well, excuse me, Mr. Delmas.
+SISSI: Ew. Hey, little puppy.
+SISSI: Where’s your master, huh?
+SISSI: Go get him!
+KIWI: (YAPS)
+MRS. ISHIYAMA: Let’s follow him!
+JEREMIE: Hang in there, Aelita.
+JEREMIE: Yumi’s on the way.
+AELITA: I hope so.
+JEREMIE: Yumi? Can you hear me?
+YUMI: Yes. I’m in the arena.
+YUMI: The transporter got to me just in time.
+YUMI: Horrible Kankrelat.
+JEREMIE: Listen up, now.
+JEREMIE: You have to get to the corridor\Nand trigger the mechanism
+JEREMIE: before the countdown runs out, okay?
+YUMI: Okay.
+JEREMIE: If I’m right about how\Nthe core zone functions,
+JEREMIE: my plan should work.
+JIM: Huh. What’s the matter with that hound?
+JIM: Oh, I don’t believe it!
+JIM: This reminds me of when I\Nused to work in the sewers.
+MR. DELMAS: You, uh, used to work in the sewers, Jim?
+JIM: I, uh…I’d rather not talk about it.
+JEREMIE: Only two minutes left, Yumi!
+JEREMIE: Down to 10 points, Yumi!
+JEREMIE: This is not the time to mess up!
+JIM: That’s weird.
+KIWI: (BARKS
+JIM: (SQUEALS)
+MR. DELMAS: Jim, we’re wasting time!
+JIM: Will you let go of that slipper! You flea-bitten--
+JIM: Come on! Let go of it!
+JEREMIE: Yumi, this is no time to drag your feet.
+JEREMIE: I’ve located the mechanism.\NIt’s on your right.
+JEREMIE: You have ten seconds!
+JEREMIE: Two seconds!
+YUMI: It works, Jeremie!
+JEREMIE: The whole zone is being reconfigured!
+JEREMIE: We did it!
+JEREMIE: Aelita, take the access behind you!
+YUMI: Huh?
+YUMI: Wow!
+YUMI: It’s some kind of elevator!
+JEREMIE: You know what we do\Nwith elevators, right?
+YUMI: We ride 'em!
+AELITA: Yumi!
+JEREMIE: Try to grab Aelita as you go by!
+AELITA: Where are you taking me?
+YUMI: I have no idea.
+YUMI: There’s an interface!
+AELITA: I can get in.
+AELITA: Incredible!
+JEREMIE: What?
+AELITA: It’s unbelieveable.
+AELITA: The interface gives access…
+AELITA: to XANA’s own data!
+JEREMIE: Huh?
+AELITA: Sector five is where XANA lives!
+YUMI: XANA’s not a very good housekeeper.
+YUMI: There’s some weird things\Nhanging around this place.
+AELITA: I’ve got access to all kinds of data. It’s crazy!
+JEREMIE: Look for the specific\Ndevirtualization code for sector five.
+JEREMIE: If you find it, we can\Nrescue Odd and Ulrich!
+YUMI: Jeremie, I’m gonna need the Overwing.
+JEREMIE: Uh-oh. Bad news.
+JEREMIE: When Aelita’s working on the interface,\NI can’t do anything from my end.
+AELITA: I think I found it. I’m transmitting it to you.
+JEREMIE: Okay. I’m taking over again now.
+MR. DELMAS: What would a nice girl like Yumi doing here?
+JIM: Where are we, anyway?
+YUMI: Jeremie, the Overwing! Now!
+JEREMIE: It’s on the way!
+YUMI: How do we get out of here?
+AELITA: There are some tunnels.
+YUMI: They’re closed!
+JEREMIE: Lets see.
+JEREMIE: Tunnels…
+: What if…
+JEREMIE: What if they corresponded to those\Nthat open onto the arena?
+JEREMIE: Yippie! It works!
+YUMI: Nice one, Einstein!
+AELITA: Yumi!
+AELITA: Jeremie, I got out through a way tower!
+JEREMIE: Okay. Now get to a neutral tower.\NI’ll bring you in!
+JEREMIE: Okay. I’m ready, Aelita.
+JEREMIE: Code: Earth.
+AELITA: It's okay, Jeremie. I’m here.
+AELITA: But what about the others?
+JEREMIE: I’m entering the new code!
+JEREMIE: Materialization Yumi!
+JEREMIE: Materialization Odd!
+JEREMIE: Materialization Ulrich!
+JEREMIE: Now all we can do is hope.
+JEREMIE: Yeah!
+AELITA: We did it!
+JEREMIE: Odd!
+JEREMIE: How you feel? Say something!
+ODD: Something!
+ODD: Kiwi!
+MR. ISHIYAMA: Yumi? What are you doing here?
+MR. DELMAS: I believe you all have\Nsome explaining to do.
+JIM: Hey!
+JIM: Ah ha!
+JIM: Trying to outsmart me, huh?
+JIM: What the…
+JIM: Belpois!
+JIM: W-What?
+JIM: What is this place?
+JEREMIE: Nothing rings a bell, Jim?
+JEREMIE: Funny 'cause you’ve\Nbeen here before.
+JIM: What are you talking about?\NI don’t remember this!
+JEREMIE: Well, yes and no.
+JIM: Huh?
+JEREMIE: Return to the past now.
+MR. ISHIYAMA: So, then. You still refuse\Nto give us an explanation?
+YUMI: Alright, I’ll tell you.
+YUMI: I’m in love.
+MR. ISHIYAMA: Ah, Yumi, I knew there was a reason.
+MRS. ISHIYAMA: And would you tell us\Nyour boyfriend’s name?
+YUMI: No. Sorry, I won’t mom.
+YUMI: See you tonight.
+SISSI: Ugh!
+ULRICH: Well, that sure seemed to\Nsatisfy your parents.
+YUMI: What did you tell them?
+YUMI: The truth.
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

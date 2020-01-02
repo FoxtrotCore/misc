@@ -1,0 +1,294 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we’ve got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright\Non your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we’ll\Nwithstand it all ♪
+KARAOKE: ♪ Code Lyoko be there\Nwhen you call ♪
+KARAOKE: ♪ Code Lyoko we\Nwill stand real tall ♪
+KARAOKE: ♪ Code Lyoko\Nstronger after all ♪
+DR. DELACRE: Our heating plant uses energy\Nsupplied by nuclear reactor.
+DR. DELACRE: Thanks to which, we produce thousands\Nof megawatts of electrical power.
+DR. DELACRE: Here, we have the cooling tower.
+DR. DELACRE: This is the turbine, the alternator,\Nand finally, the reactor.
+SFX: (YAWNS)
+DR. DELACRE: This plant is one of\Nthe most powerful in the world.
+DR. DELACRE: As chief engineer, I am particularly\Nconcerned with safety.
+DR. DELACRE: And to guarantee this safety,
+DR. DELACRE: security measures have been applied\Nat every level of production.
+DR. DELACRE: The plant’s design, its functioning,\Nand problem phases.
+DR. DELACRE: We call this combination\Nof safety measures “in-depth defense.”
+DR. DELACRE: I’ll be glad to answer any questions.
+JEREMIE: Uh, sir.
+MRS. HERTZ: Yes, go on, Jeremie.
+JEREMIE: I’d like to know if an atomic process exists
+JEREMIE: for fusing virtual particles\Nand materializing them in the real world.
+DR. DELACRE: Mhmm.
+DR. DELACRE: Son, that is in the realm of science fiction.
+DR. DELACRE: Sorry.
+MRS. HERTZ: Jeremie is an excellent student,\Nbut he’s a bit of a dreamer.
+STUDENTS: (LAUGHTER)
+MRS. HERTZ: Well, now. What’s happened here?
+MRS. HERTZ: Oh, certainly nothing serious.\NJust a blown fuse, that’s all.
+SFX: (SCHOOL BELL RINGS)
+JEREMIE: And I’m saying that\Nmaybe XANA is behind this.
+ODD: Don’t get so excited, Jeremie.\NIt was just a short circuit.
+MR. DELMAS: Odd.
+MR. DELMAS: I’ve thought it over.\NYou can form your group.
+MR. DELMAS: The um…Foxtrot Fanatics.
+ODD: Yes!
+YUMI: It’s the Pop Rock Progressives, sir.
+MR. DELMAS: But it must be open to\Nanyone who wishes to play.
+MR. DELMAS: Is that clear?
+ODD: No problemo, sir!
+ODD: Yeah! Let’s hear it\Nfor the god of rock and roll!
+ODD: Hey, come on. If we step on it,
+ODD: we can photocopy the leaflets\Nbefore lunch, Jeremie.
+JEREMIE: Well, you know, Odd, I’m not into rock.
+JEREMIE: Besides, I want to check on that outage.
+YUMI: Okay. See you later, Jeremie.
+AELITA: Hi.
+AELITA: Is something wrong, Jeremie?
+AELITA: You know, if you ever have a problem,
+AELITA: you can always talk to me about it.
+JEREMIE: Weird.
+JEREMIE: Why can’t I hear anything?
+JEREMIE: Let’s check this out.
+JEREMIE: Aelita?
+JEREMIE: Aelita, do you read me?
+AELITA: Loud and clear, Jeremie.
+AELITA: Is everything okay?
+JEREMIE: We had a power failure\Nin class this morning,
+JEREMIE: and the school electricity system\Nseems to be having problems.
+AELITA: And?
+AELITA: Do you think XANA’s behind it, Jeremie?
+JEREMIE: You never know.
+JEREMIE: Have you noticed anything on Lyoko?
+AELITA: No.
+AELITA: Everything’s quiet here.
+JEREMIE: Okay. I’ll do a scan.
+JEREMIE: If XANA’s activated a tower, we’ll find out soon.
+AELITA: Where are you going?
+JEREMIE: To the cafeteria.
+JEREMIE: They’ve got brussel sprouts today.
+JEREMIE: You know what they are?
+AELITA: Yes, but I don’t know what they taste like.
+AELITA: Are they good?
+ULRICH: Ah! Eugh! They’re gross!
+JIM: Odd, what are you up to now?
+ODD: We’re holding auditions for our group.
+ODD: Hey, if anyone is interested,\Nwe need a drummer!
+ODD: Here. Here you go.
+ODD: Let’s see now.
+ODD: Hot chocolate, no. Soup, no.\NThe soup tastes like dishwater.
+ODD: Hey, you pressed soup!
+ULRICH: Come on, it’s not that awful.
+ODD: Oh, this miserable machine’s on the blink again.
+ODD: (GROANS)
+JEREMIE: Maybe it’s another power failure.
+YUMI: Are you worried?
+JEREMIE: Yeah, I am.
+JEREMIE: I’ll keep checking things out.
+YUMI: If you need us, we’ll be in the gym.
+YUMI: We’re gonna hold auditions.
+SFX: (RAPID DRUMMING)
+MIKE: Yeah! Hah!
+ODD: Well, yeah, you’ve got a lot of style.\NIt’s heavy metal, right?
+MIKE: Oh, yeah.\NFor sure. I love it!
+YUMI: Really sorry, Mike, um,
+YUMI: but we’re looking for something\Nmore traditional, you know?
+ODD: Next.
+NAOMI: Hello, guys.
+ODD: Hey! How are you, Naomi?\NI didn’t know you played the drums!
+NAOMI: Well, yeah, a little.
+NAOMI: Besides, I’ve always\Ndreamed of being in a band.
+ULRICH: Okay, then. Go on.
+DEFAULT: (DISCORDANT DRUMMING)
+ODD: Great, Naiomi! That was fantastic!\NWell, I mean, come on,
+ODD: we’re not gonna\Nfind anyone better, right?
+JEREMIE: 400,000 volts at a high-tension pylon?
+JEREMIE: That’s not right.
+JEREMIE: Aelita?
+AELITA: Got anything new?
+JEREMIE: Well, not really.
+JEREMIE: Aelita!
+JEREMIE: (PANTING)
+JEREMIE: This is XANA’s doing!
+JEREMIE: I’m almost sure of it.
+YUMI: Yeah, go on?
+JEREMIE: The current’s cutting out\Nall around the school,
+JEREMIE: and the pylon outside\Nis way over the voltage limit.
+JEREMIE: It could explode!
+ULRICH: But why would XANA do that?
+JEREMIE: Your guess is as good as mine, Ulrich.
+SISSI: Surprise!
+SISSI: It’s obvious my friends and I\Naren’t very welcome, but…
+SISSI: my father did say that the band\Nwas open to everybody, right?
+SISSI: Oh, but don’t worry.
+SISSI: I don’t want to be in a group\Nof deadbeat weirdos.
+SISSI: But Nicholas\Njust loves the drums.
+ODD: A drummer, huh?
+ODD: What does he play?\NHis mom’s pots and pans?
+JEREMIE: Okay, guys.\NI’m off to the factory.
+JEREMIE: Keep you posted.
+DEFAULT: (TIGHT DRUMMING)
+NICHOLAS: Yeah!
+SISSI: Looks like you\Nfound yourself a drummer.
+ODD: Nicholas?
+ODD: The drummer in our band?
+ODD: I don’t care how good he is--\Nthe answer is no.
+ODD: Besides, Sissi set this up\Njust to give us a hard time.
+YUMI: Maybe for once\Nshe was trying to help.
+YUMI: And you’ve got to admit that\NNicholas can really play the drums.
+ULRICH: Better than Naomi, that’s for sure.
+ODD: She’s only a beginner!\NShe needs a little more time.
+ULRICH: Uh-huh.\NA couple of years should do it.
+ODD: Well, if that’s how you feel,\Nthen listen up.
+ODD: If you want Nicholas\Nto be your drummer,
+ODD: you’d better find yourself\Nanother guitarist.
+YUMI: And I say if you don’t take him,
+YUMI: you’d better find yourself\Na new singer.
+ULRICH: If Sissi’s idea was to cause trouble,\Nshe’s done a great job.
+SFX: (TROMBONE WHINES)
+JIM: Uh, would you guys need\Na slide trombone, by any chance?
+: (PULSING)
+JEREMIE: Aelita.
+JEREMIE: Sorry about the outage.\NWhat’s new?
+AELITA: You were right to be worried.
+AELITA: XANA’s woken up.
+JEREMIE: Huh?
+JEREMIE: The scan's picked something up.
+JEREMIE: The tower XANA's activated\Nis in the desert region.
+AELITA: I'm on my way.
+JEREMIE: Be careful, Aelita.
+AELITA: I will.
+SFX: (SMOOTH TROMBONE)
+JIM: Well, what do you say?
+ODD: Uh, Jim, the fact is…
+ODD: you see, we’re a rock band,\Nnot a military brass band.
+SFX: (CELL PHONE RINGS)
+YUMI: Okay. Be right there.
+YUMI: We’re going to have to\Naudition you another time.
+JIM: Oh, no you don’t!
+JIM: You’re not going anywhere\Nunless you agree
+JIM: to take me as\Npart of your group!
+ODD: Jeremie, we’re on our way.
+ODD: Yeah!
+ODD: Yeah!
+JEREMIE: Ah, at last.
+JEREMIE: Here’s what XANA’s up to.
+JEREMIE: Once he’s stored enough voltage\Nin that pylon, he’ll unleash it all.
+ODD: Unleash it where?
+JEREMIE: Guess. On the nuclear plant.
+YUMI: Creating a short circuit and…
+FIRST RESPONDER #1: I can’t manage to cut the power.
+FIRST RESPONDER #1: I’ve tried everything.\NI’ve never seen such a weird thing.
+JEREMIE: The pylon can take 1,000,000 volts.
+JEREMIE: Once it’s all accumulated,\NXANA can blow everything up.
+YUMI: Nuclear sabotage.
+YUMI: That’s a little over our heads,\Nwouldn’t you say?
+ULRICH: Yeah, what do you mean?
+YUMI: Think about it. If we fail in Lyoko,\Nthe whole region will be wiped out.
+YUMI: We’ve got to warn the authorities!
+JEREMIE: Are you crazy?
+JEREMIE: There’ll be an inquiry,\Nand we’ll be questioned.
+JEREMIE: We’ll have to tell them everything.
+JEREMIE: And if they discover XANA,\Nthey’ll pull all the plugs out.
+YUMI: And we’ll lose Aelita.
+YUMI: I know that.
+YUMI: But we’re talking about\Na nuclear disaster.
+JEREMIE: Okay.
+JEREMIE: Let’s take a vote.\NWho’s for raising the alarm?
+YUMI: For.
+JEREMIE: Against.
+ODD: Against.
+ULRICH: Sorry, Aelita.
+ULRICH: But I also think we can’t\Ntake that big a risk.
+ULRICH: I vote for. Let’s report it.
+JEREMIE: Well, then. Two votes for,\Nand two votes against. It’s a tie.
+JEREMIE: We don’t tell anybody.
+YUMI: I think it means that\Nwe should tell everybody.
+AELITA: Don’t I have the right to vote?
+JEREMIE: Why, sure you do.\NThat way there won’t be a tie.
+AELITA: In that case, I vote for.
+JEREMIE: Huh?
+AELITA: I don’t want thousands of people\Nto die just to save me.
+YUMI: Thank you, Aelita.
+ODD: We’re gonna make it, huh, Ulrich?
+ULRICH: I sure hope so, Odd.
+JEREMIE: Okay, I’ve got it.
+JEREMIE: The scan has located\Nthe activated tower.
+JEREMIE: It’s in the desert region.\NNear an oasis.
+AELITA: I know where it is. That way.\NOn the other plateau.
+DR. DELACRE: I don’t get it.
+DR. DELACRE: The plant is functioning perfectly,\Nbut the city’s in total darkness.
+DR. DELACRE: No need for alarm, though.\NWe’re working on finding the reason.
+DEFAULT: (KNOCKING)
+YUMI: I’m sorry to disturb you, sir,\Nbut it’s really important.
+YUMI: You’ve got to trust me.
+YUMI: I know it’s gonna sound crazy, sir,\Nbut please hear me out.
+YUMI: The nuclear plant\Nis in danger of blowing up!
+ODD: I don’t believe this.
+ODD: What’s going on?\NWhere is this tower?
+AELITA: We can’t see it now,\Nbut it’s here alright.
+AELITA: Look at XANA’s pulsations.\NThey all converge here.
+JEREMIE: Come on, you can do it.\NYou can’t be too far away.
+JEREMIE: You’ve got to find it fast--\Nthe pylon is gonna be overloaded soon!
+YUMI: Jeremie?
+YUMI: The principal and\NDr. Delâcre didn’t believe me.
+JEREMIE: We’re going crazy here, too, Yumi.
+JEREMIE: The pylon is 85 percent charged\Nand we can’t find the tower.
+ODD: Huh?
+ODD: I found it!
+ULRICH: Hm?
+AELITA: Huh?
+ODD: We’ve been tricked.
+ODD: There’s no water down there,\Njust a surface layer.
+ODD: I’ll go and have a better look.
+ODD: There!
+ODD: Careful!
+JEREMIE: Odd!
+ODD: I hate those horrible krabs!
+ULRICH: Aelita, it’s you they’re after.
+ULRICH: Go on! Run!
+ODD: Aelita!
+JEREMIE: Thank you for saving Aelita.
+JEREMIE: But things look bad here.
+JEREMIE: Up to 95 percent.
+JEREMIE: Soon, XANA will be able\Nto attack the nuclear plant.
+SFX: (SIRENS WAILING)
+FIRST RESPONDER #1: Can you repeat that?
+YUMI: The voltage\Nthat built up in this pylon
+YUMI: is going to be used to blow up\Nthe nuclear power plant, sir!
+YUMI: How can you just stand there?\NDo something!
+YUMI: Before it’s too late, huh!
+FIRST RESPONDER #1: How do you know all that?
+ULRICH: Go on. Go on.
+ULRICH: Fusion. Come on,\Nyou only get one shot.
+ODD: Ulrich, are you out of your mind?
+AELITA: No!
+JEREMIE: Come on, hurry!
+JEREMIE: The pylon is over 98 percent!
+ULRICH: Okay. It’s up to you, Aelita.
+FIRST RESPONDER: A supercomputer in a factory?\NA virtual world?
+YUMI: I swear. You have to believe me.
+SFX: (CELESTIAL HUMMING)
+ODD: It’s gonna work.
+JEREMIE: No!
+YUMI: Oh, no!
+JEREMIE: Ready for a return trip to the past, Odd?
+ODD: Okay, hit it!
+ODD: Three, four, and…
+MUSIC: ♪ ♪
+YUMI: ♪ Mystery girl\Nfrom another world ♪
+YUMI: ♪ She wanted happiness\Nand not a lot of stress ♪
+YUMI: ♪ Strength -- that’s true ♪
+YUMI: ♪ A love affair for y-o-o-o-u ♪
+ODD: You were right! He’s doing great!
+YUMI: Who are you talking about? Jim?
+JEREMIE: Great, you guys!\NYour energy is super nuclear!
+JEREMIE: You’re gonna make this town explode!
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

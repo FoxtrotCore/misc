@@ -1,0 +1,811 @@
+24
+ULRICH: Okay!
+
+Impact!
+
+Odd, take Aelita to the tower! Yumi’s in trouble!
+
+ODD: Okay, here we go!
+
+ULRICH: Hang on, Yumi, you can do it.
+
+ODD: There!
+
+Aelita!
+
+Okay, Princess, the home stretch!
+
+JEREMIE: Odd! Two more Bloks are coming at you!
+
+ODD: No sweat! Be back in a second, Aelita!
+
+Laser arrow!
+
+Yeah!
+
+ODD: {\i1}He is amazing, how--
+JEREMIE: Odd!
+
+ODD: {\i1}--the crowd is going wild--
+JEREMIE: Odd, cut it out, will you?
+
+ODD: {\i1}--thank you!
+JEREMIE: There’s a third Blok!
+
+ODD: {\i1}Huh? A third one?
+
+YUMI: Odd!
+
+JEREMIE: Oh no!
+{\i1}Odd, you’ve lost too many life points!
+
+Odd, what are you doing? {\i1}Take cover!{\i0}
+{\i1}It’s too risky!
+
+{\i1}Odd, one impact and it’s game over.
+You’ve only got ten life points left, that’s all!
+
+ODD: Ten’s more than enough! Here we go!
+
+You see, what did I tell you?
+
+ULRICH: Great, Odd!
+
+AELITA: Congratulations!
+
+ODD: {\i1}Hey Jeremie, next time, just enjoy the show
+and let the real pros get the job done, okay?
+
+(LAUGHS)
+Huh?
+
+AELITA: I’ll go and take care of the tower.
+
+ODD: Hey, take it easy, I was just kidding!
+
+{\i1}I didn’t mean it! Hey, Einstein, you hear me,
+it was a joke!
+
+JEREMIE: Return to the past now.
+
+MRS. HERTZ: Valerie?
+
+STUDENT: Present.
+
+MRS. HERTZ: Benjamin?
+
+STUDENT: Present.
+
+MRS. HERTZ: Herb?
+
+HERB: Present, ma’am.
+
+MRS. HERTZ: Nicolas?
+
+NICOLAS: Here.
+
+MRS. HERTZ: Sissi?
+
+SISSI: Present.
+
+MRS. HERTZ: Jeremie?
+
+JEREMIE: Present.
+
+Hey, great work, guys.
+You were better than ever!
+
+No hard, feelings, Odd, it was--
+
+
+MRS. HERTZ: Odd?
+
+JEREMIE: Huh?
+
+MRS. HERTZ: Odd? Odd? Odd’s absent?
+Well, and so is Ulrich.
+
+MRS. HERTZ: Herb?
+
+HERB: Present, ma’am.
+
+MRS. HERTZ: Nicolas?
+
+NICOLAS: Here.
+
+MRS. HERTZ: Sissi?
+
+SISSI: Present.
+
+MRS. HERTZ: Jeremie?
+
+JEREMIE: Present.
+
+MRS. HERTZ: Dylan?
+
+STUDENT: Present.
+
+ODD: Hey, that was great work, Einstein.
+You were never better! No hard feelings, huh?
+
+MRS. HERTZ: Caroline?
+
+STUDENT: Present
+
+ULRICH: After what you said to him before,
+it’s no wonder he’s sulking.
+
+MRS. HERTZ: Odd! Ulrich!
+
+DEFAULT: Here, ma’am!
+
+MRS. HERTZ: I know that you’re here.
+
+What I do not know is what you have to say
+to each other that’s so interesting!
+
+JEREMIE: They asked me if I noticed,
+that with all due respect,ma’am,
+
+
+
+the Brauer equation you wrote
+on the blackboard is wrong.
+
+MRS. HERTZ: What?
+
+JEREMIE: It’s not wrong from a mathematical
+point-of-view, but it fails to take into account
+
+Bronski’s theories on the
+phenomenon of compared masses.
+
+You should treat the second unknown element
+as a squared mass, not a factorial.
+
+MRS. HERTZ: Hmm…
+
+Why yes, you’re… you’re absolutely right!
+I’m sorry about that!
+
+Jeremie, would you know where
+Ulrich and Odd are?
+
+JEREMIE: This is weird, I don’t believe it!
+Yumi’s gone, too!
+
+Nobody here?
+
+Aelita?
+
+Aelita, Ulrich, Odd, and Yumi…
+Tell me that they’re with you.
+
+AELITA: {\i1}Why? Didn’t they come back from Lyoko?
+
+JEREMIE: No, Aelita, I’ve lost them!
+
+Something must have gone wrong
+on the return trip!
+
+AELITA: {\i1}Calm down, Jeremie, they couldn’t have
+just vanished. Go and check the scanners
+
+{\i1}while I look around Lyoko.
+
+JEREMIE: Good idea, I’ll go and see--
+
+JIM: Hmm…
+
+You mind telling me what you’re doing here?
+
+
+JEREMIE: Uh…
+
+YUMI: You guys okay?
+
+ODD: As okay as two guys can be
+with two hours of Bio ahead of them.
+
+YUMI: Anyone know why he’s sulking?
+
+ULRICH: He’s angry at Odd.
+
+YUMI: Listen, uh, something
+really strange happened in English class.
+
+TEACHER: All the world’s a stage,
+and all the men and women merely players.
+
+They have their entrances and--
+
+--and all the men and women merely players.
+They have their entrances and--
+
+YUMI: Like a broken record,
+but it only lasted a second.
+
+ULRICH: And what?
+You’re thinking that it could be XANA?
+
+YUMI: I really don’t know, Ulrich,
+but it sure wouldn’t hurt to keep an eye on things.
+
+AELITA: Nobody.
+
+Pulsations? XANA!
+
+MR. DELMAS: Jeremie, this is serious.
+
+Everyone is very concerned. Now, for the last time,
+do you know where Yumi, Odd, and Ulrich are?
+
+JEREMIE: No, sir, I--
+
+MR. DELMAS: As I’m sure you can imagine,
+their parents are worried sick.
+
+JEREMIE: I already told you,
+I don’t know where they are.
+
+AELITA: Jeremie.
+
+
+MR. DELMAS: Think about it, please.
+The smallest clue could prove to be a great help,
+
+you four are always together!
+DEFAULT: (COMPUTER BEEPS)
+
+JEREMIE: Alright, sir, I’ll think about it,
+but I need to be alone.
+
+MR. DELMAS: You have an awful lot of nerve,
+young man. However, if it’s the only way
+
+to bring you to your senses,
+I’ll give you three minutes.
+
+JEREMIE: Thank you, sir.
+
+I felt your message. What’s new?
+
+AELITA: {\i1}I’m sorry, Jeremie,
+but they’re not on Lyoko.
+
+{\i1}There’s an activated tower, though,
+only I can’t seem to locate it.
+
+{\i1}I need your help. Go to the factory.
+
+JEREMIE: Impossible, I’m stuck in
+the principal’s office.
+
+AELITA: {\i1}You are? Don’t worry, I’ll help you
+get out of there.
+
+{\i1}Yes, Jeremie, just like XANA, I can operate
+on the school’s network as well. Listen closely now.
+
+MR. DELMAS: I’m sure Jeremie knows more
+than he’s saying.
+
+JIM: Should we call the police?
+
+JEREMIE: I’ve thought it over.
+I’ll tell you where they are.
+
+STUDENT: Pass the peas!
+No, you can reach them yourself!
+
+Thanks!
+Did you hear Rockout’s new single?
+
+
+ODD: Didn’t I tell you?
+
+ULRICH: No, go on.
+
+ODD: Well, I needed new wheels,
+because I broke them on a ramp.
+
+So, I call over the guys selling them--
+
+Hey, Sissi, did you use canary feathers
+in the washing machine instead of soap?
+
+SISSI: That is so dumb! I’ll have you know
+that yellow is the “in” color this year! Hmph!
+
+ODD: (LAUGHS)
+What a dolt!
+
+ULRICH: (LAUGHS)
+
+STUDENT: Pass the peas!
+No, you can reach them yourself!
+
+Thanks!
+Did you hear Rockout’s new single?
+
+YUMI: Huh?
+
+Hey, did you hear that?
+
+ODD: I sure did.
+
+SISSI: That is so dumb! I’ll have you know
+that yellow is the “in” color this year! Hmph!
+
+ODD: I didn’t say anything that time!
+
+YUMI: We’ve got a problem, guys.
+
+MR. DELMAS: But there’s nobody here!
+
+JEREMIE: We have to wait a little while.
+
+MR. DELMAS: Hm?
+
+JEREMIE: They’ll be here any minute now.
+
+MR. DELMAS: Hmm...
+
+Well, where are they?
+
+DEFAULT: (COUGHING)
+
+Jeremie!
+
+MR. DELMAS: It’s impossible…
+he couldn’t have just disappeared!
+
+JEREMIE: Aelita!
+
+AELITA: {\i1}Yes, Jeremie?
+
+JEREMIE: {\i1}Thanks for giving me a hand!
+
+AELITA: I hope you realize that if…
+that if you don’t detect anything alive
+
+on the scanners, it’ll mean that…
+
+JEREMIE: Yes, I know. We’ll find out soon enough.
+
+Empty.
+
+They aren’t there.
+
+I don’t get it. If they’re not here, and they’re
+not on Lyoko, either, where are they?
+
+AELITA: {\i1}Jeremie! Just before you got here,
+I captured this sound byte! A sort of…
+
+{\i1}radio or TV station transmission.
+
+{\i1}But be careful, Jeremie, it was really bizarre.
+Let me show you.
+
+JIM: {\i1}Alright, let’s go.
+
+JEREMIE: Huh?
+JIM: {\i1}We’ll start with a little stretching.
+
+ODD: {\i1}(LAUGHS)
+
+JEREMIE: Hey, that’s crazy!
+
+JIM: {\i1}And one, and two, and one,
+and two,{\i0} and one, and two.
+
+That’s it!
+
+
+
+HERB: Hey, watch what you’re doing, huh?
+You did that on purpose, I saw you!
+
+JIM: And one--
+
+HERB: Hey, watch what you’re doing, huh?
+
+YUMI: It happened again!
+HERB: You did that on purpose, I saw you!
+
+JIM: And two, and one.
+HERB: I’ll show you what it feels like!
+
+YUMI: And it’s happening all the time!
+
+JIM: Keep going on your own!
+
+YUMI: Jeremie?
+
+JEREMIE: What am I looking at?
+They didn’t come back to Earth, did they?
+
+AELITA: {\i1}What if what we’re seeing is a recording?
+
+JEREMIE: But how can that be, Aelita?
+I’m in the picture!
+
+YUMI: There are weird things happening,
+any news from Aelita?
+
+JEREMIE: I’m having difficulty contacting her,
+I have no idea if there’s an activated tower or not,
+
+but at the slightest alert, we’ll have to move in.
+
+YUMI: Hey, how come you’re not doing
+Phys Ed, Jeremie?
+
+JEREMIE: Jim agreed to excuse me.
+
+YUMI: He did? That’s weird.
+You’re not exactly his star athlete.
+
+JEREMIE: You’ve gotta know how to handle him.
+
+JIM: --twenty-six, twenty-seven,
+keep going, twenty-eight--
+
+JEREMIE: Not like them.
+
+
+YUMI: Huh?
+
+Incredible.
+
+JEREMIE: It sure isn’t a tape. It’s happening somewhere,
+right now. They’re neither in Lyoko nor
+
+in the real world. They’re somewhere else…
+
+AELITA: {\i1}Yes, I know, but I checked all the
+transfer protocol data, and unless
+
+{\i1}a sort of parallel world exists somewhere,
+there’s no such thing as an intermediate space.
+
+JEREMIE: Unless XANA has manufactured one!
+That’s it! A world parallel to Lyoko!
+
+And he must’ve modeled it after the school!
+He couldn’t have made a better trap!
+
+Yumi and the others think they’re in reality,
+but it’s only an illusion. They’re living under
+
+XANA’s control, completely at his mercy.
+We’ve gotta rescue them!
+
+Find out where the signal is coming from!
+
+AELITA: {\i1}I’ve been trying to, but it’s been masked.
+The signal is scrambled. All we have is a soundwave
+
+{\i1}and not the signal itself.
+
+JEREMIE: Then that’s what we’ll have to use.
+We’ve gotta program it to guide the scanner
+
+and dive towards the source using
+a trial and error system.
+
+AELITA: {\i1}But that’s crazy and you know it!
+And besides, who could do it?
+
+{\i1}We’re all alone, Jeremie, and--
+
+JEREMIE: It’s gonna have to be me.
+If you take over the controls,
+
+then I’ll be able to go.
+
+
+AELITA: {\i1}It’s too dangerous.
+
+JEREMIE: But we can’t leave Ulrich and Yumi and Odd
+at the mercy of XANA! Think about it.
+
+If I’m here in front of you…
+
+...who’s the other Jeremie?
+
+{\i1}Aelita, there’s something I wanna tell you.
+I’d much rather be entering a virtual world
+
+{\i1}to find you there waiting for me.
+
+AELITA: So would I.
+
+JEREMIE: Here we go.
+
+AELITA: {\i1}It’s okay, Jeremie,
+I’ve prepared the transfer procedure.
+
+{\i1}You can get into the scanner.
+
+{\i1}Scanner: Jeremie
+
+{\i1}Virtualization!
+
+JEREMIE: Woah!
+
+Aelita, can you hear me?
+Of course not, that would be too easy.
+
+XANA: Hmph. There he is at last.
+
+We’ve got a visitor, Jim.
+
+AELITA: That’s gotta be it!
+
+I’d better go now and have a closer look.
+
+ODD: Yeah, Yumi’s what you might call intuitive,
+but she can be wrong sometimes,
+
+and let’s face it, Ulrich, any girl with a crush on you
+can’t be what I call absolutely normal.
+
+ULRICH: Well, what about Jeremie?
+Don’t tell me you don’t find him a bit strange.
+
+
+
+ODD: Well, yeah, he has been acting a bit weird lately,
+but to think that he’s been hiding a huge secret--
+
+Yeah, hello? Yumi, is that you? What’s the--?
+
+YUMI: It’s started again, but this time,
+it’s a lot worse than ever,
+
+this time it’s at my own home!
+
+ULRICH: What’s going on, Yumi?
+
+YUMI: {\i1}It’s my parents, they’re acting so…
+I don’t know, so strangely!
+
+They keep making the same gestures,
+and they act as if I’m not even there!
+
+It’s as if they were phony imitations of my real
+mom and dad, we’ve gotta do something!
+
+ULRICH: You better not stay there, I’ll see you in the park,
+okay? We’ll go to the factory, I’ll warn Jeremie.
+
+YUMI: {\i1}No, not Jeremie.{\i0} Just Odd, you, and me, okay?
+Let’s leave Jeremie out of it this time,
+
+{\i1}I-I have my doubts. See ya.
+
+JEREMIE: Let’s hope they’re in their room.
+
+JIM: Ungh…
+
+JEREMIE: Oh…
+
+JIM: (GROWLS)
+
+XANA: I’ve got you.
+
+Soon, I won’t have any more obstacles.
+
+AELITA: I only hope it’s not too late.
+
+YUMI: What about Jeremie?
+
+ULRICH: We didn’t tell him.
+But, you know, once we’re at the factory,
+
+we can’t get to Lyoko without him.
+
+
+YUMI: We’ll see when we get there,
+but I’m afraid he can’t be trusted.
+
+DEFAULT: (LEAVES RUSTLE)
+
+Huh?
+
+ULRICH: Must’ve been a squirrel or something.
+
+ODD: C’mon, let’s go.
+
+JEREMIE: Oh no, too late!
+
+JIM: Out of my way!
+
+JEREMIE: For a program, you’re a pretty good imitation!
+
+YUMI: I don’t understand, there’s no link,
+it’s like Lyoko didn’t exist anymore.
+
+XANA: And that might be exactly what has happened.
+
+DEFAULT: Huh?
+
+ULRICH: Jeremie!
+
+YUMI: Jeremie? But what are you doing here?
+
+XANA: I got a message from Aelita that
+a tower’s just been activated.
+
+She said something about about a program
+to erase Lyoko. I haven’t heard from her since.
+
+ULRICH: Okay, we’ve gotta check this out, Yumi.
+
+YUMI: Hey, wait a minute, if the link has been cut,
+how do you intend to send us there?
+
+JEREMIE: I’ve created a new access protocol.
+All we need now are the scanners.
+
+ODD: Well, what are we waiting for?
+
+YUMI: Hmph.
+
+Hold it, Odd, I’m not too sure of this.
+
+XANA: Ngh…
+
+What’s wrong with you? Look, it’s Jeremie, Yumi!
+
+ULRICH: We’ve gotta get moving!
+What if Lyoko does get erased, huh?
+
+Have you thought about Aelita?
+
+XANA: Look, you’ve gotta believe me,
+but if you have any doubt,
+
+let Ulrich and Odd be transferred before you.
+
+JEREMIE: Yumi, you’re right, it’s a trap!
+
+Don’t go!
+
+XANA: XANA, is that the best you can do?
+A cheap imitation to delay us?
+
+JEREMIE: He’s lying. The phony is there, it’s him!
+Everything you hear is phony!
+
+DEFAULT: Huh?
+
+JEREMIE: You never came back from your last trip.
+You’re in a virtual world created by XANA!
+
+YUMI: That would explain all the inconsistencies!
+
+JEREMIE: Of course it would, XANA can make mistakes, too!
+He only has theoretical knowledge of the real world.
+
+What he wants is to get you into the scanner
+to get rid of you once and for all!
+
+XANA: That’s totally absurd, XANA.
+
+ULRICH: It’s true, we have no proof that he’s
+not the one lying to us, right?
+
+He could have created the inconsistencies, too.
+
+ODD: Exactly. To hold us up while Aelita and Lyoko
+are being erased forever.
+
+JEREMIE: The only proof is the fact that I’m here with you.
+You have to decide which one of us is lying.
+
+
+XANA: And it’s not me! Assuming, as you claim, that
+this world is virtual, you mind telling us how you got here?
+
+We’re listening, XANA.
+
+JEREMIE: I got in here via the scanner,
+I’m here in virtual form.
+
+XANA: You gave yourself away! Everybody knows that
+the real Jeremie wouldn’t step foot in the scanner!
+
+He’d be much too frightened!
+
+JEREMIE: Hah…
+
+DEFAULT: Huh?
+
+ODD: And I’m sure he would go into the scanner,
+if his friends were in danger.
+
+ULRICH: No doubt about it.
+
+YUMI: Absolutely not.
+
+XANA: But it’s not logical, don’t you see?
+He’s much too scared to even try.
+
+I’m much too scared! If not,
+then why haven’t I already done it?
+
+JEREMIE: I told you why, because he’s not infallible.
+XANA’s knowledge of people is only approximative.
+
+ODD: That’s right, and as far as friendship goes,
+it’s not approximative, it’s double zero.
+
+Good to see you again, Einstein.
+
+XANA: No! It’s not logical!
+No!
+
+NOT LOGICAL! NOT LOGICAL!
+
+DEFAULT: Woah!
+
+JEREMIE: (SCREAMS)
+
+XANA: (LAUGHS)
+
+You are going to die!
+
+JEREMIE: Aelita!
+
+No!
+
+XANA: (LAUGHS)
+
+AELITA: (CELESTIAL SINGING)
+
+YUMI: Jeremie! No!
+
+JEREMIE: (SCREAMS)
+
+Aelita, here I am, are you okay?
+
+AELITA: {\i1}Yes, fine. Don’t worry.
+
+JEREMIE: Phew.
+
+AELITA: {\i1}I got them back, all of them, safe and sound.{\i0}
+The parallel world bubble has disappeared.
+
+ODD: I don’t remember anything,
+but I feel just great!
+
+ULRICH: Aelita? What happened to us?
+
+AELITA: XANA created a replica of where you live
+so you’d think it was reality.
+
+YUMI: He locked us up in a virtual prison.
+
+AELITA: But Jeremie and I did all we could
+to set you free.
+
+ODD: What? Jeremie came to Lyoko?
+
+AELITA: Mhmm.
+
+ODD: Fantastic, Einstein!
+{\i1}Join the daredevil heroes club!
+
+No hard feelings, huh?
+
+Look, it’s XANA’s welcoming committee!
+
+ULRICH: No need to worry, Jeremie, we’re used to this.
+It’s a piece of cake! Here we go!
+
+ODD: I’m with you!
+
+DEFAULT: Yeah!

@@ -1,0 +1,229 @@
+﻿JEREMIE: Come on, come on!
+Ugh, I- I’m so darn lame!
+ULRICH: Hi, Einstein.
+YUMI: Hey.
+You look awfully down today, what’s the problem?
+JEREMIE: I’ve been spinning my wheels for days now on Aelita’s antivirus and\Ntrying to decode Franz Hopper’s diary.
+YUMI: Just a question of time.
+JEREMIE: You think so?
+Even with the latest data we got from Sector Five,\NI haven’t moved ahead one micron! What if I’m just…
+...just not good enough?
+ULRICH: Uh, okay, I think I know someone who needs to air out his neurons a little.
+And here’s how to do it. Tonight,\NOdd is screening his short film.
+JEREMIE: Anyone seen any of it?
+YUMI: He wouldn’t let us?
+JEREMIE: Do we know who’s in it, at least?
+SISSI: Humbly speaking, I don’t think it’s unfair to say that this first role will reveal\Nto the entire world my true star personality.
+MILLY: Can you sum up the story for us in just a few words for the Kadic News?
+SISSI: Oh, well, that is, uh, it’s a love story, and at the same time, it’s a thriller!\NWith suspense, and of course, it’s got a good dose of psychology,
+and- and- and it’s very funny, a real comedy, and, uh, quite satirical.
+MILLY: So you have no idea?
+SISSI: Uh, I gotta go, someone’s calling me!
+DEFAULT: (GIGGLING)
+GUSTAVE: Welcome to the Kadic Academy cinema club’s short film night!
+Charlie Chaplin, Ziga Cerkov--
+ULRICH: How’s it going, Odd? No butterflies yet?
+ODD: No, I’m- I’m- I’m cool.
+ULRICH: You’d never guess.
+GUSTAVE: ...to full-length features, which is also why I’ll be…
+HERB: Relax, I’m sure you’re gonna be great.
+SISSI: Thanks, that’s sweet. But, uh, move your hand or lose it at the elbow.
+GUSTAVE: ...the short film is, was, and always will be an important art form,\Nwhich can say as much as a full-length feature.
+Our first film is by Odd Della-Robbia, and is entitled, rather poetically,\N“Natural Grandeur”. No one has seen it yet, but it isn’t hard to imagine
+a project, perhaps, of the fragility of our ecosystem, which- er--
+SISSI: Hmph.
+JIM: Hmhm.
+MR. DELMAS: Hmm.
+ODD: {/i1}Help! Help! She’s awake, oh no!
+STUDENT: {/i1}What’s all this racket about, huh?
+DEFAULT: (LAUGHTER)
+JIM: Ahahaha- oh?
+ODD: {/i1}We have to get out of here! She- she- \Nshe’s coming! I tell you, she’s as big as her ego!
+STUDENT: {/i1}That’s impossible! \NYou know how big that would make her.
+SISSI: Hmm.
+STUDENT: {/i1}I think you’ve lost your senses.
+SISSI: Hmm.
+STUDENT: {/i1}Alright, let’s go to the infirmary.
+DEFAULT: (LAUGHTER)
+ODD: {/i1}No!
+DEFAULT: {/i1}Huh?
+ODD: {/i1}It’s too late! She’s found us!
+SISSI: Huh?
+{/i1}Oh rats, I just broke a nail!
+DEFAULT: (LAUGHTER)
+HERB: I didn’t know you could be so funny.
+DEFAULT: {/i1}Aaah!
+SISSI: Odd! You’re nothing but a- you’re nothing but a…
+(GIBBERISH)
+MR. DELMAS: Is something wrong, sweetheart?
+SISSI: (GIBBERISH)
+JIM: I’ll take care of this, Mr. Delmas.
+I think you’ve lost your senses. Alright, let’s go to the infirmary.
+DEFAULT: (LAUGHTER)
+MR. DELMAS: Alright, children, I want each of you to go quietly back to your rooms.\NJim, take care of the students. I’ll take Sissi to the infirmary.
+YUMI: You think it’s…\N...XANA?
+JEREMIE: Nope. No activated towers. XANA’s got nothing to do with it.
+YUMI: The nurse said that Sissi received an electric charge.\NShe’s in shock, but fine, there’s nothing to worry about.
+ODD: Oh poor Sissi. I have to admit that her acting was really electrifying .
+JEREMIE: Right. False alarm. We can all sleep easy now.
+ULRICH: Yeah, that works out just fine, because tomorrow is Sunday, and on Sunday--
+ODD: --we sleep in!
+JEREMIE: Huh?
+Huh?
+SISSI: (GIBBERISH)
+JEREMIE: Sissi!
+SISSI: (GIBBERISH)
+JEREMIE: Sissi, what has gotten into you, huh?
+JIM: What’s all this racket about? 
+Sissi? You should be in the infirmary,\Nyour father’s going to have my head again.
+SFX: (PHONE RINGING)
+ULRICH: Jeremie, it’s Sunday…
+Okay, we’re coming.
+A message in code? Written by Sissi?
+JEREMIE: Uh-huh. I ran the Supercomputer all night to translate it.
+And look at what it turned up!
+DEFAULT: (GIBBERISH)
+...I can help you. I want to enter into contact with you.
+YUMI: “I can help you”?
+ULRICH: It has to be a trap by XANA. He must’ve managed somehow to possess Sissi\Nwithout activating a tower.
+AELITA: I don’t think so. Otherwise, \NSissi would have gone after me.
+She would’ve tried to get me out to Lyoko,\Nso that the Scyphozoa could
+steal my memory.
+JEREMIE: Aelita’s right. If you ask me, someone - or something -\Nwants to contact us through Sissi, but it’s not XANA.
+ODD: Well then, who is it?
+JEREMIE: No idea. To find that out,\Nwe’ll have to talk to Sissi again.
+YUMI: Okay, I’ll bring her over. Anyone care to join me?
+ODD: I will. I’m your man, Yumi. I mean- you know what I mean.
+ULRICH: I’d better go take a look around Lyoko.\NI still wanna make sure XANA isn’t setting some sort of trap.
+AELITA: I’ll go with you.
+JEREMIE: With the Scyphozoa and everything? It’s too risky.
+AELITA: Jeremie, stop worrying about me.
+JEREMIE: {/i1}Transfer, Ulrich.\NTransfer, Aelita
+{/i1}Scanner, Ulrich{i0}\NScanner, Aelita
+{/i1}Virtualization
+ULRICH: Great timing. Nice work, Jeremie.
+JEREMIE: Thanks.\NOkay, make it fast, it’s just a reconnaissance mission.
+ULRICH: We know. Relax, we won’t go crazy.
+ODD: Yeah!
+Jeremie, bad news. Sissi’s going to the hospital.
+JEREMIE: Oh no, we have to bring her back here!
+ODD: No sweat, I’ve got an idea.
+YUMI: Are you thinking what I think you’re thinking?
+ODD: Yeah. good thinking.
+JEREMIE: Ulrich, Aelita, everything okay with you guys?
+ULRICH: To tell you the truth, I have no idea. \NHas the Superscan picked up an activated tower?
+JEREMIE: No, still nothing, why?
+AELITA: {/i1}Well… hang on, I’ll send you a visual.
+JEREMIE: What the heck is this white tower supposed to mean?
+ULRICH: {/i1}I was about to ask you the same thing.
+Do you think this tower has something to do with Sissi?\NOr with the being that’s trying to contact us?
+JEREMIE: {/i1}I don’t know.
+AELITA: Come on, I’d like to see this close up.
+JEREMIE: Ulrich, behind you!
+AELITA: Faster!
+ULRICH: I’ve got it floored!
+AELITA: Turn left!
+ULRICH: Woah, are you sure? There’s nothing to the left!
+AELITA: (CELESTIAL HUMMING)
+JEREMIE: Well done Aelita,\Nbut it’s really weird that they didn’t come back to attack you.
+{/i1}Something’s not right.
+AELITA: Jeremie, it wasn’t us they were after.
+ULRICH They’re trying to destroy the white tower!
+JEREMIE: Hold them off.
+ULRICH: Feel like a little game of bowling?
+AELITA: Of what?
+JEREMIE: {/i1}Forget about it, it’s a bad joke.
+ULRICH: Sometimes, I really crack myself up.
+MR. DELMAS: Well, what’s wrong with her?
+NURSE: I haven’t the slightest idea.
+We’ll keep her here under observation\Nfor a few hours, and then we’ll see.
+MR. DELMAS: Oh, very well.\NLet me know at the first sign of a change in her condition.
+NURSE: Of course.
+DOCTOR: ...such a sweet patient, he was really lucky…
+ODD: So what did the girl at the reception say?
+YUMI: Room 237.
+JEREMIE: Huh?
+DEFAULT: (PHONE RINGING)
+YUMI: Jeremie?
+JEREMIE: I’ve just located an activated tower. XANA is on the offensive!
+SISSI: (SCREAMING)
+YUMI: Jeremie, I’ll call you back.
+Stop!
+ODD: Poor thing. She had hypertension.
+YUMI: Not anymore. Quick!
+It’s okay, Jeremie, we’ve got Sissi.
+JEREMIE: Great! Bring her over to the factory and hurry up!
+YUMI: {/i1}It won’t be that easy.{i0}\NThere’s a doctor possessed by XANA who doesn’t seem to like the idea.
+JEREMIE: Ouch.
+Ulrich, I’ve got some bad news.
+ULRICH: Hang on.
+So, Jeremie, what were you saying?
+JEREMIE: {/i1}Activated tower in the ice sector.
+ULRICH: What should I do with Aelita? Protect this tower or deactivate the other one?
+AELITA: Ulrich!
+ULRICH: Huh?
+{/i1}Jeremie, what do we do?
+JEREMIE: Uh, protect the white tower!
+AELITA: You know, I could go deactivate that tower.
+JEREMIE: All alone? No way. It’s too dangerous.
+ULRICH: I’ll get rid of this one, and after that, we’ll go together.
+AELITA: Look!
+ULRICH: Aelita, stay next to me.
+JEREMIE: No, Aelita, don’t do it!
+ODD: Let’s get out of here!\NHere comes Doctor Doom!
+YUMI: Look out!
+ODD: I hope she was wearing a seatbelt.
+ULRICH: Huh?
+Cool.
+ODD: Phew.
+JEREMIE: {/i1}Ulrich?
+ULRICH: Relax, Jeremie, I’m on it.
+That has got to hurt.
+Woah.
+YUMI: Quick!
+JEREMIE: Ah, finally.
+ODD: Yumi, what are you doing?
+YUMI: I’m buying time.
+JEREMIE: Sissi, I believe that-- h-hey!
+ODD: Sissi, now what’s the matter with you?
+JEREMIE: Wait. Let her go.
+Aelita, look out!
+Get to Lyoko! Quick!
+ULRICH: Jeremie, I can’t hold out much longe- aaah!
+JEREMIE: Sissi!
+Virtualization!
+AELITA: Odd!
+ODD: Run, Aelita! Run!
+JEREMIE: Odd, watch it, you’ve just lost 80 life points.\NOne more hit and it’s game over!
+ODD: {/i1}Relax, it’s all part of the plan.
+ULRICH: Something wrong with the elevator?
+JEREMIE: I’ll explain later. Hurry on up to help Yumi.
+ODD: Get on.
+SFX: (ELECTRICITY CRACKLES)
+(CELESTIAL HUMMING)
+ULRICH: Yumi!
+SFX: (HUMMING CONTINUES)
+AELITA: Tower deactivated.
+JEREMIE: Wow! Great job, Aelita!
+Huh? Everything okay, Sissi?
+SISSI: How do you expect everything to be okay,\Nwhen I’m surrounded by big, fat losers?
+JEREMIE: Did I miss something?
+DEFAULT: (LAUGHTER)
+JEREMIE: Come on, tell me.
+ULRICH: Yes. Odd just offered Sissi a role in his next film.
+ODD: It’s the story of this girl, driven by this mysterious being,\Nwho tried to make contact with humans.
+All of which takes place in a virtual universe full of danger!
+JEREMIE: What did she say?
+AELITA: That no one would ever believe such a ridiculous story.
+JEREMIE: (LAUGHING)\NYou don’t say?
+YUMI: What about you, how’s it going?
+JEREMIE: Finished! The computer deciphered all of--\N--the lines of code that Sissi spoke while she was spellbound.
+ODD: So, what’s it say? Let’s hear it!
+JEREMIE: Tons of interesting stuff, and a whole lot of elements--\N--that are going to help me find the antivirus for Aelita.
+ULRICH: And... do you know who this mysterious entity who wants--\N--to get into contact with us is?
+JEREMIE: Well… take a look.
+I’m warning you, this is completely crazy.
+DEFAULT: (GIBBERISH)
+...I can help you. I want to enter into contact with you now…
+ODD: Wow, I can’t believe it!
+DEFAULT: I am Franz Hopper.

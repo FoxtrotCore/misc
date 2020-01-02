@@ -1,0 +1,62 @@
+==> 5:03
+SISSI: Chris has got to choose my demo, he’s got a good ear for talent,
+and then I’ll be the greatest DJ star of all time.
+===>
+SISSI: Chris has got to choose my demo, he’s got a good ear for talent
+and then I’ll be the greatest DJ star of all time.
+=> No comma needed after conjunctions (in this case "and")
+
+===> 6:03
+ODD: Hey Sissi your stretch limo have a flat tire?
+==>
+ODD: Hey Sissi, your stretch limo have a flat tire?
+=> commas follow premises, think of commas as a place to pause when talking
+
+===> 614
+==>
+Well anyway, you’re going to love it.
+=> Droped line
+
+===> 828
+That’s fantastic it’s what I’ve been looking for all bay to day.
+==>
+That’s fantastic it’s what I’ve been looking for all day, today.
+
+===> 904
+ULRICH: Odd, it’s not in the bank just yet.
+==>
+ULRICH: Odd, it’s not in the bag just yet.
+=> bag not bank
+
+===> 1148
+And as it is you watch your step, I got my eye on you.
+We’ll discuss this later.
+==>
+And I suggest you watch your step, I got my eye on you.
+We’ll discuss this later.
+
+
+===> 1158
+ODD & ULRICH: A polymorphic spectre!
+==>
+DEFAULT: A polymorphic spectre!
+=> Just DEFAULT if multiple people, aegisub doesn't recognize multiple actors on the same line
+
+===> 1326
+JIM: Dig us through immediately, unless you’d rather settle this in the principal’s office.
+==>
+JIM: Take us to her immediately,
+unless you’d rather settle this in the principal’s office.
+
+===>1745
+JERMIE: {\i1}Okay. First let me program an Overwing.
+
+Transfer Ulrich.{\i0}
+Transfer Odd.
+==>
+JERMIE: {\i1}Okay. First let me program an Overwing.
+
+{\i1}Transfer Ulrich.{\i0}
+Transfer Odd.
+=> Refer to the guide, aegisub will not carry over the formatting when there is a full stop line break between the two lines
+

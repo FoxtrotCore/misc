@@ -1,0 +1,394 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+AELITA: Aah!
+AELITA: Say, Odd, why do you always
+AELITA: have to wait for the last second?
+ODD: Because it’s more fun, that’s why!
+AELITA: Aah!
+AELITA: Is that what you call fun?
+AELITA: Looks more like\Ninsanity if you ask me.
+ODD: Oh, really?
+ODD: You mean there’s a difference?
+ODD: Ha-ha-ha-ha!
+ODD: Thanks, Yumi!
+YUMI: Don’t mention it.
+ULRICH: Hiya-a-a--ah!
+JEREMIE: Odd and Aelita,\Nyou’re only a few minutes
+JEREMIE: from the activated tower.
+ODD: Bummer.
+ODD: I was just starting to enjoy myself.
+JEREMIE: Careful! Behind you!
+AELITA: Wh--aah!
+ODD: Well, at last, some action!
+ODD: Sorry, Aelita!
+ODD: We’re gonna have to jump!
+AELITA: (SIGHS)
+ODD: Hurry. I’ll cover you.
+ODD: Laser arrow!
+SCYPHOZOA: (SCREECHING)
+YUMI: Hiyah!
+JEREMIE: Good job, Yumi!
+MUSIC: (SERENE MUSIC)
+MUSIC: (CELESTIAL HUMMING)
+AELITA: All done, Jeremie.
+AELITA: The tower’s been deactivated.
+JEREMIE: Okay.
+JEREMIE: I’ll start the return\Nand get you all home.
+YUMI: Really? Why?
+YUMI: XANA didn’t even have time\Nto launch an attack on earth.
+JEREMIE: You can’t be too careful.
+ULRICH: Uh, may I remind you that
+ULRICH: going back in time\Nmakes XANA stronger?
+JEREMIE: I know what I’m doing, alright?
+ODD: Well, if you know,\Nthen explain it to us!
+JEREMIE: Just trust me, okay?
+AELITA: Jeremie.
+AELITA: That’s not the point.
+JEREMIE: That’s my final answer.
+JEREMIE: Return to the past now.
+DEFAULT: (WHIRRING DOWN)
+ULRICH: Jeremie’s really becoming a pain.
+ULRICH: He just flies off the handle\Nfor no reason at all.
+ULRICH: He’s like a time bomb.
+YUMI: Who knows.\NMaybe he’s got family problems.
+ODD: Or else, he’s only just realized
+ODD: he has a split personality\Nand that when the moon is full
+ODD: he becomes the\Nson of Doctor Shrank!
+ODD: Capable of grafting animal\Nbody parts onto human beings!
+ODD: And he now knows\Nthat he must face up
+ODD: to a fate worse than death.
+ULRICH: You’ve been watching\NHorror at the Hospital again, huh?
+ODD: How can anyone pass up\Nsuch a fantastic program?
+ULRICH: Oh, there he is.
+ODD: How’s life, Einstein?
+AELITA: Where were you?
+JEREMIE: In my room. Why?
+JEREMIE: Is there a law against it?
+YUMI: Chill, will you?\NWe were worried, that’s all.
+JEREMIE: I’m a big boy now,\Nso just get off my back.
+ULRICH: Hey, you might just\Nhave something there
+ULRICH: with your Doctor Shrank theory.
+ODD: Ah, you see? I told you so.
+ODD: Right. In the meantime,
+ODD: I’ve also got to face\Na fate worse than death.
+ULRICH: What’s that?
+ODD: Misses Meyer’s class.
+MRS. MEYER: Thales' property allows us\Nto calculate length.
+MRS. MEYER: For example, in a\Ntriangle marked A, B, C
+MRS. MEYER: with straight lines called\NRS and BC, which are parallel.
+MRS. MEYER: First, we calculate X.
+MRS. MEYER: Then, SC.
+MRS. MEYER: Hypothetically, ABC is a triangle.
+MRS. MEYER: R is a point on AB.\NN is a point on AC.
+DEFAULT: (SILENCE)
+DEFAULT: (FOOTSTEPS ECHO)
+MRS. MEYER: …equals seven times eight.
+MRS. MEYER: 10𝔁 equals 56.
+MRS. MEYER: And that’s it.
+MRS. MEYER: It’s rather simple in the end.
+JEREMIE: Mam.
+MRS. MEYER: Uh, yes, Jeremie?
+MRS. MEYER: Question?
+JEREMIE: May I go to the infirmary?
+MRS. MEYER: Oh. Yes, of course.
+AELITA: Do you want me\Nto come with you?
+JEREMIE: No.
+DEFAULT: (STING)
+YUMI: Jeremie skipped history class?
+ULRICH: And gym class, too.
+ULRICH: And now he’s skipping lunch.
+ODD: Gym class and lunch\NI can understand,
+ODD: But skipping history class\Nis not Jeremie’s style at all.
+AELITA: I’m gonna check his room.
+JEREMIE: Yes?
+AELITA: It’s me.
+AELITA: I brought your notes from the\Nclasses that you missed this morning.
+JEREMIE: Put them down on the bed.
+AELITA: Jeremie, if there’s anything wrong,
+AELITA: you know you can\Ntalk to me about it, right?
+JEREMIE: What’s up with you guys?
+JEREMIE: There’s nothing wrong with me.\NI’m just working, that’s all.
+JEREMIE: I’ve almost found the antivirus\Nwhich will free you from XANA.
+JEREMIE: Isn’t that worth\Nspending some time on?
+AELITA: Yes, of course, but…
+AELITA: You’ve been acting strange recently.
+AELITA: You should take a break\Nfrom time to time.
+JEREMIE: Oh, yeah.
+JEREMIE: Does XANA take breaks?\NNo.
+JEREMIE: So, what do you want?
+JEREMIE: You want him to\Nsteal your memory?
+AELITA: I really don’t want\Nto lose you, Jeremie.
+AELITA: And I can hardly\Nrecognize you anymore.
+JEREMIE: Aelita.
+JEREMIE: there’s something\NI have to tell you.
+SFX: (BEEPING)
+JEREMIE: Huh?
+JEREMIE: You see!
+JEREMIE: I told you XANA\Nnever takes a break.
+YUMI: You sure you’re done now?
+DEFAULT: (CELL PHONE RINGS)
+JEREMIE: SOS XANA.
+YUMI: Okay, Jeremie.\NWe’re on the way.
+JEREMIE: Hurry up.
+YUMI: XANA has launched an attack.
+YUMI: We have to go to the factory.
+ROSA: You over there!
+ROSA: Sit back down!
+ROSA: I said sit down!
+ROSA: (GRUNTS)
+ODD: I shouldn’t have said\Nher mashed potatoes
+ODD: looked like barf, I guess.
+YUMI: If you ask me, this looks\Nmore like a XANAfication.
+YUMI: Cover me.
+YUMI: I’ll try to reach Aelita\Nand Jeremie at the factory.
+ODD: No problemo.
+ODD: Ulrich, on three.
+ODD: One, two…
+ODD: three!
+ROSA: Hey!
+ODD: Ready for another round?
+ODD: It’s not every day\Nwe get the opportunity
+ODD: to break up the place!
+JEREMIE: The activated tower\Nis in the mountain sector.
+AELITA: Well, we’ll just have to\Nwait for the others.
+JEREMIE: What on earth\Nare they doing?
+YUMI: They’re doing what they can.
+YUMI: XANA has possessed Rosa.
+YUMI: We’ll have to make do\Nwithout them.
+JEREMIE: Hurry up.
+JEREMIE: I’ll start the virtualization process.
+JEREMIE: Transfer Yumi.
+JEREMIE: Transfer Aelita.
+JEREMIE: Scanner Yumi.
+JEREMIE: Scanner Aelita.
+JEREMIE: Virtualization.
+JEREMIE: The activated tower should be\Nstraight ahead of you.
+YUMI: We can see it, Jeremie.
+YUMI: But there’s also an army\Nof monsters blocking our way.
+YUMI: I have a funny feeling\Nwe should take cover.
+YUMI: Come on.
+JEREMIE: Yumi, Aelita, are you okay?
+YUMI: We’d be a lot better if you\Ncould materialize the overwing.
+JEREMIE: Okay. Coming up.
+ODD: Jeremie,
+ODD: How’s it going on your end?
+ODD: 'Cause over here,\Nwe’re starting to run out of ammo.
+ODD: Jeremie, you’d better hustle.
+ODD: May I remind you that Rosa’s\Nspecialty is chopped sirloin?
+JEREMIE: Come on, ladies!\NGet a move on!
+JEREMIE: Odd and Ulrich are\Nin a really bad way.
+YUMI: No kidding.\NAll we need here are
+YUMI: some sandwiches\Nfor a nice picnic.
+AELITA: We’ll never get through.
+YUMI: Hold on a second.\NI’ve got a little idea.
+AELITA: Little or big, it doesn’t matter\Nas long as it works.
+ROSA: (GRUNTING)
+ULRICH: Here she comes.
+ULRICH: Now I know what Tweety\Nfeels like against Sylvester.
+ODD: Jeremie, what are\Nyou guys waiting for?
+JEREMIE: Aelita’s in the tower.
+JEREMIE: Just hang in there\Nfor another 30 seconds.
+ODD: 30 seconds!?
+ODD: That’s like an eternity!
+ODD: Jeremie, I think this calls for\Na return to the past, don’t you?
+JEREMIE: Right. I’m launching it. Get ready.
+JEREMIE: Return to the past now.
+ULRICH: What’s he up to?
+ULRICH: He should be here already.
+AELITA: Why don’t we go check his room?
+AELITA: Jeremie!
+ODD: Jeremie, wake up! It’s terrible!
+ODD: Aelita has fallen in love with Herb!
+ODD: No reaction.
+ODD: This is really serious.
+YOLANDA: Right. I’m calling the hospital.
+AELITA: Look!
+AELITA: His eyelids are moving.
+YOLANDA: He must be dreaming.
+DEFAULT: (DEEP DRONE)
+DEFAULT: (FOOTSTEPS ECHO)
+JEREMIE: (PANTING)
+ULRICH: What could’ve happened to him?
+AELITA: Something must’ve happened\Nduring the last return to the past.
+YUMI: XANA?
+AELITA: I have no idea.
+AELITA: But I think it’s worth\Nchecking out the supercomputer.
+ODD: I’ll go with you.
+YUMI: Should we search Jeremie’s room?
+ULRICH: I really don’t want\Nto do that, but…
+ULRICH: Nothing special.
+ULRICH: Except that I just\Nfound out that Jeremie
+ULRICH: still wears underwear\Nwith kangaroos on them.
+ULRICH: I’ll have to tell him\Nto move on to boxers.
+YUMI: No activated towers.
+YUMI: But there’s a ton of files.
+YUMI: Hey, I can’t open this one.
+YUMI: It’s called, “My Journal.”
+AELITA: The logs are all normal.
+AELITA: There certainly was a\Nmajor discharge of energy
+AELITA: during that last\Nreturn to the past, though.
+AELITA: But they’re no different from\Nany of the previous returns to the past.
+AELITA: Ulrich?
+ULRICH: We need you.
+ULRICH: Can you meet us\Nin Jeremie’s room?
+AELITA: Okay.
+AELITA: There. And I…
+AELITA: Got it.
+AELITA: It wasn’t easy, but I got it.
+AELITA: These are video files.
+YUMI: Just open the first one.
+JEREMIE: Today, I have decided\Nto start a video journal.
+JEREMIE: A bit like the diary\Nthat Franz Hopper kept.
+JEREMIE: This way, if anything\Nhappens to me,
+JEREMIE: others might be able\Nto continue my research.
+JEREMIE: My search to\Nfind the antivirus
+JEREMIE: which will free\NAelita from XANA
+JEREMIE: has never been\Ncloser to total success.
+JEREMIE: And it’s thanks to\NFranz Hopper’s diary
+JEREMIE: and thanks to the data\Nrecovered from sector five
+JEREMIE: that I was able to\Ndecode part of his diary
+JEREMIE: that explains how to\Nuse the returns to the past
+JEREMIE: to logarithmically\Nincrease your intelligence.
+JEREMIE: I immediately tried it.
+JEREMIE: It’s amazing.
+JEREMIE: It’s as if my brain suddenly\Nhad the processing power
+JEREMIE: of 10 computers linked in series.
+AELITA: A neuronal headset.
+YUMI: Open the most recent entry.
+AELITA: This one’s from yesterday.
+JEREMIE: Every time I use the headset,
+JEREMIE: my mental and physical health\Ngets worse and worse.
+JEREMIE: But I’m moving so far\Nforward in my research.
+JEREMIE: I can’t stop\Nthis close to success.
+ULRICH: That’s all we needed.
+AELITA: Is there anything\Nwe can do to save him?
+ODD: Let’s go to the factory.
+YUMI: I’ll meet you there.
+YUMI: First, I have to\Nstop by the infirmary.
+YUMI: I want to make sure\Nthat XANA’s attack
+YUMI: isn’t directed at Jeremie.
+MR. DELMAS: Come with me.\NThere are papers we have to sign.
+DEFAULT: (SINISTER MUSIC)
+DEFAULT: Hey! My ambulance!
+YUMI: Is Jeremie in there?
+YOLANDA: Yes, but he isn’t driving it.
+YUMI: (PANTING)
+YUMI: Aelita, XANA has taken\Ncontrol of Jeremie’s ambulance.
+YUMI: I’m gonna try\Nto do something,
+YUMI: but I’m really\Ncounting on you guys.
+AELITA: Okay.
+AELITA: We’ll go as fast\Nas we can, I promise.
+AELITA: Odd, Ulrich,\Nare you in position?
+ODD: Ready.
+ULRICH: Ready.
+AELITA: Virtualization in 30 seconds.
+AELITA: I’ll be right there.
+AELITA: The tower is that way.
+AELITA: Sorry, I couldn’t\Nmaterialize the vehicles.
+AELITA: We’ll have to go on foot.
+YUMI: Jeremie!
+JEREMIE: (PANTING)
+YUMI: Jeremie!
+YUMI: Jeremie, wake up!
+YUMI: Jeremie!
+YUMI: Jeremie!
+YUMI: It’s me, Yumi!
+YUMI: Wake up!
+YUMI: Wake up!
+YUMI: Jeremie! Jeremie…
+JEREMIE: Yumi, what’s going on?
+YUMI: Just…huge problems.
+YUMI: Same old routine.
+YUMI: Before we can do anything else,\Nwe have to get out of here.
+JEREMIE: Hey, don’t you think we ought\Nto stop the ambulance first?
+YUMI: Well, of course I do,\Nbut do you mind telling me how?
+YUMI: Make it fast because we are heading\Nstraight for the river.
+JEREMIE: Huh?!
+AELITA: There!
+AELITA: (GASPS)
+TARANTULA: (SCREECHING)
+ODD: Maybe you shouldn’t have\Nsaid it so loud.
+ULRICH: I’ve got an idea.
+ODD: I love it when you say that.
+ODD: Laser arrow!
+DEFAULT: (SCREECHING)
+YUMI: (GRUNTS)
+YUMI: Hurry!
+YUMI: Oh, darn it!
+YUMI: Oh, no!
+YUMI: Help had better be\Non the way, like, now.
+ODD: You got any other\Nbrilliant ideas, Ulrich?
+ULRICH: Uh…well…
+ULRICH: Aah!
+ODD: Man, that was not cool.
+AELITA: Odd, watch it!
+YUMI: Ulrich! Odd! Aelita,\Nare you there?
+YUMI: Ulrich!
+ULRICH: Yumi, are you okay?
+YUMI: To tell the truth, uh, no.
+ODD: Now the problem is\Nhow to reach the tower.
+ULRICH: Yeah. And fast.
+ULRICH: Yumi and Jeremie\Nhave gone for a dip
+ULRICH: in an ambulance at\Nthe bottom of the river.
+ODD: Just a little tarantula\Nto get rid of first.
+ODD: Shield!
+AELITA: Odd, leave it to me.
+ODD: Nice one.
+AELITA: (GASPS)
+AELITA: Aah!
+ULRICH: Yumi, we got it.
+ULRICH: Aelita has deactivated the tower.
+YUMI: Super. Now we can\Ndrown in peace.
+YUMI: Ulrich, we’re still at\Nthe bottom of the river.
+YUMI: The only thing that\Ncan save us now
+YUMI: is a return to the past.
+ULRICH: But I have no idea\Nhow to do that.
+JEREMIE: Put me on.
+JEREMIE: Ulrich, I need you to do\Nexactly what I say, okay?
+ULRICH: Yeah. Right. Uh-huh.
+ULRICH: Y-Yes--wait, wait!
+ULRICH: N-Not so fast!
+ULRICH: Where’s the button?\NI-I don’t see it.
+YUMI: Quickly!
+JEREMIE: On the right.
+JEREMIE: On the upper right\Nof the keyboard!
+JEREMIE: The jump button\Nin Ultimate Blaster!
+ULRICH: Uh, okay. I got it.
+ULRICH: Return to the past now.
+ULRICH: Don’t tell me he’s\Nout cold again.
+AELITA: Jeremie, no!
+JEREMIE: I’ve checked the calculations\NI’ve done over the past few weeks.
+JEREMIE: Most of them are wrong.
+ODD: So, you were\Ndestroying your health
+ODD: without even improving\Nyour brain power.
+ODD: I wouldn’t call that a\Nvery good deal.
+YUMI: Do you think that XANA\Nhad something to do with it?
+JEREMIE: He certainly\Nput me on the trap,
+JEREMIE: but the information did come\Nfrom Franz Hopper’s diary.
+ULRICH: In some way, then, we have\Nnot just one, but two enemies.
+JEREMIE: Hopper is certainly\Nnot an enemy,
+JEREMIE: but his discoveries\Nare out of our league.
+JEREMIE: I think we’d better be careful.
+AELITA: For now, the important thing is
+AELITA: that you get back to\Nbeing your old self again.
+ODD: That’s for sure.
+ODD: Seeing you so grouchy,
+ODD: you were getting to\Nbe like Doctor Shrank,
+ODD: or even worse.
+ODD: Huh, Ulrich?
+ULRICH: Hey! I am not…
+ULRICH: …grouchy.
+DEFAULT: (LAUGHTER)
+JEREMIE: Yeah, right!\NGimme a break!
+ULRICH: Well, alright.
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

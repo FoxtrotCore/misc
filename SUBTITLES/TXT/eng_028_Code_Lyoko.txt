@@ -1,0 +1,392 @@
+﻿# Exported by Aegisub 3.2.2
+KARAOKE: ♪ Here we are going far ♪
+KARAOKE: ♪ to save all that we love ♪
+KARAOKE: ♪ If we give all we've got ♪
+KARAOKE: ♪ we will make it through ♪
+KARAOKE: ♪ Here we are like a star ♪
+KARAOKE: ♪ shining bright on your world today ♪
+KARAOKE: ♪ Make evil go away ♪
+KARAOKE: ♪ Code Lyoko we'll withstand it all ♪
+KARAOKE: ♪ Code Lyoko be there when you call ♪
+KARAOKE: ♪ Code Lyoko we will stand real tall ♪
+KARAOKE: ♪ Code Lyoko stronger after all ♪
+JEREMIE: Now, let's see.
+JEREMIE: Wow! Unbelievable!
+ULRICH: Come on, Jeremie, let's get a move on!
+ULRICH: Otherwise, there won't be\Nany hot water left.
+JEREMIE: Hey, remember The Hermitage?
+ULRICH: You mean the house where\NAelita had those visions?
+ULRICH: Bad memory, Jeremie.
+JEREMIE: Right. Well, I wanted to\Ncheck it out a little closer,
+JEREMIE: and I found out something amazing!
+ODD: What would really be amazing
+ODD: Is if there are still some eggs left\Nwhen we get down to breakfast!
+JEREMIE: Odd, you're a real walking stomach,\Nyou know that?
+ODD: And you're a walking brain!
+ODD: You see? We compliment each other!
+JEREMIE: I did a little research to find out\Nwho that old house belonged to,
+JEREMIE: and I came across a restricted access site.
+JEREMIE: It took me most of the night to hack into it,
+JEREMIE: but it was worth it!
+JEREMIE: I found a deed signed\Nby a Mr. Franz Hopper.
+JEREMIE: Seems that he's the owner.
+ULRICH: And do you think it has\Nsomething to do with Lyoko?
+ODD: Ulrich, there's a secret\Nunderground passage
+ODD: into the sewers from\Nhis yard, believe it or not,
+ODD: so the guy must've had something\Nto do with the supercomputer!
+JEREMIE: Exactly.
+JEREMIE: So, I did a search on\NFranz Hopper, and guess what.
+JEREMIE: He was a science teacher\Nright here at Kadic Academy.
+JEREMIE: Is that weird or what!
+DEFAULT: (WEARY CHATTER)
+SISSI: Ha!
+DEFAULT: Finally! It's about time!
+MILLY: Every morning, it's the same thing!
+MILLY: Yeah. But things might start\Nmoving now that Sissi's done.
+SISSI: Shut up, kiddies!
+SISSI: Poor thing!
+SISSI: You'll be here for\Nanother two hours!
+SISSI: Why not go upstairs?
+SISSI: There's some showers free up there,\Nand not a girl in sight.
+DEFAULT: (CLAMORING)
+ODD: The girl's showers\Nare downstairs, Aelita!
+JIM: Aelita Stones! Hey!
+JIM: what do you think you're doing here?
+ULRICH: Please go easy on her, Jim.
+ULRICH: She's new here.
+JIM: Right. Well, new or not,
+JIM: a young lady has no business\Nin the boy's showers.
+AELITA: But I-I thought that--
+JIM: I don't want to hear your excuses!
+JIM: Pull that again, and you go\Nstraight to the principal's office!
+JIM: Hmph!
+SISSI: Well, Miss Einstein,\Nit's just like I said, huh.
+SISSI: Not a single girl\Nin these showers.
+ULRICH: Sissi, we're sick of\Nyour bad jokes, so chill.
+ULRICH: Can't you give Aelita\Na break for once?
+ULRICH: You knew she'd believe you, right?
+SISSI: What can I say, Ulrich sweetie,
+SISSI: she's gonna have to adapt, isn't she?
+SISSI: It's a jungle out there.
+ODD: You can say that again!
+ODD: I'm looking at a\Nbig baboon right now!
+DEFAULT: (LAUGHS)
+SISSI: Shut up, you!
+ODD: Sissi's such a brat.
+ODD: And to think you guys\Nactually kissed once.
+ULRICH: Hey, cool it, huh.
+ULRICH: That's ancient history.
+YUMI: So, you think the\Nowner of the Hermitage
+YUMI: and the science teacher\Nare the same person?
+ULRICH: Well, let's face it, huh.
+ULRICH: Finding two guys called Franz Hopper
+ULRICH: in a radius of less than half a mile
+ULRICH: would sure be a real coincidence.
+JEREMIE: Anyway, there's only\None way to be sure.
+JEREMIE: After history class, we have\Na study period in the library.
+JEREMIE: What do you say we do a little research\Nin the Kadic Academy archives?
+ODD: Good idea.
+AELITA: I'll go with you.
+JEREMIE: I don't think that's a good idea.
+JEREMIE: You already got into trouble\Nin the showers this morning.
+JEREMIE: if Jim catches you snooping\Naround in the archives,
+JEREMIE: you'll be suspended for sure.
+JEREMIE: Okay. See you later.
+JEREMIE: We'll meet you in the cafeteria.
+DEFAULT: (SCHOOL BELL RINGS)
+YUMI: Are you alright, Aelita?
+AELITA: I can't get used to living here.
+AELITA: I had another nightmare last night.
+AELITA: The same one.
+YUMI: You haven't even been here for a week yet!
+YUMI: You'll see. You'll feel better in no time.
+JEREMIE: E, F, G, H…
+JEREMIE: H for Hopper.
+MRS. WEBER: (HUMMING)
+ULRICH: Ah, shoot.
+MRS. WEBER: Shouldn't you be in class?
+MRS. WEBER: Well, children?
+ULRICH: We're looking for um…a teacher!
+MRS. WEBER: Oh, really? Which one?
+ULRICH: Misses Meyer.
+ODD: Mister Charden!
+DEFAULT: (LAUGH NERVOUSLY)
+JEREMIE: Hopper, Hopper…
+JEREMIE: Bingo!
+MRS. WEBER: Err…come to think of it,
+MRS. WEBER: at this time of day, if you\Ncan't find your teachers,
+MRS. WEBER: it probably means they're in class.
+JEREMIE: It's okay, guys!
+JEREMIE: I found Mrs. Hertz!
+JEREMIE: Mam.
+MRS. WEBER: (SIGHS)
+DEFAULT: Hey! What are you waiting for?
+DEFAULT: Come on, huh!\NWill you move it?
+ROSA: Well, sweetie!
+ROSA: Franks and beans or\Nsteak and potatoes?
+AELITA: Uh, well, uh…
+DEFAULT: Come on, hurry up!
+DEFAULT: We're starving over here!
+ROSA: Hmph.
+ROSA: Oh?
+DEFAULT: Our turn!
+DEFAULT: About time!
+ODD: Boy, that was a close one.
+ULRICH: Well?
+JEREMIE: No doubt about it.
+JEREMIE: I compared the teacher's signature
+JEREMIE: with the one on the property deed\NI found on the internet.
+JEREMIE: They're the same.
+ULRICH: Hmm.
+ULRICH: What if we had a look\Naround the Hermitage
+ULRICH: to find out more\Nabout this teacher?
+JEREMIE: Good idea.
+ODD: But…aren't we supposed to\Nmeet Aelita in the cafeteria now?
+JEREMIE: It'll only take a minute.\NShe won't mind waiting a little.
+AELITA: Yumi!
+SISSI: So?
+SISSI: Going back to the great white north?
+AELITA: Why not?
+AELITA: At least I'd feel at home there!
+ULRICH: Still looks as creepy as ever.
+ULRICH: What are we looking for?
+JEREMIE: How should I know?
+JEREMIE: If this Franz Hopper guy\Nhas anything to do with XANA,
+JEREMIE: maybe we'll find some information\Nabout Aelita's virus for a start.
+ULRICH: Well?
+JEREMIE: Not much. Physics textbooks.
+JEREMIE: Planck, Heisenberg, Schrödinger…
+JEREMIE: Hey!
+JEREMIE: What's this doing here?
+ULRICH: "The Tunic Wars?"
+ULRICH: What's that?
+JEREMIE: Punic, not tunic.
+JEREMIE: The war between the Romans\Nand the Carthaginians.
+JEREMIE: We studied it last year.
+JEREMIE: Don't you remember anything?
+ULRICH: No.
+ODD: You really are lame in history.
+JEREMIE: You see all these notes?
+JEREMIE: I'm sure Hopper wrote them.
+MRS. HERTZ: Quiet, please. Where's Aelita Stones?
+MRS. HERTZ: Jeremie, do you know\Nwhy Aelita isn't here?
+JEREMIE: Aelita? Huh!
+ODD: Uh…huh?
+JEREMIE: Um…sorry, mam, I don't.
+SISSI: Well, I do, mam!\NShe went back to Canada!
+JEREMIE: Canada?
+SISSI: Yeah, that's what she told me!
+SISSI: She even said, "At least I\Nfeel at home there."
+MRS. HERTZ: Elizabeth, if you continue to\Ndisrupt the class, I warn you,
+MRS. HERTZ: I will send you to your father's office.
+SISSI: (mutters):\NIt's Sissi, not Elizabeth!
+SISSI: I hate being called Elizabeth!
+JEREMIE: Mam, um, I don't feel very well.
+JEREMIE: Can I please go to the infirmary?
+MRS. HERTZ: Of course, Jeremie.
+ULRICH: Can we take him?
+ODD: Can we take him?
+MRS. HERTZ: Well, oh…
+MRS. HERTZ: Oh, alright, then.
+MRS. HERTZ: But don't dilly-dally!
+ODD: Jeremie, wait! Hey!
+ULRICH: Where are you going?
+JEREMIE: To the factory!
+ODD: You think Aelita's there?
+JEREMIE: She told Sissi she was\Ngoing back to Canada.
+JEREMIE: I think she meant, "I'm going back\Nto the place I came from,"
+JEREMIE: which means Lyoko.
+JEREMIE: Okay. I found her.
+JEREMIE: She virtualized herself all on her own.
+ODD: That's pretty weird.
+ODD: Why would she do that?
+ULRICH: Maybe she got homesick.
+JEREMIE: Does Yumi know?
+ULRICH: I left her a message.
+JEREMIE: Get to the scanner room. Hurry!
+JEREMIE: Aelita, can you hear me?
+JEREMIE: Answer me!
+JEREMIE: Ah, Yumi!
+YUMI: I got the message\Nat the swimming pool.
+YUMI: What's going on?
+JEREMIE: Run to the scanner room.
+JEREMIE: Ulrich and Odd are already there.\NI'll explain later.
+AELITA: Jeremie, help!
+JEREMIE: Aelita! Don't worry.\NThe others are on the way.
+JEREMIE: Transfer Ulrich.
+JEREMIE: Transfer Odd.
+JEREMIE: Transfer Yumi.
+JEREMIE: Scanner and virtualization!
+JEREMIE: Do you see her?
+ULRICH: Not yet.
+JEREMIE: She's due north!
+ULRICH: Let's go.
+AELITA: (PANTING)
+AELITA: Jeremie, I'm surrounded!
+JEREMIE: Hurry up! Aelita's fallen into a trap!
+AELITA: (SCREAMS)
+ODD: Go ahead, Ulrich.
+ODD: With your speed,\Nyou'll get there first.
+ULRICH: You're right.
+YUMI: Too late.
+YUMI: Krab.
+JEREMIE: There's another one behind you!
+ULRICH: Okay. Battle stations.
+JEREMIE: Aelita's bought some time.
+ULRICH: Your move, Odd.
+ODD: I love this.
+YUMI: Hiyah!
+ODD: Laser arrow!
+JEREMIE: Nice going, guys.
+JEREMIE: But hurry it up!
+JEREMIE: The bloks are catching up to Aelita.
+ODD: What are you waiting for? Call us a taxi!
+JEREMIE: It's on the way.
+AELITA: Hurry, Jeremie!
+JEREMIE: Vehicle materialization.
+ODD: Here we go!
+JEREMIE: The others are coming to get you.
+AELITA: (SCREAMS)
+JEREMIE: Aelita!
+ODD: What? She's already gone?
+ODD: She must really be mad at us.
+JEREMIE: This is no time for jokes, Odd.
+JEREMIE: I've lost Aelita from my screens.
+YUMI: You…you mean she's…
+JEREMIE: No! Uh, I doubt it.
+JEREMIE: I think she's disappeared\Nfrom the screens as if…
+JEREMIE: Wait.
+JEREMIE: What's going on?
+JEREMIE: Got it! I got a signal!
+JEREMIE: A very weak one, but…
+JEREMIE: Hey, that's strange.
+JEREMIE: Aelita's not in this sector anymore.
+JEREMIE: She's not in any sector, actually.
+ULRICH: Wait.
+ULRICH: Can you explain that a little better?
+JEREMIE: No. Not really.
+JEREMIE: Let's just say she's in\Na sector…that doesn't exist.
+JEREMIE: A fifth sector.
+ODD: Huh?
+: A fifth sector?
+ODD: Have you gone bananas or what!
+JEREMIE: No. If I could just fix this thing!
+JEREMIE: Maybe I…
+JEREMIE: "Welcome to Carthage?"
+DEFAULT: (WHIRRING)
+YUMI: Is this gonna take long, Jeremie?
+JEREMIE: I hope not.
+ODD: Uh-oh. Now things are\Nreally starting to buzz.
+ULRICH: Super sprint!
+ULRICH: Jeremie, what are we doing?
+JEREMIE: Wait. I've got a little problem.
+ODD: That's no biggie!\NAs long as it's not a biggie!
+JEREMIE: I need a password.
+JEREMIE: Something to do with Carthage, I think.
+ULRICH: This is no time for a history lesson!
+JEREMIE: A history lesson!\NThat's exactly what I need!
+JEREMIE: That'd be too easy.
+ODD: Laser arrow!
+JEREMIE: Hannibal…
+JEREMIE: Carthage general…
+JEREMIE: His father? No…
+ULRICH: Hey, Jeremie!\NAny day now!
+JEREMIE: Hannibal's sister? Salambo?
+DEFAULT: (MOANS)
+JEREMIE: The nemesis of Carthage?
+JEREMIE: No dice!
+ODD: Whenever you're ready, Einstein!
+JEREMIE: Hey, you guys, I'm doing my best!
+YUMI: Jeremie, we're not gonna last much longer.
+JEREMIE: I'm sure I'm gonna get it!
+YUMI: Oh, no. I can't believe this.
+JEREMIE: I'm going around in circles!
+JEREMIE: "Welcome to Carthage!"
+JEREMIE: Let's see. You've got to\Ngo into Carthage…
+JEREMIE: You have to defeat Carthage.
+JEREMIE: Who defeated the Carthaginians?
+JEREMIE: Scipio!
+JEREMIE: S-C-I-P-I-O!
+JEREMIE: Come on!
+JEREMIE: I can't believe it!
+YUMI: Hey, the hornets are calling it quits.
+ODD: Come back, you cowards!
+ULRICH: What's that ball doing there?
+JEREMIE: I think the codeword\NScipio made it appear.
+YUMI: Hey!
+ULRICH: Hey!
+YUMI: Whoa!
+ULRICH: How did you do that, Jeremie?
+JEREMIE: Let's just say I got a little\Nhelp from Franz Hopper.
+JEREMIE: Welcome to sector five, everyone.
+YUMI: What does it look like?
+JEREMIE: A sphere that…
+JEREMIE: Uh…it's probably bad news.
+AELITA: Jeremie! Jeremie!
+JEREMIE: I think Aelita is being attacked\Nand time is almost up!
+YUMI: Can you guide us?
+JEREMIE: Take the footbridge behind you.
+JEREMIE: Hurry up! This is no time for sightseeing!
+AELITA: (SCREAMS)
+ULRICH: Super sprint!
+JEREMIE: Hey, what's going on?
+ULRICH: Uh…Jeremie, there's\Nthis thing in here.
+JEREMIE: Destroy it! That thing is\Ntaking away Aelita's memory!
+JEREMIE: Something weird's happening.
+JEREMIE: Oh, no! That can't be good!
+JEREMIE: Get out of there!
+ULRICH: Got it.
+JEREMIE: Odd, beat it!
+JEREMIE: Just in time!
+AELITA: (PANTING)
+ULRICH: Now, what?
+JEREMIE: Wait. I'm re-entering the code.
+JEREMIE: Scipio.
+ODD: We've got your ticket out of here, Aelita.
+JEREMIE: And there you go.
+JEREMIE: I'm bringing you in right now.
+JEREMIE: Aelita, all you have to do\Nis get to the tower, and I'll
+JEREMIE: rematerialize you.
+JEREMIE: Materialization Yumi.
+JEREMIE: Materialization Odd.
+JEREMIE: Materialization Ulrich.
+JEREMIE: (SIGHS)
+ODD: You should've seen it, Jeremie.
+ODD: There were all these creepy things,
+ODD: and in the middle, this kind of\Nhuge jellyfish holding Aelita!
+KIWI: (GROWLS)
+AELITA: Can you imagine? That thing\Nwas stealing my memory.
+JEREMIE: Yeah. One thing is sure --
+JEREMIE: XANA wants to get something\Nout of you, but what?
+JEREMIE: That's what we have to find out.
+ULRICH: I can't wait to go back to the fifth sector.
+ULRICH: There's so much to explore there.
+YUMI: I'll go with you.\NIt'll be totally awesome.
+JEREMIE: Whoa, not so fast!
+JEREMIE: I have to study it first!
+JEREMIE: For now, it's uncharted territory,
+JEREMIE: which means it could be\Ntotally dangerous!
+AELITA: Um…you're not angry at me for\Ngoing back to Lyoko by myself?
+AELITA: I…I don't know what got into me.
+AELITA: I just needed to…
+JEREMIE: You don't have to explain, Aelita.
+JEREMIE: We understand what happened.
+JEREMIE: And we're not angry at all.
+JEREMIE: I promise to spend\Nmore time with you.
+ODD: Yeah! And if you want,
+ODD: I'll teach you plenty of ways\Nto tell Sissi to go to--
+SISSI: Odd!
+SISSI: Do you know what your\Nfilthy mutt did in the shower?
+SISSI: Oh!
+SISSI: What a pretty picture!
+SISSI: So, you've finally found\NMisses Einstein!
+ULRICH: Yeah, while you were taking\Nyour third shower of the day.
+SISSI: Well, you know, Ulrich dear,
+SISSI: a beautiful flower like me\Nneeds to be watered often!
+ODD: You--
+AELITA: Yes, you never know!\NYou might just sprout a brain!
+DEFAULT: (LAUGHTER)
+SISSI: Morons!
+ULRICH: I think you can give Odd lessons, Aelita.
+YUMI: You sure learn fast!
+ADVERT: CLOSED CAPTIONING PROVIDED BY\NREDDIT.COM/R/CODELYOKO

@@ -1,0 +1,50 @@
+ENGLISH TITLES AND DESCRIPTIONS: https://goo.gl/zPvgJN
+FRENCH  TITLES AND DESCRIPTIONS: https://goo.gl/rGPx12
+
+Checklist Per Video:
+
+[ IN "Info & Settings" Under "Basic Info"]
+
+1. Set video status to Scheduled
+    *. See "TCLA Shedule" on the Google-Drive for appropriate time
+2. Label the correct title
+    a. Correct language headder
+    b. Correct season and episode numbers
+    c. Correct title
+3. Delete the parts of the default description template that do not match the video language 
+4. Insert the correct episode description corresponding to the language of the video
+5. Upload the correct custom thumbnail corresponding to both the language and episode number
+6. If no playlist is set, assign video to a playlist corresponding to its language
+
+>> See the appropriate "TITLES AND DESCRIPTIONS" Document for copy and pasteable titles and descriptions <<
+
+[ IN "Info & Settings" Under "Translations"]
+
+7. Set video "Original Language" to the corresponding language of the video
+8. Set tranlation descrption
+    a. Add new language (per different language)
+    b. Copy and paste video title
+    c. Change the episode title from the default video language to the translated language
+        eg: if the French video is
+            [FRE] Code Lyoko - S1E06 - Cruel Dilemme [1440p] [CC]
+        Change it to:
+            [FRE] Code Lyoko - S1E06 - Cruel Dilemma [1440p] [CC]
+    d. Insert the correct description template piece
+        *. See "[EN/FR] YOUTUBE DESCRIPTION TEMPLATE" on the Google-Drive for appropriate pieces
+    e. Insert the correct episode description template
+
+>> See the appropriate "TITLES AND DESCRIPTIONS" Document for copy and pasteable titles and descriptions <<
+    
+[ IN "Info & Settings" Under "Monetization"]
+
+9. Demonetize video 
+    a. Deselect Usage Policy [DEFAULT OFF]
+    b. Deselect Rent This Video [DEFAULT OFF]
+
+[ IN "Subtitles/CC" ]
+
+10. Set the default subtitle language to the corresponding language of the video
+11. Delete the Automatically Generated Subtitles
+    a. Enter the editor for the Auto-Generated Subs
+    b. unpublish it
+    c. Delete the draft
