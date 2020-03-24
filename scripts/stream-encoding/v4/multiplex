@@ -1,0 +1,695 @@
+#!/bin/bash
+
+#Script to generate Final Remux Matroska Files for FTF Episodes
+#Version 4
+
+# Reset
+Reset='\033[0m'       # Text Reset
+# Regular Colors
+Black='\033[0;30m'        # Black
+Red='\033[0;31m'          # Red
+Green='\033[0;32m'        # Green
+Yellow='\033[0;33m'       # Yellow
+Blue='\033[0;34m'         # Blue
+Purple='\033[0;35m'       # Purple
+Cyan='\033[0;36m'         # Cyan
+White='\033[0;37m'        # White
+
+# Program Constants
+ARGS=( "$@" )
+ARG_LENGTH=${#ARGS[@]}
+DEPS=( ffmpeg gsutil )
+EXE_NAME=$(echo $0 | rev | cut -d '/' -f 1 | rev)
+EXE_INSTALL_PATH="/usr/bin/$EXE_NAME"
+
+#Program Modes
+# - 0 = Master [DEFAULT]
+# - 1 = Subroutine
+# - 2 = Single Language
+REMUX_MODE=0
+#Force delete files that would be overwritten. Toggled on by -f
+FORCE_PURGE=0
+#Clear out temp folder after process completes, Toggled on by -c
+CLEAR_TEMP=0
+#Forces use of Subtitles, or quits process. Toggled on by -s
+FORCE_SUBTITLES=0
+#Forces use of Cover Art, or quits process. Toggled on by -i
+FORCE_IMAGE=0
+#Initial Working Directory
+PROJECT_DIR=$PWD
+#Display FFMPEG Commands and Output to Console to debug. Toggled on by -v
+DEBUG=0
+#Upload final result video after process completes successfully. Toggled on by -u
+UPLOAD=0
+#Path to Google Storage Bucket, must be used with U Flag
+GCS_BUCKET="gs://ftf-public/s"
+#Offset Constants
+OFFSETS=( 00:00:00.088 00:00:00.884 00:00:01.935 00:00:00.933 )
+
+function usage() {
+	echo -e "Usage: $EXE_NAME [OPTIONS] <Episode Number (0-95)>"
+	echo -e "\tSimple Options:"
+	echo -e "\t\t-[d/D]+Arg: Specifies the working directory for the files"
+	echo -e "\t\t-[s/S]+Arg: Forces the embed of the Subtitle File"
+	echo -e "\t\t-[i/I]+Arg: Forces the embed of a PNG in the output video"
+	echo -e "\t\t-[m/M]:     Specifies to create the Master Video (default)"
+	echo -e "\t\t-[l/L]+Arg: Specifies to create a single Language Video instead of Master [E = English, F = French]"
+	echo -e "\t\t-[f/F]:     Forces the deletion of previously generated temp files"
+	echo -e "\t\t-[p/P]+Arg: Only executes function specified"
+	echo -e "\t\t-[c/C]:     Clear temporary files generated only after successful completion"
+	echo -e "\t\t-[g/G]+Arg: Specifies the GCS bucket to upload to post-process (Default: $GCS_BUCKET)"
+	echo -e "\t\t-[u/U]:     Uploads to Google Cloud Storage post-process (requires gsutil)"
+	echo -e "\t\t-[h/H]:     Gets the help/usage menu"
+	echo -e "\t\t-[v/V]:     Enables verbose mode for $EXE_NAME"
+	echo -e "\tComplex Options:"
+	echo -e "\t\t--install: Automatically installs this program to $EXE_INSTALL_PATH"
+	echo -e "\t\t--help: Stop it, get some help"
+	exit 40
+}
+
+function files() {
+	echo -e "${Purple}Required Directories in Working Directory:$Reset"
+	echo -e "\t[source]: Folder with Source videos with Stream:a:0=French and Stream:a:1=English"
+	echo -e "\t[upscaled]: Folder with Upscaled Video"
+	echo -e "\t[subtitles]: Folder with Subtitles"
+	echo -e "\t[image]: Folder with Video Thumbnails"
+	echo -e "\t[extra]: Miscellaneous files required."
+	echo -e "${Purple}Required Files in 'extra' Directory:$Reset"
+	echo -e "\t[intro.mp4]: FTF Intro Video with audio Stream"
+	echo -e "\t[titles.txt]: Text File where every line is an Episode Title, line 1 = 'XANA Awakens' and so on"
+	echo -e "\t[descriptions.txt]: Text File where every line is an Episode Description, line 1 = 'Lorum..' and so on"
+	echo -e "${Purple}Generated Files in Extra Stuff Directory:$Reset"
+	echo -e "\t[blank#(1-4).aac]: blank audio stream at exact length of English Offsets for each season"
+	echo -e "\t[introAudioOnly.aac]: Intro audio stream only"
+	echo -e "\t[introVideoOnly.mkv]: Intro video stream only"
+	exit 50
+}
+
+function subroutines() {
+	echo -e "${Purple}Avaliable Subroutines:"
+	echo -e "\t[VE]: Video Extraction"
+	echo -e "\t[AE]: Audio Extraction"
+	echo -e "\t[VC]: Video Concatenation"
+	echo -e "\t[AC]: Audio Concatenation"
+	echo -e "\t[RE]: Remux English"
+	echo -e "\t[RF]: Remux French"
+	echo -e "\t[RM]: Remux Master"
+	exit 0
+}
+
+function say(){
+	MODE=""
+
+	if   [[ $1 == 1 ]]; then
+		MODE="${Blue}INFO${Reset}"
+	elif [[ $1 == 2 ]]; then
+		MODE="${Red}ERROR${Reset}"
+	elif [[ $1 == 3 ]]; then
+		MODE="${Yellow}WARN${Reset}"
+	fi
+
+	echo -e "[$MODE]: $2"
+}
+
+function install(){
+	say 3 "Installing $EXE_NAME to $EXE_INSTALL_PATH"
+
+	if [[ $0 == "/usr/bin"*  ]]; then
+		say 2 "${Yellow}$EXE_NAME is already installed, you dingus!\n\tThis instance of $EXE_NAME is currently running from $0${Reset}\n\tIf you'd like to install a new version of it, download it to somewhere outside of /usr/bin and run path_to_downloaded_version/$EXE_NAME --install"
+	else
+		if [ -f $EXE_INSTALL_PATH ]; then
+			say 3 "${Yellow}File exists at $EXE_INSTALL_PATH${Reset}"
+			confirm "Would you like to overwrite this file?" "Removing the pre-existing file!" "Did not install $EXE_NAME globally!"
+
+			if [[ $? == 1 ]]; then
+				sudo rm $EXE_INSTALL_PATH
+			else
+				exit 1
+			fi
+		fi
+
+		sudo mv $0 $EXE_INSTALL_PATH
+		sudo chown root $EXE_INSTALL_PATH
+		sudo chgrp root $EXE_INSTALL_PATH
+		sudo chmod 755 $EXE_INSTALL_PATH
+	fi
+
+	exit 0
+}
+
+#
+# 1: Yes/No question
+# 2: Confirm message
+# 3: Deny message
+#
+function confirm(){
+	local INPUT=""
+
+	while [[ $INPUT != "Y" && $INPUT != "N"  ]]; do
+		read -p "$1[Y/N]: " INPUT
+		INPUT=${INPUT^^}
+
+		if [[ $INPUT = "Y" ]]; then
+			say 3 "${Blue}$2${Reset}"
+			return 1
+		elif [[ $INPUT = "N" ]]; then
+			say 3 "${Blue}$3${Reset}"
+			return 0
+		else
+			say 2 "Invalid option: $INPUT"
+			continue
+		fi
+	done
+}
+#1 = Code, 2 = Code 0 Message, 3 = Code 1 Message
+parseReturn () {
+	if [ $1 -eq 0 ]; then
+		say 1 "$2$Reset"
+	else
+		say 2 "${Red}$3,$Reset Code: $1"
+		if [ $1 -eq 1 ]; then
+			confirm "Ignore Error and continue?" "Treating as intentional." "Gracefully Exiting"
+			if [[ $? == 0 ]]; then
+				exit 0
+			fi
+		else
+			exit 1
+		fi
+	fi
+}
+
+#1= File Directory, 2=EP
+find(){
+	echo $(ls -a "$1" | grep $2)
+}
+
+#1=Directory, 2=Name, 3=Necessary
+checkForFile () {
+	local FILE_NAME=""
+	if [ ! -d "$PROJECT_DIR/$1" ]; then
+		exit 1
+	fi
+	local FILE_NAME=$(find "$PROJECT_DIR/$1" "$EP")
+	if [ -z "$FILE_NAME" ]; then
+		exit 2
+	else
+		echo "$PROJECT_DIR/$1/$FILE_NAME"
+	fi
+}
+
+#1=CODE, 2=FOLDERNAME, 3=FOLDERTITLE, 3=BOOL_MANDATORY
+ifFailedToFindFile () {
+	if [ $4 -ne 1 ]; then
+		return
+	elif [ $1 -eq 1 ]; then
+		say 2 "${Red}$3 Directory: $PROJECT_DIR/$2 does not exist!\n\tPlease supply the necessary files in $3 directory!${Reset}"
+		files
+	elif [ $1 -eq 2 ]; then
+		say 2 "${Red}$3 File in: $PROJECT_DIR/$2 does not exist!\n\tPlease supply the necessary file in $3 directory with Episode Code $EP!${Reset}"
+		files
+	fi
+}
+
+setCurrentSeason () {
+	if [ $EP -lt 0 ]; then
+		say 2 "${Red}EP$EP Season not found${Reset}"
+		exit 7
+	elif [ $EP -eq 0 ]; then
+		CURRENTSEASON=0
+	elif [ $EP -le 26 ]; then
+		CURRENTSEASON=1
+	elif [ $EP -le 52 ]; then
+		CURRENTSEASON=2
+	elif [ $EP -le 65 ]; then
+		CURRENTSEASON=3
+	elif [ $EP -le 95 ]; then
+		CURRENTSEASON=4
+	else
+		say 2 "${Red}EP$EP Season not found${Reset}"
+		exit 7
+	fi
+	say 1 "Found Season $CURRENTSEASON for Episode $EP"
+}
+
+setCurrentOffset () {
+	#Proper Season Number should be guaranteed by setCurrentSeason
+	CURRENTOFFSET=${OFFSETS[$CURRENTSEASON - 1]}
+	say 1 "Found Offset: $CURRENTOFFSET for Episode $EP"
+}
+
+setMetaData () {
+	local LINE_NUM=$(($EPISODE_NUM+1))
+	TITLE="$(sed -n ${LINE_NUM}p "$PROJECT_DIR/extra/titles.txt")"
+	DESCRIPTION="$(sed -n ${LINE_NUM}p "$PROJECT_DIR/extra/descriptions.txt")"
+	say 1 "Episode Title: $TITLE"
+	say 1 "Episode Description: $DESCRIPTION"
+}
+
+createOffsetBlankStreams () {
+	for i in 1 2 3 4
+	do
+		FFARGS=()
+		if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+		FFARGS+=(-hide_banner);
+		if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+		#aevalsrc=0:s=48000
+		FFARGS+=(-t ${OFFSETS[$(($i-1))]} -f lavfi -i "anullsrc=channel_layout=stereo:sample_rate=44100" -vn -c:a aac "$PROJECT_DIR/extra/blank$i.aac");
+		if [ $DEBUG -eq 1 ]; then
+			(set -x; ffmpeg "${FFARGS[@]}")
+		else
+			ffmpeg "${FFARGS[@]}"
+		fi
+		parseReturn $? "${Yellow}Blank Stream created for Season $i" "Error Creating Blank Stream for Season $i"
+	done
+}
+
+videoExtraction () {
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$UPSCALED_VIDEO" -map 0:v:0 -c copy "$PROJECT_DIR/temp/V$EP.mkv");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}Extracted Video for EP$EP" "Error Extracting Video for EP$EP"
+}
+
+audioExtraction () {
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$SOURCE_VIDEO" -map 0:a:0 -vn -sn -c:a aac -b:a 128k "$PROJECT_DIR/temp/Afre$EP.aac");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}Extracted French Audio for EP$EP" "Error Extracting French Audio for EP$EP"
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$SOURCE_VIDEO" -map 0:a:1 -vn -sn -c:a aac -ar 48000 -b:a 128k "$PROJECT_DIR/temp/Aeng$EP.aac");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}Extracted English Audio for EP$EP" "Error Extracting English Audio for EP$EP"
+}
+
+videoConcatenation () {
+	echo "ffconcat version 1.0" > "$PROJECT_DIR/temp/concat.txt"
+	echo "file '$PROJECT_DIR/extra/introVideoOnly.mkv'" >> "$PROJECT_DIR/temp/concat.txt"
+	echo "file '$PROJECT_DIR/temp/V$EP.mkv'" >> "$PROJECT_DIR/temp/concat.txt"
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-f concat -safe 0 -i "$PROJECT_DIR/temp/concat.txt" -c copy "$PROJECT_DIR/temp/CV$EP.mkv");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}Concatenated Video for EP$EP" "Error Concatenating Video for EP$EP"
+}
+
+#1=LANG_CODE, 2=Include Blank
+audioConcatenation () {
+	echo "ffconcat version 1.0" > "$PROJECT_DIR/temp/concat.txt"
+	echo "file '$PROJECT_DIR/extra/introAudioOnly.aac'" >> "$PROJECT_DIR/temp/concat.txt"
+	if [[ $CURRENTSEASON != 0 && $2 == 1 ]]; then
+		echo "file '$PROJECT_DIR/extra/blank$CURRENTSEASON.aac'" >> "$PROJECT_DIR/temp/concat.txt"
+	fi
+	echo "file '$PROJECT_DIR/temp/A${1}$EP.aac'" >> "$PROJECT_DIR/temp/concat.txt"
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-f concat -safe 0 -i "$PROJECT_DIR/temp/concat.txt" -c copy "$PROJECT_DIR/temp/CA${1}$EP.aac");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}Concatenated English Audio for EP$EP" "Error Concatenating English Audio for EP$EP"
+}
+
+#1=LANG_CODE, 2=LANG_TITLE, 3=LANG_FULL
+languageRemux () {
+	#Single Audio + Video + Sub + Image
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$PROJECT_DIR/temp/CV$EP.mkv" -i "$PROJECT_DIR/temp/CA${1}$EP.aac" -c:v copy -c:a copy -metadata title="$TITLE" -metadata description="$DESCRIPTION" -metadata:s:a:0 title="$2" -metadata:s:a:0 language=$1 -movflags +faststart "$PROJECT_DIR/output/${EP}-${1}-code_lyoko.mkv");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}${3} Remux for EP$EP English Successful" "Error executing ${3} Remux for EP$EP English"
+}
+
+masterRemux () {
+	#Video + All Audio + Subs
+	local FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner)
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$PROJECT_DIR/temp/CV$EP.mkv" -i "$PROJECT_DIR/temp/CAeng$EP.aac" -i "$PROJECT_DIR/temp/CAfre$EP.aac")
+	if [ $USE_SUBTITLES -eq 1 ]; then FFARGS+=(-itsoffset 10 -i "$SUBTITLES"); fi
+	if [ $USE_IMAGE -eq 1 ]; then FFARGS+=(-attach "$IMAGE"); fi
+	FFARGS+=(-map 0:0 -map 1:0 -map 2:0 )
+	if [ $USE_SUBTITLES -eq 1 ]; then
+		FFARGS+=(-map 3)
+	fi
+	FFARGS+=(-c copy)
+	FFARGS+=(-map_metadata -1 -metadata "title=$TITLE" -metadata "description=$DESCRIPTION" -metadata "DATE_ENCODED=`date +'%F %T'`" -metadata "ENCODED_BY=FoxTrot Fanatics" -metadata "THANKS_TO=Tania Palumbo, Thomas Romain" -metadata "PUBLISHER=Moonscoop" -metadata "GENRE=Science Fiction" -metadata "CONTENT_TYPE=Cartoon" -metadata "SUMMARY=When a group of four boarding school students discover a supercomputer housed inside an abandoned factory, they find a virtual world called Lyoko and awaken a sentient multi-agent system virus that tries to take over the real world." -metadata "URL=https://foxtrotfanatics.com" -metadata:s:v:0 "title=FTF Upscaled Video" -metadata:s:a:0 "title=Offical English Dub" -metadata:s:a:1 "title=Offical French Audio" -metadata:s:a:0 language=eng -metadata:s:a:1 language=fre)
+	if [ $USE_SUBTITLES -eq 1 ]; then FFARGS+=(-metadata:s:s:0 "title=FTF English Subs" -metadata:s:s:0 language=eng -disposition:s:0 default); fi
+	if [ $USE_SUBTITLES -eq 1 -a $USE_IMAGE -eq 1 ]; then
+		FFARGS+=(-metadata:s:t mimetype=image/png -disposition:4 attached_pic)
+	elif [ $USE_IMAGE -eq 1 ]; then
+		FFARGS+=(-metadata:s:t mimetype=image/png -disposition:3 attached_pic)
+	fi
+	FFARGS+=(-movflags +faststart "$PROJECT_DIR/output/$EP-master-code-lyoko.mkv")
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Green}Final Remux for EP$EP Successful" "Error executing Final Remux for EP$EP"
+}
+
+function upload(){
+	say 1 "Uploading objects to $GCS_BUCKET from $1"
+	if [[  $DEBUG = 1 ]]; then echo "gsutil cp -r $1 $GCS_BUCKET"; fi
+
+	if [ -f "$FINAL_FILE" ]; then
+		gsutil cp $FINAL_FILE $GCS_BUCKET
+	else
+		say 3 "${Yellow} Final File: $FINAL_FILE does not exist!\n\tSkipping upload to GCS!${Reset}"
+	fi
+}
+
+#
+# Process all tokens
+#
+for (( i=0; i<$ARG_LENGTH; i++ )) do
+	# Get current and next arguments
+	ARG=${ARGS[i]}
+	NEXT_ARG=${ARGS[i + 1]}
+	#
+	# Check for flags
+	#
+	if [ ${ARG:0:2} = "--" ]; then
+		LET=${ARG:2}
+
+		if [ $LET = "install"  ]; then
+			install
+		elif [ $LET = "help" ]; then
+			usage
+		else
+			say 2 "${Red}Unrecognized complex option: $ARG${Reset}\n"
+			usage
+		fi
+	elif [ ${ARG:0:1} = "-" ]; then
+		LET=${ARG:1:1}
+		LET=${LET^^}
+
+		if [[ $LET = "H" ]]; then
+			usage
+		elif [ $LET = "D" ]; then
+			TEMP_DIR=${NEXT_ARG%/}
+			if [[ ! $PROJECT_DIR == /* ]]; then
+				PROJECT_DIR=$PROJECT_DIR/$TEMP_DIR
+			else
+				PROJECT_DIR=$TEMP_DIR
+			fi
+			i=$((i + 1))
+		elif [ $LET = "S" ]; then
+			FORCE_SUBTITLES=1
+		elif [ $LET = "I" ]; then
+			FORCE_IMAGE=1
+		elif [ $LET = "M" ]; then
+			REMUX_MODE=0
+		elif [ $LET = "P" ]; then
+			REMUX_MODE=1
+			if [[ "$NEXT_ARG" == "VE" || "$NEXT_ARG" == "AE" || "$NEXT_ARG" == "VC" || "$NEXT_ARG" == "AC" || "$NEXT_ARG" == "RE" || "$NEXT_ARG" == "RF" || "$NEXT_ARG" == "RM" ]]; then
+				REMUX_PART=$NEXT_ARG
+			else
+				say 2 "${Red}Unknown subroutine specified: $NEXT_ARG$Reset"
+				subroutines
+			fi
+			i=$((i + 1))
+		elif [ $LET = "F" ]; then
+			FORCE_PURGE=1
+		elif [ $LET = "C" ]; then
+			CLEAR_TEMP=1
+		elif [ $LET = "G" ]; then
+			GCS_BUCKET=$NEXT_ARG
+			i=$((i + 1))
+		elif [ $LET = "L" ]; then
+			if [ $NEXT_ARG = "E" -o $NEXT_ARG = "e" ]; then
+				REMUX_MODE=2
+				USE_OFFSET=1
+				LANG_CODE=eng
+				LANG_FULL=English
+				LANG_TITLE="Offical English Dub"
+			elif [ $NEXT_ARG = "F" -o $NEXT_ARG = "f" ]; then
+				REMUX_MODE=2
+				USE_OFFSET=0
+				LANG_CODE=fre
+				LANG_FULL=French
+				LANG_TITLE="Offical French Audio"
+			else
+				say 2 "${Red}Unrecognized Language: $NEXT_ARG${Reset}\n"
+				usage
+			fi
+			i=$((i + 1))
+		elif [ $LET = "U" ]; then
+			UPLOAD=1
+		elif [ $LET = "V" ]; then
+			say 1 "DEBUG MODE ENABLED"
+			DEBUG=1
+		else
+			say 2 "${Red}Unrecognized simple option: $ARG${Reset}\n"
+			usage
+		fi
+	fi
+done
+
+#
+# Main process
+#
+
+# Checks if there are enough args
+if [ $ARG_LENGTH -lt 1 ]; then
+	say 2 "${Red}Expected 1 arguments, got $ARG_LENGTH!${Reset}\n"
+	usage
+fi
+
+# Check / convert user input
+
+EPISODE_NUM=${ARGS[$ARG_LENGTH - 1]}
+LEN=${#EPISODE_NUM}
+
+# User input validation and padding
+if [[ ! ($EPISODE_NUM =~ ^[0-9]+$) || $LEN > 3 || $LEN < 1 || (${EPISODE_NUM:0:1} = "0" && $LEN > 1) ]]; then
+	say 2 "${Red}Invalid episode number: $EPISODE_NUM\n\tPlease enter an integer (0-95)${Reset}\n"
+	usage
+elif [[ $LEN == 2 ]]; then
+	EP="0"$EPISODE_NUM
+elif [[ $LEN == 1 ]]; then
+	EP="00"$EPISODE_NUM
+else
+	EP=$EPISODE_NUM
+fi
+
+# Check for pre-existing directories/files
+if [ ! -d "$PROJECT_DIR" ]; then
+	say 2 "${Yellow}Project Directory: $PROJECT_DIR does not exist!${Reset}\n\tExiting Gracefully!"
+	files
+fi
+if [ ! -d "$PROJECT_DIR/temp" ]; then
+	say 3 "${Yellow}Temp Directory: $PROJECT_DIR/temp does not exist!${Reset}\n\tCreating now!"
+	mkdir -p -v "$PROJECT_DIR/temp"
+fi
+if [ ! -d "$PROJECT_DIR/output" ]; then
+	say 3 "${Yellow}Output Directory: $PROJECT_DIR/output does not exist!${Reset}\n\tCreating now!"
+	mkdir -p -v "$PROJECT_DIR/output"
+fi
+if [ ! -d "$PROJECT_DIR/extra" ]; then
+	say 2 "${Red}Extra Directory: $PROJECT_DIR/extra does not exist!\n\tPlease supply the necessary files in Extra directory!${Reset}"
+	files
+fi
+SOURCE_VIDEO=$(checkForFile source Source 1)
+ifFailedToFindFile $? source Source 1
+UPSCALED_VIDEO=$(checkForFile upscales Upscaled 1)
+ifFailedToFindFile $? upscales Upscaled 1
+SUBTITLES=$(checkForFile subtitles Subtitle $FORCE_SUBTITLES)
+ifFailedToFindFile $? subtitles Subtitle $FORCE_SUBTITLES
+IMAGE=$(checkForFile images Image $FORCE_IMAGE)
+ifFailedToFindFile $? images Image $FORCE_IMAGE
+USE_SUBTITLES=1
+USE_IMAGE=1
+if [ -z "$SUBTITLES" ]; then
+	USE_SUBTITLES=0
+fi
+if [ -z "$IMAGE" ]; then
+	USE_IMAGE=0
+fi
+
+#Check for necessary Extra Files
+if [ ! -f "$PROJECT_DIR/extra/intro.mp4" ]; then
+	say 2 "${Red}File: $PROJECT_DIR/extra/intro.mp4 does not exist!${Reset}"
+	files
+fi
+if [ ! -f "$PROJECT_DIR/extra/titles.txt" ]; then
+	say 2 "${Red}File: $PROJECT_DIR/extra/titles.txt does not exist!${Reset}"
+	files
+fi
+if [ ! -f "$PROJECT_DIR/extra/descriptions.txt" ]; then
+	say 2 "${Red}File: $PROJECT_DIR/extra/descriptions.txt does not exist!${Reset}"
+	files
+fi
+#Check for generatable Extra Files
+for i in 1 2 3 4
+do
+	a="blank$i"
+	if [ ! -f "$PROJECT_DIR/extra/blank$i.aac" ]; then
+		say 3 "${Yellow}File: $PROJECT_DIR/extra/blank$i.aac does not exist.${Reset}\n\tCreating now!"
+		createOffsetBlankStreams
+	fi
+done
+if [ ! -f "$PROJECT_DIR/extra/introAudioOnly.aac" ]; then
+	say 3 "${Yellow}File: $PROJECT_DIR/extra/introAudioOnly.mkv does not exist!${Reset}\n\tCreating now!"
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$PROJECT_DIR/extra/intro.mp4" -map 0:a:0 -c:a aac -b:a 128k "$PROJECT_DIR/extra/introAudioOnly.aac");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Blue}Intro Audio Only Stream created" "Error Creating Intro Audio Only Stream"
+fi
+if [ ! -f "$PROJECT_DIR/extra/introVideoOnly.mkv" ]; then
+	say 3 "${Yellow}File: $PROJECT_DIR/extra/introVideoOnly.mkv does not exist!${Reset}\n\tCreating now!"
+	FFARGS=()
+	if [ $FORCE_PURGE -eq 1 ]; then FFARGS+=(-y); fi
+	FFARGS+=(-hide_banner);
+	if [ $DEBUG -eq 0 ]; then FFARGS+=(-loglevel warning -stats); fi
+	FFARGS+=(-i "$PROJECT_DIR/extra/intro.mp4" -map 0:v:0 "$PROJECT_DIR/extra/introVideoOnly.mkv");
+	if [ $DEBUG -eq 1 ]; then
+		(set -x; ffmpeg "${FFARGS[@]}")
+	else
+		ffmpeg "${FFARGS[@]}"
+	fi
+	parseReturn $? "${Blue}Intro Video Only Stream created" "Error Creating Intro Video Only Stream"
+fi
+
+# Check for pre-existing contents
+if [ $REMUX_MODE = 0 ]; then
+	FINAL_FILE="$PROJECT_DIR/$EP-master-code-lyoko.mkv"
+elif [ $REMUX_MODE = 1 ]; then
+	if [ $REMUX_PART = "VE" ]; then
+		FINAL_FILE="$PROJECT_DIR/temp/V$EP.mkv"
+	elif [ $REMUX_PART = "VC" ]; then
+		FINAL_FILE="$PROJECT_DIR/temp/CV$EP.mkv"
+	elif [ $REMUX_PART = "AE" ]; then
+		FINAL_FILE="$PROJECT_DIR/temp/AE$EP.mkv"
+		#BUG: If English missing but not french, will assume none exist
+	elif [ $REMUX_PART = "AC" ]; then
+		FINAL_FILE="$PROJECT_DIR/temp/CAE$EP.mkv"
+		#BUG: If English missing but not french, will assume none exist
+	elif [ $REMUX_PART = "RE" ]; then
+		FINAL_FILE="$PROJECT_DIR/output/$EP-eng-code-lyoko.mkv"
+	elif [ $REMUX_PART = "RF" ]; then
+		FINAL_FILE="$PROJECT_DIR/output/$EP-fre-code-lyoko.mkv"
+	elif [ $REMUX_PART = "RM" ]; then
+		FINAL_FILE="$PROJECT_DIR/output/$EP-master-code-lyoko.mkv"
+	fi
+elif [ $REMUX_MODE = 2 ]; then
+	FINAL_FILE="$PROJECT_DIR/output/$EP-eng-code-lyoko.mkv"
+elif [ $REMUX_MODE = 3 ]; then
+	FINAL_FILE="$PROJECT_DIR/output/$EP-fre-code-lyoko.mkv"
+fi
+if [ -f $FINAL_FILE ]; then
+	say 3 "${Yellow}Remuxed File already exists!${Reset}"
+	if [ $FORCE_PURGE = 1 ]; then
+		say 3 "${Yellow}Automatically purging the remuxed file!${Reset}"
+		rm -f $FINAL_FILE
+	else
+		confirm "Overwrite Final Video for Episode $EPISODE_NUM?" "Purging video." "${Blue}No encoding can take place.\n\tGracefully exiting.${Reset}"
+
+		if [[ $? == 1 ]]; then
+			rm -f $FINAL_FILE
+		else
+			exit 0
+		fi
+	fi
+fi
+
+#Fill In Final Holes
+setCurrentSeason
+setCurrentOffset
+setMetaData
+
+#Execute!
+if [[ $REMUX_MODE -eq 0 ]]; then
+	say 1 "${Blue}Executing Master Remux for Episode $EP$Reset"
+	videoExtraction
+	audioExtraction
+	videoConcatenation
+	audioConcatenation eng 1
+	audioConcatenation fre 0
+	masterRemux
+	say 1 "${Blue}Master remux Completed!$Reset > $FINAL_FILE"
+elif [[ $REMUX_MODE -eq 1 ]]; then
+	say 1 "Executing Single Subroutine $REMUX_PART for Episode $EP"
+	if [ $REMUX_PART = "VE" ]; then
+		videoExtraction
+	elif [ $REMUX_PART = "VC" ]; then
+		videoConcatenation
+	elif [ $REMUX_PART = "AE" ]; then
+		audioExtraction
+	elif [ $REMUX_PART = "AC" ]; then
+		audioConcatenation eng 1
+		audioConcatenation fre 0
+	elif [ $REMUX_PART = "RE" ]; then
+		languageRemux eng "Offical English Dub" "English"
+	elif [ $REMUX_PART = "RF" ]; then
+		languageRemux fre "Offical French Audio" "French"
+	elif [ $REMUX_PART = "RM" ]; then
+		masterRemux
+	fi
+	say 1 "Subroutine $REMUX_PART Completed!"
+	exit 0
+	#Must not continue to GCS Upload directory
+elif [[ $REMUX_MODE -eq 2 ]]; then
+	say 1 "Executing $LANG_FULL Remux for Episode $EP"
+	videoExtraction
+	audioExtraction
+	videoConcatenation
+	audioConcatenation $LANG_CODE $USE_OFFSET
+	languageRemux $LANG_CODE $LANG_TITLE $LANG_FULL
+	say 1 "${Blue}$LANG_FULL remux Completed!$Reset > $FINAL_FILE"
+else
+	say 2 "${Red}There was an issue trying to determine the correct encoding mode!\n\t${Blue}No encoding can take place!\n\tGracefully exiting.${Reset}"
+	exit 0
+fi
+
+if [ $CLEAR_TEMP -eq 1 ]; then
+	say 3 "Clearing Temporary Files"
+	rm -rf "$PROJECT_DIR/temp"
+fi
+
+if [ $UPLOAD = 1 ]; then upload; fi

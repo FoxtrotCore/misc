@@ -1,10 +1,5 @@
 #!/bin/bash
 
-clear
-clear
-
-# ffmpeg -i $frePath -map 0:v:0 -map 0:a:1 -map 0:a:0 -map 0:s:0 -c copy $episode
-
 engName='_ENG_Code_Lyoko.mkv'                       # English Video Name
 freName='_FRE_Code_Lyoko.mkv'                       # French Video Name
 engPath='E:/Code_Lyoko_Upscaled/FINAL_RENDERS/ENG/' # English Video Path
