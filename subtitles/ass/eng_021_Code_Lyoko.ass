@@ -15,8 +15,8 @@ Video File: ../../ORIGINAL_SOURCES/Input_021_Code_Lyoko.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.004167
-Scroll Position: 296
-Active Line: 329
+Scroll Position: 44
+Active Line: 54
 Video Position: 34629
 
 [V4+ Styles]
@@ -79,7 +79,7 @@ Dialogue: 0,0:03:48.10,0:03:50.85,Default,SISSI,0,0,0,,Yes, it disappeared, I te
 Dialogue: 0,0:03:50.85,0:03:52.68,Default,SISSI,0,0,0,,It just-just flew away.
 Dialogue: 0,0:03:52.68,0:03:58.04,Default,DEFAULT,0,0,0,,Yeah sure, it’s up in the sky somewhere, right?\NOr maybe it came down and landed on someone’s head.
 Dialogue: 0,0:03:58.04,0:04:02.53,Default,SISSI,0,0,0,,Oh, but it’s true, I tell you, I swear,\Nmy baton just disappeared into thin air!
-Dialogue: 0,0:04:02.53,0:04:06.55,Default,DEFAULT,0,0,0,,We believe you Sissi.\N{style=HERB}Even if scientifically it’s impossible.
+Dialogue: 0,0:04:02.53,0:04:06.55,Default,DEFAULT,0,0,0,,We believe you Sissi.\N{\rHERB}Even if scientifically it’s impossible.
 Dialogue: 0,0:04:06.55,0:04:10.63,Default,SISSI,0,0,0,,Listen, if I said that a supernatural thing happened to me,\Nit’s because it’s true!
 Dialogue: 0,0:04:10.63,0:04:11.92,Default,SISSI,0,0,0,,You hear me, knucklehead?
 Dialogue: 0,0:04:11.92,0:04:15.78,Default,SISSI,0,0,0,,A baton that flies up has to come down\Nand if it doesn’t, there’s something wrong.
@@ -151,7 +151,7 @@ Dialogue: 0,0:08:29.89,0:08:34.16,Default,JEREMIE,0,0,0,,Bingo! That’s Xana al
 Dialogue: 0,0:08:34.73,0:08:36.85,Default,SFX,0,0,0,,(CHEERING)
 Dialogue: 0,0:08:45.14,0:08:48.08,Default,MILLY,0,0,0,,Incredible,\Nwe knew that Ulrich was in great form
 Dialogue: 0,0:08:48.08,0:08:51.62,Default,MILLY,0,0,0,,but what’ he’s showing us today--\N--is beyond even our wildest dreams.
-Dialogue: 0,0:08:51.62,0:08:55.02,Default,MILLY,0,0,0,,MATT: Hey!\N{\style=ULRICH}Yaaah!
+Dialogue: 0,0:08:51.62,0:08:55.02,Default,MILLY,0,0,0,,MATT: Hey!\N{\rULRICH}Yaaah!
 Dialogue: 0,0:08:57.86,0:09:02.55,Default,MILLY,0,0,0,,A fantastic goal and the Kadic team makes it one to nothing\Nafter only three minutes of play.
 Dialogue: 0,0:09:02.55,0:09:06.44,Default,MILLY,0,0,0,,Lincoln’s going to find a way to stop Ulrich\Nif they’re going to win this game.
 Dialogue: 0,0:09:06.57,0:09:11.20,Default,JEREMIE,0,0,0,,Heavy but very fast.\NWe don’t have much time. Ready to go?
@@ -193,7 +193,7 @@ Dialogue: 0,0:11:40.17,0:11:42.53,Default,ULRICH,0,0,0,,Uh, Lincoln’s in the f
 Dialogue: 0,0:11:42.53,0:11:46.50,Default,ULRICH,0,0,0,,In the words of our coach, Jim,\NIt’s our motivation that’ll make us winners.
 Dialogue: 0,0:11:46.50,0:11:48.08,Default,ULRICH,0,0,0,,And I honestly think that--
 Dialogue: 0,0:11:50.42,0:11:55.42,Default,ULRICH,0,0,0,,--Ah, I’ve gotta go not, talk to you after the game.\NI better relax a bit before the second half.
-Dialogue: 0,0:11:55.42,0:11:59.73,Default,ULRICH,0,0,0,,And see what Jim has to-- Uh--\N{\style=SFX}(PHONE RINGING)
+Dialogue: 0,0:11:55.42,0:11:59.73,Default,ULRICH,0,0,0,,And see what Jim has to-- Uh--\N{\rSFX}(PHONE RINGING)
 Dialogue: 0,0:12:01.28,0:12:03.24,Default,JEREMIE,0,0,0,,Answer your phone, Ulrich, please!
 Dialogue: 0,0:12:03.24,0:12:04.37,Default,ULRICH,0,0,0,,{\i1}What do you want?
 Dialogue: 0,0:12:04.37,0:12:07.44,Default,JEREMIE,0,0,0,,Ulrich, I’ve been trying to reach--\N--you for a quarter of an hour.
@@ -203,7 +203,7 @@ Dialogue: 0,0:12:15.14,0:12:17.66,Default,JEREMIE,0,0,0,,but there’s an enormo
 Dialogue: 0,0:12:17.97,0:12:22.74,Default,JEREMIE,0,0,0,,I can’t go into all the details, there’s not enough time\Nbut Xana’s gonna put the school into orbit.
 Dialogue: 0,0:12:23.02,0:12:23.87,Default,ULRICH,0,0,0,,What was that?
 Dialogue: 0,0:12:23.87,0:12:26.29,Default,JEREMIE,0,0,0,,It’s true, I swear, he doesn’t have enough power yet--
-Dialogue: 0,0:12:26.29,0:12:29.44,Default,ULRICH,0,0,0,,--But--\N{\style=JEREMIE}--But he’s gonna try and get it from the science lab’s generator.
+Dialogue: 0,0:12:26.29,0:12:29.44,Default,ULRICH,0,0,0,,--But--\N{\rJEREMIE}--But he’s gonna try and get it from the science lab’s generator.
 Dialogue: 0,0:12:29.56,0:12:32.01,Default,JEREMIE,0,0,0,,You’ve gotta make sure that nobody is in the building.
 Dialogue: 0,0:12:32.01,0:12:34.04,Default,JIM,0,0,0,,Hey, Ulrich!\NSecond half’s starting.
 Dialogue: 0,0:12:34.04,0:12:36.90,Default,ULRICH,0,0,0,,Be right there!\NNo problem. Everyone’s at the game.
@@ -225,12 +225,12 @@ Dialogue: 0,0:13:24.81,0:13:31.33,Default,MILLY,0,0,0,,Oh, everyone is just numb
 Dialogue: 0,0:13:31.33,0:13:32.90,Default,Why has Ulrich just stopped?\NTAMIYA,0,0,0,,It must be the pressure.
 Dialogue: 0,0:13:32.90,0:13:35.18,Default,DEFAULT,0,0,0,,(CONFUSED MURMURING)
 Dialogue: 0,0:13:35.18,0:13:36.18,Default,JIM,0,0,0,,Oh!
-Dialogue: 0,0:13:36.93,0:13:38.45,Default,JIM,0,0,0,,MRS. STERN: Oh.\N{\style=MR. STERN} Hmmn.
+Dialogue: 0,0:13:36.93,0:13:38.45,Default,JIM,0,0,0,,MRS. STERN: Oh.\N{\rMR. STERN} Hmmn.
 Dialogue: 0,0:13:38.45,0:13:40.61,Default,JEREMIE,0,0,0,,It’s a matter of life and death, Ulrich.
 Dialogue: 0,0:13:49.08,0:13:53.01,Default,MILLY,0,0,0,,Oh, it’s unbelievable,\Nthe Lincoln team have just cut our lead in half.
 Dialogue: 0,0:13:53.01,0:13:55.88,Default,MILLY,0,0,0,,Matt, himself, can hardly believe\Nthat Ulrich let him score.
-Dialogue: 0,0:13:55.88,0:13:58.43,Default,JEREMIE,0,0,0,,{\i1}Ulrich! What are--\N{\style=ULRICH}--Please, shut up, Jeremie, just shut up.
-Dialogue: 0,0:14:06.51,0:14:09.17,Default,ULRICH,0,0,0,,I’m gonna stop you!\N{\style=MATT}We’ll see about that!
+Dialogue: 0,0:13:55.88,0:13:58.43,Default,JEREMIE,0,0,0,,{\i1}Ulrich! What are--\N{\rULRICH}--Please, shut up, Jeremie, just shut up.
+Dialogue: 0,0:14:06.51,0:14:09.17,Default,ULRICH,0,0,0,,I’m gonna stop you!\N{\rMATT}We’ll see about that!
 Dialogue: 0,0:14:09.17,0:14:10.25,Default,ULRICH,0,0,0,,Ahhgh!
 Dialogue: 0,0:14:10.70,0:14:14.24,Default,MILLY,0,0,0,,Oh no, it can’t be!\NWhat awful luck for the kadic team.
 Dialogue: 0,0:14:14.24,0:14:17.28,Default,MILLY,0,0,0,,Ulrich looks hurt after that violent tackle by Matt!
@@ -277,7 +277,7 @@ Dialogue: 0,0:16:54.48,0:16:56.53,Default,ULRICH,0,0,0,,I just walked in,\Nthere
 Dialogue: 0,0:16:58.01,0:17:00.45,Default,ULRICH,0,0,0,,Uh?\NHuh?
 Dialogue: 0,0:17:01.86,0:17:03.04,Default,ULRICH,0,0,0,,Whoa!
 Dialogue: 0,0:17:06.78,0:17:08.90,Default,ULRICH,0,0,0,,Looks like I spoke too soon.
-Dialogue: 0,0:17:08.90,0:17:11.36,Default,SFX,0,0,0,,(ELECTRIC LIGHT PULSING)\N{\style=ULRICH}Whoa!
+Dialogue: 0,0:17:08.90,0:17:11.36,Default,SFX,0,0,0,,(ELECTRIC LIGHT PULSING)\N{\rULRICH}Whoa!
 Dialogue: 0,0:17:13.36,0:17:18.46,Default,JEREMIE,0,0,0,,You have to hang on for just a few seconds.\NAs soon as you've secured Ms. Hertz, I can move into action.
 Dialogue: 0,0:17:19.21,0:17:21.58,Default,JEREMIE,0,0,0,,{\i1}You’ve gotta hang on now so Aelita can get through.
 Dialogue: 0,0:17:22.17,0:17:23.50,Default,JEREMIE,0,0,0,,{\i1}Yumi, Odd, are you ok?
@@ -300,7 +300,7 @@ Dialogue: 0,0:18:22.92,0:18:24.24,Default,ULRICH,0,0,0,,I’ve gotcha!
 Dialogue: 0,0:18:28.69,0:18:32.37,Default,SISSI,0,0,0,,Ulrich, what’s happening? What’s going on?
 Dialogue: 0,0:18:32.37,0:18:35.16,Default,ULRICH,0,0,0,,It’s too complicated.\NJeremie, where are you at now?
 Dialogue: 0,0:18:35.16,0:18:36.79,Default,JEREMIE,0,0,0,,Ok, I’m back in control.
-Dialogue: 0,0:18:36.79,0:18:38.23,Default,JEREMIE,0,0,0,,ULRICH: Ready!\N{\style=JEREMIE}It’s gonna rock!
+Dialogue: 0,0:18:36.79,0:18:38.23,Default,JEREMIE,0,0,0,,ULRICH: Ready!\N{\rJEREMIE}It’s gonna rock!
 Dialogue: 0,0:18:38.23,0:18:41.19,Default,SFX,0,0,0,,(ELECTRIC LIGHT PULSING)\N(GLASS SHATTERING)
 Dialogue: 0,0:18:42.71,0:18:45.73,Default,ULRICH,0,0,0,,Hey do me a favor, ok Jeremie,\Ntell me it’s going to calm down.
 Dialogue: 0,0:18:45.73,0:18:49.78,Default,JEREMIE,0,0,0,,Not for the time being, it may get worse,\Nso hang on tight any way you can.
@@ -322,8 +322,8 @@ Dialogue: 0,0:19:40.69,0:19:43.28,Default,ODD,0,0,0,,Hang in there, Yumi, we’r
 Dialogue: 0,0:19:44.93,0:19:48.60,Default,ODD,0,0,0,,No, not now, concentrarte.\NGive us just a few more seconds.
 Dialogue: 0,0:19:51.44,0:19:52.65,Default,YUMI,0,0,0,,(GASPING)
 Dialogue: 0,0:19:52.65,0:19:55.70,Default,YUMI,0,0,0,,I can’t do it, Odd. I’m sorry.
-Dialogue: 0,0:19:56.53,0:20:02.66,Default,SFX,0,0,0,,(CELESTIAL HUMMING)\N{\style=ODD}Aelita! It’s too soon!
-Dialogue: 0,0:20:03.05,0:20:07.12,Default,MILLY,0,0,0,,Well, Matt has a chance to tie the score with his penalty shot.\N{\style=SFX}(WHISTLE BLOWS)
+Dialogue: 0,0:19:56.53,0:20:02.66,Default,SFX,0,0,0,,(CELESTIAL HUMMING)\N{\rODD}Aelita! It’s too soon!
+Dialogue: 0,0:20:03.05,0:20:07.12,Default,MILLY,0,0,0,,Well, Matt has a chance to tie the score with his penalty shot.\N{\rSFX}(WHISTLE BLOWS)
 Dialogue: 0,0:20:09.68,0:20:11.49,Default,MATT,0,0,0,,(SCREAMING)
 Dialogue: 0,0:20:11.49,0:20:14.48,Default,ULRICH,0,0,0,,The stadium!\NAhh!
 Dialogue: 0,0:20:14.48,0:20:18.85,Default,SFX,0,0,0,,(SCREAMING)
@@ -350,7 +350,7 @@ Dialogue: 0,0:22:11.07,0:22:14.71,Default,ULRICH,0,0,0,,(SCREAMING)
 Dialogue: 0,0:22:23.81,0:22:25.33,Default,JEREMIE,0,0,0,,Return to the past now!
 Dialogue: 0,0:22:38.48,0:22:42.52,Default,MILLY,0,0,0,,It’s a big day today, the ninth grade\Ninter-school final is about to begin.
 Dialogue: 0,0:22:42.52,0:22:47.52,Default,MILLY,0,0,0,,Although our school is favored to win,\Na lot is going to depend on kadic striker, our own Ulrich.
-Dialogue: 0,0:22:42.52,0:22:51.57,Default,MILLY,0,0,0,,We’re really counting on him today\N{\style=ODD}Let’s rock, Ulrich! Come on, world champion!
+Dialogue: 0,0:22:42.52,0:22:51.57,Default,MILLY,0,0,0,,We’re really counting on him today\N{\rODD}Let’s rock, Ulrich! Come on, world champion!
 Dialogue: 0,0:22:51.57,0:22:53.24,Default,JEREMIE,0,0,0,,Yeah but which world?
 Dialogue: 0,0:22:53.24,0:22:55.87,Default,ODD,0,0,0,,Why both of them, Jeremie, both of them!
 Dialogue: 0,0:22:55.96,0:22:57.91,Default,SFX,0,0,0,,(WHISTLE BLOWS)CLOSED CAPTION
