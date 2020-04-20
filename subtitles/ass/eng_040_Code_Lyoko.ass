@@ -98,12 +98,12 @@ Dialogue: 0,0:02:49.84,0:02:50.80,TAMIYA,TAMIYA,0,0,0,,Come on, Kiwi.
 Dialogue: 0,0:02:52.08,0:02:56.82,KIWI,KIWI,0,0,0,,(GROWLS)
 Dialogue: 0,0:02:56.82,0:02:58.16,TAMIYA,TAMIYA,0,0,0,,Ow!
 Dialogue: 0,0:03:12.46,0:03:18.78,MILLY,MILLY,0,0,0,,♪ (HUMMING)
-Dialogue: 0,0:03:24.52,0:03:31.85,TAMIYA,TAMIYA,0,0,0,,(SCREECHES)\N{\style=MILLY}(SCREAMS)
+Dialogue: 0,0:03:24.52,0:03:31.85,TAMIYA,TAMIYA,0,0,0,,(SCREECHES)\N{\rMILLY}(SCREAMS)
 Dialogue: 0,0:03:42.13,0:03:44.31,ODD,ODD,0,0,0,,So, you’re not gonna be\Nfinishing your chocolate pudding?
 Dialogue: 0,0:03:44.49,0:03:46.40,AELITA,AELITA,0,0,0,,Isn’t that your fourth one?
 Dialogue: 0,0:03:46.87,0:03:48.19,ULRICH,ULRICH,0,0,0,,Odd is like a cow.
 Dialogue: 0,0:03:48.19,0:03:50.07,ULRICH,ULRICH,0,0,0,,He has more than one stomach.
-Dialogue: 0,0:03:50.31,0:03:52.46,ODD,ODD,0,0,0,,The better to pig out with, my dear.\N{\style=MILLY}Help me!
+Dialogue: 0,0:03:50.31,0:03:52.46,ODD,ODD,0,0,0,,The better to pig out with, my dear.\N{\rMILLY}Help me!
 Dialogue: 0,0:03:54.30,0:03:56.16,MILLY,MILLY,0,0,0,,Tamiya came after me!
 Dialogue: 0,0:03:57.07,0:03:58.56,MILLY,MILLY,0,0,0,,She looked so strange--
 Dialogue: 0,0:03:58.56,0:04:01.08,MILLY,MILLY,0,0,0,,and-and her eyes\Nwere completely white!
@@ -133,7 +133,7 @@ Dialogue: 0,0:04:44.94,0:04:47.00,YUMI,YUMI,0,0,0,,he is not my boyfriend.
 Dialogue: 0,0:04:47.00,0:04:48.91,HIROKI,HIROKI,0,0,0,,♪ Yumi’s in love! ♪
 Dialogue: 0,0:04:48.91,0:04:50.75,HIROKI,HIROKI,0,0,0,,♪ Yumi’s in love! ♪
 Dialogue: 0,0:04:50.75,0:04:52.17,HIROKI,HIROKI,0,0,0,,♪ Yumi’s in love! ♪
-Dialogue: 0,0:04:52.17,0:04:55.37,MR. ISHIYAMA,MR. ISHIYAMA,0,0,0,,Hiroki, leave your sister alone.\N{\style=YUMI}You are such a pain!
+Dialogue: 0,0:04:52.17,0:04:55.37,MR. ISHIYAMA,MR. ISHIYAMA,0,0,0,,Hiroki, leave your sister alone.\N{\rYUMI}You are such a pain!
 Dialogue: 0,0:04:55.54,0:04:56.68,YUMI,YUMI,0,0,0,,I’m going to bed.
 Dialogue: 0,0:05:02.17,0:05:03.90,ROSA,ROSA,0,0,0,,I think it’s serious.
 Dialogue: 0,0:05:04.00,0:05:06.24,ROSA,ROSA,0,0,0,,Sissi, go get your father please.
@@ -142,10 +142,10 @@ Dialogue: 0,0:05:08.29,0:05:09.54,SISSI,SISSI,0,0,0,,Ahh.
 Dialogue: 0,0:05:13.76,0:05:15.09,SISSI,SISSI,0,0,0,,Hey, Jim!
 Dialogue: 0,0:05:15.23,0:05:17.30,SISSI,SISSI,0,0,0,,There’s a problem with Milly Solovieff.
 Dialogue: 0,0:05:17.52,0:05:18.29,SISSI,SISSI,0,0,0,,Jim?
-Dialogue: 0,0:05:19.56,0:05:24.12,JIM,JIM,0,0,0,,(SNARLING)\N{\style=SISSI}(SCREAMING)
+Dialogue: 0,0:05:19.56,0:05:24.12,JIM,JIM,0,0,0,,(SNARLING)\N{\rSISSI}(SCREAMING)
 Dialogue: 0,0:05:25.10,0:05:26.79,ULRICH,ULRICH,0,0,0,,Sissi, come back!
 Dialogue: 0,0:05:28.59,0:05:29.87,ULRICH,ULRICH,0,0,0,,Meet up at the factory!
-Dialogue: 0,0:05:33.10,0:05:34.79,ODD,ODD,0,0,0,,Wha-a-h…\N{\style=AELITA}Through there!
+Dialogue: 0,0:05:33.10,0:05:34.79,ODD,ODD,0,0,0,,Wha-a-h…\N{\rAELITA}Through there!
 Dialogue: 0,0:05:40.20,0:05:41.76,ODD,ODD,0,0,0,,About face, everybody!
 Dialogue: 0,0:05:50.63,0:05:52.25,ROSA,ROSA,0,0,0,,Hey, what’s going on?
 Dialogue: 0,0:05:52.62,0:05:53.67,ODD,ODD,0,0,0,,Oh, nothing.
@@ -252,7 +252,7 @@ Dialogue: 0,0:10:46.29,0:10:47.15,MILLY,MILLY,0,0,0,,Hey…
 Dialogue: 0,0:10:47.36,0:10:49.46,MILLY,MILLY,0,0,0,,That’s the same dog\Nwe saw in the hallway
 Dialogue: 0,0:10:49.46,0:10:51.24,MILLY,MILLY,0,0,0,,just before Tamiya got zombified.
 Dialogue: 0,0:10:51.39,0:10:52.48,MILLY,MILLY,0,0,0,,Wait, Odd!
-Dialogue: 0,0:10:52.48,0:10:54.46,KIWI,KIWI,0,0,0,,(SNARLS AND SNAPS)\N{\style=ODD}Ow!
+Dialogue: 0,0:10:52.48,0:10:54.46,KIWI,KIWI,0,0,0,,(SNARLS AND SNAPS)\N{\rODD}Ow!
 Dialogue: 0,0:10:54.79,0:10:56.81,ODD,ODD,0,0,0,,Kiwi, what’s wrong with you?
 Dialogue: 0,0:10:59.35,0:11:00.84,ODD,ODD,0,0,0,,XANA.
 Dialogue: 0,0:11:05.95,0:11:07.52,JEREMIE,JEREMIE,0,0,0,,William, quick.
@@ -285,7 +285,7 @@ Dialogue: 0,0:12:19.78,0:12:21.25,SISSI,SISSI,0,0,0,,Um…I, uh…
 Dialogue: 0,0:12:21.25,0:12:23.43,SISSI,SISSI,0,0,0,,I have a subscription\Nto Pretty Girl,
 Dialogue: 0,0:12:23.43,0:12:25.89,SISSI,SISSI,0,0,0,,and I still sleep with Ninin,\Nmy stuffed moose.
 Dialogue: 0,0:12:25.89,0:12:27.02,HERB,HERB,0,0,0,,That has nothing to do with it.
-Dialogue: 0,0:12:27.02,0:12:29.12,HERB,HERB,0,0,0,,That just proves you’re a lame-o.\N{\style=SFX}(MOANING)
+Dialogue: 0,0:12:27.02,0:12:29.12,HERB,HERB,0,0,0,,That just proves you’re a lame-o.\N{\rSFX}(MOANING)
 Dialogue: 0,0:12:32.17,0:12:35.75,SISSI,SISSI,0,0,0,,You open this door, you\Nbunch of pea-brained dorks!
 Dialogue: 0,0:12:35.92,0:12:37.69,NICHOLAS,NICHOLAS,0,0,0,,Okay, that’s Sissi alright.
 Dialogue: 0,0:12:38.05,0:12:38.92,SISSI,SISSI,0,0,0,,(SCREAMING)
@@ -311,7 +311,7 @@ Dialogue: 0,0:14:20.81,0:14:22.25,JEREMIE,JEREMIE,0,0,0,,Okay. On your way.
 Dialogue: 0,0:14:22.25,0:14:23.98,JEREMIE,JEREMIE,0,0,0,,And watch out for nasty surprises.
 Dialogue: 0,0:14:25.66,0:14:26.85,SISSI,SISSI,0,0,0,,What are they doing?
 Dialogue: 0,0:14:28.33,0:14:31.52,ULRICH,ULRICH,0,0,0,,If you ask me,\Nthey’re preparing a final assault.
-Dialogue: 0,0:14:32.37,0:14:34.23,MILLY,MILLY,0,0,0,,(CRYING)\N{\style=SISSI}It’s okay.
+Dialogue: 0,0:14:32.37,0:14:34.23,MILLY,MILLY,0,0,0,,(CRYING)\N{\rSISSI}It’s okay.
 Dialogue: 0,0:14:34.72,0:14:41.68,Default,SFX,0,0,0,,(GROANING)
 Dialogue: 0,0:14:50.47,0:14:52.24,YUMI,YUMI,0,0,0,,Activated tower in sight.
 Dialogue: 0,0:14:57.92,0:14:59.42,AELITA,AELITA,0,0,0,,Krabs also in sight.
@@ -336,7 +336,7 @@ Dialogue: 0,0:16:18.00,0:16:21.63,ROSA,ROSA,0,0,0,,Oh, I think I’m… Oh--\N(G
 Dialogue: 0,0:16:27.66,0:16:28.88,AELITA,AELITA,0,0,0,,They’re on our tail.
 Dialogue: 0,0:16:28.96,0:16:30.66,JEREMIE,JEREMIE,0,0,0,,Ladies, I hope you know what you’re doing.
 Dialogue: 0,0:16:30.66,0:16:32.27,YUMI,YUMI,0,0,0,,Yeah. So do I, Jeremie.
-Dialogue: 0,0:16:41.57,0:16:44.44,Default,DEFAULT,0,0,0,,Aah! Help!\N{\style=HERB}No!
+Dialogue: 0,0:16:41.57,0:16:44.44,Default,DEFAULT,0,0,0,,Aah! Help!\N{\rHERB}No!
 Dialogue: 0,0:17:00.48,0:17:01.62,YUMI,YUMI,0,0,0,,Take my fan.
 Dialogue: 0,0:17:01.91,0:17:02.49,YUMI,YUMI,0,0,0,,Hurry!
 Dialogue: 0,0:17:08.29,0:17:09.20,YUMI,YUMI,0,0,0,,Now!
