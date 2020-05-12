@@ -15,8 +15,8 @@ Video File: ../../ORIGINAL_SOURCES/Input_021_Code_Lyoko.mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 2.004167
-Scroll Position: 44
-Active Line: 54
+Scroll Position: 171
+Active Line: 200
 Video Position: 34629
 
 [V4+ Styles]
@@ -225,7 +225,7 @@ Dialogue: 0,0:13:24.81,0:13:31.33,Default,MILLY,0,0,0,,Oh, everyone is just numb
 Dialogue: 0,0:13:31.33,0:13:32.90,Default,Why has Ulrich just stopped?\NTAMIYA,0,0,0,,It must be the pressure.
 Dialogue: 0,0:13:32.90,0:13:35.18,Default,DEFAULT,0,0,0,,(CONFUSED MURMURING)
 Dialogue: 0,0:13:35.18,0:13:36.18,Default,JIM,0,0,0,,Oh!
-Dialogue: 0,0:13:36.93,0:13:38.45,Default,JIM,0,0,0,,MRS. STERN: Oh.\N{\rMR. STERN} Hmmn.
+Dialogue: 0,0:13:36.93,0:13:38.45,Default,MRS. STERN,0,0,0,,Oh.\N{\rMR. STERN} Hmmn.
 Dialogue: 0,0:13:38.45,0:13:40.61,Default,JEREMIE,0,0,0,,It’s a matter of life and death, Ulrich.
 Dialogue: 0,0:13:49.08,0:13:53.01,Default,MILLY,0,0,0,,Oh, it’s unbelievable,\Nthe Lincoln team have just cut our lead in half.
 Dialogue: 0,0:13:53.01,0:13:55.88,Default,MILLY,0,0,0,,Matt, himself, can hardly believe\Nthat Ulrich let him score.
