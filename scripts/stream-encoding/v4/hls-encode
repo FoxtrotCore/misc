@@ -189,7 +189,7 @@ createFTFSubtitles () {
 }
 
 createFTFCoverArt () {
-($COMMANDECHOFLAG; ffmpeg -y -hide_banner $VERBOSITYFLAG-i "$INPUT_FILE" -map 0:v:1 -frames:v 1 -c copy "$OUTPUT_DIR/$EP/cover.png")
+($COMMANDECHOFLAG; ffmpeg -y -hide_banner $VERBOSITYFLAG-i "$INPUT_FILE" -map 0:v:1 -frames:v 1 -c copy "$OUTPUT_DIR/$EP/thumbnail.png")
 if [ $? -eq 0 ]; then
 	say 1 "${Green}Cover Art Extracted$Reset"
 else
