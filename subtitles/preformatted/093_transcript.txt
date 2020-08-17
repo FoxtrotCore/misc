@@ -1,0 +1,1073 @@
+93 - Down to Earth
+
+
+ODD: Hang on, let me get this straight. You and Einstein spent
+an entire weekend together and all you did was- was work?
+
+
+AELITA: Well, we had to work on the superscan.
+
+
+ODD: Yeah, right, you guys are worse than Yumi and Ulrich.
+
+
+YUMI: (GASPS)
+
+
+ULRICH: Hey!
+
+
+ODD: Well it's true. You're always trying to convince us
+that you're just good friends and all that stuff.
+
+
+DEFAULT: (SIGHS)
+
+
+ODD: By the way, where is Einstein?
+
+
+AELITA: I don't know, I'm a little worried about him.
+
+
+Ever since he found out that Xana had infected
+hundreds of supercomputers around the world,
+
+
+he's always at the factory, here in his room, and-
+
+
+SFX: (PHONE RINGING)
+
+
+AELITA: Oh, that's him now.
+
+
+Yes, Jeremie?
+
+
+Alright, I was beginning to worry, where are you?
+
+
+JEREMIE: Right behind you.
+
+
+AELITA: You're so silly.
+
+
+ULRICH: Einstein the comedian? Hm, you were right
+to be worried about him, I don't think he's all there.
+
+
+AELITA: (LAUGHS)
+
+
+YUMI: Got some good news, Jeremie?
+
+
+JEREMIE: Just a little.
+I finally figured out a way to wipe out Xana!
+
+
+ULRICH: Hm?
+
+
+ODD: Huh?
+
+
+YUMI: (GASPS)
+
+
+Huh, are you absolutely sure? A multi-agent system?
+
+
+JEREMIE: Yep, that's it.
+I decided to go over all of Franz Hopper's notes again,
+
+
+as well as the data he sent from the network
+when he was escaping from Lyoko,
+
+
+and of course, the data you gathered
+when you were traveling on the Skid.
+
+
+And that's when I realized that if we want to get rid of
+Xana, it's through a system of multi-agents.
+
+
+AELITA: It sounds pretty dangerous, don't you think?
+I mean, because Xana himself is a multi-agent system.
+
+
+And don't forget what happened with the Marabounta.
+
+
+ODD: Yeah, Aelita's right. You know, Frankenstein,
+that was a pretty creepy invention.
+
+
+JEREMIE: Will you stop worrying? I'm not gonna launch my program
+until I'm totally sure it's gonna work.
+
+
+Right now, all that I can destroy
+are two or three mega tanks. On the other hand...
+
+
+ULRICH: Go on, we're listening.
+
+
+JEREMIE: Xana made a really big mistake when he teleported William
+during your last mission to the ice sector Replika.
+
+
+AELITA: And the data I found in the tower,
+was it of any use to you?
+
+
+JEREMIE: What is ever! Thanks to that data,
+I was able to imagine a program for freeing William.
+
+
+YUMI: Hm, you mean for good?
+
+
+JEREMIE: You bet for good. And it's so simple.
+
+
+All Aelita has to do is get to the supercomputer
+that corresponds to the ice sector Replika,
+
+
+and run a program at the exact moment that one of you
+devirtualizes William.
+
+
+YUMI: Oh, wow, that's simple alright, piece of cake. Huh.
+
+
+ULRICH: And you think William's just gonna twiddle his thumbs
+while Aelita enters the program?
+
+
+JEREMIE: I said that is was simple, but not easy.
+
+
+ODD: You forgot one little detail.
+What if Xana sends us King Kong like he did last time?
+
+
+JEREMIE: Who, the Kolossus? Think of him as just another
+one of Xana's monsters that you've got to fight against.
+
+
+ULRICH: (SCOFFS) Maybe we should introduce you to him.
+Then you'd understand.
+
+
+JEREMIE: Hey, fighting happens to be your job,
+mine happens to be programming, you all know that.
+
+
+AELITA: If there's a chance at bringing the real William back,
+then what are we waiting for, let's go!
+
+
+JEREMIE: Yeah, no reason to wait. Everyone to the factory!
+
+
+ODD: What, like now? But they've got tuna casserole,
+sauerkraut and sausage, it's for lunch today!
+
+
+JEREMIE: You can have lunch tonight, let's go!
+
+
+ODD: Anyone ever tell you eat dinner at night?
+
+
+JIM: William!
+
+
+DEFAULT: (LAUGHING)
+
+
+JIM: Didn't you hear me call you, Dunbar?
+
+
+WILLIAM: No, I'm sorry, but I don't have a phone.
+
+
+JIM: Trying to be clever, huh? I'm not that dumb.
+
+
+If you think you can pull the wool over my ears,
+you're wrong! Your parents are here to see you.
+
+
+WILLIAM: My parents, but who are they?
+
+
+JIM: Hey, would you stop acting so stupid, Dunbar?
+
+
+They're waiting for you in the principal's office,
+so get going. Go on, now.
+
+
+MR. DELMAS: I'm certain William will be delighted to see you.
+
+
+He's changed quite a bit, as you'll see,
+especially since that trip you all went on.
+
+
+DEFAULT: Hm?
+
+
+MR. DUNBAR: What trip, we didn't go on any trip?
+
+
+MR. DELMAS: Ah, yes, there he is now. Come in!
+
+
+Come in, I said!
+
+
+Hm.
+
+
+What's the matter, William?
+Didn't you hear me tell you to come in?
+
+
+WILLIAM: I did, but the door wasn't open.
+
+
+MR. DELMAS: Oh, well, you're parents are here.
+
+
+MRS. DUNBAR: (SIGHS) Is everything alright, darling?
+You seem to be a little out of sorts.
+
+
+WILLIAM: That's right, but I never had any sorts to begin with.
+
+
+MR. DUNBAR: You were right, he certainly has changed.
+
+
+JEREMIE: Holoweb system online.
+
+
+Aelita, I'm sending you
+the ice sector Replika's coordinates.
+
+
+AELITA: {\i1}I'm on it, Jeremie.
+
+
+Rotation.
+
+
+{\i1}Here we go.
+
+
+ROSA: What'll it be, tuna casserole, or sauerkraut and sausages?
+
+
+MRS. DUNBAR: (STAMMERS) You wouldn't by any chance have anything lighter?
+
+
+ROSA: Sauerkraut's light, you'll see.
+
+
+MRS. DUNBAR: (SIGHS)
+
+
+ROSA: So, William, my boy, how's it going?
+
+
+WILLIAM: It goes any direction I want it to.
+
+
+ROSA: (LAUGHS) You kill me, William, what a cutup.
+Here, have some of this, this'll stick to your ribs.
+
+
+WILLIAM: I can't eat it if it's on my ribs.
+
+
+MR. DUNBAR: Hm?
+
+
+MRS. DUNBAR: (GASPS)
+
+
+AELITA: {\i1}High speed acceleration in three seconds.
+
+
+JIM: Ah, Mr. and Mrs. Dunbar.
+Hello, I'm really glad to meet you.
+
+
+You know that son of yours,
+he's really quite a piece of work.
+
+
+WILLIAM: I'm not just any piece of work. To be specific,
+I'm a digitally generated random polymorphic energy field,
+
+
+controlled by a basic, non-evolving behavioral program.
+
+
+JIM: Uh, chip off the old block, huh?
+
+
+Well I'll leave you now,
+I'm sure you have lots to talk about together, huh?
+
+
+Hm.
+
+
+MRS. DUNBAR: Your father and I were wondering,
+William, why you don't call us much at the moment.
+
+
+WILLIAM: You're right here in front of me,
+if I called you wouldn't be home.
+
+
+MRS. DUNBAR: (GASPS)
+
+
+MR. DUNBAR: Hm?
+
+
+AELITA: {\i1}I've got a visual on the Replika.
+
+
+Digital key activated.
+
+
+JEREMIE: {\i}Good work, Aelita. I'll let you in.
+
+
+Okay, no sign of any activated tower,
+there's a tower south-south-west of your position.
+
+
+You can dock the Skid there.
+
+
+I'm gonna teleport you with Odd.
+
+
+AELITA: {\i1}Gotcha.
+
+
+Jeremie, everything's cool, we're inside the base.
+
+
+JEREMIE: {\i1}That's great, make it fast.
+Xana's bound to rear his ugly head pretty soon.
+
+
+ODD: Mh hm.
+
+
+After you, Princess.
+
+
+AELITA: (LAUGHS)
+
+
+MR. DELMAS: Are you trying to tell me he isn't your son?
+
+
+But you are the parents of William Dunbar?
+
+
+MR. DUNBAR: Of the real William Dunbar.
+
+
+Our son is a dynamic and rebellious youngster
+who was expelled from the last school he attended
+
+
+for gluing stickers all over the school,
+including on the principal's windshield.
+
+
+MR. DELMAS: I don't recall you ever telling me that
+when you enrolled him here at Kadic.
+
+
+MR. DUNBAR: Well, I (STAMMERS)
+
+
+MRS. DUNBAR: (GASPS)
+
+
+MR. DUNBAR: Well what if I didn't? That's not the point.
+
+
+I'm telling you this child is not my son.
+
+
+MR. DELMAS: Hm, well it's true that your son has been behaving
+someone strangely these past few weeks...
+
+
+But I can assure you that
+this is the one and only William Dunbar we know.
+
+
+MR. DUNBAR: Tell me, sir, you said earlier that William had taken
+some sort of trip? What trip were you referring to?
+
+
+MR. DELMAS: Uh, well of course the trip he took overseas with you,
+just before he came down with that terrible flu.
+
+
+MRS. DUNBAR: What flu?
+
+
+YUMI: It's crazy, I can't believe we're actually
+going to bring home the real William.
+
+
+ULRICH: Yeah, but in the meantime, let's hope his clone
+is keeping out of trouble.
+
+
+YUMI: Ulrich, I hope... that when we set William free
+you won't be jealous if he starts hanging around me again.
+
+
+ULRICH: No, why should I? There's no reason to. After all,
+we decided that we were just good friends, didn't we?
+
+
+YUMI: (SIGHS)
+
+
+JEREMIE: {\i1}Yumi, Ulrich, sorry to bother you, but speaking of William,
+the radar shows him coming in dead ahead.
+
+
+ULRICH: Uh huh, speak of the devil.
+
+
+YUMI: Hm.
+
+
+ULRICH: There he is!
+
+
+JEREMIE: {\i1}Try to slow him down. Here come your vehicles.
+
+
+ULRICH: Okay.
+
+
+JEREMIE: What bothers me most is that Xana is drawing energy
+from all the Replikas, and I'm sure that means trouble.
+
+
+Aelita, Odd, how's it going?
+
+
+ODD: We're coming into the main room- wow!
+
+
+It's a lot more crowded than the last time we were here.
+
+
+JEREMIE: Why? What do you see over there?
+
+
+AELITA: {\i1}Jeremie, there are dozens of robots in here.
+All lined up like an army waiting for orders.
+
+
+JEREMIE: So that could be Xana's secret plan,
+to use an army of robots to enslave all of mankind.
+
+
+{\i}Get to the super computer room as fast as you can.
+
+
+AELITA: We're on our way.
+
+
+ULRICH: Leave pretty boy to me.
+
+
+YUMI: Don't forget, we're just supposed to slow him down.
+
+
+ULRICH: No problem.
+
+
+WILLIAM: Go on!
+
+
+ODD: Hi guys!
+
+
+Oh...
+
+
+They're not much on conversation, that's for sure.
+
+
+Open up, Grandma, it's little red riding hood!
+
+
+Uh, pink, that is.
+
+
+AELITA: (LAUGHS)
+
+
+JEREMIE: I'm working on the door.
+
+
+AELITA: It's scary looking at all those robots
+standing at attention.
+
+
+ODD: It sure is.
+
+
+Hey! One of them just moved!
+
+
+AELITA: Where? Which one?
+
+
+ODD: Will you relax, I was just kidding.
+
+
+AELITA: Oh, dumbbell!
+
+
+ODD: Huh? Hey, one of them just moved!
+
+
+AELITA: It's not funny this time, either.
+
+
+ODD: Only it's no joke this time.
+
+
+SFX: (MECHANICAL NOISES)
+
+
+ODD: Uh, Einstein, tell us you've found the right key,
+'cause things are getting kinda weird around here.
+
+
+ULRICH: I feel a storm brewing.
+
+
+Impact!
+
+
+Last stop, everybody off.
+
+
+ODD: Shield!
+
+
+(GRUNTS)
+
+
+AELITA: Jeremie, hurry up, the robots are firing at us!
+
+
+JEREMIE: {\i1}I'm almost there. Hang on!
+
+
+ODD: Easy for you to say!
+
+
+AELITA: (GRUNTS)
+
+
+JEREMIE: I got it.
+
+
+ODD: Laser Arrow!
+
+
+AELITA: Energy Field!
+
+
+Odd, let's go!
+
+
+Jeremie, it's a nightmare!
+
+
+JEREMIE: {\i1}Try to go to the super computer room!
+I'll see what the others are up to.
+
+
+ODD: This way!
+
+
+WILLIAM: Super smoke!
+
+
+ULRICH: (GASPS)
+
+
+Jeremie, you see that?
+
+
+JEREMIE: {\i1}Yeah, and I don't like it at all.
+
+
+ULRICH: So much for bringing him back home.
+
+
+(GASPS)
+
+
+JEREMIE: {\i1}That's it, the Kolossus, that's why Xana
+was drawing energy from all of the Repliaks.
+
+
+ULRICH: Whoa.
+
+
+ODD: That way!
+
+
+Hurry, Einstein, open up the door!
+
+
+JEREMIE: {\i1}Hang on, I've got an emergency on the Replika.
+
+
+ODD: Shield!
+
+
+ULRICH: Super sprint!
+
+
+(GRUNTS)
+
+
+YUMI: I've got you now!
+
+
+Huh?
+
+
+WILLIAM: (LAUGHS)
+
+
+ULRICH: You're not gonna bring him down that way!
+
+
+YUMI: I don't get it, I was right on target,
+he should have been destroyed.
+
+
+ULRICH: No, I saw another target on his arm.
+It's not gonna be easy getting rid of him.
+
+
+JEREMIE: Concentrate your efforts on William,
+I'll try to give you a hand with the Kolossus, okay?
+
+
+ULRICH: {\i1}How are you gonna do that?
+
+
+JEREMIE: I'm gonna launch the multi-agent program.
+
+
+ULRICH: Will it destroy him?
+
+
+JEREMIE: No, the program isn't finished. But it might immobilize him
+long enough to devirtualize William.
+
+
+WILLIAM: No!
+
+
+SFX: (DEEP GROWLING)
+
+
+ULRICH: Looks like it's working, Jeremie!
+He doesn't seem to be getting anywhere.
+
+
+YUMI: {\i1}Fantastic, Jeremie. The Kolossus is paralyzed.
+
+
+JEREMIE: Hm.
+
+
+Odd, Aelita, I'm back to you now.
+
+
+ODD: {\i1}It's about time.
+
+
+JEREMIE: Open sesame.
+
+
+AELITA: Come on, Odd.
+
+
+ODD: No, I'll hold them off. Get William home.
+
+
+JEREMIE: Aelita, there's a terminal next door.
+
+
+AELITA: Alright, Jeremie, I'm there.
+
+
+JEREMIE: Okay, now listen up. I'm gonna dictate the program.
+Enter it word for word, and we'll be just fine.
+
+
+AELITA: I'm ready, Jeremie, go ahead.
+
+
+ULRICH: It's just you and me, William.
+
+
+YUMI: Go easy, Ulrich! Jeremie said we have to wait
+before we devirtualize William.
+
+
+ULRICH: Sorry, but right now, it's him or me.
+
+
+ODD: Laser Arrow!
+
+
+Hey, uglies, you don't look so stainless now!
+
+
+Huh? Hey, don't go inviting all your pals,
+I can't entertain everybody.
+
+
+(CUT OFF SCREAM)
+
+
+AELITA: It's entered, Jeremie.
+
+
+JEREMIE: Alright, Aelita, get ready to launch the program.
+
+
+{\i1}Ulrich, Yumi, when I give you the signal,
+devirtualize William.
+
+
+ULRICH: Okay!
+
+
+JEREMIE: Huh? What's going on around here?
+
+
+YUMI: Jeremie, the Kolossus is breaking free.
+
+
+JEREMIE: {\i1}I know, the multi-agent system doesn't have enough power.
+
+
+YUMI: (GRUNTS)
+
+
+Oh, that hurt.
+
+
+AELITA: Jeremie, the robots are here.
+
+
+ULRICH: Jeremie!
+
+
+JEREMIE: Aelita, right now.
+
+
+WILLIAM: (LAUGHS)
+
+
+ULRICH: Huh? No!
+
+
+JEREMIE: {\i1}I don't believe this! Ulrich!
+
+
+ULRICH: (GRUNTS)
+
+
+AELITA: No!
+
+
+JEREMIE: No!
+
+
+WILLIAM: (LAUGHS)
+
+
+Victory!
+
+
+ODD: Better luck next time, handsome.
+
+
+JEREMIE: Oh! Yeah!
+
+
+DEFAULT: (GASPS)
+
+
+WILLIAM: (COUGHS)
+
+
+(SIGHS)
+
+
+ULRICH: William!
+
+
+YUMI: Welcome home!
+
+
+ODD: Oh no! The Heap is already near the skid. Jeremie,
+I can't do anything from here!
+
+
+JEREMIE: Yeah, I saw him.
+
+
+{\i1}Aelita, get out of there, fast.
+
+
+No!
+
+
+AELITA: No!
+
+
+JEREMIE: Aelita, no!
+
+
+AELITA: (SCREAMING)
+
+
+JEREMIE: Oh, Aelita.
+
+
+YUMI: It's okay, Jeremie, Aelita's here with us.
+
+
+JEREMIE: Aelita, I was never so scared in my life.
+
+
+AELITA: Lucky for me, I was devirtualized
+just before the Skid was totally destroyed.
+
+
+JEREMIE: Yeah, and what's more, we saved William!
+
+
+WILLIAM: I did a pretty good job, didn't I?
+
+
+YUMI: (STAMMERS)
+
+
+ULRICH: (SIGHS)
+
+
+SISSI: Mr. and Mrs. Dunbar are right,
+there's some really weird things going on at this academy.
+
+
+Hmph.
+
+
+MR. DUNBAR: There, you see that. Even your own daughter agrees with me.
+
+
+MR. DELMAS: What are you talking about, Elizabeth, dear?
+
+
+SISSI: Well, at first William was more or less normal.
+
+
+But ever since he started hanging out with Jeremie Belpois'
+gang, he turned into a real space cowboy.
+
+
+I don't know exactly what they've done to him,
+
+
+MR. DUNBAR: What was that?
+
+
+SISSI: but if you ask me,
+Belpois is using him as some sort of mini pig.
+
+
+MR. DELMAS: It's guinea pig, dear.
+
+
+Are you sure about this?
+
+
+SISSI: Of course I'm sure, after all,
+I am your daughter, so I'm always right.
+
+
+MR. DUNBAR: I'd still like to know more about this flu
+you said he had, and that imaginary trip,
+
+
+and the only way to find out is to talk to this Belpois.
+
+
+JIM: This is it.
+
+
+No one's there.
+
+
+MR. DUNBAR: Listen, this nonsense has gone on long enough.
+I'm going to call the authorities.
+
+
+We'll run some tests and see if he's my son or not.
+
+
+YUMI: Ready, Aelita? Now's the time.
+
+
+AELITA: Okay. Right now.
+
+
+MR. DELMAS: Please, try to calm down, sir.
+
+
+JIM: (SCREAMS)
+
+
+MRS. DUNBAR: (GASPS)
+
+
+JIM: There... there...
+
+
+MR. DELMAS: You calm down as well, Jim. What's the matter with you?
+
+
+JIM: He was here, and then he wasn't here. He evaporated.
+
+
+MR. DELMAS: But he's still here, look, Jim.
+
+
+JIM: Huh?
+
+
+But I swear he was here, and then he wasn't here.
+And now he's here again.
+
+
+MR. DELMAS: Uh, you could use a day or two off.
+
+
+DEFAULT: (LAUGHS)
+
+
+WILLIAM: As you can see, I'm here. And yes, Dad,
+this nonsense has gone on long enough.
+
+
+MR. DUNBAR: Huh? William?
+
+
+WILLIAM: It's true that I haven't been quite myself lately,
+but I'm fine, now, really.
+
+
+Sorry I worried you.
+
+
+MRS. DUNBAR: Oh, darling.
+
+
+MR. DUNBAR: Hm.
+
+
+JIM: Huh?
+
+
+AELITA: You think he can live a normal life after all this?
+
+
+JEREMIE: He's gonna have to.
+Luckily he can't remember exactly what happened to him.
+
+
+Although he does know that he was under Xana's power.
+
+
+ODD: Well if you ask me, I'm gonna miss his clone.
+He was a lot more fun at least.
+
+
+JEREMIE: Don't say that, Odd. Xana's just lost
+one of his most dangerous weapons, William.
+
+
+YUMI: In the meantime, we lost the Skid.
+It'll take months to program another one.
+
+
+ULRICH: I guess we can forget about wiping out all the Replikas now.
+
+
+AELITA: And what about those robots in Siberia?
+The army that Xana's created to take over the entire world?
+
+
+JEREMIE: That's why the only hope we've got of ever beating Xana
+is my multi-agent system.
+
+
+I'll get back on it tonight.
+
+
+YUMI: Hm.
+
+
+WILLIAM: (LAUGHS)
+
+
+YUMI: Huh?
+
+
+(LAUGHS)
+
+
+ULRICH: (SIGHS)

@@ -1,0 +1,989 @@
+72 - Crash Course
+
+
+ULRICH: Hey, Odd oughta be here already.
+We were supposed to play foosball.
+
+
+YUMI: You know Odd, something probably came up at the last second.
+
+
+ULRICH: I’ll bet he’s afraid to show up!
+If I know Odd, he’s hiding somewhere cause he knows I’ll beat him.
+
+
+AELITA: (SCOFFS)
+If you ask me, it might just be that redhead with braids!
+
+
+ULRICH: Well what do you know!
+Our lady’s man is at it again.
+
+
+DEFAULT: Hey, yeah!
+(GRUNTING)
+
+ODD: Ahh, you know, life isn’t bad at all.
+
+
+AELITA: I didn’t know you split up with Melanie, Odd.
+
+
+ODD: Who’s she?
+
+
+Oh yeah, Melanie, right…
+Well uh- She wasn’t very…
+
+
+Uh, she was just a little too… Well, actually a lot more- well…
+You see what I mean?
+
+
+AELITA: No.
+
+
+ULRICH: What I see, Odd,
+is that you collect girlfriends the way other people collect stamps!
+
+
+ODD: Hey! I tell you it’s for real this time!
+
+
+Believe me, Camille, she’s it, she’s the one!
+She’s so funny, sensitive, and really cool too.
+
+
+ULRICH: Yeah, just like all the girls fall for!
+(SIPS)
+
+
+ODD: Maybe, but Camille has something special the others don’t…
+Well- she’s crazy about dogs!
+
+
+DEFAULT: (LAUGHING)
+ODD: What’s so funny?!
+
+
+YUMI: And that makes all the difference in the world?
+
+
+ODD: Yeah, and this afternoon,
+we’re going to the movies together.
+
+
+ULRICH: To see what? {\i1}Wheelchair Zombie 4{\i0} or {\i1}Snorkeling Combat 2{\i0}?
+
+
+ODD: No way, those days are over.
+
+
+We’re going to see something real romantic and intellectual.
+The picture’s called: {\i1}Petals of Desire{\i0}.
+
+
+DEFAULT: (LAUGHING)
+
+
+ODD: The problem with you guys is that you have--
+--no sense of romance and no intellect.
+
+
+ULRICH: Speaking of intellect,
+anyone seen Jeremie?
+
+
+AELITA: Oh, he went back to his room.
+I think he’s got a few big problems.
+
+
+JEREMIE: The only problem I have is our friend, Xana
+
+
+You remember the last few times he attacked?
+
+
+ODD: Which time?
+The one with the trees or at the swimming pool?
+
+
+ULRICH: Odd.
+We agreed not to bring up that day at the pool, right?
+
+
+AELITA: Why? What happened at the swimming pool, huh?
+
+
+ULRICH: Eh- nothing.
+
+
+YUMI: Hn- nothing at all.
+
+
+JEREMIE: Whatever! I meant all the attacks--
+--Xana has launched recently, okay?
+
+
+Haven’t you noticed what the target has been?
+
+
+ODD: Well yeah, us!
+
+
+JEREMIE: Yes, but especially Aelita and me and it just so happens--
+--we’re the only ones who can use the supercomputer.
+
+
+ULRICH: Come on, we’ve all done it!
+
+
+JEREMIE: --Following our instructions on the phone but what would happen
+if Aelita and I weren’t around to give you guys any help?
+
+
+Xana wins, hands down, which is why I’m giving all of
+you a crash course on using the supercomputer this afternoon.
+
+
+ODD: What?! No way! Count me out!
+I’m going to the movies.
+
+
+YUMI: And I’ve got a test to study for.
+
+
+ULRICH: And I’ve got Pencak Silat practice!
+
+
+JEREMIE: If you guys think you have better things to do,
+I can’t force you to come, but then don’t expect us to gain ground on Xana.
+
+
+YUMI: You’re right, but you know,
+some days it isn’t easy being heroes.
+
+
+JEREMIE: Then listen, we’ll meet up at the computer lab after lunch,
+and if you pick it up quickly, it’ll be over in a couple of hours, okay?
+
+
+ODD: Okay.
+
+
+AELITA: Uh, Jeremie, I- I can’t make this afternoon…
+
+
+JEREMIE: Huh?! Why not?
+
+
+AELITA: Um- I’ve got my audition with the subdigitals.
+You know, for the concert?
+
+
+Today’s the final round of tryouts.
+
+
+JEREMIE: But that’s impossible!
+What if something happens to me while you’re gone?
+
+
+AELITA: That’s no problem.
+
+
+While you’re teaching everyone how to run the supercomputer,
+I’ll keep my phone on.
+
+
+If Xana attacks, I’ll be back in no time.
+
+
+JEREMIE: Okay, maybe you’re right. I worry too much.
+Go ahead, I can manage without you.
+
+
+AELITA: Thanks, Jeremie.
+
+
+ULRICH: So much for my training session, great--
+YUMI: --What about me? I’m gonna flunk another exam for sure!
+
+
+ODD: That’s nothing- you think you’ve got it bad, huh?
+How am I gonna tell Camille that {\i1}Petals of Desire{\i0} is out for today?
+
+
+ULRICH: Think about it Odd, you’re better off!
+You don’t have to pay all that money to sleep through two hours of a film.
+
+
+ODD: It’s a lot better than sleeping through a class given by our friend Einstein!
+
+
+JEREMIE: Okay, to start off,
+we’re going to go through a little bit of theory.
+
+
+I’ve printed you up a small list of basic functions to prepare you--
+ODD: --Hey hey- wait a minute Einstein!
+
+
+Wouldn’t it be easier if we just went straight to the practical side?
+You tell us what button to push and basta, huh?
+
+
+JEREMIE: Odd, working the supercomputer isn’t like fooling around in a game console.
+
+
+Before I can trust you with the controls,
+I wanna be sure you know this thing inside-out!
+
+
+DEFAULT: (GROANS)
+
+
+JEREMIE: Will you all relax?
+You’ll see guys, the theoretical stuff is actually a lot of fun.
+
+
+ULRICH: Right… It’s gonna be a million laughs…
+
+
+DEFAULT: (CAR ZOOMING)
+
+
+AELITA: Eyes on the prize, Aelita.
+
+
+CHRIS: Aelita! Hello, I’m glad that you could make it!
+Let me introduce you to everyone.
+
+
+You already know Nick and Benoît, my partners.
+Sophie- who holds the purse strings.
+
+
+SOPHIE: Hello, Aelita!
+
+
+CHRIS: And that big bear in his cage is Simon, our sound engineer.
+
+
+{\i1}And this Metis and Lise, who are the--
+--other contestants for this final audition.{\i0}
+
+
+AELITA: Hi!
+
+
+JEREMIE: And so, if we export the virtual memory from the B block into--
+--the inertial matrix, you can reconfigure the transfer files.
+
+
+This will let you delay the alignment of the quantum two-bits.
+I’m sure you see where I’m going with this.
+
+
+Any questions?
+
+
+ULRICH: Yeah I got one.
+How do you expect us to remember all this blah blah junk?
+
+
+JEREMIE: If you guys were a little more attentive,
+you’d have been able to understand it.
+
+
+YUMI: Ulrich’s right, Jeremie.
+Stop trying to teach us everything you know.
+
+
+Just show us how to do some practical stuff-
+like materializing us on Lyoko or programming up the vehicles.
+
+
+JEREMIE: Okay, fine,
+I guess we may as well get to the practical end.
+
+
+ODD: Huh, are we there yet?
+
+
+DEFAULT: (FUNKY TECHNO BEAT)
+
+
+CHRIS: {\i1}Okay Metis, nice one!
+
+
+ODD: Make sure you hit the right button!
+I’m ready, Ulrich.
+
+
+
+
+{\i1}But I don’t want to end up there with four arms and three legs!
+
+
+ULRICH: Uh, okay.. Umm…
+Tran- Transfer Odd. That right?
+
+
+JEREMIE: Mhm-hm.
+
+
+ULRICH: Transfer Odd!
+
+
+{\i1}Scanner Odd!
+
+
+And uhh…
+Virtualization!
+
+
+ODD: {\i1}Ahh! You turned me into a garden gnome!
+
+ULRICH: OH NO!
+
+
+ODD: Relax, just kidding.
+Everything’s cool here.
+
+
+ULRICH: (SIGHS)
+Not so bad for a beginner, huh?
+
+
+JEREMIE: Yeah, not bad.
+
+
+You were confused there for a second and almost--
+--hit the wrong button Mr. I-Don’t-Need-Any-Theory.
+
+
+ULRICH: Oh you’re never satisfied.
+Did I get him to Lyoko, yes or no?
+
+
+JEREMIE: Yes because I was here with you and you--
+--weren’t even under the stress of a Xana attack.
+
+
+Gimme my seat back!
+
+
+Activated tower: Mountain sector!
+Head for the scanners, hurry up!
+
+
+YUMI: (GASPS)
+
+
+DEFAULT: (GRUNTS)
+
+
+ULRICH: Leave him to me!
+(GRUNTS)
+
+
+DEFAULT: (GRUNTS)
+
+
+JEREMIE: Hey!
+
+
+YUMI: Oh, Jeremie!
+
+
+JEREMIE: No!
+
+
+YUMI: Jeremie!
+
+
+YUMI: He disappeared…
+
+CHRIS: Well, take our breath away, Aelita.
+It’s all yours.
+
+
+SFX: (FUNKY TECHNO BEAT)
+
+
+YUMI: He’s still breathing…
+But he took a lot of volts.
+
+
+ODD: {\i1}Hey uh, guys? Remember me?
+
+
+ULRICH: Odd, I think we’re in a big jam.
+Xana sicked a polymorphic specter on us and Einstein’s out cold.
+
+
+ODD: {\i1}Oh, well then it’s a good thing he showed us how to work the supercomputer.{\i0}
+
+
+ULRICH: Ah yeah, you’re right! It’s up to us!
+Anyone have any idea what to do now?
+
+
+YUMI: Yes, call Aelita.
+
+
+SFX: (PHONE RINGING)
+
+
+No answer…
+I’ll send her a text message.
+
+
+ODD: {\i1}Okay, we’ll just have to improvise.
+What do I do?
+
+
+YUMI: Uh, for openers Odd, try and get to the mountain sector.
+
+
+ULRICH: Yumi, shouldn’t we bring Odd back to Earth,
+while we try to get into contact with Aelita?
+
+
+YUMI: Okay- You know how to rematerialize him?
+
+
+ULRICH: Uh no, do you?
+
+
+ODD: No sense arguing guys, I’d rather stay here and fight.
+Just tell me where I can find a way tower!
+
+
+YUMI: Let’s see
+Um… a way tower… Oh I know!
+
+
+To find a way tower you have to bring up--
+--a radar window with these two keys!
+
+
+ODD: {\i1}Hey! What are you doing?! GET IT RIGHT!
+
+
+YUMI: (GASPS)
+ULRICH: Stop it! Hurry up!
+
+
+ODD: {\i1}Thanks. Well then, plan B.
+Try to bring up my overboard.
+
+
+Maybe I can find that stupid way tower on my own from the air.
+
+
+ULRICH: Okay, umm… Overboard, overboard…
+Darn it! Einstein’s notes are all over the place!
+
+
+YUMI: I think it’s this one here…
+
+
+ODD: Well take your time, okay cause I’ve got nothing better to do.
+{\i1}Speaking of which, any sign of specter gadget?
+
+
+YUMI: Yeah, how come he disappeared like that?
+
+
+ULRICH: Guess he had another date.
+
+
+YUMI: (GASPS)
+Aelita!
+
+
+The specter must have gone after her!
+We have to warn her right away!
+
+
+See you later!
+
+
+ULRICH: Bu- Hold on,
+you’re not gonna leave me alone like this?
+
+
+YUMI: You’re doing great,
+Ulrich! Just keep it up!
+
+
+ULRICH: (EXHALES)
+
+
+ODD: I don’t believe it.
+Where is this way tower?
+
+
+ULRICH: I don’t know… but Odd,
+{\i1}you’ve got some thingamajigs heading your way…
+
+
+ODD: Huh? You’re making progress Ulrich but those--
+--thingamajigs are Bloks and they don’t look too friendly!
+
+
+ODD: Laser arrow!
+
+
+I don’t believe it! I missed them all!
+
+
+Okay you monsters cool it!
+Ouch!
+
+
+AELITA: Well, I guess that’s it then.
+
+
+CHRIS: Okay, thanks a lot to all three of you for that great stuff,
+just give us a few seconds to talk it over and we’ll let you know our decision.
+
+
+AELITA: Oh no!
+
+
+CHRIS: Aelita has got to be our choice.
+
+
+SIMON: Oh yeah, no doubt about that.
+
+
+ODD: Hey where’s my ride?
+Are you sending it over or not?
+
+
+ULRICH: Uhh, I’m working on it.
+Let’s see, I um- Oh, there it is! I got it!
+
+
+ODD: Well try to work faster!
+
+
+Laser arrow!
+
+
+ULRICH: Materialization overboard!
+
+
+ODD: Ulrich!
+{\i1}You just sent me the overbike!{\i0}
+
+
+ULRICH: Uh, sorry Odd. I can’t send you anything else.
+
+
+ODD: Well, it’s better than nothing.
+
+
+But there’s another problem: you were supposed to send it to me
+Not to them, dummy!
+
+
+Well I guess it’s up to me to unblock the situation.
+
+
+Time to saddle up!
+Yee-haw!
+
+
+CHRIS: Welp, Metis, Lise, I’m really sorry guys but-
+But where’s Aelita?
+
+
+AELITA: (GASPS)
+
+
+DEFAULT: (GROWLS)
+
+
+AELITA: No!
+
+
+DEFAULT: (CAR ZOOMING)
+
+
+AELITA: Let’s move it!
+
+
+DEFAULT: Um- Are you okay? Nothing broken?
+Everything cool?
+
+
+HEY- THAT’S NOT- AH!
+
+
+Hey, you okay?
+
+
+What’d that guy do?
+
+
+ODD: Hey Ulrich, where is this way tower?
+
+
+ULRICH: Sorry Odd, I’m afraid to push some of these buttons.
+
+
+ODD: {\i1}Well you better! I’m starting to roast over here!{\i0}
+
+
+ULRICH: D’oh, what’s that number doing here?
+
+
+Great! Yumi! Just in time!
+{\i1}I’ve got some sort of countdown window up here...{\i0}
+
+
+YUMI: Hang on! I got the expert with me!
+Here!
+
+
+AELITA: Ulrich! It’s Aelita!
+Is there anything written above the window?
+
+
+ULRICH: Uh, yeah- it says “Big fat cheesehead”.
+What does that mean?
+
+
+AELITA: It’s a code!
+
+
+You’ve started a delayed virtualization
+{\i1}directly into the mountain sector!{\i0}
+
+
+YUMI: {\i1}Ulrich, has Odd found the way tower?{\i0}
+
+
+ULRICH: No, but I just got a mega idea.
+
+
+YUMI: Ulrich? Ulrich?
+Big fat cheesehead?
+
+
+AELITA: It’s uh… uh- a private joke between Jeremie and me…
+
+
+SFX: (TIRE SQUEALS)
+
+
+AELITA: Yumi!
+
+
+YUMI: That way!
+
+
+SFX: (TIRE SQUEALS)
+
+
+ODD: This ice float sure is deserted.
+
+
+Well, nothing to lose,
+Let’s try that tower.
+
+
+I can’t believe it,
+I’m still stuck in the ice sector.
+
+
+AELITA: Ulrich just virtualized himself into the mountain sector!
+Odd!
+
+
+{\i1}That way tower is just a little further,{\i0}
+{\i1}bearing northwest from your position.{\i0}
+
+
+{\i1}We’ll meet you in the mountain sector!{\i0}
+{\i1}Move it!{\i0}
+
+
+ODD: Well, better late than never.
+
+
+YUMI: Your turn now Yumi.
+Virtualize me!
+
+
+ULRICH: Uh oh- bingo.
+
+
+YUMI: Transfer Aelita.
+
+
+Scanner Aelita.
+
+
+Virtualization!
+
+
+I did it!
+
+
+AELITA: Yoo-hoo!
+Guess who?
+
+
+What’s on the menu?
+
+
+ULRICH: Usual stuff,
+A whole seafood platter over there and William’s the lemon.
+
+
+ODD: Yahoo!
+
+
+ULRICH: Well you sure took your time.
+
+
+ODD: Yeah, but at least I got here
+and no thanks to you.
+
+
+If you knew how many towers I’d been--
+--through before I got to the right one--
+
+
+AELITA: We’re going to need more vehicles, Yumi.
+{\i1}Do you read me, Yumi?{\i0}
+
+
+YUMI: (YELLS)
+
+
+AELITA: {\i1}Yumi! Answer us!{\i0}
+
+ODD: Transmission problems?
+
+
+AELITA: No, I think it’s worse.
+I’m pretty sure that the specter’s in the computer lab.
+
+
+ULRICH: Okay, I’ll go. Shoot me Odd!
+
+
+ODD: No, I should be the one.
+I’ve already lost lots of life points, and you still got all yours.
+
+
+You’d be more useful here.
+Whatsmore, that’s exactly what we did during the swimming pool attack!
+
+
+ULRICH: I don’t ever want to hear--
+--about the swimming pool again!
+
+
+ULRICH: That’ll teach you, huh?
+Saddle up, princess.
+
+
+AELITA: Okay.
+
+
+This is gonna be a close one.
+
+
+YUMI: (GRUNTS)
+
+
+DEFAULT: (YELLS)
+
+
+ULRICH: Right now!
+
+
+Impact!
+
+ODD: Yumi, are you okay?
+
+
+YUMI: I- I didn’t realize you were back…
+
+
+ODD: Neither did he- but he sure knows now.
+We’ve got no time to lose.
+
+
+He could reform again any second!
+Okay don’t move!
+
+
+YUMI: You think you can virtualize me, Odd?
+
+
+ODD: Relax! I’m a computer whiz, you know that.
+
+
+YUMI: Ummmm… not?
+
+
+WILLIAM: (GROANS)
+
+
+Super Smoke!
+
+
+AELITA: (YELLS)
+
+
+ULRICH: Aelita!
+
+
+WILLIAM: (LAUGHS)
+
+
+ULRICH: Whoa-
+Super Sprint!
+
+
+Oh, whew.
+
+
+WILLIAM: (GRUNTS)
+
+
+YUMI: What’s this, William?
+Another girl catch your eye?
+
+
+WILLIAM: (GROWLS)
+
+
+AELITA: Nice one, Odd! Just in time!
+
+
+ODD: {\i1}Thank you, thank you.{\i0}
+That was just a taste of my talent.
+
+
+Einstein would be so-
+That’s funny, I’d have sworn you were taller.
+
+
+ULRICH: Later, gator.
+
+
+DEFAULT: (GROWLS)
+
+
+ODD: (LAUGHS)
+Hey! Look up there!
+
+
+It works most of the time!
+
+
+WILLIAM: You’re finished Yumi!
+
+
+YUMI: We’ll see about that!
+
+
+WILLIAM: No!
+
+
+SFX: (CELESTIAL HUMMING)
+
+
+ODD: No!
+
+
+SFX: (HUMMING CONTINUES)
+
+
+AELITA: Tower deactivated.
+
+
+DEFAULT: (GROWLS)
+
+
+JEREMIE: What happened?
+
+
+Aelita- the specter- the tower-
+Did you- Did you do it?
+
+
+AELITA: Me? I didn’t do anything.
+
+
+JEREMIE: I have to say that you guys held your own in the end.
+
+
+But you have to admit I was right, if Xana attacks Aelita or me now,
+I know you’ll be able to take over.
+
+
+YUMI: So that means you trust us, huh?
+
+
+JEREMIE: Yeah… Uhh-
+A bit…
+
+
+AELITA: Well that’s good news--
+--because the day after tomorrow I’ll be gone all day.
+
+
+I’ve got my dress rehearsal.
+The {\i1}Subdigitals{\i0} chose me to be the opening act for their concert!
+
+
+Even though I walked out on them-
+
+
+JEREMIE: That’s fabulous, Aelita! Well done!
+
+
+ULRICH: Yeah that’s great!
+By the way Odd, how was {\i1}Petals of Desire{\i0}?
+
+ODD: Oh, it was lame. What’s more- I broke up with Camille.
+I’m over all that romantic stuff.
+
+
+You know- I’m more into action,
+like the day at the swimming pool attack for instance.
+
+
+YUMI: Odd, don’t talk about the swimming pool, okay?!
+
+
+AELITA: Hey, don’t tell me you’re never gonna--
+--tell us what happened at the pool, huh?
+
+
+ULRICH: Well...
+
+
+ODD: Well, it’s simple really, uh, let’s see now-
+You remember the attack in the gymnasium?
+
+JEREMIE: Odd! We told you never to bring--
+--up the attack in the gym, right?
+
+
+ULRICH: Why, what happened in the gym?
+
+
+JEREMIE: Um, nothing really.
+
+
+AELITA: Mm, nothing at all.
