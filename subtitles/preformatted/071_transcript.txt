@@ -1,0 +1,819 @@
+71 - Maiden Voyage
+
+
+JIM: {\i1}For those still unfamiliar with the sport, rock climbing is a noble discipline,{\i0} which can carry you to great heights.
+A good climber commands both mind and body.
+
+
+This philosophy was well understood by the famous sherpa Tensing Pong[l] who scaled mount Everest using only his bare hands
+thanks to the ancestral techniques still taught today by the buddhist monks from the order of Ki Shi Tsou[m].
+
+
+And so, don’t forget that only by challenging yourselves can you move mountains, and might I add, climb them.
+
+
+Belpois, get up there. See if you’re up to the challenge. This will be the practical part of today’s lesson.
+
+
+Go on.
+
+
+JEREMIE: (GRUNTING)
+
+
+JIM: What’s the matter? Pull up with your arms and push off with your legs.
+Have you got chewing gum for muscles or what?
+
+
+JEREMIE: (SHOUTS)
+
+
+JIM: Of course if the only exercise you get is clicking your computer mouse, you’re not gonna conquer any peaks.
+
+
+Della Robbia, show your buddy here how it’s done.
+
+
+AELITA: (SIGHS)
+
+
+It’s no big deal, Jeremie.
+
+
+SISSI: Well, sourpuss, having a hard time lifting your brain[n] with those string bean arms?
+
+
+JEREMIE: Odd, do you mind?
+
+
+ODD: Aelita, I hate to talk with my mouth full, would you mind taking over?
+
+
+AELITA: Sissi, you’re head is so full helium, you can float to the top! (LAUGHS)
+
+
+DEFAULT: (LAUGHING)
+
+
+HERB: (LAUGHS) You know, sometimes I wonder if you don’t actually ask for it.
+
+
+SISSI: Shut up, you dork.
+
+
+YUMI: What happened this morning?
+
+
+ULRICH: He had to scale the rock wall in gym.
+
+
+YUMI: Oh, okay, enough said.
+
+
+JEREMIE: I don’t believe it. I can’t be that bad in every single sport.
+
+
+AELITA: Of course not… actually no, you really are lame at anything athletic.
+
+
+Anyway, who cares. You can’t be a champion at everything.
+
+
+ODD: C’mon, Einstein, stop sulking. Listen, if you want, we can try scaling the wall together.
+
+
+JEREMIE: You think I have time for that monkey business? I’ve got too much work to do.
+
+
+YUMI: That’s for sure. You and Aelita spend all of your time shut up in the computer lab. What are you working on?
+
+
+AELITA: We’re ironing out the final kinks on the Skid.
+
+
+ULRICH: You’re still on that? I thought it was done.
+
+
+JEREMIE: Ulrich, travelling through the network is not exactly like taking a stroll through Lyoko.
+And what’s in the digital sea is still a complete mystery.
+
+
+For all we know, the Skid could disintegrate during its first dive.
+
+
+ODD: Well that’s reassuring. Uh, you gonna eat that?
+
+
+JEREMIE: Go ahead.
+
+
+ODD: Cool!
+
+
+YUMI: You know Jeremie, we’re gonna have to test it out one day if we want to take on Xana.
+
+
+MR. DELMAS: Quiet down, please.
+
+
+I said quiet down.
+
+
+DEFAULT: Shh! Shh!
+
+
+(IDLE CHATTER)
+
+
+MR. DELMAS: Quiet, I said!
+
+
+JIM: Mr. Delmas said quiet down, that means now!
+
+
+MR. DELMAS: (CLEARS THROAT) Thank you, Jim.
+
+
+JIM: That’s alright Mr. Delmas, always glad to help.
+
+
+MR. DELMAS: Yes of course. In case you’ve forgotten, let me remind you that today is FSRP day,
+which stands for Fire, Safety, Risk, and Prevention, and so all afternoon classes have been cancelled.
+
+
+DEFAULT: (CHEERING)
+
+
+MR. DELMAS: And so as I was saying children, your classes are cancelled,
+but part of this free time will be devoted to a complete building evacuation exercise.
+
+
+This drill is designed to make absolutely certain that you’re all familiar with our security procedures.
+
+
+Procedures that you will need to know by heart,
+it goes without saying that all access to the buildings will prohibited during the exercise. Therefore-
+
+
+AELITA: Yumi is right, you know. We’d better make a trial run in the Skid just to see how it works.
+
+
+JEREMIE: Yeah, but I don’t know if we’re ready yet.
+
+
+ULRICH: We’ve got to try it out before Xana gets even more powerful.
+
+
+MR. DELMAS: There will be no exceptions made. Thank you for your attention.
+
+
+JEREMIE: Well okay. We’ll take advantage of the safety drill to get over to the computer lab.
+
+
+AELITA: Way to go, Jeremie!
+
+
+ULRICH: Yeah, cool!
+
+
+JERMIE: But listen up, this is only a trial run to work out the launch procedures.
+
+
+ODD: Relax[o], we’ll just dive in, test it, and come back.
+
+
+JEREMIE: As we all know, Lyoko is made up of five sectors.
+These sectors are actually located in the center of some sort of giant hollow sphere.
+
+
+Imagine a kind of enormous virtual bubble suspended in a sort of liquid element.
+This liquid element is the world information network.
+
+
+YUMI: And the digital sea?
+
+
+AELITA: The digital sea is a part of the network. It’s a kind of overflow[p] that’s accessible this sort of flood gate.
+Xana goes through this flood gate to attack us on Lyoko, and the Skid will use the very same gate to get us out.
+
+
+ULRICH: And once we’re off Lyoko, what then?
+
+
+JEREMIE: Well I imagine you’ll be in some kind of immense network of tunnels[q],
+but I don’t have enough data to tell you exactly what you’ll find. It’ll be a surprise.
+
+
+ODD: That’s fabulous, I love surprises. Well, what are we waiting for?
+
+
+JEREMIE: Hang on, Odd! I haven’t even begun explaining about configuring the parameters of the engines,
+or the procedure for transferring virtual mass, or, or…
+
+
+ODD: Don’t bother, we’ll work it out as we go along. Nothing like hands on experience.
+
+
+JEREMIE: But-
+
+
+AELITA: Jeremie, don’t worry, I’ll be right there with them.
+
+
+JEREMIE: Hm.
+
+
+{\i1}You there yet? I’ll start up the process.
+
+
+ULRICH: Ladies first.
+
+
+JEREMIE: Transfer, Aelita. Transfer, Yumi.
+
+
+{\i1}Scanner, Aelita. Scanner, Yumi.
+
+
+Virtualization.
+
+
+YUMI: It’s okay Jeremie, it’s all quiet here.
+
+
+JEREMIE: Virtualization.
+
+
+{\i1}Your elevator is waiting.
+
+
+YUMI: It’s beautiful, huh?
+
+
+ULRICH: Fantastic.
+
+
+ODD: Einstein, we made it to the Skid hanger. Now what do we do?
+
+
+JEREMIE: Each of you get on a transporter spot.
+
+
+ODD: Well who’s driving?
+
+
+AELITA: I am, of course.
+
+
+JEREMIE: You guys, ready? Energize.
+
+
+AELITA: Wow, it’s working[r] Jeremie!
+
+
+Everything’s in place according to plan.
+
+
+Opening interface.
+
+
+Cockpit to Navskids, do you read me?
+
+
+YUMI: Loud and clear, Aelita.
+
+
+ULRICH: Loud and clear, Aelita.
+
+
+ODD: Me too! This is cool! It’s like being in a spaceship!
+
+
+ULRICH: Yeah, but be careful, Odd, this isn’t Galactic Invaders.
+
+
+ODD: {\i1}Yeah yeah, you’re just jealous because I wiped out three times as many aliens as you did last night.
+
+
+ULRICH: {\i1}Because you cheated, as usual.
+
+
+JEREMIE: Okay, if you guys are done blabbering, maybe we can get on with the job?
+
+
+AELITA: {\i1}Standing by, Jeremie.
+
+
+JEREMIE: Okay, now, get ready for lift off.
+
+
+Releasing supports.
+
+
+AELITA: We have ignition, powering vertical.
+
+
+For you, Daddy.
+
+
+Lift off!
+
+
+JEREMIE: All indicators are go. You guys are good for leaving Sector Five.
+
+
+AELITA: {\i1}Roger.
+
+
+JEREMIE: {\i1}Tunnel open in two seconds.
+
+
+AELITA: It’s working, Jeremie, our Skid is working!
+
+
+YUMI: {\i1}Great!
+
+
+JEREMIE: (SIGHS)
+
+
+ODD: {\i1}Nice work, Einstein!
+
+
+ULRICH: {\i1}Great job, Aelita!
+
+
+JERMIE: Good, the test was a success. Aelita, you all set to turn it around? And go back into dry dock?
+
+
+ULRICH: {\i1}What? No way!
+
+
+ODD: {\i1}Hey, Einstein, I thought we were supposed to test this thing.
+
+
+JEREMIE: Yeah, well that’s what we did. We just finished a dry run.
+
+
+ULRICH: {\i1}A test in the digital sea, otherwise what’s the point?
+
+
+AELITA: They’re right, Jeremie, if we just stay here in the sky on Lyoko it isn’t much of a trial run.
+
+
+{\i1}Don’t you want to see what the network looks like?
+
+
+JEREMIE: (SIGHS)
+
+
+{\i1}I feel like I’m gonna regret this, but okay.{\i0} Get ready to dive into the digital sea. {\i1}Five minutes maximum.
+
+
+ODD: {\i1}Yeah!
+
+
+AELITA: Okay then! Shields, activated. Sonar, activated. Stabilizers online and checked out.
+Primary access, clear. Laser generators, online. Cockpit to Navskids, ready for a dive?
+
+
+ULRICH: Ready.
+
+
+YUMI: Ready.
+
+
+ODD: Anytime, Princess.
+
+
+JEREMIE: (EXHALES)
+
+
+AELITA: {\i1}Here we go!
+
+
+JERMIE: Base lab to Skid, do you read me?
+
+
+Lab calling Skid, Aelita, come in. Answer please!
+
+
+AELITA: {\i1}Skid to base lab, Jeremie, we’re in the digital sea!
+
+
+JEREMIE: That’s what I wanted to hear Aelita! I nearly had a heart attack waiting!
+(STAMMERING) But I’m okay now!
+
+
+Holoweb system, online.
+
+
+{\i1}Well, what does the network look like?
+
+
+AELITA: It’s… it’s beautiful. I’m sending you a visual, Jeremie.
+
+
+JEREMIE: Wow…
+
+
+ODD: {\i1}Yeah, you said it Einstein.
+
+
+AELITA: Rotation.
+
+
+JEREMIE: Aelita, engage the turbo prop and the auxiliary engines to break clear of Lyoko’s gravity field, okay?
+
+
+AELITA: Right, whatever you say.
+
+
+Turbo propeller engaged.
+
+
+JEREMIE: (SLURPS) Okay, that’s it you guys. Now head for home.
+
+
+ODD: {i\1}Aw, can’t we stay here a little longer?
+
+
+JEREMIE: I said five minutes, Odd.
+
+
+Aelita.
+
+
+AELITA: {\i1}Roger, Jeremie. Turning around.
+
+
+Starboard propulsion engaged.
+
+
+Bearing 160.
+
+
+JEREMIE: What’s going on around here?
+
+
+Aelita, I don’t know why, but I just lost all trace of you on my radar. It might just be a transmission problem.
+{\i1}Can you check it out?
+
+
+AELITA: Jeremie, the navigation system doesn’t respond. There’s a bug in it.
+
+
+JEREMIE: This can’t be! Without a navigation system {\i1}you’ll never find your way back to Lyoko.
+{\i1}You’ll be stuck,{\i0} floating on the network until you use up all the Skid’s {\i}virtual power reserves.{\i0}
+
+
+YUMI: {\i1}And then what?
+
+
+JEREMIE: Once the virtual energy is exhausted the Skid’ll break up and you’ll all end up in the digital sea for good!
+
+
+AELITA: Eternal virtualization. Like my father.
+
+
+ULRICH: {\i1}Well that’s just great.
+
+
+ODD: By the way, Einstein, I hope you’ve got a solution, because I didn’t bring my bathing suit.
+
+
+JEREMIE: {\i1}Yeah, well to get you guys out of there, I have to debug the system.
+Except that there are several million codes to crack. By then you’ll all be in the drink. Unless…
+
+
+ULRICH: {\i1}Unless what?
+
+
+JERMIE:I’ve got sub programs that just might debug and repair the system.
+But I have to go get them from my room, and so I’ll have to leave you guys on your own for just a moment.
+
+
+ODD: {\i1}Oh, that’s cool, Einstein, you couldn’t have brought this stuff with you?
+
+
+JEREMIE: Hey, I wasn’t the one who insisted on doing this trial run, Odd. So just cool it, if you don’t mind.
+
+
+AELITA: It won’t help to get all worked up. Hurry and get your CD-ROM, we’ll wait here.
+
+
+JEREMIE: Okay, I’ll be right back. Whatever you do, don’t move from there.
+
+
+ODD: {\i1}Very funny.
+
+
+{\i1}Weird, it looks like an upside-down city.
+
+
+AELITA: If you ask me, all these buildings are the network’s interconnected databases.
+
+
+Okay, why don’t we turn on some light?
+
+
+JIM: Belpois! What do you think you’re doing here?
+Why aren’t you with all of the other kids in the school yard, huh?
+
+
+JEREMIE: Darn it, fire safety day, I forgot all about it too, just my luck.
+
+
+JIM: Go on, hurry up. The principal sees you here, he’s gonna ring my bell.
+
+
+JEREMIE: (STAMMERING) Yeah, but, I need to get something from my room, it’ll just take a second.
+
+
+JIM: Oh no you don’t. You were all warned this morning,
+and a warning in hand is worth two in the bush league- beat it!
+
+
+Did I ever tell you about when I fought forest fires?
+
+
+ODD: {\i1}Hey, you think we’ll live to see the light of day?
+
+
+AELITA: Don’t worry, Odd, Jeremie will find a way to fix it, I’m sure.
+
+
+YUMI: {\i1}By the way, has anyone noticed the change in the light?
+
+
+AELITA: {\i1}You’re right, that’s strange.
+
+
+JEREMIE: (EXHALES)
+
+
+Hm.
+
+
+Another teacher standing guard, what is this, Fort Knox?
+
+
+MR. FUMET: Hm?
+
+
+JEREMIE: Well, there isn’t any other way.
+
+
+ULRICH: Hey, you guys see that dark thing up there?
+
+
+AELITA: Yes, I’ll shut the lights to get a better view.
+
+
+YUMI: {\i1}Aelita, you think that’s Lyoko?
+
+
+AELITA: I don’t know, but whatever it is, its gravity is pulling us towards it.
+
+
+JEREMIE: This is not gonna be a piece of cake.
+
+
+Okay, let’s do it.
+
+
+Whoa!
+
+
+(EXHALES)
+
+
+(SHOUTS)
+
+
+ODD: {\i1}Whew, I’d love to see that paper-pusher Einstein’s face when he figures out
+{\i1}that we didn’t need his help to come back in.
+
+
+ULRICH: {\i1}Yeah, it’s nice to be back on Lyoko.
+
+
+AELITA:But it’s not Lyoko.
+
+
+DEFAULT: Huh?
+
+
+ULRICH: What?
+
+
+AELITA: It’s not Lyoko.
+
+
+Hang on now, retro breaks!
+
+
+JEREMIE: Who said climbing can take you to great heights? (GRUNTS)
+
+
+I guess I should monkey around more often.
+
+
+YUMI: {\i1}There’s something else up ahead.
+
+
+ULRICH: {\i1}Hey look, it’s ugly and uglier. They look like some sort of eels.
+
+
+ODD: {\i1}I never met an eel I didn’t like!
+
+
+AELITA: Heads up, I’m breaking off.
+
+
+ODD: I’ve seen spiked heels, but spiked eels? Never.
+
+
+DEFAULT: Hey, hey!
+
+
+JERMIE: Sorry, got my own fire to put out!
+
+
+ODD: Holy cow, Aelita, be careful, you’ll get us all killed. You taught you how to pilot?
+
+
+AELITA: You did, Odd.
+
+
+ODD: {\i1}Oh.
+
+
+DEFAULT: {\i1}Whoa!
+
+
+YUMI: {\i1}Aelita, we’ll never make it against these monsters!
+
+
+AELITA: {\i1}I know! We’re almost out of energy.
+{\i1}The Skid could disintegrate at any moment if Jeremie doesn’t get back soon.
+
+
+JEREMIE: Okay, Aelita, I’m here in the computer lab, how are you holding up?
+
+
+AELITA: {\i1}We’re in big trouble Jeremie. Xana’s attacking us{\i0} with some kind of fish…
+{\i1}some kind of giant moray or conger eels. Have you started up the debugging program?
+
+
+JEREMIE: Yes, but you’re burning way too much power and if this continues
+you guys’ll be gone before the debugging’s done. We have to buy some time.
+
+
+AELITA: Okay, but how?
+
+
+JEREMIE: Get those Kongres off your tail. And then launch the Navskids.
+
+
+ODD: What? We’re gonna fight them one on one?
+
+
+JEREMIE: {\i1}Exactly, Odd, just like in Galactic Invaders.
+
+
+ODD: Okay, bring ‘em on!
+
+
+AELITA: Are you all set? Navskids away.
+
+
+ODD: Hey, these are more maneuverable than the overboards! Gangway!
+
+
+JEREMIE: Now, be really careful, if you get hit, it means you’ll be lost at sea!
+
+
+ODD: Gotcha Einstein!
+
+
+Fire torpedos!
+
+
+{\i1}Unbelievable. It’s up to you, Yumi.
+
+
+YUMI: They’re tough customers.
+
+
+ODD: {\i1}You said it.
+
+
+ULRICH: {\i1}Yumi, behind you!
+
+
+YUMI: Okay, come and get me… now!
+
+
+{i\1}Got him!
+
+
+ULRICH: Nice one, Yumi, you get better and better.
+
+
+YUMI: Maybe, but not good enough.
+
+
+JEREMIE: Careful. Don’t forget that the Navskids’ autonomy is limited.
+
+
+YUMI: {\i1}We’ll do what we can, Jeremie, but these monsters are hard to hit.
+
+
+JEREMIE: Well don’t try to work any miracles.
+
+
+Just keep them away from the Skid.
+
+
+ULRICH: {\i1}Right.
+
+
+Hey, fish freak, looking for some more bait?
+
+
+(EXHALES)
+
+
+This time, I lost him.
+
+
+JEREMIE: The program is debugged. I’m sending you your coordinates. Get out of there and fast.
+
+
+AELITA: Navskids in.
+
+
+Maximum propulsion.
+
+
+JEREMIE: Trial run’s over, everybody, back to dry dock.
+
+
+I would never have thought that the world information network was a real live ocean.
+
+
+ODD: Yeah, with fish and everything. Big ones too.
+
+
+AELITA: To think that my father is in the network somewhere…
+
+
+YUMI: Yeah, and so is William.
+
+
+ULRICH: That huge sphere we saw, what was that anyway?
+
+
+JEREMIE: Another virtual world, just like Lyoko - a Replika that Xana must have created
+from the data that he stole from Aelita.
+
+
+I really wonder what he’s thinking of doing with it.
+
+
+ULRICH: We’ll go and explore it.
+
+
+ODD: Yeah!
+
+
+JEREMIE: Right. But not tonight. The only thing that I feel like exploring is my bed. I’m wiped out.
+
+
+ODD: You’re wiped out from sitting in your cushy chair? How do you think we should feel then?
+
+
+JEREMIE: Odd, if I told you what I was doing while you were on the network, you’d never believe me.
+
+
+ODD: Well lemme take a wild guess, okay? Uh, you did a little rock scaling on the dormitory roof.
+
+
+JEREMIE: Huh? But how’d you know that?
+
+
+ODD: Huh?
+
+
+AELITA: (GASPS)
+
+
+YUMI: Oh!
+
+
+DEFAULT: (LAUGHING)
+
+
+ODD: You know, Einstein, you can be really hilarious when you wanna be.
+Even when you don’t wanna be! (LAUGHS)

@@ -1,0 +1,1095 @@
+82 - Distant Memory
+
+
+AELITA: {\i1}Look at my giant snowball, mommy!
+
+
+AELITA’S MOTHER: {\i1}Stay near the house, darling!
+
+
+FRANZ: {\i1}Well done, my angel!
+
+
+AELITA: {\i1}(LAUGHING)
+
+
+DEFAULT: {\i1}(HOWLING)
+
+
+AELITA: {\i1}Mommy! Daddy!
+
+
+{\i1}Nooo!
+
+
+AELITA’S MOTHER: {\i1}Aelita!
+
+
+{\i1}Aelita!
+
+
+AELITA: {\i1}(PANTING)
+
+
+{\i1}Mommy!
+
+
+{\i1}Mommy!
+
+
+{\i1}Nooo!
+
+
+AELITA’S MOTHER: {\i1}Aelita…
+
+
+AELITA: {\i1}Mommy!
+
+
+{\i1}Mommy…
+
+
+{\i1}Mommy…
+
+
+DEFAULT: {\i1}(GROWLING)
+
+
+YUMI: What? You’re still having nightmares?
+
+
+AELITA: Well, yeah.
+
+
+They keep coming back every now and then
+And what’s more- they’re always the same.
+
+
+But don’t worry, Jeremie, I’m used to them.
+
+
+JEREMIE: No, Aelita, it’s not your nightmares I’m worried about.
+
+
+AELITA: I told you that it’s no big deal.
+
+
+Yumi won’t be far for the holidays and I’m staying here
+To keep an eye on XANA so there’s no need to worry.
+
+
+JEREMIE: I don’t care about XANA.
+
+
+I just don’t like leaving you here all alone.
+
+
+I’m gonna tell my dad I’m staying here.
+
+
+AELITA: No you’re not.
+
+
+You should spend the holidays with your families.
+
+
+For me, it’s… it’s not the same thing.
+
+
+ULRICH: At holiday time my dad gets more stressed out than ever
+Which makes my mom hysterical.
+
+
+I think I’d rather stay here.
+
+
+ODD: Yeah, me too.
+My sisters drive me nuts.
+
+
+Last year, they locked me in the bathroom all night
+Just because they thought it was funny.
+
+
+YUMI: They did?
+But- that’s even worse than my kid brother.
+
+
+I thought they were older than you, Odd.
+
+
+ODD: They are, and they’re a lot bigger than me too.
+That’s my problem.
+
+
+DEFAULT: (LAUGHING)
+
+
+AELITA: Hey Ulrich, isn’t that your dad’s car over there?
+
+
+ULRICH: Well, the show must go on.
+See you soon, everybody.
+
+
+ODD: May the force be with you!
+
+
+JEREMIE: See ya!
+
+
+YUMI: It’s not all that long.
+
+
+AELITA: Try and have some fun.
+
+
+JEREMIE: There’s my father.
+
+
+Aelita, are you sure that you-
+
+
+AELITA: Come on now, hurry up!
+I won’t be all alone- I’ve got Kiwi for company!
+
+
+JEREMIE: Okay, goodbye for now.
+
+
+ODD: Alright, speaking of Kiwi-
+Don’t feed him any cheese at all. It gives him gas.
+
+
+And that’s more powerful than your energy fields.
+
+
+AELITA: (LAUGHS)
+Thanks for the tip!
+
+
+JEREMIE: {\i1}Hi dad!
+
+
+ODD: {\i1}So long!
+
+
+MR. STERN: I see you’re still hanging around
+That gang of good-for-nothin’s.
+
+
+ULRICH: And I see you forgot your happy pill again.
+
+
+MRS. STERN: Ulrich!
+
+
+MR. BELPOIS: Your friends seem very nice, Jeremie.
+
+
+JEREMIE: Uh- yeah, I really like them a lot.
+
+
+They’re my good buddies.
+
+
+MR. BELPOIS: That girl with the pink hair- Is that Aelita?
+The one you’re always talking about?
+
+
+She’s very pretty- and I get the impression she likes you.
+
+
+YUMI: I’d better go-
+I promised my mom I’d help her clean up.
+
+
+AELITA: Okay yeah-
+See you, Yumi!
+
+
+YUMI: Aelita, are you sure you don’t want to spend the holidays with us?
+
+
+I’ll call my parents and tell them-
+
+
+AELITA: No, I’d just be in the way.
+And besides, I could use a little time alone.
+
+
+YUMI: Hmm.
+
+
+Well, if you need anything, you know my number.
+
+
+AELITA: Okay, have a nice holiday!
+
+
+
+
+{\i1}Oh he’s so cute- I love him!
+
+
+{\i1}What should I call him?
+
+
+FRANZ: {\i1}How about Mister Pück?
+{\i1}It’s the name of an elf.
+
+
+AELITA’S MOTHER: {\i1}Do you like it?
+
+
+AELITA: {\i1}Oh yes!
+{\i1}Thank you, Mommy!
+
+
+MR. BELPOIS: (WHISTLING)
+
+
+You’re very quiet, son.
+Is anything wrong?
+
+
+JEREMIE: Uh no, it’s nothing-
+I was just thinking of something else.
+
+
+MR. BELPOIS: Ah…
+
+
+You disappointed me again as usual, Ulrich!
+I thought after the talk we had last month
+
+
+That you would try at least and make some kind of effort!
+
+
+Instead, there’s been no improvement at all!
+
+
+Plus, all those unexcused absences!
+
+
+ULRICH: (LAUGHS)
+
+
+MR. STERN: And you find that amusing…
+
+
+AELITA: Hm?
+
+
+DEFAULT: (PIANO “TWINKLE TWINKLE LITTLE STAR”)
+
+
+AELITA: Daddy?
+
+
+Where are you?
+
+
+“Expecting you here on Lyoko-”
+
+
+You’re not on the network?
+
+
+Oh rats, it bugged up!
+
+
+MRS. ISHIYAMA: Yumi, could you please give me a hand in here?
+
+
+YUMI: Soon as I’m finished calling my friend!
+
+
+MRS. ISHIYAMA: Your phone call can wait!
+I need you to help me right now, if not
+
+
+I’ll never finish all the housework in time!
+
+
+YUMI: But Mom, you’ve got a whole week to do it!
+
+
+MRS. ISHIYAMA: Yes, and as usual your father’s not going to lift a finger
+So a week may not be enough!
+
+
+MR. ISHIYAMA: Huh? What did I do this time?
+
+
+YUMI: Ugh!
+
+
+AELITA: “There isn’t much time…”
+
+
+Not much time for what?
+
+
+“Here are the coordinates…”
+
+
+“See you in a minute, my dear.”
+
+
+FRANZ: {\i1}See you in a minute, my dear.
+
+
+AELITA: What’s that thing?
+
+
+A simulation bubble?
+
+
+Huh?
+
+
+How can this be?!
+
+
+FRANZ: Hm?
+
+
+AELITA: Daddy?
+
+
+FRANZ: Aelita!
+We’ve so much catching up to do… and there’s so little time…
+
+
+AELITA: I thought you were lost on the network!
+
+
+FRANZ: Lost? No dear…
+
+
+When XANA destroyed Lyoko, I managed to escape.
+
+
+I have information to give you,but first,
+I wanted so much to hold you in my arms…
+
+
+AELITA: But how did you-
+
+
+FRANZ: I had to create this simulation bubble so that I could finally-
+
+
+AELITA: This is so fantastic!
+Everything is just the same…
+
+
+FRANZ: Yes, the bubble will allow us to do many things, my dear...
+
+
+Like spending an evening together, at last.
+
+
+YUMI: Aetlia, come on- pick up, will you?
+
+
+HIROKI: {\i1}Hi-yah!
+
+
+YUMI: Hey! What are you doing in here?!
+Get out!
+
+
+HIROKI: Calling Ulrich?
+
+
+YUMI: Mind your own business!
+Do I ask you about Milly Solovieff?
+
+
+HIROKI: (GROWLS)
+
+
+YUMI: Hello Jeremie?
+
+
+JEREMIE: For how long of a time?
+
+
+Her phone battery might be dead, that’s all.
+Think you can go over there and check it out?
+
+
+Keep me posted, okay?
+
+
+Uh, Dad?
+I forgot my laptop back at the dorm and I, um…
+
+
+MR. BELPOIS: I get the idea, Jeremie.
+
+
+Your laptop wouldn’t have pink hair by any chance, would it?
+
+
+JEREMIE: Huh?
+
+
+MR. BELPOIS: You know, I can understand that.
+I was in love once too.
+
+
+JEREMIE: You were, with who?
+
+
+MR. BELPOIS: Who else? With your mother!
+
+
+MR. STERN: Oh this traffic’s horrible!
+
+
+MRS. STERN: Getting all tense won’t get us there any faster, dear.
+
+
+ULRICH: That you, Jeremie?
+
+
+You sure?
+You’re right, something must be up.
+
+
+Okay, I’ll let him know and we’ll meet you-know-where.
+Anything is more fun than this.
+
+
+MR. STERN: Ulrich!
+Where are you going?!
+
+
+ULRICH: To get a little air and to stretch my legs.
+Besides, I’ll get there faster if I walk.
+
+
+See ya.
+
+
+ULRICH: Odd, Aelita’s not answering her phone!
+Meet us at the factory!
+
+
+ODD: Okay, be right there-
+Soon as I tell my parents.
+
+
+DEFAULT: Well, are you flying today or not?
+
+
+ODD: Just a second!
+
+
+Hello? Adelle? It’s Odd. Uh-huh.
+Oh, sorry Pauline.
+
+
+Hey listen, you think you could ask Elizabeth to tell Marie
+To say to Louise that she should let Mom and Dad know I missed my flight.
+
+
+Huh? What do you mean tell them myself?
+Hello?
+
+
+Okay, change of plan…
+
+
+Nothing like sibling loyalty!
+
+
+YUMI: Aelita?
+
+
+“Expecting you here on Lyoko”?
+
+
+FRANZ: No, as long as XANA hasn’t been defeated,
+I can’t rematerialize myself.
+
+
+But you, however, should be able to free your young friend.
+What was his name again?
+
+
+AELITA: William.
+
+
+FRANZ: Yes, of course.
+
+
+I’m gonna send a program to Jeremie via the supercomputer-
+By the way, how’s your fight against XANA progressing?
+
+
+AELITA: We’re hunting him down on the network
+thanks to our virtual ship, the Skidbaldnir.
+
+
+FRANZ: The Skidbladnir?
+What a strange name.
+
+
+AELITA: But you know that name-
+
+
+It’s in the book of “Viking Legends” that you used to read to me
+Before I went to sleep!
+
+
+FRANZ: Yes, of course!
+The Skibladnir, how could I forget?
+
+
+JEREMIE: Thanks, Dad!
+
+
+Yumi?
+
+
+YUMI: Huh? Hurry Jeremie!
+Aelita virtualized herself onto Lyoko!
+
+
+JEREMIE: What?!
+But why did she do that?
+
+
+YUMI: Her father asked her to.
+
+
+JEREMIE: Hm?
+
+
+FRANZ: Is something wrong my precious?
+
+
+AELITA: Why’d you ask me to come to Lyoko, Daddy?
+
+
+FRANZ: Because I wanted to see you!
+It’s been such a long time.
+
+
+AELITA: It’s dangerous, XANA could attack at any time…
+
+
+FRANZ: Not as long as I’m with you.
+
+
+AELITA: You know, when I said that everything here--
+was the same as I remembered it, I meant it.
+
+
+FRANZ: I’m glad you like it.
+I wanted you to feel as if it was your home, our home.
+
+
+AELITA: It’s true, everything’s here- nothing’s missing…
+Except for one little thing…
+
+
+FRANZ: Oh really? What’s that?
+But-
+
+
+You remember dear, your mother disappeared.
+
+
+AELITA: Yes, and I want to see her again
+more than anything else in the world
+
+
+And you know that- you’ve always known.
+
+
+And since you’re a perfectionist,
+you’d have recreated her in the simulation bubble.
+
+
+That is… unless you weren’t really my father!
+
+
+FRANZ: Aelita!
+
+
+AELITA: Stay away from me, XANA!
+
+
+WILLIAM: Hello, Aelita.
+
+
+JEREMIE: Something’s fishy…
+
+
+YUMI: What if it was Hopper who contacted Aelita?
+
+
+JEREMIE: XANA’s pulled this on us before.
+I don’t think Hopper would risk this with his own daughter.
+
+
+Aelita is somewhere in the ice sector.
+Huh? In a simulation bubble?
+
+
+YUMI: She’s in a what?
+
+
+JEREMIE: A copy of the real world-
+A sort of ghost channel.
+
+
+Aelita’s fallen into a trap.
+Get ready, you’re going in right now!
+
+
+WILLIAM: Better give up Aelita, you can’t beat me!
+
+
+AELITA: That’s what you think!
+
+
+WILLIAM: What are you waiting for?
+Go after her!
+
+
+JEREMIE: {\i1}Transfer Yumi!
+
+
+Scanner Yumi.
+
+
+{\i1}Virtualization!
+
+
+YUMI: Jeremie, I didn’t land inside the bubble.
+
+
+JEREMIE: I know, I can’t virtualize you directly inside of it.
+You’ll have to find your own way in.
+
+
+YUMI: Any idea how?
+
+
+JEREMIE: Uh, not really, but if you ask me-
+XANA’s probably screening his guests.
+
+
+YUMI: For sure-
+He even left a couple of bouncers at the door!
+
+
+DEFAULT: (ROARING)
+
+
+WILLIAM: (LAUGHING)
+
+
+JEREMIE: Be careful, Yumi!
+That’s 20 life points you just lost.
+
+
+Perfect timing, you two.
+Head straight for the scanner room.
+
+
+Yumi and Aelita are in big trouble.
+
+
+ULRICH: Sure, but how ‘bout a little rundown?
+
+
+JEREMIE: I’ll fill you in later, now get going!
+
+
+ULRICH: Huh?
+
+
+AELITA: (PANTING)
+
+
+DEFAULT: (GROWLING)
+
+
+WILLIAM: Impossible to escape.
+
+
+This bubble is your prison.
+
+
+JEREMIE: {\i1}Virtualization!
+
+
+ULRICH: Super sprint!
+
+
+YUMI: Good to see you again.
+
+
+How was your vacation?
+
+
+ULRICH: Short, good to be back though.
+Where’s Aelita?
+
+
+YUMI: Somewhere inside that bubble thing…
+
+
+ODD: She’s always got to be different, doesn’t she?
+
+
+Laser arrow!
+
+
+WILLIAM: (LAUGHS)
+Give up, Aelita!
+
+
+AELITA: Alright…
+
+
+You win, William.
+
+
+WILLIAM: Eh?
+
+
+No!
+
+
+It doesn’t matter.
+You’ll lose no matter what, Aelita.
+
+
+AELITA: Not yet!
+
+
+ULRICH: Impact!
+
+
+JEREMIE Huh?
+
+
+{\i1}The simulation bubble disappeared.
+{\i1}Go and help Aelita- step on it!
+
+
+ODD: Okay, Einstein.
+Can you call us some taxis?
+
+
+JEREMIE: Coming up.
+
+
+ULRICH: A blok!
+
+
+YUMI: What was it, Jeremie?
+
+
+JEREMIE: {\i1}A blok.
+
+
+YUMI: Ugh!
+
+
+ODD: Guess we’d better {\i1}unblok{\i0} the situation!
+
+
+ULRICH: First priority is getting Aelita back!
+
+
+ODD: Here we go!
+
+
+WILLIAM: Manta!
+
+
+Attack!
+
+
+ULRICH: Flying manta! Watch out!
+
+
+WILLIAM: You want to leave?
+
+
+Be my guest.
+
+
+AELITA: Help!
+
+
+Ah!
+
+
+JEREMIE: Aelita, no!
+
+
+ULRICH: She’s too far away, Jeremie.
+Better bring her in!
+
+
+JEREMIE: I don’t believe it!
+
+
+AELITA: (SCREAMING)
+
+
+ULRICH: No!
+
+
+JEREMIE: Oh no!
+This can’t be happening- not Aelita!
+
+
+YUMI: Yumi… Aelita’s gone…
+
+
+ULRICH: (YELLING)
+
+
+ODD: Okay, Romeo- this is really gonna cost you!
+
+
+WILLIAM: Super smoke!
+
+
+ULRICH: What’s he doing now?
+
+
+Looks like he’s waiting for something…
+
+
+JEREMIE: {\i1}I don’t know…
+{\i1}Without Aelita it’s all over…
+
+
+Hm?
+
+
+ODD: Einstein!
+Something weird is happening!
+
+
+JEREMIE: {\i1}Yeah, hang on…
+{\i1}I think I get the picture…
+
+
+ULRICH: Huh?
+
+
+WILLIAM: Victory!
+
+
+YUMI: Hey, what is that thing?
+
+
+JEREMIE: It’s what I thought- I was right.
+
+
+WILLIAM: Fire!
+
+
+ULRICH: Jeremie, XANA’s trying to destroy a kind of brightly-lit bubble!
+What do we do?
+
+
+JEREMIE: {\i1}Protect it!
+{\i1}That bubble is…
+
+
+{\i1}Franz Hopper!
+
+
+ULRICH: I’ll handle William.
+
+
+ODD: Okay, then I’ll go and do a number on that blok!
+
+
+WILLIAM: Hm?
+
+
+Super smoke!
+
+
+YUMI: It looks like he dropped something off…
+
+
+JEREMIE: You’re right he did!
+It was Aelita!
+
+
+AELITA: Daddy?
+
+
+ODD: Laser arrow!
+
+
+It’s great to see you again, princess!
+
+
+JEREMIE: Hopper’s losing energy!
+
+
+Take out that blok- and make it snappy too!
+
+
+ODD: We’re doing all we can, Einstein.
+
+
+WILLIAM: Hm?
+
+
+AELITA: Energy field!
+
+
+WILLIAM: Super smoke!
+
+
+JEREMIE: It’s all over…
+
+
+AELITA: Daddy, you have to get away- hurry!
+
+
+WILLIAM: No!
+
+
+AELITA: Hi.
+
+
+ODD: Saying you gave us a scare is an understatement, princess.
+
+
+ULRICH: I know someone who’s gonna be really happy to see you.
+Let’s go.
+
+
+ODD: I hope this time he gives us the rundown he promised us,
+Because I don’t know what’s going on.
+
+
+JEREMIE: It’s pretty obvious.
+
+
+ODD: There he goes again.
+
+
+JEREMIE: You see, when Lyoko was destroyed,
+Hopper wasn’t spread out over the network.
+
+
+He managed to escape.
+
+
+YUMI: He disappeared on purpose, is that it?
+
+
+JEREMIE That’s right- to get away from XANA.
+Which is why he’s constantly trying to throw Aelita
+
+
+Into the digital sea all the time.
+
+
+He knows that’s the only thing
+that can get Hopper to come out of hiding.
+
+
+ULRICH: In order to destroy him.
+
+
+AELITA: As long as my father’s alive, he’ll always be a big threat to XANA.
+
+
+JEREMIE: And our friend, XANA, knows it.
+
+
+ODD: Well, before we blow XANA away for good,
+Why don’t we give each other our presents, huh?
+
+
+ULRICH: We said we’d wait ‘till after vacation.
+
+
+ODD: Yeah, I know.
+Here, Einstein, this one’s for you!
+
+
+Since XANA made us come back earlier than expected,
+Why wait, right?
+
+
+JEREMIE: That’s cool, Odd, thanks a lot, but…
+What am I supposed to do with it?
+
+
+ODD: Nothing at all, that’s what makes it fun, don't you think?
+
+
+ODD: You’re not opening your presents?
+
+
+ULRICH: No.
+
+
+In Japan, you never open a present in front
+Of the person who gave it to you.
+
+
+AELITA: Thank you, Jeremie.
+
+
+JEREMIE: And that isn’t all, Aelita.
+
+
+Tonight, you’re coming home with me!
+My parents want you to stay for the holidays.
+
+
+AELITA: But I don’t want to bother them…
+
+
+JEREMIE: It’s no bother at all!
+There the ones who insisted.
+
+
+I’ll give you my room, and I’ll sleep in the living room.
+We’ve got a really comfortable couch.
+
+
+AELITA: What about XANA?
+
+
+JEREMIE: You know, I’m sure that XANA could use a vacation too.
+
+
+(LAUGHS)
+
+
+Whatcha thinkin’ about?
+
+
+AELITA: About my father…
+When he saved me, even in his virtual form...
+
+
+I could feel his presence.
+
+
+Like he was holding me in his arms...
