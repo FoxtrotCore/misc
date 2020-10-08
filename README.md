@@ -1,25 +1,23 @@
-# FTF Long Term Storage
+# FTF Miscellaneous Storage
 
 Miscellaneous files transfered over from cold storage.
 
 ***
 
-### `/logo`:
+### [/logo](/logo):
 
 Various iterations of the FTF logo used over time.
 
 ***
 
-### `/scripts`:
+### [/scripts`](/scripts):
 
 An incomplete set of deprecated FTF scripts.
 
 ***
 
-### `/subtitles`:
+### [/subtitles](/subtitles):
 
-An Active list of most up to date subtitles.
+A collection of subtitles for CL, some by FTF, some not.
 
-*Services like [Foxtrot API](https://github.com/FoxtrotCore/foxtrot-api) are configured to poll from this repository as a primary source.*
-
-***
+*Services like [Foxtrot API](https://github.com/FoxtrotCore/foxtrot-api) are configured to poll from this repository as one media source.*
