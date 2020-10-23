@@ -1,0 +1,460 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: phpVrWBjZ
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.08,0:00:03.32,Default,,0,0,0,,<c.bg_transparent>[theme music starts]</c.bg_transparent>
+Dialogue: 0,0:00:04.16,0:00:07.88,Default,,0,0,0,,<c.bg_transparent>[digital sputtering and beeping]</c.bg_transparent>
+Dialogue: 0,0:00:08.68,0:00:12.76,Default,,0,0,0,,<c.bg_transparent>-[upbeat synthesizers come in]</c.bg_transparent>\N<c.bg_transparent>-[whooshing]</c.bg_transparent>
+Dialogue: 0,0:00:15.40,0:00:16.23,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Here we are ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:16.40,0:00:18.96,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Going far{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}To save all that we love ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:19.12,0:00:22.80,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ If we give all we've got{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}We will make it through ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:22.96,0:00:26.72,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Here we are like a star{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}Shining bright on your world ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:26.88,0:00:31.52,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Today, make evil go away ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:31.68,0:00:35.28,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Code Lyoko, we'll reset it all ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:35.44,0:00:39.04,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Code Lyoko, be there when you call ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:39.20,0:00:42.84,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Code Lyoko, we will stand real tall ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:43.00,0:00:45.80,Default,,0,0,0,,<c.bg_transparent>{\i1}♪ Code Lyoko, stronger after all ♪{\i0}</c.bg_transparent>
+Dialogue: 0,0:00:47.12,0:00:48.40,Default,,0,0,0,,<c.bg_transparent>AMNESIA</c.bg_transparent>
+Dialogue: 0,0:00:48.56,0:00:50.92,Default,,0,0,0,,<c.bg_transparent>[computer blipping]</c.bg_transparent>
+Dialogue: 0,0:01:05.36,0:01:08.00,Default,,0,0,0,,<c.bg_transparent>[tense music]</c.bg_transparent>
+Dialogue: 0,0:01:11.96,0:01:13.52,Default,,0,0,0,,<c.bg_transparent>[monitor whirring]</c.bg_transparent>
+Dialogue: 0,0:01:16.80,0:01:18.52,Default,,0,0,0,,<c.bg_transparent>[electricity crackles]</c.bg_transparent>
+Dialogue: 0,0:01:28.20,0:01:30.32,Default,,0,0,0,,<c.bg_transparent>[humming]</c.bg_transparent>
+Dialogue: 0,0:01:34.04,0:01:35.88,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:01:36.04,0:01:37.56,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] Here we have the "nanosphere"</c.bg_transparent>
+Dialogue: 0,0:01:37.72,0:01:40.92,Default,,0,0,0,,<c.bg_transparent>that the Nano Tech Services company</c.bg_transparent>\N<c.bg_transparent>was kind enough to lend us.</c.bg_transparent>
+Dialogue: 0,0:01:41.08,0:01:43.48,Default,,0,0,0,,<c.bg_transparent>Who can tell us</c.bg_transparent>\N<c.bg_transparent>what nanotechnology is?</c.bg_transparent>
+Dialogue: 0,0:01:43.64,0:01:44.88,Default,,0,0,0,,<c.bg_transparent>[geeky groaning]</c.bg_transparent>
+Dialogue: 0,0:01:45.04,0:01:47.88,Default,,0,0,0,,<c.bg_transparent>-Jeremy, go on.</c.bg_transparent>\N<c.bg_transparent>-It's microscopic size technology.</c.bg_transparent>
+Dialogue: 0,0:01:48.44,0:01:51.76,Default,,0,0,0,,<c.bg_transparent>There are nanomotors,</c.bg_transparent>\N<c.bg_transparent>nanocircuit boards and nanogears.</c.bg_transparent>
+Dialogue: 0,0:01:51.92,0:01:53.12,Default,,0,0,0,,<c.bg_transparent>-[Herb and Sissi hum]</c.bg_transparent>\N<c.bg_transparent>-[Mrs. Hertz] Exactly.</c.bg_transparent>
+Dialogue: 0,0:01:53.28,0:01:57.40,Default,,0,0,0,,<c.bg_transparent>In the medical field, for example,</c.bg_transparent>\N<c.bg_transparent>scientists are developing "nanodoctors,"</c.bg_transparent>
+Dialogue: 0,0:01:57.56,0:02:01.28,Default,,0,0,0,,<c.bg_transparent>tiny machines which will be able to travel</c.bg_transparent>\N<c.bg_transparent>through our bodies to combat disease.</c.bg_transparent>
+Dialogue: 0,0:02:01.72,0:02:04.16,Default,,0,0,0,,<c.bg_transparent>Scientific research however</c.bg_transparent>\N<c.bg_transparent>still has a long way to go.</c.bg_transparent>
+Dialogue: 0,0:02:04.32,0:02:07.48,Default,,0,0,0,,<c.bg_transparent>Are these robots capable of fighting</c.bg_transparent>\N<c.bg_transparent>pimples, cellulite and things like that?</c.bg_transparent>
+Dialogue: 0,0:02:07.64,0:02:08.47,Default,,0,0,0,,<c.bg_transparent>[laughs]</c.bg_transparent>
+Dialogue: 0,0:02:08.63,0:02:11.56,Default,,0,0,0,,<c.bg_transparent>Yes, they can, but the priority</c.bg_transparent>\N<c.bg_transparent>is for more serious illnesses.</c.bg_transparent>
+Dialogue: 0,0:02:14.44,0:02:17.04,Default,,0,0,0,,<c.bg_transparent>And nanotechnology</c.bg_transparent>\N<c.bg_transparent>can't do a thing about stupidity.</c.bg_transparent>
+Dialogue: 0,0:02:17.20,0:02:18.20,Default,,0,0,0,,<c.bg_transparent>Poor Sissi, what a shame!</c.bg_transparent>
+Dialogue: 0,0:02:19.32,0:02:21.68,Default,,0,0,0,,<c.bg_transparent>-[Mrs. Hertz] All right now, quiet down.</c.bg_transparent>\N<c.bg_transparent>-[Sissi groans]</c.bg_transparent>
+Dialogue: 0,0:02:21.84,0:02:25.96,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] So, this nanosphere</c.bg_transparent>\N<c.bg_transparent>is used to make microscopic devices.</c.bg_transparent>
+Dialogue: 0,0:02:26.60,0:02:30.04,Default,,0,0,0,,<c.bg_transparent>Strange, it hasn't been cleaned properly.</c.bg_transparent>\N<c.bg_transparent>There's gelatin inside.</c.bg_transparent>
+Dialogue: 0,0:02:30.48,0:02:33.80,Default,,0,0,0,,<c.bg_transparent>[Ulrich] It looks like the greasy stuff</c.bg_transparent>\N<c.bg_transparent>Odd puts on his hair every day.</c.bg_transparent>
+Dialogue: 0,0:02:33.96,0:02:35.60,Default,,0,0,0,,<c.bg_transparent>Since you think you're so clever, Ulrich,</c.bg_transparent>
+Dialogue: 0,0:02:35.76,0:02:37.88,Default,,0,0,0,,<c.bg_transparent>why don't you take a sample</c.bg_transparent>\N<c.bg_transparent>for us to examine?</c.bg_transparent>
+Dialogue: 0,0:02:40.72,0:02:44.80,Default,,0,0,0,,<c.bg_transparent>The gelatin is used as a culture</c.bg_transparent>\N<c.bg_transparent>where nanodevices can develop.</c.bg_transparent>
+Dialogue: 0,0:02:44.96,0:02:46.52,Default,,0,0,0,,<c.bg_transparent>It looks an awful lot like jam.</c.bg_transparent>
+Dialogue: 0,0:02:47.48,0:02:50.64,Default,,0,0,0,,<c.bg_transparent>-[Ulrich groans]</c.bg_transparent>\N<c.bg_transparent>-[Odd] Sorry, but I just couldn't resist.</c.bg_transparent>
+Dialogue: 0,0:02:51.20,0:02:52.44,Default,,0,0,0,,<c.bg_transparent>[students laugh]</c.bg_transparent>
+Dialogue: 0,0:02:52.60,0:02:54.76,Default,,0,0,0,,<c.bg_transparent>[Ulrich] I'll get you for that, Odd!</c.bg_transparent>
+Dialogue: 0,0:02:55.36,0:02:58.76,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] This is a science class,</c.bg_transparent>\N<c.bg_transparent>not a comedy club!</c.bg_transparent>
+Dialogue: 0,0:02:58.92,0:03:00.80,Default,,0,0,0,,<c.bg_transparent>[soft music]</c.bg_transparent>
+Dialogue: 0,0:03:04.24,0:03:06.44,Default,,0,0,0,,<c.bg_transparent>This nanotechnology is incredible!</c.bg_transparent>
+Dialogue: 0,0:03:06.60,0:03:08.92,Default,,0,0,0,,<c.bg_transparent>Now there's a field</c.bg_transparent>\N<c.bg_transparent>I'd like to work on in the future.</c.bg_transparent>
+Dialogue: 0,0:03:09.08,0:03:12.92,Default,,0,0,0,,<c.bg_transparent>I have enough trouble with normal size</c.bg_transparent>\N<c.bg_transparent>technology, much less microscopic.</c.bg_transparent>
+Dialogue: 0,0:03:13.72,0:03:16.76,Default,,0,0,0,,<c.bg_transparent>-Hey, that looks good. Can I have some?</c.bg_transparent>\N<c.bg_transparent>-[Ulrich] Here.</c.bg_transparent>
+Dialogue: 0,0:03:16.92,0:03:18.44,Default,,0,0,0,,<c.bg_transparent>[Odd groans]</c.bg_transparent>
+Dialogue: 0,0:03:18.60,0:03:20.84,Default,,0,0,0,,<c.bg_transparent>-I warned you.</c.bg_transparent>\N<c.bg_transparent>-[everyone laughs]</c.bg_transparent>
+Dialogue: 0,0:03:21.56,0:03:22.68,Default,,0,0,0,,<c.bg_transparent>Yeah... [laughing]</c.bg_transparent>
+Dialogue: 0,0:03:23.20,0:03:26.20,Default,,0,0,0,,<c.bg_transparent>But taking advantage</c.bg_transparent>\N<c.bg_transparent>of my sweet tooth wasn't fair.</c.bg_transparent>
+Dialogue: 0,0:03:26.36,0:03:28.56,Default,,0,0,0,,<c.bg_transparent>I said I'd... [groans]</c.bg_transparent>
+Dialogue: 0,0:03:28.72,0:03:29.56,Default,,0,0,0,,<c.bg_transparent>-[Odd grunts]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:03:29.72,0:03:31.20,Default,,0,0,0,,<c.bg_transparent>Ulrich, what is it?</c.bg_transparent>
+Dialogue: 0,0:03:31.84,0:03:33.60,Default,,0,0,0,,<c.bg_transparent>[groaning] It's my head! I...</c.bg_transparent>
+Dialogue: 0,0:03:34.52,0:03:35.60,Default,,0,0,0,,<c.bg_transparent>[Jim hums]</c.bg_transparent>
+Dialogue: 0,0:03:35.76,0:03:37.32,Default,,0,0,0,,<c.bg_transparent>-[Yumi] Ulrich!</c.bg_transparent>\N<c.bg_transparent>-[Odd] Hey, Ulrich!</c.bg_transparent>
+Dialogue: 0,0:03:37.48,0:03:39.08,Default,,0,0,0,,<c.bg_transparent>[Jim] What's going on around here?</c.bg_transparent>
+Dialogue: 0,0:03:39.64,0:03:40.92,Default,,0,0,0,,<c.bg_transparent>Ulrich passed out.</c.bg_transparent>
+Dialogue: 0,0:03:41.56,0:03:43.76,Default,,0,0,0,,<c.bg_transparent>[Jim grunts]</c.bg_transparent>\N<c.bg_transparent>I'll take him to the infirmary.</c.bg_transparent>
+Dialogue: 0,0:03:43.92,0:03:45.12,Default,,0,0,0,,<c.bg_transparent>-[Ulrich moans]</c.bg_transparent>\N<c.bg_transparent>-[Jim plods]</c.bg_transparent>
+Dialogue: 0,0:03:45.28,0:03:47.96,Default,,0,0,0,,<c.bg_transparent>-He was just fine this morning.</c.bg_transparent>\N<c.bg_transparent>-I know. It's really weird.</c.bg_transparent>
+Dialogue: 0,0:03:50.52,0:03:51.96,Default,,0,0,0,,<c.bg_transparent>[Sissi grunts]</c.bg_transparent>
+Dialogue: 0,0:03:58.44,0:03:59.88,Default,,0,0,0,,<c.bg_transparent>[Dorothy] All right.</c.bg_transparent>
+Dialogue: 0,0:04:00.44,0:04:01.88,Default,,0,0,0,,<c.bg_transparent>Get some rest now, Ulrich.</c.bg_transparent>
+Dialogue: 0,0:04:02.84,0:04:03.88,Default,,0,0,0,,<c.bg_transparent>[sighs]</c.bg_transparent>
+Dialogue: 0,0:04:05.20,0:04:06.16,Default,,0,0,0,,<c.bg_transparent>[Sissi gasping]</c.bg_transparent>
+Dialogue: 0,0:04:06.32,0:04:07.80,Default,,0,0,0,,<c.bg_transparent>[Dorothy] What are you doing here?</c.bg_transparent>
+Dialogue: 0,0:04:07.96,0:04:10.72,Default,,0,0,0,,<c.bg_transparent>[Sissi] I wanted to find out</c.bg_transparent>\N<c.bg_transparent>how Ulrich was.</c.bg_transparent>
+Dialogue: 0,0:04:10.88,0:04:12.40,Default,,0,0,0,,<c.bg_transparent>Much better. He's asleep.</c.bg_transparent>
+Dialogue: 0,0:04:12.96,0:04:15.92,Default,,0,0,0,,<c.bg_transparent>-Just a second. Can I see him?</c.bg_transparent>\N<c.bg_transparent>-[hesitating] I don't know, I…</c.bg_transparent>
+Dialogue: 0,0:04:16.07,0:04:17.80,Default,,0,0,0,,<c.bg_transparent>You see, I'm his best friend.</c.bg_transparent>
+Dialogue: 0,0:04:18.36,0:04:19.36,Default,,0,0,0,,<c.bg_transparent>[hesitating] Eh...</c.bg_transparent>
+Dialogue: 0,0:04:20.00,0:04:22.00,Default,,0,0,0,,<c.bg_transparent>[Dorothy] All right, but not for too long.</c.bg_transparent>
+Dialogue: 0,0:04:22.16,0:04:23.92,Default,,0,0,0,,<c.bg_transparent>[Sissi tittering]</c.bg_transparent>
+Dialogue: 0,0:04:25.36,0:04:26.36,Default,,0,0,0,,<c.bg_transparent>[sighs joyfully]</c.bg_transparent>
+Dialogue: 0,0:04:32.16,0:04:34.12,Default,,0,0,0,,<c.bg_transparent>You're so handsome</c.bg_transparent>\N<c.bg_transparent>when you sleep.</c.bg_transparent>
+Dialogue: 0,0:04:36.64,0:04:37.76,Default,,0,0,0,,<c.bg_transparent>-[Ulrich sighs]</c.bg_transparent>\N<c.bg_transparent>-[Sissi surprised]</c.bg_transparent>
+Dialogue: 0,0:04:37.92,0:04:38.96,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:04:40.84,0:04:42.12,Default,,0,0,0,,<c.bg_transparent>Where am I anyway?</c.bg_transparent>
+Dialogue: 0,0:04:42.28,0:04:44.92,Default,,0,0,0,,<c.bg_transparent>In the infirmary. You passed out.</c.bg_transparent>
+Dialogue: 0,0:04:45.08,0:04:46.08,Default,,0,0,0,,<c.bg_transparent>-[Sissi sighs]</c.bg_transparent>\N<c.bg_transparent>-The infirmary?</c.bg_transparent>
+Dialogue: 0,0:04:46.24,0:04:47.36,Default,,0,0,0,,<c.bg_transparent>What infirmary?</c.bg_transparent>
+Dialogue: 0,0:04:47.52,0:04:48.36,Default,,0,0,0,,<c.bg_transparent>[whimpers]</c.bg_transparent>
+Dialogue: 0,0:04:49.56,0:04:50.92,Default,,0,0,0,,<c.bg_transparent>Who am I? What's my name?</c.bg_transparent>
+Dialogue: 0,0:04:51.08,0:04:53.12,Default,,0,0,0,,<c.bg_transparent>Huh? Eh... Ulrich.</c.bg_transparent>
+Dialogue: 0,0:04:53.28,0:04:54.28,Default,,0,0,0,,<c.bg_transparent>Ulrich?</c.bg_transparent>
+Dialogue: 0,0:04:55.00,0:04:57.48,Default,,0,0,0,,<c.bg_transparent>You must've hit your head</c.bg_transparent>\N<c.bg_transparent>when you fell down.</c.bg_transparent>
+Dialogue: 0,0:04:58.88,0:04:59.72,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:05:00.28,0:05:02.92,Default,,0,0,0,,<c.bg_transparent>-And who are you?</c.bg_transparent>\N<c.bg_transparent>-Me? I'm Sissi.</c.bg_transparent>
+Dialogue: 0,0:05:03.48,0:05:04.36,Default,,0,0,0,,<c.bg_transparent>Eh?</c.bg_transparent>
+Dialogue: 0,0:05:04.92,0:05:05.80,Default,,0,0,0,,<c.bg_transparent>Sissi...</c.bg_transparent>
+Dialogue: 0,0:05:06.76,0:05:07.96,Default,,0,0,0,,<c.bg_transparent>your sweetheart.</c.bg_transparent>
+Dialogue: 0,0:05:08.12,0:05:09.28,Default,,0,0,0,,<c.bg_transparent>[groans]</c.bg_transparent>
+Dialogue: 0,0:05:09.44,0:05:11.12,Default,,0,0,0,,<c.bg_transparent>-[Sissi] Uh?</c.bg_transparent>\N<c.bg_transparent>-[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:05:13.56,0:05:14.44,Default,,0,0,0,,<c.bg_transparent>Watch it!</c.bg_transparent>
+Dialogue: 0,0:05:14.60,0:05:17.60,Default,,0,0,0,,<c.bg_transparent>Ulrich, when are you gonna admit</c.bg_transparent>\N<c.bg_transparent>you're mad about me?</c.bg_transparent>
+Dialogue: 0,0:05:17.76,0:05:19.24,Default,,0,0,0,,<c.bg_transparent>You're kidding.</c.bg_transparent>
+Dialogue: 0,0:05:19.40,0:05:21.56,Default,,0,0,0,,<c.bg_transparent>I'm allergic to anyone who's conceited.</c.bg_transparent>
+Dialogue: 0,0:05:21.72,0:05:22.84,Default,,0,0,0,,<c.bg_transparent>[hums]</c.bg_transparent>
+Dialogue: 0,0:05:23.00,0:05:24.92,Default,,0,0,0,,<c.bg_transparent>You're your own favorite fan club!</c.bg_transparent>
+Dialogue: 0,0:05:25.08,0:05:26.28,Default,,0,0,0,,<c.bg_transparent>[students laugh]</c.bg_transparent>
+Dialogue: 0,0:05:26.44,0:05:27.72,Default,,0,0,0,,<c.bg_transparent>[groaning]</c.bg_transparent>
+Dialogue: 0,0:05:28.76,0:05:30.52,Default,,0,0,0,,<c.bg_transparent>-[Sissi grumbles]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich] </c.bg_transparent><c.bg_transparent>{\i1}My sweetheart?{\i0}</c.bg_transparent>
+Dialogue: 0,0:05:30.68,0:05:33.28,Default,,0,0,0,,<c.bg_transparent>-[door opens]</c.bg_transparent>\N<c.bg_transparent>-[Dorothy] Our patient is awake, I see.</c.bg_transparent>
+Dialogue: 0,0:05:33.44,0:05:35.04,Default,,0,0,0,,<c.bg_transparent>-Ulrich, how are you?</c.bg_transparent>\N<c.bg_transparent>-[Ulrich hesitates]</c.bg_transparent>
+Dialogue: 0,0:05:35.20,0:05:37.96,Default,,0,0,0,,<c.bg_transparent>Oh, much better.</c.bg_transparent>\N<c.bg_transparent>I'll take him to his room.</c.bg_transparent>
+Dialogue: 0,0:05:38.12,0:05:39.56,Default,,0,0,0,,<c.bg_transparent>[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:05:40.12,0:05:42.00,Default,,0,0,0,,<c.bg_transparent>Are you sure you're all right?</c.bg_transparent>
+Dialogue: 0,0:05:43.60,0:05:45.12,Default,,0,0,0,,<c.bg_transparent>[Jim plods and groans]</c.bg_transparent>
+Dialogue: 0,0:05:45.68,0:05:47.64,Default,,0,0,0,,<c.bg_transparent>[Jim] What is this, an epidemic?</c.bg_transparent>
+Dialogue: 0,0:05:48.64,0:05:49.68,Default,,0,0,0,,<c.bg_transparent>[Sissi] Come on, hurry!</c.bg_transparent>
+Dialogue: 0,0:05:49.84,0:05:51.68,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:05:52.20,0:05:53.88,Default,,0,0,0,,<c.bg_transparent>[Herb and Nicolas surprised]</c.bg_transparent>
+Dialogue: 0,0:05:54.68,0:05:57.16,Default,,0,0,0,,<c.bg_transparent>-[Milly] Well, what d'ya know!</c.bg_transparent>\N<c.bg_transparent>-[Sissi grunts]</c.bg_transparent>
+Dialogue: 0,0:05:57.32,0:06:00.24,Default,,0,0,0,,<c.bg_transparent>[Sissi] See those three kids there?</c.bg_transparent>\N<c.bg_transparent>They're your worst enemies.</c.bg_transparent>
+Dialogue: 0,0:06:00.40,0:06:01.76,Default,,0,0,0,,<c.bg_transparent>[Ulrich] But why?</c.bg_transparent>
+Dialogue: 0,0:06:01.92,0:06:02.84,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:06:03.56,0:06:04.68,Default,,0,0,0,,<c.bg_transparent>Hey, it's Ulrich.</c.bg_transparent>
+Dialogue: 0,0:06:05.88,0:06:08.32,Default,,0,0,0,,<c.bg_transparent>What's going on? Why is he with Sissi?</c.bg_transparent>
+Dialogue: 0,0:06:08.48,0:06:09.32,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:06:09.48,0:06:10.84,Default,,0,0,0,,<c.bg_transparent>You feeling better, good buddy?</c.bg_transparent>
+Dialogue: 0,0:06:11.00,0:06:13.60,Default,,0,0,0,,<c.bg_transparent>Who are you? Huh? Leave me alone, creep!</c.bg_transparent>
+Dialogue: 0,0:06:14.16,0:06:15.16,Default,,0,0,0,,<c.bg_transparent>[Odd grunts]</c.bg_transparent>
+Dialogue: 0,0:06:15.96,0:06:18.44,Default,,0,0,0,,<c.bg_transparent>Come on, it's me, Odd.</c.bg_transparent>
+Dialogue: 0,0:06:18.60,0:06:20.84,Default,,0,0,0,,<c.bg_transparent>That's enough. Can't you see?</c.bg_transparent>\N<c.bg_transparent>He doesn't wanna know you.</c.bg_transparent>
+Dialogue: 0,0:06:21.00,0:06:23.00,Default,,0,0,0,,<c.bg_transparent>So stay away from us! Understand?</c.bg_transparent>
+Dialogue: 0,0:06:23.16,0:06:24.32,Default,,0,0,0,,<c.bg_transparent>[they sigh]</c.bg_transparent>
+Dialogue: 0,0:06:24.88,0:06:26.64,Default,,0,0,0,,<c.bg_transparent>What's the matter with him?</c.bg_transparent>
+Dialogue: 0,0:06:26.80,0:06:28.24,Default,,0,0,0,,<c.bg_transparent>[Yumi and Jeremy grunt]</c.bg_transparent>
+Dialogue: 0,0:06:28.40,0:06:31.00,Default,,0,0,0,,<c.bg_transparent>Ulrich, these are your good friends,</c.bg_transparent>\N<c.bg_transparent>Nicolas and Herb.</c.bg_transparent>
+Dialogue: 0,0:06:31.56,0:06:32.60,Default,,0,0,0,,<c.bg_transparent>[grunting]</c.bg_transparent>
+Dialogue: 0,0:06:34.56,0:06:35.84,Default,,0,0,0,,<c.bg_transparent>[Sissi] He forgets things.</c.bg_transparent>
+Dialogue: 0,0:06:36.00,0:06:38.12,Default,,0,0,0,,<c.bg_transparent>You'd better remind him! [grunts]</c.bg_transparent>
+Dialogue: 0,0:06:39.84,0:06:41.44,Default,,0,0,0,,<c.bg_transparent>I'm very thirsty.</c.bg_transparent>
+Dialogue: 0,0:06:42.12,0:06:43.60,Default,,0,0,0,,<c.bg_transparent>[grunting]</c.bg_transparent>
+Dialogue: 0,0:06:43.76,0:06:46.60,Default,,0,0,0,,<c.bg_transparent>[Sissi] You know what would be good</c.bg_transparent>\N<c.bg_transparent>for you? A walk in the park.</c.bg_transparent>
+Dialogue: 0,0:06:46.76,0:06:48.40,Default,,0,0,0,,<c.bg_transparent>[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:06:48.56,0:06:49.72,Default,,0,0,0,,<c.bg_transparent>Here, thanks.</c.bg_transparent>
+Dialogue: 0,0:06:50.60,0:06:51.72,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:06:53.36,0:06:55.56,Default,,0,0,0,,<c.bg_transparent>[Jeremy]</c.bg_transparent>\N<c.bg_transparent>He didn't recognize us. It's crazy.</c.bg_transparent>
+Dialogue: 0,0:06:55.72,0:06:56.96,Default,,0,0,0,,<c.bg_transparent>Could be amnesia.</c.bg_transparent>
+Dialogue: 0,0:06:57.12,0:06:59.76,Default,,0,0,0,,<c.bg_transparent>-Let's go see what the nurse says.</c.bg_transparent>\N<c.bg_transparent>-[Jeremy] Good idea.</c.bg_transparent>
+Dialogue: 0,0:06:59.92,0:07:01.60,Default,,0,0,0,,<c.bg_transparent>[Odd]</c.bg_transparent>\N<c.bg_transparent>I've gotta bring him back to his senses.</c.bg_transparent>
+Dialogue: 0,0:07:01.76,0:07:04.60,Default,,0,0,0,,<c.bg_transparent>Sissi and Ulrich? Can you believe that?</c.bg_transparent>
+Dialogue: 0,0:07:05.20,0:07:06.64,Default,,0,0,0,,<c.bg_transparent>[sighs]</c.bg_transparent>
+Dialogue: 0,0:07:06.80,0:07:08.64,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:07:08.80,0:07:11.12,Default,,0,0,0,,<c.bg_transparent>[tense music]</c.bg_transparent>
+Dialogue: 0,0:07:12.44,0:07:13.88,Default,,0,0,0,,<c.bg_transparent>[Sissi] Here. You need the energy.</c.bg_transparent>
+Dialogue: 0,0:07:18.16,0:07:21.32,Default,,0,0,0,,<c.bg_transparent>Ulrich, what do you feel knowing</c.bg_transparent>\N<c.bg_transparent>you're with the prettiest girl in school?</c.bg_transparent>
+Dialogue: 0,0:07:21.48,0:07:25.04,Default,,0,0,0,,<c.bg_transparent>-Well, to be honest, nothing.</c.bg_transparent>\N<c.bg_transparent>-[Sissi] What did you say?</c.bg_transparent>
+Dialogue: 0,0:07:26.96,0:07:29.88,Default,,0,0,0,,<c.bg_transparent>[Ulrich] What I mean is</c.bg_transparent>\N<c.bg_transparent>you're really not my type.</c.bg_transparent>
+Dialogue: 0,0:07:30.04,0:07:31.20,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:07:31.36,0:07:34.20,Default,,0,0,0,,<c.bg_transparent>At least, he's not completely</c.bg_transparent>\N<c.bg_transparent>out of his head yet.</c.bg_transparent>
+Dialogue: 0,0:07:35.12,0:07:35.96,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:07:36.88,0:07:37.72,Default,,0,0,0,,<c.bg_transparent>Ah!</c.bg_transparent>
+Dialogue: 0,0:07:37.88,0:07:40.44,Default,,0,0,0,,<c.bg_transparent>[grunts] Hey, what are you doing?</c.bg_transparent>\N<c.bg_transparent>Spying on me?</c.bg_transparent>
+Dialogue: 0,0:07:40.60,0:07:41.68,Default,,0,0,0,,<c.bg_transparent>No, I was just...</c.bg_transparent>
+Dialogue: 0,0:07:41.84,0:07:44.04,Default,,0,0,0,,<c.bg_transparent>-You're a liar!</c.bg_transparent>\N<c.bg_transparent>-[Odd] Ulrich, cut that out.</c.bg_transparent>
+Dialogue: 0,0:07:44.20,0:07:45.60,Default,,0,0,0,,<c.bg_transparent>We're buddies, remember?</c.bg_transparent>
+Dialogue: 0,0:07:45.76,0:07:49.08,Default,,0,0,0,,<c.bg_transparent>That's not what she says,</c.bg_transparent>\N<c.bg_transparent>so get outta here, and make it fast!</c.bg_transparent>
+Dialogue: 0,0:07:49.24,0:07:51.04,Default,,0,0,0,,<c.bg_transparent>Okay, don't get all worked up.</c.bg_transparent>
+Dialogue: 0,0:07:51.20,0:07:52.24,Default,,0,0,0,,<c.bg_transparent>[gasps]</c.bg_transparent>
+Dialogue: 0,0:07:54.80,0:07:57.12,Default,,0,0,0,,<c.bg_transparent>[groans]</c.bg_transparent>
+Dialogue: 0,0:07:59.20,0:08:01.84,Default,,0,0,0,,<c.bg_transparent>Ulrich, are you all right? Come on.</c.bg_transparent>
+Dialogue: 0,0:08:02.56,0:08:05.08,Default,,0,0,0,,<c.bg_transparent>Ulrich and Sissi! Just the two of you.</c.bg_transparent>
+Dialogue: 0,0:08:05.24,0:08:07.76,Default,,0,0,0,,<c.bg_transparent>This could be the beginning</c.bg_transparent>\N<c.bg_transparent>of a big romance.</c.bg_transparent>
+Dialogue: 0,0:08:07.92,0:08:09.04,Default,,0,0,0,,<c.bg_transparent>Oh, forget it.</c.bg_transparent>
+Dialogue: 0,0:08:09.20,0:08:11.24,Default,,0,0,0,,<c.bg_transparent>She's gonna be a pain in the neck</c.bg_transparent>\N<c.bg_transparent>the whole time.</c.bg_transparent>
+Dialogue: 0,0:08:11.40,0:08:13.80,Default,,0,0,0,,<c.bg_transparent>[Sissi] Come sit down. You need to rest.</c.bg_transparent>
+Dialogue: 0,0:08:13.96,0:08:15.00,Default,,0,0,0,,<c.bg_transparent>I'm sorry, but...</c.bg_transparent>
+Dialogue: 0,0:08:15.84,0:08:17.28,Default,,0,0,0,,<c.bg_transparent>What I need is to be alone.</c.bg_transparent>
+Dialogue: 0,0:08:19.04,0:08:20.24,Default,,0,0,0,,<c.bg_transparent>[whimpers]</c.bg_transparent>
+Dialogue: 0,0:08:21.24,0:08:22.44,Default,,0,0,0,,<c.bg_transparent>[Sissi munches]</c.bg_transparent>
+Dialogue: 0,0:08:22.60,0:08:24.56,Default,,0,0,0,,<c.bg_transparent>[sad music]</c.bg_transparent>
+Dialogue: 0,0:08:25.60,0:08:27.92,Default,,0,0,0,,<c.bg_transparent>The answer is no!</c.bg_transparent>\N<c.bg_transparent>Can't you see I have no time?</c.bg_transparent>
+Dialogue: 0,0:08:28.08,0:08:30.00,Default,,0,0,0,,<c.bg_transparent>I don't know what's happening,</c.bg_transparent>\N<c.bg_transparent>but it's an epidemic!</c.bg_transparent>
+Dialogue: 0,0:08:30.16,0:08:31.08,Default,,0,0,0,,<c.bg_transparent>[Jeremy and Yumi grunt]</c.bg_transparent>
+Dialogue: 0,0:08:31.24,0:08:32.20,Default,,0,0,0,,<c.bg_transparent>[Tamiya groans]</c.bg_transparent>
+Dialogue: 0,0:08:32.36,0:08:34.60,Default,,0,0,0,,<c.bg_transparent>[Yumi] We can stay and help you</c.bg_transparent>\N<c.bg_transparent>if you want.</c.bg_transparent>
+Dialogue: 0,0:08:35.36,0:08:38.00,Default,,0,0,0,,<c.bg_transparent>The best way to help</c.bg_transparent>\N<c.bg_transparent>is to stay out of my way!</c.bg_transparent>
+Dialogue: 0,0:08:39.00,0:08:40.72,Default,,0,0,0,,<c.bg_transparent>[Yumi] Maybe Odd had more luck.</c.bg_transparent>
+Dialogue: 0,0:08:40.88,0:08:42.15,Default,,0,0,0,,<c.bg_transparent>[Odd panting]</c.bg_transparent>
+Dialogue: 0,0:08:42.32,0:08:44.96,Default,,0,0,0,,<c.bg_transparent>No doubt about it.</c.bg_transparent>\N<c.bg_transparent>Ulrich's got amnesia.</c.bg_transparent>
+Dialogue: 0,0:08:45.12,0:08:46.92,Default,,0,0,0,,<c.bg_transparent>I thought he was gonna slug me just now!</c.bg_transparent>
+Dialogue: 0,0:08:47.08,0:08:48.80,Default,,0,0,0,,<c.bg_transparent>It's a real epidemic,</c.bg_transparent>\N<c.bg_transparent>according to the nurse.</c.bg_transparent>
+Dialogue: 0,0:08:48.96,0:08:51.56,Default,,0,0,0,,<c.bg_transparent>But you don't catch amnesia.</c.bg_transparent>\N<c.bg_transparent>It's not contagious.</c.bg_transparent>
+Dialogue: 0,0:08:51.72,0:08:53.00,Default,,0,0,0,,<c.bg_transparent>Something's really weird.</c.bg_transparent>
+Dialogue: 0,0:08:53.16,0:08:54.72,Default,,0,0,0,,<c.bg_transparent>We'd better ask a doctor about it.</c.bg_transparent>
+Dialogue: 0,0:08:55.04,0:08:57.72,Default,,0,0,0,,<c.bg_transparent>Too bad that nanodoctors don't exist yet.</c.bg_transparent>
+Dialogue: 0,0:08:57.88,0:08:59.36,Default,,0,0,0,,<c.bg_transparent>Nanodoctor...</c.bg_transparent>
+Dialogue: 0,0:08:59.52,0:09:00.76,Default,,0,0,0,,<c.bg_transparent>Now I understand!</c.bg_transparent>
+Dialogue: 0,0:09:00.92,0:09:02.84,Default,,0,0,0,,<c.bg_transparent>[Jeremy grunts]</c.bg_transparent>
+Dialogue: 0,0:09:03.64,0:09:04.80,Default,,0,0,0,,<c.bg_transparent>[Odd grunts]</c.bg_transparent>
+Dialogue: 0,0:09:06.16,0:09:08.24,Default,,0,0,0,,<c.bg_transparent>[ominous music]</c.bg_transparent>
+Dialogue: 0,0:09:11.36,0:09:12.88,Default,,0,0,0,,<c.bg_transparent>[Jeremy panting]</c.bg_transparent>
+Dialogue: 0,0:09:13.04,0:09:14.12,Default,,0,0,0,,<c.bg_transparent>[Yumi] Mrs. Hertz!</c.bg_transparent>
+Dialogue: 0,0:09:15.68,0:09:18.56,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] Oh... where am I?</c.bg_transparent>
+Dialogue: 0,0:09:18.72,0:09:19.64,Default,,0,0,0,,<c.bg_transparent>[Yumi] You'll be all right.</c.bg_transparent>
+Dialogue: 0,0:09:19.80,0:09:21.28,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Look at this.</c.bg_transparent>
+Dialogue: 0,0:09:21.44,0:09:24.16,Default,,0,0,0,,<c.bg_transparent>[Odd] It's the gelatin from this morning.</c.bg_transparent>
+Dialogue: 0,0:09:24.32,0:09:25.56,Default,,0,0,0,,<c.bg_transparent>[beeping]</c.bg_transparent>
+Dialogue: 0,0:09:25.72,0:09:28.12,Default,,0,0,0,,<c.bg_transparent>[expressing disgust]</c.bg_transparent>\N<c.bg_transparent>What are those ugly creatures?</c.bg_transparent>
+Dialogue: 0,0:09:28.28,0:09:30.64,Default,,0,0,0,,<c.bg_transparent>What I was afraid of.</c.bg_transparent>\N<c.bg_transparent>They're nanoviruses.</c.bg_transparent>
+Dialogue: 0,0:09:30.80,0:09:33.84,Default,,0,0,0,,<c.bg_transparent>And XANA must have crated them</c.bg_transparent>\N<c.bg_transparent>to attack memory cells.</c.bg_transparent>
+Dialogue: 0,0:09:34.00,0:09:36.00,Default,,0,0,0,,<c.bg_transparent>That means that it is contagious!</c.bg_transparent>
+Dialogue: 0,0:09:36.16,0:09:39.36,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Like all viruses, you can</c.bg_transparent>\N<c.bg_transparent>catch it from food, contact, sneezing...</c.bg_transparent>
+Dialogue: 0,0:09:39.52,0:09:41.96,Default,,0,0,0,,<c.bg_transparent>Soon the whole school will be infected,</c.bg_transparent>\N<c.bg_transparent>including us!</c.bg_transparent>
+Dialogue: 0,0:09:42.60,0:09:44.28,Default,,0,0,0,,<c.bg_transparent>[Odd] A world without memory...</c.bg_transparent>
+Dialogue: 0,0:09:44.44,0:09:45.96,Default,,0,0,0,,<c.bg_transparent>[Yumi] Under XANA's control.</c.bg_transparent>
+Dialogue: 0,0:09:46.64,0:09:49.84,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Let's go to the factory fast.</c.bg_transparent>\N<c.bg_transparent>Aelita must be in danger on Lyoko.</c.bg_transparent>
+Dialogue: 0,0:09:50.00,0:09:51.88,Default,,0,0,0,,<c.bg_transparent>And Ulrich... we're gonna need him.</c.bg_transparent>
+Dialogue: 0,0:09:52.04,0:09:54.08,Default,,0,0,0,,<c.bg_transparent>No, Odd, it's Ulrich who needs our help.</c.bg_transparent>
+Dialogue: 0,0:09:54.24,0:09:56.36,Default,,0,0,0,,<c.bg_transparent>He'll only get well</c.bg_transparent>\N<c.bg_transparent>if we can deactivate the tower.</c.bg_transparent>
+Dialogue: 0,0:09:56.52,0:09:57.36,Default,,0,0,0,,<c.bg_transparent>Yumi's right.</c.bg_transparent>
+Dialogue: 0,0:09:57.52,0:10:00.60,Default,,0,0,0,,<c.bg_transparent>Besides, if he can't remember anything,</c.bg_transparent>\N<c.bg_transparent>he won't be much good to us.</c.bg_transparent>
+Dialogue: 0,0:10:01.60,0:10:04.04,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz groans]</c.bg_transparent>
+Dialogue: 0,0:10:04.20,0:10:06.04,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:10:06.20,0:10:08.12,Default,,0,0,0,,<c.bg_transparent>[footsteps]</c.bg_transparent>
+Dialogue: 0,0:10:11.68,0:10:12.68,Default,,0,0,0,,<c.bg_transparent>-[student grunts]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:10:12.84,0:10:15.08,Default,,0,0,0,,<c.bg_transparent>Excuse me, is my room around here?</c.bg_transparent>
+Dialogue: 0,0:10:15.64,0:10:17.56,Default,,0,0,0,,<c.bg_transparent>-[student grunts]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:10:17.72,0:10:21.40,Default,,0,0,0,,<c.bg_transparent>Has everyone gone crazy around here?</c.bg_transparent>\N<c.bg_transparent>Third door on the right.</c.bg_transparent>
+Dialogue: 0,0:10:21.56,0:10:23.12,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts] I…</c.bg_transparent>
+Dialogue: 0,0:10:27.52,0:10:30.08,Default,,0,0,0,,<c.bg_transparent>-[Ulrich grunts]</c.bg_transparent>\N<c.bg_transparent>-[Kiwi pants]</c.bg_transparent>
+Dialogue: 0,0:10:30.24,0:10:32.32,Default,,0,0,0,,<c.bg_transparent>I don't know who you are...</c.bg_transparent>
+Dialogue: 0,0:10:32.48,0:10:34.20,Default,,0,0,0,,<c.bg_transparent>but it seems we're friends.</c.bg_transparent>
+Dialogue: 0,0:10:42.84,0:10:43.76,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:10:47.48,0:10:50.28,Default,,0,0,0,,<c.bg_transparent>[background laughs]</c.bg_transparent>
+Dialogue: 0,0:10:52.36,0:10:54.40,Default,,0,0,0,,<c.bg_transparent>[everyone pants]</c.bg_transparent>
+Dialogue: 0,0:10:55.68,0:10:56.68,Default,,0,0,0,,<c.bg_transparent>[Milly and Tamiya grunt]</c.bg_transparent>
+Dialogue: 0,0:10:56.84,0:10:57.80,Default,,0,0,0,,<c.bg_transparent>[Jeremy groans]</c.bg_transparent>
+Dialogue: 0,0:10:57.96,0:10:59.28,Default,,0,0,0,,<c.bg_transparent>[Yumi] Not a minute to lose!</c.bg_transparent>
+Dialogue: 0,0:10:59.44,0:11:00.88,Default,,0,0,0,,<c.bg_transparent>[Yumi pants]</c.bg_transparent>
+Dialogue: 0,0:11:01.56,0:11:03.56,Default,,0,0,0,,<c.bg_transparent>[groans]</c.bg_transparent>
+Dialogue: 0,0:11:04.28,0:11:05.44,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:11:05.60,0:11:07.72,Default,,0,0,0,,<c.bg_transparent>[Ulrich] What's going on around here?</c.bg_transparent>
+Dialogue: 0,0:11:08.72,0:11:10.60,Default,,0,0,0,,<c.bg_transparent>[principal groans]</c.bg_transparent>
+Dialogue: 0,0:11:11.72,0:11:14.12,Default,,0,0,0,,<c.bg_transparent>-[annoying noise]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:11:17.52,0:11:19.44,Default,,0,0,0,,<c.bg_transparent>Ulrich, I'm so glad you came.</c.bg_transparent>
+Dialogue: 0,0:11:21.40,0:11:23.60,Default,,0,0,0,,<c.bg_transparent>You really know how to cheer someone up.</c.bg_transparent>
+Dialogue: 0,0:11:24.32,0:11:27.04,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:11:29.84,0:11:32.56,Default,,0,0,0,,<c.bg_transparent>[action music]</c.bg_transparent>
+Dialogue: 0,0:11:34.36,0:11:35.52,Default,,0,0,0,,<c.bg_transparent>[Odd grunts]</c.bg_transparent>
+Dialogue: 0,0:11:39.68,0:11:41.92,Default,,0,0,0,,<c.bg_transparent>[grunts intensely] Yeah!</c.bg_transparent>
+Dialogue: 0,0:12:01.36,0:12:02.20,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Aelita?</c.bg_transparent>
+Dialogue: 0,0:12:02.36,0:12:06.16,Default,,0,0,0,,<c.bg_transparent>{\i1}I haven't seen anything to worry about{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}either in the forest or the desert area.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:06.32,0:12:08.48,Default,,0,0,0,,<c.bg_transparent>[Jeremy]</c.bg_transparent>\N<c.bg_transparent>Okay, beam yourself over to the mountains.</c.bg_transparent>
+Dialogue: 0,0:12:08.64,0:12:12.84,Default,,0,0,0,,<c.bg_transparent>I'll send Yumi and Odd to the glacier.</c.bg_transparent>\N<c.bg_transparent>The activated tower's gotta be somewhere!</c.bg_transparent>
+Dialogue: 0,0:12:13.68,0:12:15.36,Default,,0,0,0,,<c.bg_transparent>-[groans]</c.bg_transparent>\N<c.bg_transparent>-[grunting from far]</c.bg_transparent>
+Dialogue: 0,0:12:17.88,0:12:20.00,Default,,0,0,0,,<c.bg_transparent>[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}Okay.{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}Ready for the North Pole?{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:22.00,0:12:23.96,Default,,0,0,0,,<c.bg_transparent>-[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}We're on our way, Aelita.{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}-{\i0}</c.bg_transparent><c.bg_transparent>[Aelita] </c.bg_transparent><c.bg_transparent>{\i1}Okay.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:24.12,0:12:26.48,Default,,0,0,0,,<c.bg_transparent>[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}Through the tunnel in the park.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:31.56,0:12:33.36,Default,,0,0,0,,<c.bg_transparent>Ten seconds to transfer time.</c.bg_transparent>
+Dialogue: 0,0:12:33.52,0:12:35.36,Default,,0,0,0,,<c.bg_transparent>[metallic door opens]</c.bg_transparent>
+Dialogue: 0,0:12:42.72,0:12:44.32,Default,,0,0,0,,<c.bg_transparent>[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}Transfer Odd.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:44.72,0:12:45.72,Default,,0,0,0,,<c.bg_transparent>{\i1}Transfer Yumi.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:47.28,0:12:48.52,Default,,0,0,0,,<c.bg_transparent>{\i1}Scanner Odd.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:49.64,0:12:50.88,Default,,0,0,0,,<c.bg_transparent>{\i1}Scanner Yumi.{\i0}</c.bg_transparent>
+Dialogue: 0,0:12:54.80,0:12:56.04,Default,,0,0,0,,<c.bg_transparent>Virtualization.</c.bg_transparent>
+Dialogue: 0,0:13:03.72,0:13:04.76,Default,,0,0,0,,<c.bg_transparent>[Yumi and Odd grunt]</c.bg_transparent>
+Dialogue: 0,0:13:07.24,0:13:09.12,Default,,0,0,0,,<c.bg_transparent>[Jeremy]</c.bg_transparent>\N<c.bg_transparent>{\i1}Okay, take the access on your right.{\i0}</c.bg_transparent>
+Dialogue: 0,0:13:09.28,0:13:11.24,Default,,0,0,0,,<c.bg_transparent>-[Odd] Right, boss.</c.bg_transparent>\N<c.bg_transparent>-[Yumi groans]</c.bg_transparent>
+Dialogue: 0,0:13:15.88,0:13:17.20,Default,,0,0,0,,<c.bg_transparent>Aelita, anything new?</c.bg_transparent>
+Dialogue: 0,0:13:17.36,0:13:20.88,Default,,0,0,0,,<c.bg_transparent>{\i1}No, I haven't been all over yet,{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}but still no vibrations.{\i0}</c.bg_transparent>
+Dialogue: 0,0:13:21.04,0:13:23.68,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Be careful.</c.bg_transparent>\N<c.bg_transparent>Yumi and Odd are pretty far away.</c.bg_transparent>
+Dialogue: 0,0:13:24.64,0:13:25.72,Default,,0,0,0,,<c.bg_transparent>[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:13:26.92,0:13:28.08,Default,,0,0,0,,<c.bg_transparent>[screams]</c.bg_transparent>
+Dialogue: 0,0:13:32.08,0:13:33.44,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:13:35.72,0:13:37.76,Default,,0,0,0,,<c.bg_transparent>[Odd panting]</c.bg_transparent>
+Dialogue: 0,0:13:37.92,0:13:39.04,Default,,0,0,0,,<c.bg_transparent>[Odd] Watch out!</c.bg_transparent>
+Dialogue: 0,0:13:40.12,0:13:41.36,Default,,0,0,0,,<c.bg_transparent>[Yumi groans]</c.bg_transparent>
+Dialogue: 0,0:13:43.60,0:13:46.04,Default,,0,0,0,,<c.bg_transparent>[Jeremy]</c.bg_transparent>\N<c.bg_transparent>{\i1}Yumi, you just lost 20 life points.{\i0}</c.bg_transparent>
+Dialogue: 0,0:13:46.20,0:13:47.16,Default,,0,0,0,,<c.bg_transparent>[Yumi grunts]</c.bg_transparent>
+Dialogue: 0,0:13:48.56,0:13:51.00,Default,,0,0,0,,<c.bg_transparent>[Odd]</c.bg_transparent>\N<c.bg_transparent>Jeremy, we've got a welcoming committee.</c.bg_transparent>
+Dialogue: 0,0:13:51.16,0:13:52.88,Default,,0,0,0,,<c.bg_transparent>[Jeremy]</c.bg_transparent>\N<c.bg_transparent>{\i1}Don't panic. There's just one crab,{\i0}</c.bg_transparent>
+Dialogue: 0,0:13:53.04,0:13:55.00,Default,,0,0,0,,<c.bg_transparent>{\i1}but it means{\i0}</c.bg_transparent>\N<c.bg_transparent>{\i1}the activated tower can't be far.{\i0}</c.bg_transparent>
+Dialogue: 0,0:13:55.16,0:13:56.32,Default,,0,0,0,,<c.bg_transparent>{\i1}I'll warn Aelita.{\i0}</c.bg_transparent>
+Dialogue: 0,0:13:57.52,0:14:00.20,Default,,0,0,0,,<c.bg_transparent>-[Yumi grunts]</c.bg_transparent>\N<c.bg_transparent>-[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}He's coming towards you, Yumi!{\i0}</c.bg_transparent>
+Dialogue: 0,0:14:00.36,0:14:01.40,Default,,0,0,0,,<c.bg_transparent>[Yumi] Don't worry.</c.bg_transparent>
+Dialogue: 0,0:14:01.56,0:14:04.52,Default,,0,0,0,,<c.bg_transparent>He just wants to play hide and seek.</c.bg_transparent>\N<c.bg_transparent>Playful little beast!</c.bg_transparent>
+Dialogue: 0,0:14:04.68,0:14:07.56,Default,,0,0,0,,<c.bg_transparent>[tense music]</c.bg_transparent>
+Dialogue: 0,0:14:18.80,0:14:19.68,Default,,0,0,0,,<c.bg_transparent>[hums]</c.bg_transparent>
+Dialogue: 0,0:14:37.80,0:14:38.80,Default,,0,0,0,,<c.bg_transparent>[Ulrich] Wow!</c.bg_transparent>
+Dialogue: 0,0:14:40.80,0:14:41.96,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Ulrich!</c.bg_transparent>
+Dialogue: 0,0:14:42.12,0:14:43.24,Default,,0,0,0,,<c.bg_transparent>What am I doing here?</c.bg_transparent>
+Dialogue: 0,0:14:43.40,0:14:44.48,Default,,0,0,0,,<c.bg_transparent>What kind of place is this?</c.bg_transparent>
+Dialogue: 0,0:14:44.64,0:14:46.72,Default,,0,0,0,,<c.bg_transparent>I can't tell you now.</c.bg_transparent>\N<c.bg_transparent>We've got an emergency.</c.bg_transparent>
+Dialogue: 0,0:14:46.88,0:14:50.48,Default,,0,0,0,,<c.bg_transparent>Look, I can't remember anything,</c.bg_transparent>\N<c.bg_transparent>but I have something important to do here.</c.bg_transparent>
+Dialogue: 0,0:14:50.64,0:14:53.80,Default,,0,0,0,,<c.bg_transparent>-Tell me what it is.</c.bg_transparent>\N<c.bg_transparent>-Well uh... Sure, why not?</c.bg_transparent>
+Dialogue: 0,0:14:53.96,0:14:57.48,Default,,0,0,0,,<c.bg_transparent>Once you're on Lyoko, you'll have</c.bg_transparent>\N<c.bg_transparent>to do something, amnesia or not.</c.bg_transparent>
+Dialogue: 0,0:14:57.64,0:14:58.68,Default,,0,0,0,,<c.bg_transparent>[Ulrich] What's Lyoko?</c.bg_transparent>
+Dialogue: 0,0:14:59.92,0:15:01.40,Default,,0,0,0,,<c.bg_transparent>It's… Look...</c.bg_transparent>
+Dialogue: 0,0:15:02.20,0:15:03.76,Default,,0,0,0,,<c.bg_transparent>See that pillar behind you?</c.bg_transparent>
+Dialogue: 0,0:15:03.92,0:15:05.48,Default,,0,0,0,,<c.bg_transparent>-You've gotta slide up one level.</c.bg_transparent>\N<c.bg_transparent>-Uh?</c.bg_transparent>
+Dialogue: 0,0:15:05.64,0:15:07.16,Default,,0,0,0,,<c.bg_transparent>You'll see a few scanners.</c.bg_transparent>
+Dialogue: 0,0:15:07.32,0:15:09.44,Default,,0,0,0,,<c.bg_transparent>-Get into one of them, and then just wait.</c.bg_transparent>\N<c.bg_transparent>-[mutters]</c.bg_transparent>
+Dialogue: 0,0:15:09.60,0:15:12.16,Default,,0,0,0,,<c.bg_transparent>[Jeremy]</c.bg_transparent>\N<c.bg_transparent>You'll get all the answers you want.</c.bg_transparent>
+Dialogue: 0,0:15:12.32,0:15:13.36,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>
+Dialogue: 0,0:15:13.52,0:15:15.36,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:15:15.52,0:15:18.00,Default,,0,0,0,,<c.bg_transparent>[upbeat music]</c.bg_transparent>
+Dialogue: 0,0:15:18.16,0:15:19.84,Default,,0,0,0,,<c.bg_transparent>-[beeping]</c.bg_transparent>\N<c.bg_transparent>-[Yumi] Yoohoo.</c.bg_transparent>
+Dialogue: 0,0:15:26.16,0:15:27.40,Default,,0,0,0,,<c.bg_transparent>[Yumi] Over here.</c.bg_transparent>
+Dialogue: 0,0:15:29.92,0:15:31.24,Default,,0,0,0,,<c.bg_transparent>Hey, Crabby.</c.bg_transparent>
+Dialogue: 0,0:15:32.56,0:15:34.24,Default,,0,0,0,,<c.bg_transparent>Ya!</c.bg_transparent>
+Dialogue: 0,0:15:35.72,0:15:36.96,Default,,0,0,0,,<c.bg_transparent>[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}Target hit.{\i0}</c.bg_transparent>
+Dialogue: 0,0:15:38.84,0:15:40.92,Default,,0,0,0,,<c.bg_transparent>[Odd grunting]</c.bg_transparent>
+Dialogue: 0,0:15:41.08,0:15:42.28,Default,,0,0,0,,<c.bg_transparent>Nice going, Yumi.</c.bg_transparent>
+Dialogue: 0,0:15:42.44,0:15:44.92,Default,,0,0,0,,<c.bg_transparent>Two things guys: one, Aelita's waiting</c.bg_transparent>\N<c.bg_transparent>on the other side of the glacier.</c.bg_transparent>
+Dialogue: 0,0:15:45.28,0:15:47.16,Default,,0,0,0,,<c.bg_transparent>-And two?</c.bg_transparent>\N<c.bg_transparent>-Two, Ulrich's on the way.</c.bg_transparent>
+Dialogue: 0,0:15:47.96,0:15:50.52,Default,,0,0,0,,<c.bg_transparent>[Odd] Ulrich? I'll wait for him here.</c.bg_transparent>
+Dialogue: 0,0:15:50.68,0:15:52.40,Default,,0,0,0,,<c.bg_transparent>[Yumi panting] Better hurry.</c.bg_transparent>
+Dialogue: 0,0:15:53.84,0:15:55.28,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:15:57.20,0:15:58.68,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Transfer Ulrich.</c.bg_transparent>
+Dialogue: 0,0:16:01.08,0:16:02.32,Default,,0,0,0,,<c.bg_transparent>Scanner Ulrich.</c.bg_transparent>
+Dialogue: 0,0:16:02.48,0:16:03.72,Default,,0,0,0,,<c.bg_transparent>{\i1}Virtualization.{\i0}</c.bg_transparent>
+Dialogue: 0,0:16:11.20,0:16:12.80,Default,,0,0,0,,<c.bg_transparent>[Ulrich groans]</c.bg_transparent>
+Dialogue: 0,0:16:14.00,0:16:15.24,Default,,0,0,0,,<c.bg_transparent>Ouch!</c.bg_transparent>
+Dialogue: 0,0:16:17.04,0:16:18.24,Default,,0,0,0,,<c.bg_transparent>[mutters]</c.bg_transparent>
+Dialogue: 0,0:16:21.40,0:16:23.72,Default,,0,0,0,,<c.bg_transparent>[Odd]</c.bg_transparent>\N<c.bg_transparent>Welcome to the virtual world, Ulrich.</c.bg_transparent>
+Dialogue: 0,0:16:23.88,0:16:26.76,Default,,0,0,0,,<c.bg_transparent>[Ulrich] What is this place?</c.bg_transparent>\N<c.bg_transparent>What are we here for?</c.bg_transparent>
+Dialogue: 0,0:16:27.12,0:16:29.28,Default,,0,0,0,,<c.bg_transparent>-To fight, of course.</c.bg_transparent>\N<c.bg_transparent>-To fight?</c.bg_transparent>
+Dialogue: 0,0:16:30.04,0:16:32.76,Default,,0,0,0,,<c.bg_transparent>-I don't know how to fight.</c.bg_transparent>\N<c.bg_transparent>-But of course you do.</c.bg_transparent>
+Dialogue: 0,0:16:32.92,0:16:35.32,Default,,0,0,0,,<c.bg_transparent>You just forgot,</c.bg_transparent>\N<c.bg_transparent>but I'll refresh your memory.</c.bg_transparent>
+Dialogue: 0,0:16:35.48,0:16:36.56,Default,,0,0,0,,<c.bg_transparent>[Odd grunts]</c.bg_transparent>
+Dialogue: 0,0:16:38.32,0:16:39.44,Default,,0,0,0,,<c.bg_transparent>Oh!</c.bg_transparent>
+Dialogue: 0,0:16:39.60,0:16:40.52,Default,,0,0,0,,<c.bg_transparent>[Odd mutters]</c.bg_transparent>
+Dialogue: 0,0:16:41.12,0:16:43.24,Default,,0,0,0,,<c.bg_transparent>[grunts] Okay, come on!</c.bg_transparent>
+Dialogue: 0,0:16:43.40,0:16:44.68,Default,,0,0,0,,<c.bg_transparent>[pants]</c.bg_transparent>
+Dialogue: 0,0:16:44.84,0:16:45.68,Default,,0,0,0,,<c.bg_transparent>Hello, Aelita.</c.bg_transparent>
+Dialogue: 0,0:16:46.60,0:16:49.32,Default,,0,0,0,,<c.bg_transparent>I found the activated tower.</c.bg_transparent>\N<c.bg_transparent>We're almost there.</c.bg_transparent>
+Dialogue: 0,0:16:49.48,0:16:50.92,Default,,0,0,0,,<c.bg_transparent>Lead the way!</c.bg_transparent>
+Dialogue: 0,0:16:59.68,0:17:00.56,Default,,0,0,0,,<c.bg_transparent>-[Ulrich] Yeah!</c.bg_transparent>\N<c.bg_transparent>-[Odd grunts]</c.bg_transparent>
+Dialogue: 0,0:17:00.72,0:17:02.52,Default,,0,0,0,,<c.bg_transparent>You're just dodging my blows.</c.bg_transparent>
+Dialogue: 0,0:17:02.68,0:17:04.35,Default,,0,0,0,,<c.bg_transparent>-Don't you have a weapon?</c.bg_transparent>\N<c.bg_transparent>-[groans]</c.bg_transparent>
+Dialogue: 0,0:17:04.52,0:17:07.59,Default,,0,0,0,,<c.bg_transparent>I have a few arrows,</c.bg_transparent>\N<c.bg_transparent>but I prefer to save them for now.</c.bg_transparent>
+Dialogue: 0,0:17:07.76,0:17:10.76,Default,,0,0,0,,<c.bg_transparent>[grunts]</c.bg_transparent>\N<c.bg_transparent>And I don't wanna hurt you with them.</c.bg_transparent>
+Dialogue: 0,0:17:10.92,0:17:12.92,Default,,0,0,0,,<c.bg_transparent>-[groans]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich] Oh yeah? No kidding!</c.bg_transparent>
+Dialogue: 0,0:17:13.07,0:17:14.83,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts] Yeah!</c.bg_transparent>
+Dialogue: 0,0:17:19.00,0:17:20.40,Default,,0,0,0,,<c.bg_transparent>[Aelita] We're almost there.</c.bg_transparent>
+Dialogue: 0,0:17:20.56,0:17:23.07,Default,,0,0,0,,<c.bg_transparent>[Yumi] Yeah, it seems almost too easy.</c.bg_transparent>
+Dialogue: 0,0:17:23.24,0:17:25.11,Default,,0,0,0,,<c.bg_transparent>I have a funny feeling about this.</c.bg_transparent>
+Dialogue: 0,0:17:27.16,0:17:29.08,Default,,0,0,0,,<c.bg_transparent>I'm sick of always being right!</c.bg_transparent>
+Dialogue: 0,0:17:30.96,0:17:32.88,Default,,0,0,0,,<c.bg_transparent>-[Yumi] That way!</c.bg_transparent>\N<c.bg_transparent>-[Aelita gasps]</c.bg_transparent>
+Dialogue: 0,0:17:33.48,0:17:36.80,Default,,0,0,0,,<c.bg_transparent>[Yumi] Four against one.</c.bg_transparent>\N<c.bg_transparent>Well, it's better than five or six.</c.bg_transparent>
+Dialogue: 0,0:17:37.60,0:17:41.24,Default,,0,0,0,,<c.bg_transparent>[Jeremy] Hang in there girls.</c.bg_transparent>\N<c.bg_transparent>I'll try to send you reinforcements.</c.bg_transparent>
+Dialogue: 0,0:17:42.12,0:17:44.36,Default,,0,0,0,,<c.bg_transparent>First, let's get rid of two of them.</c.bg_transparent>
+Dialogue: 0,0:17:44.52,0:17:47.00,Default,,0,0,0,,<c.bg_transparent>[tense music]</c.bg_transparent>
+Dialogue: 0,0:17:50.40,0:17:53.08,Default,,0,0,0,,<c.bg_transparent>[Aelita]</c.bg_transparent>\N<c.bg_transparent>Hurry, it's not gonna hold for long!</c.bg_transparent>
+Dialogue: 0,0:17:55.32,0:17:58.88,Default,,0,0,0,,<c.bg_transparent>[grunts] Hey, you ought to save</c.bg_transparent>\N<c.bg_transparent>your strength. You're gonna need it.</c.bg_transparent>
+Dialogue: 0,0:17:59.04,0:18:01.08,Default,,0,0,0,,<c.bg_transparent>[Ulrich] Why? Are there other levels?</c.bg_transparent>
+Dialogue: 0,0:18:01.24,0:18:02.40,Default,,0,0,0,,<c.bg_transparent>I like it here.</c.bg_transparent>
+Dialogue: 0,0:18:02.56,0:18:06.24,Default,,0,0,0,,<c.bg_transparent>-It's a video game, but for real.</c.bg_transparent>\N<c.bg_transparent>-Yeah, but now it's time to stop.</c.bg_transparent>
+Dialogue: 0,0:18:06.40,0:18:07.88,Default,,0,0,0,,<c.bg_transparent>Aelita and Yumi need you.</c.bg_transparent>
+Dialogue: 0,0:18:08.56,0:18:09.96,Default,,0,0,0,,<c.bg_transparent>[Ulrich hums] Who said that?</c.bg_transparent>
+Dialogue: 0,0:18:10.12,0:18:11.44,Default,,0,0,0,,<c.bg_transparent>[Odd] Jeremy, come on.</c.bg_transparent>
+Dialogue: 0,0:18:11.60,0:18:14.16,Default,,0,0,0,,<c.bg_transparent>[Ulrich] Hey, wait,</c.bg_transparent>\N<c.bg_transparent>we haven't finished the game.</c.bg_transparent>
+Dialogue: 0,0:18:14.32,0:18:16.12,Default,,0,0,0,,<c.bg_transparent>[Ulrich runs and grunts]</c.bg_transparent>
+Dialogue: 0,0:18:16.92,0:18:18.76,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
+Dialogue: 0,0:18:21.76,0:18:24.76,Default,,0,0,0,,<c.bg_transparent>Again? Yumi, be careful.</c.bg_transparent>
+Dialogue: 0,0:18:24.92,0:18:27.20,Default,,0,0,0,,<c.bg_transparent>{\i1}You've only got a few life points left!{\i0}</c.bg_transparent>
+Dialogue: 0,0:18:28.68,0:18:29.88,Default,,0,0,0,,<c.bg_transparent>[Yumi] Ya!</c.bg_transparent>
+Dialogue: 0,0:18:30.84,0:18:32.20,Default,,0,0,0,,<c.bg_transparent>[Jeremy] </c.bg_transparent><c.bg_transparent>{\i1}Nice going, Yumi.{\i0}</c.bg_transparent>
+Dialogue: 0,0:18:32.36,0:18:33.56,Default,,0,0,0,,<c.bg_transparent>[Yumi] One to go!</c.bg_transparent>
+Dialogue: 0,0:18:34.64,0:18:37.08,Default,,0,0,0,,<c.bg_transparent>Hurry, Yumi! The wall's not gonna last!</c.bg_transparent>
+Dialogue: 0,0:18:41.72,0:18:43.96,Default,,0,0,0,,<c.bg_transparent>[pants]</c.bg_transparent>
+Dialogue: 0,0:18:45.64,0:18:48.24,Default,,0,0,0,,<c.bg_transparent>-[Ulrich] There. I win the game.</c.bg_transparent>\N<c.bg_transparent>-[groans]</c.bg_transparent>
+Dialogue: 0,0:18:48.40,0:18:51.36,Default,,0,0,0,,<c.bg_transparent>-[Odd] Yeah, but you beat an ally.</c.bg_transparent>\N<c.bg_transparent>-What?</c.bg_transparent>
+Dialogue: 0,0:18:51.52,0:18:54.80,Default,,0,0,0,,<c.bg_transparent>Now that you know who your friends are,</c.bg_transparent>\N<c.bg_transparent>it's time to meet your enemies.</c.bg_transparent>
+Dialogue: 0,0:18:54.96,0:18:56.88,Default,,0,0,0,,<c.bg_transparent>Huh? Enemies? What enemies?</c.bg_transparent>
+Dialogue: 0,0:18:57.04,0:18:59.60,Default,,0,0,0,,<c.bg_transparent>They're crabs. Monsters created by XANA.</c.bg_transparent>
+Dialogue: 0,0:19:00.16,0:19:03.00,Default,,0,0,0,,<c.bg_transparent>Listen, I can't explain now.</c.bg_transparent>\N<c.bg_transparent>Yumi and Aelita need our help.</c.bg_transparent>
+Dialogue: 0,0:19:03.16,0:19:04.28,Default,,0,0,0,,<c.bg_transparent>And right now.</c.bg_transparent>
+Dialogue: 0,0:19:04.96,0:19:06.64,Default,,0,0,0,,<c.bg_transparent>[Ulrich and Odd grunt]</c.bg_transparent>
+Dialogue: 0,0:19:06.80,0:19:08.68,Default,,0,0,0,,<c.bg_transparent>[digital whirring]</c.bg_transparent>
+Dialogue: 0,0:19:09.68,0:19:10.64,Default,,0,0,0,,<c.bg_transparent>[Aelita surprised]</c.bg_transparent>
+Dialogue: 0,0:19:12.36,0:19:13.24,Default,,0,0,0,,<c.bg_transparent>To get rid of them,</c.bg_transparent>
+Dialogue: 0,0:19:13.40,0:19:16.20,Default,,0,0,0,,<c.bg_transparent>you have to hit the thing on their shell</c.bg_transparent>\N<c.bg_transparent>that looks like an eye.</c.bg_transparent>
+Dialogue: 0,0:19:16.36,0:19:18.76,Default,,0,0,0,,<c.bg_transparent>[Ulrich] Sounds easy enough. Yeah!</c.bg_transparent>
+Dialogue: 0,0:19:19.44,0:19:20.84,Default,,0,0,0,,<c.bg_transparent>[Ulrich] Yeah!</c.bg_transparent>
+Dialogue: 0,0:19:22.00,0:19:24.48,Default,,0,0,0,,<c.bg_transparent>-[laser blast]</c.bg_transparent>\N<c.bg_transparent>-[Odd] Laser arrow!</c.bg_transparent>
+Dialogue: 0,0:19:25.56,0:19:26.80,Default,,0,0,0,,<c.bg_transparent>[mechanical clanking]</c.bg_transparent>
+Dialogue: 0,0:19:28.24,0:19:29.40,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:19:30.08,0:19:32.04,Default,,0,0,0,,<c.bg_transparent>Ulrich! Oh!</c.bg_transparent>
+Dialogue: 0,0:19:38.56,0:19:39.44,Default,,0,0,0,,<c.bg_transparent>[alarm]</c.bg_transparent>
+Dialogue: 0,0:19:41.04,0:19:42.04,Default,,0,0,0,,<c.bg_transparent>What happened to her?</c.bg_transparent>
+Dialogue: 0,0:19:42.20,0:19:43.20,Default,,0,0,0,,<c.bg_transparent>[pants]</c.bg_transparent>
+Dialogue: 0,0:19:43.36,0:19:45.60,Default,,0,0,0,,<c.bg_transparent>Nothing serious.</c.bg_transparent>\N<c.bg_transparent>We've gotta protect Aelita.</c.bg_transparent>
+Dialogue: 0,0:19:48.04,0:19:48.88,Default,,0,0,0,,<c.bg_transparent>[Aelita yells]</c.bg_transparent>
+Dialogue: 0,0:19:51.44,0:19:52.44,Default,,0,0,0,,<c.bg_transparent>I'll take care of it.</c.bg_transparent>
+Dialogue: 0,0:19:55.88,0:19:57.96,Default,,0,0,0,,<c.bg_transparent>It's good to see Ulrich</c.bg_transparent>\N<c.bg_transparent>with his memory back again.</c.bg_transparent>
+Dialogue: 0,0:19:58.12,0:20:00.28,Default,,0,0,0,,<c.bg_transparent>You're wrong. He's still got amnesia.</c.bg_transparent>
+Dialogue: 0,0:20:00.84,0:20:02.08,Default,,0,0,0,,<c.bg_transparent>[Yumi hums]</c.bg_transparent>
+Dialogue: 0,0:20:02.48,0:20:03.72,Default,,0,0,0,,<c.bg_transparent>Ya!</c.bg_transparent>
+Dialogue: 0,0:20:05.80,0:20:07.16,Default,,0,0,0,,<c.bg_transparent>Ya, ya!</c.bg_transparent>
+Dialogue: 0,0:20:09.04,0:20:11.12,Default,,0,0,0,,<c.bg_transparent>[strong effort]</c.bg_transparent>
+Dialogue: 0,0:20:14.32,0:20:16.36,Default,,0,0,0,,<c.bg_transparent>[Aelita] Thanks</c.bg_transparent>\N<c.bg_transparent>for clearing the passage!</c.bg_transparent>
+Dialogue: 0,0:20:20.88,0:20:22.80,Default,,0,0,0,,<c.bg_transparent>Eh? She's leaving?</c.bg_transparent>
+Dialogue: 0,0:20:22.96,0:20:24.88,Default,,0,0,0,,<c.bg_transparent>[stammers] Not exactly total recall.</c.bg_transparent>
+Dialogue: 0,0:20:25.88,0:20:27.12,Default,,0,0,0,,<c.bg_transparent>[groans]</c.bg_transparent>
+Dialogue: 0,0:20:28.00,0:20:29.72,Default,,0,0,0,,<c.bg_transparent>[Ulrich] Jeremy, I'm coming!</c.bg_transparent>
+Dialogue: 0,0:20:29.88,0:20:31.56,Default,,0,0,0,,<c.bg_transparent>No, I'm Odd!</c.bg_transparent>
+Dialogue: 0,0:20:33.84,0:20:34.88,Default,,0,0,0,,<c.bg_transparent>[Ulrich grunts]</c.bg_transparent>
+Dialogue: 0,0:20:36.72,0:20:37.56,Default,,0,0,0,,<c.bg_transparent>[Odd] Here we go!</c.bg_transparent>
+Dialogue: 0,0:20:39.64,0:20:41.88,Default,,0,0,0,,<c.bg_transparent>[resonant voice]</c.bg_transparent>
+Dialogue: 0,0:20:43.48,0:20:44.32,Default,,0,0,0,,<c.bg_transparent>[sighing]</c.bg_transparent>
+Dialogue: 0,0:20:45.08,0:20:46.56,Default,,0,0,0,,<c.bg_transparent>-[Odd] Laser arrow!</c.bg_transparent>\N<c.bg_transparent>-[Ulrich] Impact!</c.bg_transparent>
+Dialogue: 0,0:20:48.08,0:20:49.72,Default,,0,0,0,,<c.bg_transparent>-[Odd grunts]</c.bg_transparent>\N<c.bg_transparent>-[Ulrich exhales]</c.bg_transparent>
+Dialogue: 0,0:20:49.88,0:20:51.96,Default,,0,0,0,,<c.bg_transparent>Great guys. You're one heck of a team!</c.bg_transparent>
+Dialogue: 0,0:20:59.52,0:21:01.48,Default,,0,0,0,,<c.bg_transparent>Is that it? No other players?</c.bg_transparent>
+Dialogue: 0,0:21:01.64,0:21:04.04,Default,,0,0,0,,<c.bg_transparent>No, we can go home. The game is over.</c.bg_transparent>
+Dialogue: 0,0:21:04.68,0:21:06.56,Default,,0,0,0,,<c.bg_transparent>Huh? But how?</c.bg_transparent>
+Dialogue: 0,0:21:06.72,0:21:07.92,Default,,0,0,0,,<c.bg_transparent>Magic! Watch.</c.bg_transparent>
+Dialogue: 0,0:21:20.32,0:21:21.68,Default,,0,0,0,,<c.bg_transparent>Return to the past now!</c.bg_transparent>
+Dialogue: 0,0:21:32.20,0:21:33.16,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] Exactly.</c.bg_transparent>
+Dialogue: 0,0:21:33.32,0:21:37.08,Default,,0,0,0,,<c.bg_transparent>In the medical field, for example,</c.bg_transparent>\N<c.bg_transparent>scientists are developing "nanodoctors,"</c.bg_transparent>
+Dialogue: 0,0:21:37.24,0:21:40.96,Default,,0,0,0,,<c.bg_transparent>tiny machines which will be able to travel</c.bg_transparent>\N<c.bg_transparent>through our bodies to combat disease.</c.bg_transparent>
+Dialogue: 0,0:21:41.60,0:21:43.88,Default,,0,0,0,,<c.bg_transparent>Scientific research however,</c.bg_transparent>\N<c.bg_transparent>still has a long way to go.</c.bg_transparent>
+Dialogue: 0,0:21:44.04,0:21:47.16,Default,,0,0,0,,<c.bg_transparent>Are these robots capable of fighting</c.bg_transparent>\N<c.bg_transparent>pimples, cellulite and things like that?</c.bg_transparent>
+Dialogue: 0,0:21:47.72,0:21:51.24,Default,,0,0,0,,<c.bg_transparent>[laughs] Yes, they can, but the priority</c.bg_transparent>\N<c.bg_transparent>is for more serious illnesses.</c.bg_transparent>
+Dialogue: 0,0:21:51.40,0:21:53.96,Default,,0,0,0,,<c.bg_transparent>[students laugh]</c.bg_transparent>
+Dialogue: 0,0:21:54.12,0:21:56.76,Default,,0,0,0,,<c.bg_transparent>And nanotechnology</c.bg_transparent>\N<c.bg_transparent>can't do a thing about stupidity.</c.bg_transparent>
+Dialogue: 0,0:21:56.92,0:21:57.88,Default,,0,0,0,,<c.bg_transparent>Poor Sissi! What a shame!</c.bg_transparent>
+Dialogue: 0,0:21:58.04,0:21:59.52,Default,,0,0,0,,<c.bg_transparent>-[students laugh]</c.bg_transparent>\N<c.bg_transparent>-[Sissi groans]</c.bg_transparent>
+Dialogue: 0,0:21:59.68,0:22:01.88,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] All right now, quiet down.</c.bg_transparent>
+Dialogue: 0,0:22:02.04,0:22:05.24,Default,,0,0,0,,<c.bg_transparent>This nanosphere</c.bg_transparent>\N<c.bg_transparent>is used to make microscopic devices.</c.bg_transparent>
+Dialogue: 0,0:22:06.16,0:22:08.24,Default,,0,0,0,,<c.bg_transparent>Strange, it hasn't been cleaned properly.</c.bg_transparent>
+Dialogue: 0,0:22:08.40,0:22:09.72,Default,,0,0,0,,<c.bg_transparent>There's gelatin inside.</c.bg_transparent>
+Dialogue: 0,0:22:09.88,0:22:13.72,Default,,0,0,0,,<c.bg_transparent>[Ulrich] It looks like the greasy stuff</c.bg_transparent>\N<c.bg_transparent>Odd puts on his hair every day.</c.bg_transparent>
+Dialogue: 0,0:22:13.88,0:22:15.16,Default,,0,0,0,,<c.bg_transparent>Since you think you're clever, Ulrich,</c.bg_transparent>
+Dialogue: 0,0:22:15.32,0:22:16.84,Default,,0,0,0,,<c.bg_transparent>why don't you take a sample</c.bg_transparent>\N<c.bg_transparent>for us to examine?</c.bg_transparent>
+Dialogue: 0,0:22:17.24,0:22:19.68,Default,,0,0,0,,<c.bg_transparent>It's used as a culture</c.bg_transparent>\N<c.bg_transparent>where nanodevices can develop.</c.bg_transparent>
+Dialogue: 0,0:22:21.20,0:22:23.32,Default,,0,0,0,,<c.bg_transparent>Anyway, it looks an awful lot like jam.</c.bg_transparent>
+Dialogue: 0,0:22:23.48,0:22:26.04,Default,,0,0,0,,<c.bg_transparent>Let's try to cook it. You never can tell.</c.bg_transparent>
+Dialogue: 0,0:22:28.08,0:22:29.24,Default,,0,0,0,,<c.bg_transparent>[Milly grunts]</c.bg_transparent>
+Dialogue: 0,0:22:33.76,0:22:36.20,Default,,0,0,0,,<c.bg_transparent>[Mrs. Hertz] Ulrich, what are you doing?</c.bg_transparent>
+Dialogue: 0,0:22:36.36,0:22:37.20,Default,,0,0,0,,<c.bg_transparent>[Ulrich hums]</c.bg_transparent>
+Dialogue: 0,0:22:39.36,0:22:43.28,Default,,0,0,0,,<c.bg_transparent>How dare you destroy school equipment!</c.bg_transparent>\N<c.bg_transparent>I'll have to punish you severely for that.</c.bg_transparent>
+Dialogue: 0,0:22:43.44,0:22:46.16,Default,,0,0,0,,<c.bg_transparent>And it's going to be a punishment</c.bg_transparent>\N<c.bg_transparent>you won't forget!</c.bg_transparent>
+Dialogue: 0,0:22:46.64,0:22:49.04,Default,,0,0,0,,<c.bg_transparent>[Ulrich] I hope not, Mrs. Hertz.</c.bg_transparent>\N<c.bg_transparent>I sure hope not.</c.bg_transparent>
+Dialogue: 0,0:22:49.56,0:22:51.04,Default,,0,0,0,,<c.bg_transparent>[stammers]</c.bg_transparent>
+Dialogue: 0,0:22:51.20,0:22:53.08,Default,,0,0,0,,<c.bg_transparent>[students laugh]</c.bg_transparent>
+Dialogue: 0,0:23:02.08,0:23:04.84,Default,,0,0,0,,<c.bg_transparent>[theme music]</c.bg_transparent>
