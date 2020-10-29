@@ -4,13 +4,13 @@ Netflix's VTT subtitles.
 
 ***
 
-### [/cc](/cc):
+### [/cc](/subtitles/vtt/cc):
 
 Closed captioning version of Netflix's VTT subtitles.
 
 ***
 
-### [/forced](/forced):
+### [/forced](/subtitles/vtt/forced):
 
 Forced version of Netflix's VTT subtitles.
 
