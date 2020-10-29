@@ -4,61 +4,61 @@ A collection of subtitles for CL, some by FTF, some not.
 
 ***
 
-### [/ass](/ass):
+### [/ass](/subtitles/ass):
 
 FTF's raw subtitles encoded in the ASS format (Aegisub).
 
 ***
 
-### [/docx](/docx):
+### [/docx](/subtitles/docx):
 
 CodeLyok.fr's raw subtitles encoded as MS Word Documents.
 
 ***
 
-### [/notes](/notes):
+### [/notes](/subtitles/notes):
 
 Correction and review notes for FTF subtitlers.
 
 ***
 
-### [/postformatted](/postformatted):
+### [/postformatted](/subtitles/postformatted):
 
 FTF's transcripts after being fed through script eater and before being imported into Aegisub.
 
 ***
 
-### [/preformatted](/preformatted):
+### [/preformatted](/subtitles/preformatted):
 
 FTF's transcripts after being transcribed and before being fed into script eater.
 
 ***
 
-### [/smi](/smi):
+### [/smi](/subtitles/smi):
 
 FTF's subtitles encoded in the SMI format (YouTube).
 
 ***
 
-### [/srt](/srt):
+### [/srt](/subtitles/srt):
 
 FTF's subtitles encoded in the SRT format.
 
 ***
 
-### [/stl](/stl):
+### [/stl](/subtitles/stl):
 
 FTF's subtitles encoded in the STL format.
 
 ***
 
-### [/txt](/txt):
+### [/txt](/subtitles/txt):
 
 FTF's raw transcripts encoded as TXT UTF-8.
 
 ***
 
-### [/vtt](/vtt):
+### [/vtt](/subtitles/vtt):
 
 Netflix's transcripts encoded in the VTT format.
 
