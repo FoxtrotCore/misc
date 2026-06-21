@@ -1,61 +1,34 @@
-from . import APP_NAME, APP_DESCRIPTION
 from argparse import ArgumentParser
 from pathlib import Path
-from whisperx import load_audio, load_model, SubtitlesProcessor
-from json import dump
+
+from . import APP_DESCRIPTION, APP_NAME
+from .extract_audio import extract_audio_from_video
+from .subtitle import build_ass_subtitle
+from .transcribe import dump_raw_transcript, transcribe
+from .utils import get_logger
 
 
-def transcribe(
-    input_file_path: str,
-    output_file_path: str,
-    device: str,
-    model: str,
-    language: str,
-    batch_size: int,
-    compute_type: str,
-    diarize: bool,
-    min_speakers: int,
-    max_speakers: int,
-):
-    # Load audio file
-    audio = load_audio(input_file_path)
-
-    # Load ASR model
-    asr_model = load_model(model, device=device, compute_type=compute_type, language=language)
-
-    raw_transcript = asr_model.transcribe(audio, language=language)
-    with open(f"{output_file_path}.json", "w+") as file:
-        dump(
-            raw_transcript,
-            file,
-            ensure_ascii=False,
-            indent=4,
-            sort_keys=True,
-            check_circular=True,
-        )
-
-
-def main():
+def build_parser() -> ArgumentParser:
     parser = ArgumentParser(prog=APP_NAME, description=APP_DESCRIPTION)
     parser.add_argument(
         "--audio-dir",
         "-a",
         type=str,
         default="./audio",
-        help="Path to the directory of audio files. (Default: %(default)s)",
+        help="Output directory of audio file(s). (Default: %(default)s)",
     )
     parser.add_argument(
         "--transcripts-dir",
         "-t",
         type=str,
         default="./transcripts",
-        help="Path to the directory of transcript files. (Default: %(default)s)",
+        help="Output directory of transcript file(s). (Default: %(default)s)",
     )
     parser.add_argument(
         "--device",
         "-d",
         default="cpu",
-        choices=["cuda", "cpu"],
+        choices=["cpu", "cuda", "rocm"],
         help="Device type to use for PyTorch inference. (Default: %(default)s)",
     )
     parser.add_argument(
@@ -125,33 +98,65 @@ def main():
         default=10,
         help="Maximum number of speakers to in audio file. (Default: %(default)s)",
     )
+    parser.add_argument(
+        "--verbose",
+        "-v",
+        action="store_true",
+        default=False,
+        help="Enable verbose logging.",
+    )
+    parser.add_argument(
+        "video_path",
+        type=str,
+        help="Path to the video file fo transcribe.",
+    )
+    return parser
 
+
+def main():
+    # Build and parse CLI args
+    parser = build_parser()
     args = parser.parse_args()
 
+    # Configure the logger
+    LOG = get_logger(verbose=args.verbose)
+
+    # Fetch the video path
+    video_path = Path(args.video_path)
+    if not video_path.exists() or not video_path.is_file():
+        LOG.error("Video file is not valid: %s", args.video_path)
+        return -1
+
+    # Create the audio path
     audio_dir = Path(args.audio_dir)
     audio_dir.mkdir(parents=True, exist_ok=True)
 
+    # Create the transcripts path
     transcript_dir = Path(args.transcripts_dir)
     transcript_dir.mkdir(parents=True, exist_ok=True)
 
-    for p in audio_dir.iterdir():
-        input_file = p.absolute()
-        output_file = Path(
-            f'{transcript_dir.joinpath(input_file.name.split(".")[0])}.txt'
-        ).absolute()
+    # Extract the audio
+    audio_path: Path = extract_audio_from_video(video_path, audio_dir)
 
-        transcribe(
-            input_file_path=input_file,
-            output_file_path=output_file,
-            device=args.device,
-            model=args.model,
-            language=args.language,
-            batch_size=args.batch_size,
-            compute_type=args.compute_type,
-            diarize=args.diarize,
-            min_speakers=args.min_speakers,
-            max_speakers=args.max_speakers,
-        )
+    # Transcribe the audio and save the raw transcription
+    raw_transcript: dict = transcribe(
+        audio_path=audio_path,
+        transcript_dir=transcript_dir,
+        device=args.device,
+        model=args.model,
+        language=args.language,
+        batch_size=args.batch_size,
+        compute_type=args.compute_type,
+        diarize=args.diarize,
+        min_speakers=args.min_speakers,
+        max_speakers=args.max_speakers,
+    )
+    transcript_path: Path = dump_raw_transcript(
+        audio_path, transcript_dir, raw_transcript
+    )
+
+    # Format and save the transcript into ASS
+    subtitle_path: Path = build_ass_subtitle(transcript_path, raw_transcript)
 
 
 if __name__ == "__main__":
