@@ -1,6 +1,7 @@
 # Custom
 *.code-workspace
 audio-transcriber/audio
+**/*.mka
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

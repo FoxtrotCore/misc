@@ -1,6 +1,17 @@
 [project]
 name = "audio-transcriber"
-authors = [{ name = "Ivo Robotnic", email = "ivo@foxtrotfanatics.com" }]
+authors = [{ name = "Ivo Robotnic", email = "theivorobotnic@gmail.com" }]
 version = "0.1.0"
-requires-python = ">=3.10"
-dependencies = ["pytorch-rocm-gtt>=0.1.4"]
+requires-python = "~=3.10"
+dependencies = [
+    "whisperx==3.8.6",
+    "faster-whisper==1.2.1",
+    "pytorch-rocm-gtt==0.1.4",
+    "ffmpeg-python==0.2.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "black"]
+
+[project.scripts]
+ftf-audio-transcriber = "audio_transcriber.__main__:main"
