@@ -1,0 +1,6 @@
+[project]
+name = "audio-transcriber"
+authors = [{ name = "Ivo Robotnic", email = "ivo@foxtrotfanatics.com" }]
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = ["pytorch-rocm-gtt>=0.1.4"]
